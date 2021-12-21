@@ -19,7 +19,7 @@ args = parser.parse_args()
 repo = GitHub(owner=owner, repository=repo, api_token=args.token)
 repo.client = repo._init_client()
 
-f_date = tz_nz.localize(datetime.datetime(2020, 12, 10))
+f_date = tz_nz.localize(datetime.datetime(2021, 12, 10))
 t_date = tz_nz.localize(datetime.datetime(2021, 12, 25))
 
 for item in repo.fetch_items('pull_request', from_date=f_date, to_date=t_date):
