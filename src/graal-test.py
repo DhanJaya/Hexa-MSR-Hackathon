@@ -13,10 +13,8 @@ directory = "/tmp/grimoirelab-perceval"
 if os.path.exists(directory):
     shutil.rmtree(directory)
 
-repo_dir = "/tmp/grimoirelab-perceval"
-
 # Entry point should be one of the modules in the project that we need to analyse, for example src/main
-co_vuln = CoVuln(uri=repo_uri, entrypoint="perceval", git_path=repo_dir)
+co_vuln = CoVuln(uri=repo_uri, entrypoint="perceval", git_path=directory)
 
 items = co_vuln.fetch()
 for commit in items:
