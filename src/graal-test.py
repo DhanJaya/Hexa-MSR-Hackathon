@@ -12,9 +12,9 @@ if os.path.exists(directory):
 
 repo_dir = "/tmp/grimoirelab-perceval"
 
-cc = CoVuln(uri=repo_uri, entrypoint="perceval", git_path=repo_dir)
+co_vuln = CoVuln(uri=repo_uri, entrypoint="perceval", git_path=repo_dir)
 
-items = cc.fetch()
+items = co_vuln.fetch()
 for commit in items:
     print(commit['data']['analysis'])
     with open('vulns.json', 'a') as j:
