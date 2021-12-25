@@ -1,0 +1,5407 @@
+{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433892.45696,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "33086ecadcebe9166aea8d54160688ef940be062",
+  "updated_on": 1439914107.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "dc78c254e464ff334892e0448a23e4cfbfc637a3"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "dc78c254e464ff334892e0448a23e4cfbfc637a3",
+    "AuthorDate": "Tue Aug 18 18:08:27 2015 +0200",
+    "CommitDate": "Tue Aug 18 18:08:27 2015 +0200",
+    "message": "Initial import",
+    "analysis": {}
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433892.470429,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "c5330702f4a9e19cf0feda4d3e3108c30788e073",
+  "updated_on": 1439914300.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "57bc204822832a6c23ac7883e5392f4da6f4ca37"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "57bc204822832a6c23ac7883e5392f4da6f4ca37",
+    "AuthorDate": "Tue Aug 18 18:11:40 2015 +0200",
+    "CommitDate": "Tue Aug 18 18:11:40 2015 +0200",
+    "message": "[tests] Set up unit tests framework",
+    "analysis": {}
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433892.484499,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "5eb89237154f3e6075a679b0460665c2d279d737",
+  "updated_on": 1439916885.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "2355d18310d8e15c8e5d44f688d757df33b0e4be"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "2355d18310d8e15c8e5d44f688d757df33b0e4be",
+    "AuthorDate": "Tue Aug 18 18:54:45 2015 +0200",
+    "CommitDate": "Tue Aug 18 18:54:45 2015 +0200",
+    "message": "[perceval] Add perceval script",
+    "analysis": {}
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433892.496999,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "bc210e812cd953306825e9c843d491284c5586fc",
+  "updated_on": 1440090065.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "589bc515db1632959f6edcb0c4bc2fe43ee51b74"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "589bc515db1632959f6edcb0c4bc2fe43ee51b74",
+    "AuthorDate": "Thu Aug 20 19:01:05 2015 +0200",
+    "CommitDate": "Thu Aug 20 19:01:05 2015 +0200",
+    "message": "[perceval] Support configuration file",
+    "analysis": {}
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433892.511331,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "59ad0d5aa37f296a18a2ae7bf4b40c8954f27452",
+  "updated_on": 1440148621.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "35bfeb3c4037a31f4f6a885243f213a104772a04"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "35bfeb3c4037a31f4f6a885243f213a104772a04",
+    "AuthorDate": "Fri Aug 21 11:17:01 2015 +0200",
+    "CommitDate": "Fri Aug 21 11:17:01 2015 +0200",
+    "message": "Add setup.py",
+    "analysis": {}
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433892.775005,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "cf2378fd4881cde498b516b7b25eebcf7ea10251",
+  "updated_on": 1440148701.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "f6238e73f5bba86efd5e5fdd55a84b2b4f7348ec"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "f6238e73f5bba86efd5e5fdd55a84b2b4f7348ec",
+    "AuthorDate": "Fri Aug 21 11:18:21 2015 +0200",
+    "CommitDate": "Fri Aug 21 11:18:21 2015 +0200",
+    "message": "[backend] Add get_argument_parser() class method",
+    "analysis": {
+      "loc_analyzed": 15,
+      "num_vulns": 0,
+      "by_severity": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 0
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433893.044012,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "d5d117e16456c69972e872141753d60199002348",
+  "updated_on": 1440150420.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "2ff7af1b6e5b202697518c307f4d4d68a5cb1b7b"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "2ff7af1b6e5b202697518c307f4d4d68a5cb1b7b",
+    "AuthorDate": "Fri Aug 21 11:47:00 2015 +0200",
+    "CommitDate": "Fri Aug 21 11:47:00 2015 +0200",
+    "message": "Update gitignore blacklist",
+    "analysis": {
+      "loc_analyzed": 15,
+      "num_vulns": 0,
+      "by_severity": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 0
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433893.307717,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "d91efdf06c3dd63f22386f5f594218a1ec8f5e47",
+  "updated_on": 1440152811.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "4e34582f9cfd8ec64841d5db5333c598a4082632"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "4e34582f9cfd8ec64841d5db5333c598a4082632",
+    "AuthorDate": "Fri Aug 21 12:26:51 2015 +0200",
+    "CommitDate": "Fri Aug 21 12:26:51 2015 +0200",
+    "message": "[errors] Add Perceval base error class",
+    "analysis": {
+      "loc_analyzed": 26,
+      "num_vulns": 0,
+      "by_severity": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 0
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433893.579702,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "e890e291a3992e1f65c5b7ee7beb07ee7a9efd78",
+  "updated_on": 1447854077.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "b0f6eb81d9b1dc5f77dce9954744016dfbb3cb4a"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "b0f6eb81d9b1dc5f77dce9954744016dfbb3cb4a",
+    "AuthorDate": "Tue Nov 17 14:59:25 2015 +0100",
+    "CommitDate": "Wed Nov 18 14:41:17 2015 +0100",
+    "message": "[bugzilla] Add a Bugzilla client\n\nThis client allows to get data from a Bugzilla server (versions\n3.x and 4.x). Currently, it allows to get a summary of bugs and\nthe details and activity of a bug.\n\nUnit tests are also added.",
+    "analysis": {
+      "loc_analyzed": 103,
+      "num_vulns": 0,
+      "by_severity": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 0
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433893.849504,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "b3ad75a35abb555c611db9647b4d031e786a244f",
+  "updated_on": 1447854081.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "47f9657b7e0cdb63c7c71aaba2edf0ce772145fe"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "47f9657b7e0cdb63c7c71aaba2edf0ce772145fe",
+    "AuthorDate": "Tue Nov 17 19:54:34 2015 +0100",
+    "CommitDate": "Wed Nov 18 14:41:21 2015 +0100",
+    "message": "[errors] Add InvalidDateError exception",
+    "analysis": {
+      "loc_analyzed": 106,
+      "num_vulns": 0,
+      "by_severity": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 0
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433894.135152,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "6272104bfb5a3236f594122413c6d377bbb34b3c",
+  "updated_on": 1447854081.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "740ca3d73893db8cf712b2dfff0df3af1600ae9b"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "740ca3d73893db8cf712b2dfff0df3af1600ae9b",
+    "AuthorDate": "Tue Nov 17 20:06:29 2015 +0100",
+    "CommitDate": "Wed Nov 18 14:41:21 2015 +0100",
+    "message": "[utils] Add str_to_datetime() function\n\nThis function formats strings into datetime objects. Function\ntaken from sortinghat source code.",
+    "analysis": {
+      "loc_analyzed": 123,
+      "num_vulns": 0,
+      "by_severity": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 0
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433894.433352,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "52bf7c5cd2e677450ee2fe580e1f0f403751c4fb",
+  "updated_on": 1447854081.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "d1253dd9876bb76e938a861acaceaae95241b46d"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "d1253dd9876bb76e938a861acaceaae95241b46d",
+    "AuthorDate": "Wed Nov 18 10:59:52 2015 +0100",
+    "CommitDate": "Wed Nov 18 14:41:21 2015 +0100",
+    "message": "[bugzilla] Use datetime objects instead of strings\n\nDates will be given using datetime objects. For this reason,\na new variable DEFAULT_DATETIME is available (defined in 'utils'\nmodule) to set default dates when they are required.",
+    "analysis": {
+      "loc_analyzed": 127,
+      "num_vulns": 0,
+      "by_severity": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 0
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433894.73368,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "78a314dc8bf40a72f307103e863adbff317cd733",
+  "updated_on": 1447854084.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "2534e534e24b71868b72c19107f787d5c8d690cf"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "2534e534e24b71868b72c19107f787d5c8d690cf",
+    "AuthorDate": "Wed Nov 18 13:28:47 2015 +0100",
+    "CommitDate": "Wed Nov 18 14:41:24 2015 +0100",
+    "message": "[bugzilla] Add Bugzilla backend class\n\nSo far, this class only obtains the list of bugs stored in a\nBugzilla repository.",
+    "analysis": {
+      "loc_analyzed": 166,
+      "num_vulns": 0,
+      "by_severity": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 0
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433895.029177,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "44a53ee087145338a5da8e2db6fa47ecb30615c4",
+  "updated_on": 1447854088.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "0ad102623646fe165fe54798b190e7dfab73fedd"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "0ad102623646fe165fe54798b190e7dfab73fedd",
+    "AuthorDate": "Wed Nov 18 14:31:13 2015 +0100",
+    "CommitDate": "Wed Nov 18 14:41:28 2015 +0100",
+    "message": "[bugzilla] Replace bug() by bugs() to fetch a list of bugs",
+    "analysis": {
+      "loc_analyzed": 166,
+      "num_vulns": 0,
+      "by_severity": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 0
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433895.325766,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "7b55358d2557df0a1d3e549a5e8785ac050e7a99",
+  "updated_on": 1447938528.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "9b6bcf8bdbb3d261998a2231531d37cbd10d6c0b"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "9b6bcf8bdbb3d261998a2231531d37cbd10d6c0b",
+    "AuthorDate": "Wed Nov 18 20:17:31 2015 +0100",
+    "CommitDate": "Thu Nov 19 14:08:48 2015 +0100",
+    "message": "[utils] Add xml_to_dict() function\n\nThis function converts a XML stream to a Python dictionary.\nWhen a parsing error occurs, a ParseError exception is raised.\nThis exception is added with this commit.\n\nUnit tests were also added.",
+    "analysis": {
+      "loc_analyzed": 202,
+      "num_vulns": 2,
+      "by_severity": {
+        "undefined": 0,
+        "low": 1,
+        "medium": 1,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 2
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433895.620884,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "083861ad7e238fe2b5f131337de96ce4596e9f0f",
+  "updated_on": 1447953167.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "525f43db7764d5f3cbc846fa3bf48a0c74550e4e"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "525f43db7764d5f3cbc846fa3bf48a0c74550e4e",
+    "AuthorDate": "Thu Nov 19 17:36:48 2015 +0100",
+    "CommitDate": "Thu Nov 19 18:12:47 2015 +0100",
+    "message": "[bugzilla] Add parse_bugs_details()\n\nThis static method parses a XML stream that stores the bug details\nfrom a Bugzilla repository.",
+    "analysis": {
+      "loc_analyzed": 222,
+      "num_vulns": 2,
+      "by_severity": {
+        "undefined": 0,
+        "low": 1,
+        "medium": 1,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 2
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433895.912289,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "c85bd2972b0bcbe6b2fb15ec681feae34e09699a",
+  "updated_on": 1447953257.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "2f7428028f377104a301c7bc7ba92ae3acddfb5c"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "2f7428028f377104a301c7bc7ba92ae3acddfb5c",
+    "AuthorDate": "Thu Nov 19 18:14:17 2015 +0100",
+    "CommitDate": "Thu Nov 19 18:14:17 2015 +0100",
+    "message": "[bugzilla] Convert parse_buglist() to a static method",
+    "analysis": {
+      "loc_analyzed": 229,
+      "num_vulns": 2,
+      "by_severity": {
+        "undefined": 0,
+        "low": 1,
+        "medium": 1,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 2
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433896.211784,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "99ecfc65c34deede413a1d324daeb8eb2f3e8d35",
+  "updated_on": 1448296547.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "6c06ae24ac5512de3260f0c3cea615ba466bdf01"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "6c06ae24ac5512de3260f0c3cea615ba466bdf01",
+    "AuthorDate": "Mon Nov 23 17:32:18 2015 +0100",
+    "CommitDate": "Mon Nov 23 17:35:47 2015 +0100",
+    "message": "[bugzilla] Add support to fetch the bug details\n\nWhen fetch() method is called, it gets first the list of bugs\nand then, the details of each bug. Each bug is marshalled\nto a dict object.",
+    "analysis": {
+      "loc_analyzed": 240,
+      "num_vulns": 2,
+      "by_severity": {
+        "undefined": 0,
+        "low": 1,
+        "medium": 1,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 2
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433896.522867,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "e7b1d3e396ab0b2ac827e82f44cf421752c212e4",
+  "updated_on": 1448309128.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "d87f2ed0d3d98832348602a8105bbccf5f812620"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "d87f2ed0d3d98832348602a8105bbccf5f812620",
+    "AuthorDate": "Mon Nov 23 19:38:32 2015 +0100",
+    "CommitDate": "Mon Nov 23 21:05:28 2015 +0100",
+    "message": "[bugzilla] Add parse_bug_activity()\n\nThis static method parses a HTML stream that stores the activity\nof a bug.",
+    "analysis": {
+      "loc_analyzed": 295,
+      "num_vulns": 2,
+      "by_severity": {
+        "undefined": 0,
+        "low": 1,
+        "medium": 1,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 2
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433896.842235,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "1f3993f1b5c404db01fc27f4ada6be55df10e3e1",
+  "updated_on": 1448311131.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "8cc0df2f3ffe92104160749ffe98e537f25977a0"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "8cc0df2f3ffe92104160749ffe98e537f25977a0",
+    "AuthorDate": "Mon Nov 23 21:37:16 2015 +0100",
+    "CommitDate": "Mon Nov 23 21:38:51 2015 +0100",
+    "message": "[bugzilla] Retrieve the activity of each bug\n\nCalling to fetch() produces a list of bugs that includes\ntheir details and activity.",
+    "analysis": {
+      "loc_analyzed": 301,
+      "num_vulns": 2,
+      "by_severity": {
+        "undefined": 0,
+        "low": 1,
+        "medium": 1,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 2
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433897.158469,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "89236343bd6c6cbabffa404aba7554754195b7e0",
+  "updated_on": 1448312163.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "482d028e93237997406665fb4b31fca7c7f47e6b"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "482d028e93237997406665fb4b31fca7c7f47e6b",
+    "AuthorDate": "Mon Nov 23 21:56:03 2015 +0100",
+    "CommitDate": "Mon Nov 23 21:56:03 2015 +0100",
+    "message": "[errors] Add generic exception for backends",
+    "analysis": {
+      "loc_analyzed": 304,
+      "num_vulns": 2,
+      "by_severity": {
+        "undefined": 0,
+        "low": 1,
+        "medium": 1,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 2
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433897.47244,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "73d022e9c72cf88ae7f41754c20a1af2cf03ed33",
+  "updated_on": 1448370506.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "6aa52c5d2e5d831ffbfe4b9bae40da5593a0a379"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "6aa52c5d2e5d831ffbfe4b9bae40da5593a0a379",
+    "AuthorDate": "Tue Nov 24 14:08:26 2015 +0100",
+    "CommitDate": "Tue Nov 24 14:08:26 2015 +0100",
+    "message": "[bugzilla] Retrieve Bugzilla server version on init\n\nBugzillaClient now gets the version of the Bugzilla server when\nit is initialized.",
+    "analysis": {
+      "loc_analyzed": 318,
+      "num_vulns": 2,
+      "by_severity": {
+        "undefined": 0,
+        "low": 1,
+        "medium": 1,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 2
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433897.792211,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "88fbac3569feed1b5a7eaf5be271f463848f4bea",
+  "updated_on": 1448379852.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "1c429aeaaadc9fbae2bbaadb55dfc74ad1a6aefa"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "1c429aeaaadc9fbae2bbaadb55dfc74ad1a6aefa",
+    "AuthorDate": "Tue Nov 24 16:44:12 2015 +0100",
+    "CommitDate": "Tue Nov 24 16:44:12 2015 +0100",
+    "message": "Add packages to setup.py",
+    "analysis": {
+      "loc_analyzed": 318,
+      "num_vulns": 2,
+      "by_severity": {
+        "undefined": 0,
+        "low": 1,
+        "medium": 1,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 2
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433898.108212,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "1badd3a72718901df204357b116fc63a0a1eae30",
+  "updated_on": 1448380853.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "3482555c75c652e0514494d56422f7a70e8611a4"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "3482555c75c652e0514494d56422f7a70e8611a4",
+    "AuthorDate": "Tue Nov 24 17:00:53 2015 +0100",
+    "CommitDate": "Tue Nov 24 17:00:53 2015 +0100",
+    "message": "[backend] Set the default interface of Backend class",
+    "analysis": {
+      "loc_analyzed": 309,
+      "num_vulns": 2,
+      "by_severity": {
+        "undefined": 0,
+        "low": 1,
+        "medium": 1,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 2
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433898.426238,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "a3bf823d2c23b1c13012ed2c24ee503a1e71a1c3",
+  "updated_on": 1448380991.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "aca652b4f68dbddc4ad0a8871982836e58e6b6c1"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "aca652b4f68dbddc4ad0a8871982836e58e6b6c1",
+    "AuthorDate": "Tue Nov 24 17:03:11 2015 +0100",
+    "CommitDate": "Tue Nov 24 17:03:11 2015 +0100",
+    "message": "[bugzilla] Set Bugzilla to inherit from Backend class",
+    "analysis": {
+      "loc_analyzed": 310,
+      "num_vulns": 2,
+      "by_severity": {
+        "undefined": 0,
+        "low": 1,
+        "medium": 1,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 2
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433898.76869,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "37439b1ec54f550c3184d3e73974985946de107d",
+  "updated_on": 1448479930.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "912a4c5ffd90347e5ab079bca9b4bef44116074a"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "912a4c5ffd90347e5ab079bca9b4bef44116074a",
+    "AuthorDate": "Wed Nov 25 20:16:48 2015 +0100",
+    "CommitDate": "Wed Nov 25 20:32:10 2015 +0100",
+    "message": "[backend] Add BackendCommand class\n\nThis class allows to run the backend using a generic class\nwhich parses the arguments needed to fetch data from a\nrepository.\n\nUnit tests were also updated.",
+    "analysis": {
+      "loc_analyzed": 342,
+      "num_vulns": 2,
+      "by_severity": {
+        "undefined": 0,
+        "low": 1,
+        "medium": 1,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 2
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433899.116192,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "725628b9e844d81c77ffed32aa571c2e2e8ba3dc",
+  "updated_on": 1448480875.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "1aad023e497f38d33be18aee05a0e1f39544de66"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "1aad023e497f38d33be18aee05a0e1f39544de66",
+    "AuthorDate": "Wed Nov 25 20:47:55 2015 +0100",
+    "CommitDate": "Wed Nov 25 20:47:55 2015 +0100",
+    "message": "[bugzilla] Add BugzillaCommand class",
+    "analysis": {
+      "loc_analyzed": 376,
+      "num_vulns": 2,
+      "by_severity": {
+        "undefined": 0,
+        "low": 1,
+        "medium": 1,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 2
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433899.490413,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "4a85bd4d096e1cb910c378913d55e8952fcba3b2",
+  "updated_on": 1448480952.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "bb08c7125b8decf6cf924cf19c9903973e1a772b"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "bb08c7125b8decf6cf924cf19c9903973e1a772b",
+    "AuthorDate": "Wed Nov 25 20:49:12 2015 +0100",
+    "CommitDate": "Wed Nov 25 20:49:12 2015 +0100",
+    "message": "[bugzilla] Set default value to from_date parameter",
+    "analysis": {
+      "loc_analyzed": 379,
+      "num_vulns": 2,
+      "by_severity": {
+        "undefined": 0,
+        "low": 1,
+        "medium": 1,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 2
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433899.830108,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "dba742553e529f8bffbc22a8b64a698bda38563a",
+  "updated_on": 1448481051.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "a2dc4a67322593d67249fd77e473db6f66a3901c"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "a2dc4a67322593d67249fd77e473db6f66a3901c",
+    "AuthorDate": "Wed Nov 25 20:50:51 2015 +0100",
+    "CommitDate": "Wed Nov 25 20:50:51 2015 +0100",
+    "message": "[perceval] Add support to run commands",
+    "analysis": {
+      "loc_analyzed": 381,
+      "num_vulns": 2,
+      "by_severity": {
+        "undefined": 0,
+        "low": 1,
+        "medium": 1,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 2
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433900.167979,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "f997196f5645763fb576712909ec20b741b46b6e",
+  "updated_on": 1448481264.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "8e0e3e1d5fa71c9fce76d1d8bf323dcde7564d64"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "8e0e3e1d5fa71c9fce76d1d8bf323dcde7564d64",
+    "AuthorDate": "Wed Nov 25 20:54:24 2015 +0100",
+    "CommitDate": "Wed Nov 25 20:54:24 2015 +0100",
+    "message": "[perceval] Update description",
+    "analysis": {
+      "loc_analyzed": 381,
+      "num_vulns": 2,
+      "by_severity": {
+        "undefined": 0,
+        "low": 1,
+        "medium": 1,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 2
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433900.510897,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "97c27e5269d96b6e459d2c1e85c120fe822bade3",
+  "updated_on": 1448481389.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "4dd88bdefc77fd88fa51d3994f103f2b44003b99"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "4dd88bdefc77fd88fa51d3994f103f2b44003b99",
+    "AuthorDate": "Wed Nov 25 20:56:29 2015 +0100",
+    "CommitDate": "Wed Nov 25 20:56:29 2015 +0100",
+    "message": "Update executable files to run on Python 3",
+    "analysis": {
+      "loc_analyzed": 381,
+      "num_vulns": 2,
+      "by_severity": {
+        "undefined": 0,
+        "low": 1,
+        "medium": 1,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 2
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433900.858488,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "7c5a8cfb10cf5fd09641e0ed7ee34fe3fec952fe",
+  "updated_on": 1448995375.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "17a0e003a3862e8449b0db2a268dffc8a21c4aaa"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "17a0e003a3862e8449b0db2a268dffc8a21c4aaa",
+    "AuthorDate": "Tue Dec 1 19:42:55 2015 +0100",
+    "CommitDate": "Tue Dec 1 19:42:55 2015 +0100",
+    "message": "[tests] Remove unnecessary imports",
+    "analysis": {
+      "loc_analyzed": 381,
+      "num_vulns": 2,
+      "by_severity": {
+        "undefined": 0,
+        "low": 1,
+        "medium": 1,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 2
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433901.213569,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "0315fda77b629e82fe41e52074095ee6ac941fa4",
+  "updated_on": 1448995447.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "95d5e90b1ff7ff07db289c03ffe1239f6f54e232"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "95d5e90b1ff7ff07db289c03ffe1239f6f54e232",
+    "AuthorDate": "Tue Dec 1 19:44:07 2015 +0100",
+    "CommitDate": "Tue Dec 1 19:44:07 2015 +0100",
+    "message": "[cache] Add Cache class\n\nThis class allows to cache items (Python objects of any type) for a\nfurther recovery. Items are stored in order in `dirname` directory\npath. Items are also retrieved following the same storage order.\n\nUnit tests were also added.",
+    "analysis": {
+      "loc_analyzed": 454,
+      "num_vulns": 5,
+      "by_severity": {
+        "undefined": 0,
+        "low": 2,
+        "medium": 3,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 5
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433901.573073,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "3777677cbd561911907de14bbba1738de6138459",
+  "updated_on": 1449018796.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "0dc36c5937a331f8d4dc1f28194bc172ce4eca85"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "0dc36c5937a331f8d4dc1f28194bc172ce4eca85",
+    "AuthorDate": "Tue Dec 1 20:53:54 2015 +0100",
+    "CommitDate": "Wed Dec 2 02:13:16 2015 +0100",
+    "message": "[backend] Add Cache support on abstract backend class\n\nThe commit adds the method fetch_from_cache(), that must\nbe implemeted by derived classes. It also adds some methods\nto delay the insertion of items to the cache, such as\n_push_cache_queue() and _flush_cache_queue().",
+    "analysis": {
+      "loc_analyzed": 483,
+      "num_vulns": 5,
+      "by_severity": {
+        "undefined": 0,
+        "low": 2,
+        "medium": 3,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 5
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433901.944735,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "3553ad96c5731f6bd8ae4a75084094c3847fdccc",
+  "updated_on": 1449057956.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "abdb0ab4b79f72db56b059aa8302f5880faa124e"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "abdb0ab4b79f72db56b059aa8302f5880faa124e",
+    "AuthorDate": "Wed Dec 2 13:05:56 2015 +0100",
+    "CommitDate": "Wed Dec 2 13:05:56 2015 +0100",
+    "message": "[errors] Add CacheError exception",
+    "analysis": {
+      "loc_analyzed": 486,
+      "num_vulns": 5,
+      "by_severity": {
+        "undefined": 0,
+        "low": 2,
+        "medium": 3,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 5
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433902.323735,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "f4c69c88b9c981141aa782e9b4764e76fbe4dffc",
+  "updated_on": 1449058800.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "5fd8b77b0ee2d5156fd0fb93bed42e32b3e33ac3"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "5fd8b77b0ee2d5156fd0fb93bed42e32b3e33ac3",
+    "AuthorDate": "Wed Dec 2 13:20:00 2015 +0100",
+    "CommitDate": "Wed Dec 2 13:20:00 2015 +0100",
+    "message": "[bugzilla] Get server version when buglist() is called\n\nInstead of fetching the version when the Bugzilla client\nis initialized, it will be get when buglist() is called\nbecause it is the only place where the version is needed\ncreate the request.",
+    "analysis": {
+      "loc_analyzed": 488,
+      "num_vulns": 5,
+      "by_severity": {
+        "undefined": 0,
+        "low": 2,
+        "medium": 3,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 5
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433902.706356,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "4c2419a30751a0b94964c5a493a321f855ac9d00",
+  "updated_on": 1449063101.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "37658f3ed69ae3684e7a4b409fb73f77b2ac619b"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "37658f3ed69ae3684e7a4b409fb73f77b2ac619b",
+    "AuthorDate": "Wed Dec 2 14:31:41 2015 +0100",
+    "CommitDate": "Wed Dec 2 14:31:41 2015 +0100",
+    "message": "[bugzilla] Add cache support",
+    "analysis": {
+      "loc_analyzed": 522,
+      "num_vulns": 5,
+      "by_severity": {
+        "undefined": 0,
+        "low": 2,
+        "medium": 3,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 5
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433903.088081,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "98b60e8e8b91ff581bf675bac2e6319f59431427",
+  "updated_on": 1449064182.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "543b0f95ab71e569d54ed76d93bd303c8143051b"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "543b0f95ab71e569d54ed76d93bd303c8143051b",
+    "AuthorDate": "Wed Dec 2 14:49:42 2015 +0100",
+    "CommitDate": "Wed Dec 2 14:49:42 2015 +0100",
+    "message": "[tests] Split Bugzilla parsers tests to a new test case",
+    "analysis": {
+      "loc_analyzed": 522,
+      "num_vulns": 5,
+      "by_severity": {
+        "undefined": 0,
+        "low": 2,
+        "medium": 3,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 5
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433903.468051,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "2697950db916ddfafadbc0e4f3e3bbcdd75ffddc",
+  "updated_on": 1449246383.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "6ac84dcfc22cd8e2edcc6cc10d9abfe8e8ceb843"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "6ac84dcfc22cd8e2edcc6cc10d9abfe8e8ceb843",
+    "AuthorDate": "Thu Dec 3 02:04:48 2015 +0100",
+    "CommitDate": "Fri Dec 4 17:26:23 2015 +0100",
+    "message": "[bugzilla] Support non-numeric versions",
+    "analysis": {
+      "loc_analyzed": 522,
+      "num_vulns": 5,
+      "by_severity": {
+        "undefined": 0,
+        "low": 2,
+        "medium": 3,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 5
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433903.86539,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "843ee1ff75918a96867d47b17ab0637ee4446f00",
+  "updated_on": 1449246387.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "004174d35992f6c920a069358fb0348428899fc1"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "004174d35992f6c920a069358fb0348428899fc1",
+    "AuthorDate": "Thu Dec 3 02:40:28 2015 +0100",
+    "CommitDate": "Fri Dec 4 17:26:27 2015 +0100",
+    "message": "[backend] Add cache options to the argument parser",
+    "analysis": {
+      "loc_analyzed": 531,
+      "num_vulns": 5,
+      "by_severity": {
+        "undefined": 0,
+        "low": 2,
+        "medium": 3,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 5
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433904.277066,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "3f696642bf3c744fcf1ddd3c7d40c00524041f4c",
+  "updated_on": 1449246387.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "225d531aa483841be777c3990b71c9897dc22cef"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "225d531aa483841be777c3990b71c9897dc22cef",
+    "AuthorDate": "Thu Dec 3 02:42:28 2015 +0100",
+    "CommitDate": "Fri Dec 4 17:26:27 2015 +0100",
+    "message": "[bugzilla] Add cache support on BugzillaCommand",
+    "analysis": {
+      "loc_analyzed": 555,
+      "num_vulns": 5,
+      "by_severity": {
+        "undefined": 0,
+        "low": 2,
+        "medium": 3,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 5
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433904.660869,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "6e41b89e624bf20cffe3202144f9241d35f0e83f",
+  "updated_on": 1449246387.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "ad6252c1e6d1b101350d5c94b23900a38778d219"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "ad6252c1e6d1b101350d5c94b23900a38778d219",
+    "AuthorDate": "Thu Dec 3 02:43:26 2015 +0100",
+    "CommitDate": "Fri Dec 4 17:26:27 2015 +0100",
+    "message": "[perceval] Set default configuration file",
+    "analysis": {
+      "loc_analyzed": 555,
+      "num_vulns": 5,
+      "by_severity": {
+        "undefined": 0,
+        "low": 2,
+        "medium": 3,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 5
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433905.063541,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "086dd6fee7d364621984f87b119c615fabd9e2e3",
+  "updated_on": 1450721222.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "4f404d4d3ab665dedc8dd876adbcca36410725d9"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "4f404d4d3ab665dedc8dd876adbcca36410725d9",
+    "AuthorDate": "Mon Dec 21 19:07:02 2015 +0100",
+    "CommitDate": "Mon Dec 21 19:07:02 2015 +0100",
+    "message": "[perceval] Add basic logging infrastructure",
+    "analysis": {
+      "loc_analyzed": 557,
+      "num_vulns": 5,
+      "by_severity": {
+        "undefined": 0,
+        "low": 2,
+        "medium": 3,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 5
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433905.465419,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "43d1179535f82ea9a0900e028ef02259bf9e92ac",
+  "updated_on": 1450721352.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "cae3d2fc31087278626f5966df99221120a91a5a"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "cae3d2fc31087278626f5966df99221120a91a5a",
+    "AuthorDate": "Mon Dec 21 19:09:12 2015 +0100",
+    "CommitDate": "Mon Dec 21 19:09:12 2015 +0100",
+    "message": "[bugzilla] Add message logging",
+    "analysis": {
+      "loc_analyzed": 580,
+      "num_vulns": 5,
+      "by_severity": {
+        "undefined": 0,
+        "low": 2,
+        "medium": 3,
+        "high": 0
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 5
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433905.958451,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "b818da2473c250d6aa71e6055eabd7c1cb73100f",
+  "updated_on": 1450810210.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "dafe8fcb983563d20326c53463c89ebae1a74253"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "dafe8fcb983563d20326c53463c89ebae1a74253",
+    "AuthorDate": "Fri Dec 4 18:46:14 2015 +0100",
+    "CommitDate": "Tue Dec 22 19:50:10 2015 +0100",
+    "message": "[gerrit] Add Gerrit backend\n\nThis commit adds a Gerrit client to fetch the reviews from a\nremote server, the backend itself and a class to launch the\nbackend from the command line.",
+    "analysis": {
+      "loc_analyzed": 781,
+      "num_vulns": 8,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 2
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 8
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433906.409507,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "45c0a460d34513c858ba01ec231737dcd49420c4",
+  "updated_on": 1450810289.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "51867c58ad782d434f7d12611ad9d22840e2162d"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "51867c58ad782d434f7d12611ad9d22840e2162d",
+    "AuthorDate": "Tue Dec 22 12:21:42 2015 +0100",
+    "CommitDate": "Tue Dec 22 19:51:29 2015 +0100",
+    "message": "[gerrit] Improve documentation",
+    "analysis": {
+      "loc_analyzed": 800,
+      "num_vulns": 8,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 2
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 8
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433906.85265,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "199da3d0b5b2944a322ca2346a70dacfb8fbbf49",
+  "updated_on": 1450810312.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "4d679b2d7097d96add0ea97663bc0bcd590581d6"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "4d679b2d7097d96add0ea97663bc0bcd590581d6",
+    "AuthorDate": "Tue Dec 22 13:02:29 2015 +0100",
+    "CommitDate": "Tue Dec 22 19:51:52 2015 +0100",
+    "message": "[gerrit] Set module logging calls",
+    "analysis": {
+      "loc_analyzed": 801,
+      "num_vulns": 8,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 2
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 8
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433907.31337,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "d8c34de62a8839c219c5dc32715439c4df5de5e0",
+  "updated_on": 1450810617.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "ab693f022341598d68648d525dee26456bd3f601"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "ab693f022341598d68648d525dee26456bd3f601",
+    "Merge": "cae3d2f 4d679b2",
+    "AuthorDate": "Tue Dec 22 19:56:57 2015 +0100",
+    "CommitDate": "Tue Dec 22 19:56:57 2015 +0100",
+    "message": "Merge branch 'acs-gerrit' of 'git://github.com/acs/perceval-1.git'\n\nCloses #1.\nMerges #1 after squashing.",
+    "analysis": {
+      "loc_analyzed": 801,
+      "num_vulns": 8,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 2
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 8
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433907.806619,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "d4c3fe6ee992a6ab4571675af90afbdd49fe3ec7",
+  "updated_on": 1451839595.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "26d2f7b1b83495a4784a2d22cf4f8859bd9c5be8"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "26d2f7b1b83495a4784a2d22cf4f8859bd9c5be8",
+    "AuthorDate": "Sun Jan 3 17:38:49 2016 +0100",
+    "CommitDate": "Sun Jan 3 17:46:35 2016 +0100",
+    "message": "[git] Add GitParser class",
+    "analysis": {
+      "loc_analyzed": 1011,
+      "num_vulns": 8,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 2
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 8
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433908.326689,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "d5f75480651d261df0eec8c658bf25aefd184f01",
+  "updated_on": 1451869685.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "436a4499cf6c375132fe25767602a6f5f0d11d0e"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "436a4499cf6c375132fe25767602a6f5f0d11d0e",
+    "AuthorDate": "Sun Jan 3 20:20:36 2016 +0100",
+    "CommitDate": "Mon Jan 4 02:08:05 2016 +0100",
+    "message": "[git] Add Git backend class\n\nThis backed fetchs commits from a Git log file. Commits are returned\nin reverse order, or in other words, from the oldest to the newest.",
+    "analysis": {
+      "loc_analyzed": 1057,
+      "num_vulns": 8,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 2
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 8
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433908.940449,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "d9167fa44397d92b3d834e9e710e91d6d87700a7",
+  "updated_on": 1451869689.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "3058d8cc00d637952cda1b1106fdba5a96154a9d"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "3058d8cc00d637952cda1b1106fdba5a96154a9d",
+    "AuthorDate": "Mon Jan 4 02:04:52 2016 +0100",
+    "CommitDate": "Mon Jan 4 02:08:09 2016 +0100",
+    "message": "[git] Add GitCommand class",
+    "analysis": {
+      "loc_analyzed": 1089,
+      "num_vulns": 8,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 2
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 8
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433909.456432,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "f652958df10ae5a1d8fe8c8858179143630c877c",
+  "updated_on": 1451869689.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "8f879a386ea1662ad95fbd52c8302310e87e3120"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "8f879a386ea1662ad95fbd52c8302310e87e3120",
+    "AuthorDate": "Mon Jan 4 02:05:14 2016 +0100",
+    "CommitDate": "Mon Jan 4 02:08:09 2016 +0100",
+    "message": "[perceval] Add Git backend",
+    "analysis": {
+      "loc_analyzed": 1093,
+      "num_vulns": 8,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 2
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 8
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433909.991384,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "8105b68e7941832103aaffae79de32be842a59ff",
+  "updated_on": 1451870842.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "2bada6492ea5c7fcd7762f376a0e515c6b5e0562"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "2bada6492ea5c7fcd7762f376a0e515c6b5e0562",
+    "AuthorDate": "Fri Dec 4 18:47:04 2015 +0100",
+    "CommitDate": "Mon Jan 4 02:27:22 2016 +0100",
+    "message": "[github] Add GitHub backend classes\n\nThis commit adds the classes needed to fetch issues from a GitHub\nrepository: GitHub backend, GitHubCommand and GitHubClient.",
+    "analysis": {
+      "loc_analyzed": 1265,
+      "num_vulns": 9,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 3
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 9
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433910.538039,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "2cbc5cb7acb2c1875a3c0374d58f09d49543bcc5",
+  "updated_on": 1451870920.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "393acf10b8d8a4f4021d166bce61b59840d792f1"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "393acf10b8d8a4f4021d166bce61b59840d792f1",
+    "AuthorDate": "Tue Dec 29 16:36:40 2015 +0100",
+    "CommitDate": "Mon Jan 4 02:28:40 2016 +0100",
+    "message": "[github] Convert get_issues() from GitHubClient into a generator",
+    "analysis": {
+      "loc_analyzed": 1258,
+      "num_vulns": 10,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 4
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 10
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433911.075837,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "ec134221c0e4df42e01ebcb5d37e4ed9333936bb",
+  "updated_on": 1451870920.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "37f9d12f83304e87deae32553a21f3dd522b65ee"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "37f9d12f83304e87deae32553a21f3dd522b65ee",
+    "AuthorDate": "Tue Dec 29 17:33:24 2015 +0100",
+    "CommitDate": "Mon Jan 4 02:28:40 2016 +0100",
+    "message": "[github] Store raw issues in cache",
+    "analysis": {
+      "loc_analyzed": 1261,
+      "num_vulns": 10,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 4
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 10
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433911.6081,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "ca5e28bf3ba69bb7de7a7b6c3389c55ac2059127",
+  "updated_on": 1451871001.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "3089af881003c9d80e818dbdb3ce3ad9b15ad30b"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "3089af881003c9d80e818dbdb3ce3ad9b15ad30b",
+    "Merge": "8f879a3 37f9d12",
+    "AuthorDate": "Mon Jan 4 02:30:01 2016 +0100",
+    "CommitDate": "Mon Jan 4 02:30:01 2016 +0100",
+    "message": "Merge branch 'acs-github' of 'git://github.com/acs/perceval-1.git'\n\nCloses #2.\nMerges #2 after squashing.",
+    "analysis": {
+      "loc_analyzed": 1261,
+      "num_vulns": 10,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 4
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 10
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433912.134897,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "ca946ba11a76ea498889ba9221b24c2d6e985420",
+  "updated_on": 1451915313.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "ee5268109370f6623c036fdbc52e7176c4d2ddd4"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "ee5268109370f6623c036fdbc52e7176c4d2ddd4",
+    "AuthorDate": "Thu Dec 31 19:16:25 2015 +0100",
+    "CommitDate": "Mon Jan 4 14:48:33 2016 +0100",
+    "message": "First version of config files for a documentation.\n\nBased on Sphynx, prepared (I hope) for readthedocs.",
+    "analysis": {
+      "loc_analyzed": 1261,
+      "num_vulns": 10,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 4
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 10
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433912.666084,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "73dff2fa951d01c26da987130b63f40b839c7bbb",
+  "updated_on": 1451915388.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "b2f31ed52c806695c88a4fb736849c67cd8390eb"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "b2f31ed52c806695c88a4fb736849c67cd8390eb",
+    "Merge": "3089af8 ee52681",
+    "AuthorDate": "Mon Jan 4 14:49:48 2016 +0100",
+    "CommitDate": "Mon Jan 4 14:49:48 2016 +0100",
+    "message": "Merge branch 'jgbarah-docs' of 'git://github.com/jgbarah/perceval.git'\n\nCloses #3.\nMerges #3.",
+    "analysis": {
+      "loc_analyzed": 1261,
+      "num_vulns": 10,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 4
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 10
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433913.199736,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "30da1442462047ee7ef28a85862fb3e2b0f595cd",
+  "updated_on": 1451923910.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "61fe74bbcb782364e3e7dc45b1296a1363525800"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "61fe74bbcb782364e3e7dc45b1296a1363525800",
+    "AuthorDate": "Mon Jan 4 17:05:24 2016 +0100",
+    "CommitDate": "Mon Jan 4 17:11:50 2016 +0100",
+    "message": "[perceval] Add GitHub and Gerrit backends to run on command line",
+    "analysis": {
+      "loc_analyzed": 1265,
+      "num_vulns": 10,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 4
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 10
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433913.733048,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "56c51d80bc833dc08ff4fd56ecbac3d903591b1c",
+  "updated_on": 1451924237.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "e8f0070de38f75e22509e698998ba4946bd87b92"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "e8f0070de38f75e22509e698998ba4946bd87b92",
+    "Merge": "b2f31ed 61fe74b",
+    "AuthorDate": "Mon Jan 4 17:17:17 2016 +0100",
+    "CommitDate": "Mon Jan 4 17:17:17 2016 +0100",
+    "message": "Merge branch 'acs-arthur' of 'git://github.com/acs/perceval-1.git'\n\nCloses #4.\nMerges #4.",
+    "analysis": {
+      "loc_analyzed": 1265,
+      "num_vulns": 10,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 4
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 10
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433914.297163,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "12ea3e8e7668937f0312e3c1bfc36ee637c91f03",
+  "updated_on": 1451934209.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "2c33a078a11f18d64a8a6ce9f66218c30a6fbd18"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "2c33a078a11f18d64a8a6ce9f66218c30a6fbd18",
+    "AuthorDate": "Mon Jan 4 18:43:20 2016 +0100",
+    "CommitDate": "Mon Jan 4 20:03:29 2016 +0100",
+    "message": "Add requirements file to build Perceval",
+    "analysis": {
+      "loc_analyzed": 1265,
+      "num_vulns": 10,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 4
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 10
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433914.824318,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "6b0a6bb758eece88b891e1e61b9f83668946e7a9",
+  "updated_on": 1451934369.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "f0f1c9a4602aafb5ec81d888cbec696a48aa8884"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "f0f1c9a4602aafb5ec81d888cbec696a48aa8884",
+    "Merge": "e8f0070 2c33a07",
+    "AuthorDate": "Mon Jan 4 20:06:09 2016 +0100",
+    "CommitDate": "Mon Jan 4 20:06:09 2016 +0100",
+    "message": "Merge branch 'docs' of 'git://github.com/jgbarah/perceval.git'\n\nCloses #5.\nMerges #5.",
+    "analysis": {
+      "loc_analyzed": 1265,
+      "num_vulns": 10,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 4
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 10
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433915.362069,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "7bfd109726a80d480d73a216851e63e1aa30a3f7",
+  "updated_on": 1452001976.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "a4cbd6fc51c0a41e27fafe280a8700d077f0c3ee"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "a4cbd6fc51c0a41e27fafe280a8700d077f0c3ee",
+    "AuthorDate": "Tue Jan 5 14:52:56 2016 +0100",
+    "CommitDate": "Tue Jan 5 14:52:56 2016 +0100",
+    "message": "[git] Fix parsing error on commits with more than two parents",
+    "analysis": {
+      "loc_analyzed": 1279,
+      "num_vulns": 10,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 4
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 10
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433915.907574,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "a6eb55e4fb126e237962f6eebdffd806a63aa392",
+  "updated_on": 1452791614.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "2c3a4e9bdd1023fa3dfbd4a059102916a1ff9966"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "2c3a4e9bdd1023fa3dfbd4a059102916a1ff9966",
+    "AuthorDate": "Thu Jan 14 18:13:34 2016 +0100",
+    "CommitDate": "Thu Jan 14 18:13:34 2016 +0100",
+    "message": "[backend] Add version and origin attributes",
+    "analysis": {
+      "loc_analyzed": 1288,
+      "num_vulns": 10,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 4
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 10
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433916.45135,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "099b067fa1f6d6bce0f158af41a1465b33b3cc2a",
+  "updated_on": 1452818989.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "f3f4082a772095d41d1a5af12ee2534e677d430d"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "f3f4082a772095d41d1a5af12ee2534e677d430d",
+    "AuthorDate": "Thu Jan 14 19:41:25 2016 +0100",
+    "CommitDate": "Fri Jan 15 01:49:49 2016 +0100",
+    "message": "[backends] Set origin and version attributes",
+    "analysis": {
+      "loc_analyzed": 1295,
+      "num_vulns": 10,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 4
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 10
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433916.991345,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "d3232193dac7b58210499edae1dd63313f9283a3",
+  "updated_on": 1452818999.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "c03c9267fe56216c034be948e8d1e76f0e27c30a"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "c03c9267fe56216c034be948e8d1e76f0e27c30a",
+    "AuthorDate": "Thu Jan 14 20:50:04 2016 +0100",
+    "CommitDate": "Fri Jan 15 01:49:59 2016 +0100",
+    "message": "[backend] Add metadata decorator\n\nThe 'metadata' decorator adds metadata to a given item such\nas how and when it was fetched. It requieres a function which\nextracts from an item when it was updated. Moreover, it can\nonly be used on derived classes of Backend.\n\nUnit tests updated.",
+    "analysis": {
+      "loc_analyzed": 1322,
+      "num_vulns": 10,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 4
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 10
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433917.527296,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "8f1f062283e6dd04de429efd7cc08810bff6b49a",
+  "updated_on": 1452818999.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "ec536da617449d0d77ff092ad5cb1463a0179329"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "ec536da617449d0d77ff092ad5cb1463a0179329",
+    "AuthorDate": "Fri Jan 15 01:48:21 2016 +0100",
+    "CommitDate": "Fri Jan 15 01:49:59 2016 +0100",
+    "message": "[backends] Add metadata decorator to fetch methods",
+    "analysis": {
+      "loc_analyzed": 1341,
+      "num_vulns": 10,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 4
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 10
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433918.070281,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "46d19e4fbdf48bdfaa9ab365f56b3ed273373d76",
+  "updated_on": 1452865428.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "2d26eccb8fcd741d7df7175bfaf04d5a4e7b1c12"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "2d26eccb8fcd741d7df7175bfaf04d5a4e7b1c12",
+    "AuthorDate": "Fri Jan 15 14:43:48 2016 +0100",
+    "CommitDate": "Fri Jan 15 14:43:48 2016 +0100",
+    "message": "[gerrit] Add missing URL attribute",
+    "analysis": {
+      "loc_analyzed": 1342,
+      "num_vulns": 10,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 4
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 10
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433918.626656,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "72d52f7a8dbe4e104891e376c1e6a63014f74b3e",
+  "updated_on": 1453381067.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "9c2e62d79fe095b62b97173ba22eb5ce254d073e"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "9c2e62d79fe095b62b97173ba22eb5ce254d073e",
+    "AuthorDate": "Thu Jan 21 13:52:24 2016 +0100",
+    "CommitDate": "Thu Jan 21 13:57:47 2016 +0100",
+    "message": "[utils] Add urljoin() function\n\nDue to urllib.parser.urljoin() function from the standard library\ndoes not work as expected, we decided to join a URL using the\nbasic method '/'.join().\n\nUnit tests updated.",
+    "analysis": {
+      "loc_analyzed": 1352,
+      "num_vulns": 10,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 4
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 10
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433919.173484,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "66501c70a132e857342287a37562792b7377a621",
+  "updated_on": 1453381209.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "ff833d2f370580ae7051e13c38d33d1c3d71248a"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "ff833d2f370580ae7051e13c38d33d1c3d71248a",
+    "AuthorDate": "Thu Jan 21 14:00:09 2016 +0100",
+    "CommitDate": "Thu Jan 21 14:00:09 2016 +0100",
+    "message": "[github] Fix error joining URL paths",
+    "analysis": {
+      "loc_analyzed": 1352,
+      "num_vulns": 10,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 4
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 10
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433919.717475,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "aa3a8971cef90c54ea1434e9c6569fe90862555a",
+  "updated_on": 1453491353.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "12f8721149963a83d1963454a0853dafcd8d9630"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "12f8721149963a83d1963454a0853dafcd8d9630",
+    "AuthorDate": "Fri Jan 22 20:35:53 2016 +0100",
+    "CommitDate": "Fri Jan 22 20:35:53 2016 +0100",
+    "message": "[perceval] Add PERCEVAL_BACKENDS dict to store backend classes",
+    "analysis": {
+      "loc_analyzed": 1358,
+      "num_vulns": 10,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 4
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 10
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433920.271702,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "3bfcacd617278b93fd9be750ec0d34f5c605b5c6",
+  "updated_on": 1453726174.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "ed08d1804bbb5c86333512c326e8d246fa718a1c"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "ed08d1804bbb5c86333512c326e8d246fa718a1c",
+    "AuthorDate": "Mon Jan 25 13:49:34 2016 +0100",
+    "CommitDate": "Mon Jan 25 13:49:34 2016 +0100",
+    "message": "[git] Fix #8. Unexpected end of log stream\n\nSome commit log entries may not contain information about files.\nThis patch fixes the error when those commits are found at\nthe end of the stream.",
+    "analysis": {
+      "loc_analyzed": 1358,
+      "num_vulns": 10,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 4
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 10
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433920.842335,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "5415b925312b419c1192c854030c32fe717ec26c",
+  "updated_on": 1453836091.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "2cd1fe77249c30413163b2fc39bdbb4c35aae2bd"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "2cd1fe77249c30413163b2fc39bdbb4c35aae2bd",
+    "AuthorDate": "Thu Jan 21 20:53:56 2016 +0100",
+    "CommitDate": "Tue Jan 26 20:21:31 2016 +0100",
+    "message": "[github] Include users data (email, organizations, ...) in issues",
+    "analysis": {
+      "loc_analyzed": 1429,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433921.415989,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "bf6b14f88059b81df57c14286d992703305a0a0d",
+  "updated_on": 1453836162.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "ce42d9b600bcf06ae90ae3fb3fabb8aed5138776"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "ce42d9b600bcf06ae90ae3fb3fabb8aed5138776",
+    "Merge": "ed08d18 2cd1fe7",
+    "AuthorDate": "Tue Jan 26 20:22:42 2016 +0100",
+    "CommitDate": "Tue Jan 26 20:22:42 2016 +0100",
+    "message": "Merge branch 'github-users' of 'git://github.com/acs/perceval.git'\n\nMerges #7\nCloses #7",
+    "analysis": {
+      "loc_analyzed": 1429,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433921.971381,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "b01a6fc0f8918e90f8532c60b71ae6994c2799c9",
+  "updated_on": 1453896785.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "c273158a034e60416c4558a491f8c11d2cc43927"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "c273158a034e60416c4558a491f8c11d2cc43927",
+    "AuthorDate": "Wed Jan 27 13:13:05 2016 +0100",
+    "CommitDate": "Wed Jan 27 13:13:05 2016 +0100",
+    "message": "Update AUTHORS",
+    "analysis": {
+      "loc_analyzed": 1429,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433922.53218,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "3e832c93fad30bea90e8f68495446c03b7ec667c",
+  "updated_on": 1453896818.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "c11093bc73951efd733c66022ec967d4259970d1"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "c11093bc73951efd733c66022ec967d4259970d1",
+    "AuthorDate": "Wed Jan 27 13:13:38 2016 +0100",
+    "CommitDate": "Wed Jan 27 13:13:38 2016 +0100",
+    "message": "[perceval] Update help message",
+    "analysis": {
+      "loc_analyzed": 1429,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433923.100973,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "8f81db6226123e906da8daaaed3beaa440380e19",
+  "updated_on": 1453896909.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "07878523eb22cedcf0559344160568a8d67c3bb2"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "07878523eb22cedcf0559344160568a8d67c3bb2",
+    "AuthorDate": "Wed Jan 27 13:15:09 2016 +0100",
+    "CommitDate": "Wed Jan 27 13:15:09 2016 +0100",
+    "message": "Add README",
+    "analysis": {
+      "loc_analyzed": 1429,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433923.667785,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "f7922a46682962b23085bfac1ce507809587704f",
+  "updated_on": 1454073019.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "2dd320a6b115f8754aabba0313af6d6ec1ade607"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "2dd320a6b115f8754aabba0313af6d6ec1ade607",
+    "AuthorDate": "Fri Jan 29 14:10:19 2016 +0100",
+    "CommitDate": "Fri Jan 29 14:10:19 2016 +0100",
+    "message": "Add info for ReadTheDocs",
+    "analysis": {
+      "loc_analyzed": 1429,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433924.225512,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "df0240424e5f02b0639f83cdac2fcb42611eb251",
+  "updated_on": 1454415821.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "e20540eca7415542c31989c5695b2145b7ebd753"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "e20540eca7415542c31989c5695b2145b7ebd753",
+    "AuthorDate": "Tue Feb 2 13:23:41 2016 +0100",
+    "CommitDate": "Tue Feb 2 13:23:41 2016 +0100",
+    "message": "[bugzilla] Fix infinite loop error while fetching a bug list\n\nSome Bugzilla servers do not allow to request a bug list using\ntimestamps that include a 'T' character between date and time\nvalues (i.e '2016-02-02T06:00:00). These servers ignore the\ntime values, so it might cause to stuck in a infinite loop\nwhile fetching a bug list.\n\nRemoving 'T' character by a whitespace fix the problem.",
+    "analysis": {
+      "loc_analyzed": 1429,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433924.809256,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "c4f78c0cfbc73c559d6456f7785d468dade93f7d",
+  "updated_on": 1454429733.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "f9c309d641b2f30161041005e2bd524262638a6b"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "f9c309d641b2f30161041005e2bd524262638a6b",
+    "AuthorDate": "Tue Feb 2 17:15:33 2016 +0100",
+    "CommitDate": "Tue Feb 2 17:15:33 2016 +0100",
+    "message": "Update copyright info",
+    "analysis": {
+      "loc_analyzed": 1429,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433925.375541,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "3c262207faa7a7c1dcc7a19e691b4dd0ac0d3710",
+  "updated_on": 1454430182.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "8ae5dce79ffcb9a15a388c16ffc8c91332ec3f88"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "8ae5dce79ffcb9a15a388c16ffc8c91332ec3f88",
+    "AuthorDate": "Tue Feb 2 17:23:02 2016 +0100",
+    "CommitDate": "Tue Feb 2 17:23:02 2016 +0100",
+    "message": "Update requirements",
+    "analysis": {
+      "loc_analyzed": 1429,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433925.934863,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "f53b3191ada6193781066ef99a6d166d28bd31c3",
+  "updated_on": 1454594099.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "0fc7624d1a9e29ef4bf636185434092d427f4a69"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "0fc7624d1a9e29ef4bf636185434092d427f4a69",
+    "AuthorDate": "Thu Feb 4 14:48:53 2016 +0100",
+    "CommitDate": "Thu Feb 4 14:54:59 2016 +0100",
+    "message": "[git] Escape invalid encoded characters\n\nPatch to ignore encoding errors and to escape them into valid\ncharacters. This change is related to the backend, not to the\nparser, because the parser ignores how a file was opened.",
+    "analysis": {
+      "loc_analyzed": 1429,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433926.49786,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "d89441e5730728ab42928dba68f6d2ce5282e23e",
+  "updated_on": 1454601736.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "bd4245706173762d829e1515ffc65cd21557db45"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "bd4245706173762d829e1515ffc65cd21557db45",
+    "AuthorDate": "Thu Feb 4 17:02:16 2016 +0100",
+    "CommitDate": "Thu Feb 4 17:02:16 2016 +0100",
+    "message": "[git] Remove 'unexpected end of log stream' error\n\nThis error does not make any sense in the way the parser\nis developed. It produced false positives when the last\ncommit (at the end of the stream) didn't have any message.",
+    "analysis": {
+      "loc_analyzed": 1426,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433927.092824,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "6308b000c8b9594d6552566972a2f5bea889c9cb",
+  "updated_on": 1454610375.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "d9f2575b9c9e8a3d3a16496ddcc5ce008a1175cc"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "d9f2575b9c9e8a3d3a16496ddcc5ce008a1175cc",
+    "AuthorDate": "Thu Feb 4 19:26:15 2016 +0100",
+    "CommitDate": "Thu Feb 4 19:26:15 2016 +0100",
+    "message": "[utils] Remove invalid/control characters from XML streams\n\nXML spec does not allow control characters inside nodes.\nThis patch purges the stream removing and replacing with\nwhitespaces.",
+    "analysis": {
+      "loc_analyzed": 1450,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433927.661321,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "bcf551505397cb37fb679c5dfb19f04042197cef",
+  "updated_on": 1454852080.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "2acfa2500fe002d5bc6aa90f5ed7723eb5394d45"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "2acfa2500fe002d5bc6aa90f5ed7723eb5394d45",
+    "AuthorDate": "Sun Feb 7 14:34:40 2016 +0100",
+    "CommitDate": "Sun Feb 7 14:34:40 2016 +0100",
+    "message": "[gerrit] Update documentation",
+    "analysis": {
+      "loc_analyzed": 1456,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433928.222349,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "c0893c05e33b2a0ea0c98c0b003cfbe7e07402d4",
+  "updated_on": 1454865502.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "c455eb57517a3d00c1eb152dc5f420f741806090"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "c455eb57517a3d00c1eb152dc5f420f741806090",
+    "AuthorDate": "Sun Feb 7 18:17:36 2016 +0100",
+    "CommitDate": "Sun Feb 7 18:18:22 2016 +0100",
+    "message": "[gerrit] Clean up backend code\n\nRe-organize the code moving some imports, methods and some\nvariables not needed anymore.",
+    "analysis": {
+      "loc_analyzed": 1455,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433928.785419,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "5c8a650e3abd2ae77f8146e65fe50dd137635cb7",
+  "updated_on": 1454865681.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "d10929a635a4431f342ac6ca8f16df44c8226abe"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "d10929a635a4431f342ac6ca8f16df44c8226abe",
+    "AuthorDate": "Sun Feb 7 18:21:21 2016 +0100",
+    "CommitDate": "Sun Feb 7 18:21:21 2016 +0100",
+    "message": "[gerrit] Shift parse_reviews() from class to static method",
+    "analysis": {
+      "loc_analyzed": 1456,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433929.349136,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "b56c1ddb8eab8c675d4fea16a45f1846b4f9b013",
+  "updated_on": 1454956339.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "8406d3998f1cd5283deb49614057b37d4d7609dd"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "8406d3998f1cd5283deb49614057b37d4d7609dd",
+    "AuthorDate": "Mon Feb 8 19:32:19 2016 +0100",
+    "CommitDate": "Mon Feb 8 19:32:19 2016 +0100",
+    "message": "[utils] Update documentation",
+    "analysis": {
+      "loc_analyzed": 1457,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433929.901727,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "fa583507750636f45823d5bbfef9f292f5459cea",
+  "updated_on": 1455125172.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "6e96c1b1529026ece32da757f481ab8d366afecb"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "6e96c1b1529026ece32da757f481ab8d366afecb",
+    "AuthorDate": "Wed Feb 10 17:50:27 2016 +0100",
+    "CommitDate": "Wed Feb 10 18:26:12 2016 +0100",
+    "message": "[docker] Add Docker support for Perceval",
+    "analysis": {
+      "loc_analyzed": 1457,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433930.483506,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "eca2030e238a61670f62c459136e0f998c7ae289",
+  "updated_on": 1455125172.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "7f3015eebca470a34773da25c6c7be879541e6c9"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "7f3015eebca470a34773da25c6c7be879541e6c9",
+    "AuthorDate": "Wed Feb 10 18:07:36 2016 +0100",
+    "CommitDate": "Wed Feb 10 18:26:12 2016 +0100",
+    "message": "[docker] Rearranged Dockerfile commands for better performance",
+    "analysis": {
+      "loc_analyzed": 1457,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433931.065347,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "1c91740c1070bfc7e727171bdf3257dd0fff528a",
+  "updated_on": 1455125172.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "db1507d92c2cf3582493c7926febcc153b537dc1"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "db1507d92c2cf3582493c7926febcc153b537dc1",
+    "AuthorDate": "Wed Feb 10 18:09:42 2016 +0100",
+    "CommitDate": "Wed Feb 10 18:26:12 2016 +0100",
+    "message": "[docker] Directory clean-up",
+    "analysis": {
+      "loc_analyzed": 1457,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433931.677838,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "a681feea1b6c9295389ff7f4106818b297d38dae",
+  "updated_on": 1455125172.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "b6b67d42f3d4f47e1cdef8df0039b7d209e55418"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "b6b67d42f3d4f47e1cdef8df0039b7d209e55418",
+    "AuthorDate": "Wed Feb 10 18:24:14 2016 +0100",
+    "CommitDate": "Wed Feb 10 18:26:12 2016 +0100",
+    "message": "[docker] Updated documentation",
+    "analysis": {
+      "loc_analyzed": 1457,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433932.305033,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "666840e23169a78e6c26052e57f356281555ea5e",
+  "updated_on": 1455125272.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "051a41a49c327a688b62a3c094e0063e3bf16db0"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "051a41a49c327a688b62a3c094e0063e3bf16db0",
+    "Merge": "8406d39 b6b67d4",
+    "AuthorDate": "Wed Feb 10 18:27:52 2016 +0100",
+    "CommitDate": "Wed Feb 10 18:27:52 2016 +0100",
+    "message": "Merge branch 'docker' of 'git://github.com/albertinisg/perceval.git'\n\nMerges #11\nCloses #11",
+    "analysis": {
+      "loc_analyzed": 1457,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433932.916311,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "52889cc4cb3a4b97fe76a07e44702270c1e94795",
+  "updated_on": 1455131370.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "4c19ecaa26b2647a4e02f99575cccfa3fdfd8adc"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "4c19ecaa26b2647a4e02f99575cccfa3fdfd8adc",
+    "AuthorDate": "Tue Feb 9 15:56:45 2016 +0100",
+    "CommitDate": "Wed Feb 10 20:09:30 2016 +0100",
+    "message": "[stackexchange] Add backend implementation",
+    "analysis": {
+      "loc_analyzed": 1669,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433933.518731,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "63c6c491c02fa453f935244c82d3be33ec0a898f",
+  "updated_on": 1455131370.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "62447670d4c9f9a5cef61244ceba33dce7399f40"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "62447670d4c9f9a5cef61244ceba33dce7399f40",
+    "AuthorDate": "Tue Feb 9 16:57:20 2016 +0100",
+    "CommitDate": "Wed Feb 10 20:09:30 2016 +0100",
+    "message": "[stackexchange] Moved constants to its class",
+    "analysis": {
+      "loc_analyzed": 1668,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433934.127037,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "c352c42146936e7ed7dd70660e9bdabb915526d8",
+  "updated_on": 1455131370.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "9b85f902fda1c612a6989fd3335c247f489eb062"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "9b85f902fda1c612a6989fd3335c247f489eb062",
+    "AuthorDate": "Tue Feb 9 17:39:05 2016 +0100",
+    "CommitDate": "Wed Feb 10 20:09:30 2016 +0100",
+    "message": "[stackexchange] Removed tag and token as mandatory values",
+    "analysis": {
+      "loc_analyzed": 1668,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433934.73341,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "7ce3d9173593da36bb0b72e246815d6f47038573",
+  "updated_on": 1455131370.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "d5b12d5cf1e98267f8b6dabbb9b7fc1c62b0c628"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "d5b12d5cf1e98267f8b6dabbb9b7fc1c62b0c628",
+    "AuthorDate": "Wed Feb 10 11:29:45 2016 +0100",
+    "CommitDate": "Wed Feb 10 20:09:30 2016 +0100",
+    "message": "[stackexchange] Return raw response in the Client\n\nNow the client returns the raw response, which is pushed raw in\nthe cache. A new static method has been also added to deal with\nthe questions in the Backend",
+    "analysis": {
+      "loc_analyzed": 1681,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433935.337139,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "8f4c8dbe5a9a522f4b1c03fd5d739200f6d9971f",
+  "updated_on": 1455131370.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "9a79ad552cf31c660f9994ee92ad535d06cad568"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "9a79ad552cf31c660f9994ee92ad535d06cad568",
+    "AuthorDate": "Wed Feb 10 14:30:03 2016 +0100",
+    "CommitDate": "Wed Feb 10 20:09:30 2016 +0100",
+    "message": "[stackexchange] Return element instead of iterator",
+    "analysis": {
+      "loc_analyzed": 1683,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433935.945222,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "42cebdea3ba0d84029339be84029f43e3bf7e518",
+  "updated_on": 1455131370.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "f07454eb585f5c62c9811309ccbd5779573a45d3"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "f07454eb585f5c62c9811309ccbd5779573a45d3",
+    "AuthorDate": "Wed Feb 10 14:59:35 2016 +0100",
+    "CommitDate": "Wed Feb 10 20:09:30 2016 +0100",
+    "message": "[stackexchange] Improved way to handle log messages",
+    "analysis": {
+      "loc_analyzed": 1677,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433936.557898,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "330dbc99242ef5e259fbc541bccd304f3b7563a7",
+  "updated_on": 1455131439.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "5c5859412feb94ef253c68feb7d21ddf85f7e7e3"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "5c5859412feb94ef253c68feb7d21ddf85f7e7e3",
+    "Merge": "051a41a f07454e",
+    "AuthorDate": "Wed Feb 10 20:10:39 2016 +0100",
+    "CommitDate": "Wed Feb 10 20:10:39 2016 +0100",
+    "message": "Merge branch 'stackexchange' of 'git://github.com/albertinisg/perceval.git'\n\nMerges #10\nCloses #10",
+    "analysis": {
+      "loc_analyzed": 1677,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433937.162185,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "9eba018231d7ccc996bc0a20177fd89a144f19a9",
+  "updated_on": 1455302896.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "b620a9ddd8765adc7e17eb1c95b857a2f4143cc2"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "b620a9ddd8765adc7e17eb1c95b857a2f4143cc2",
+    "AuthorDate": "Wed Feb 3 17:17:40 2016 +0100",
+    "CommitDate": "Fri Feb 12 19:48:16 2016 +0100",
+    "message": "[utils] Add function to check the type of a compressed file\n\nThis function will be used by mail backends to check if they\nhave to decompress a mbox file or not.",
+    "analysis": {
+      "loc_analyzed": 1697,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433937.767914,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "65c97c7454305ddf6bc7ead6a51c8e9adfb6004e",
+  "updated_on": 1455302896.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "1d37d93a7960211b8af94efdc82f59a993d8a622"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "1d37d93a7960211b8af94efdc82f59a993d8a622",
+    "AuthorDate": "Tue Feb 9 18:54:42 2016 +0100",
+    "CommitDate": "Fri Feb 12 19:48:16 2016 +0100",
+    "message": "[mbox] Add class to manage MBoxes",
+    "analysis": {
+      "loc_analyzed": 1725,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433938.39209,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "4800473a850b3cebf237c444424489e77968f27e",
+  "updated_on": 1455302896.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "eaf5c43683a5826f0f0ad4eff8110926862694d3"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "eaf5c43683a5826f0f0ad4eff8110926862694d3",
+    "AuthorDate": "Tue Feb 9 19:56:48 2016 +0100",
+    "CommitDate": "Fri Feb 12 19:48:16 2016 +0100",
+    "message": "[mbox] Add class to manage mailing lists",
+    "analysis": {
+      "loc_analyzed": 1751,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433939.027823,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "6582ab72af79b874f68c515cf1d3d253b41ec2df",
+  "updated_on": 1455302896.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "d33d932951754eb644be2176786b1c9b5b77aba2"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "d33d932951754eb644be2176786b1c9b5b77aba2",
+    "AuthorDate": "Fri Feb 12 14:56:52 2016 +0100",
+    "CommitDate": "Fri Feb 12 19:48:16 2016 +0100",
+    "message": "[mbox] Add static method to parse mbox files",
+    "analysis": {
+      "loc_analyzed": 1803,
+      "num_vulns": 12,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 3,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 12
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433939.678184,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "56eb174f0a4a3ba8ef04df8266f41dc2ea4ccde7",
+  "updated_on": 1455302896.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "edcbc5817c9bf74134c99a3d513a0d692b4e7405"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "edcbc5817c9bf74134c99a3d513a0d692b4e7405",
+    "AuthorDate": "Fri Feb 12 19:26:01 2016 +0100",
+    "CommitDate": "Fri Feb 12 19:48:16 2016 +0100",
+    "message": "[mbox] Fetch email messages from a set of mbox files",
+    "analysis": {
+      "loc_analyzed": 1828,
+      "num_vulns": 13,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 13
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433940.338543,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "4142724e55d7f1970b9d53c78b8da779059db5bc",
+  "updated_on": 1455303571.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "a98fc471ed746bbcb411cfdab36affa48ce9e01f"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "a98fc471ed746bbcb411cfdab36affa48ce9e01f",
+    "AuthorDate": "Fri Feb 12 19:47:21 2016 +0100",
+    "CommitDate": "Fri Feb 12 19:59:31 2016 +0100",
+    "message": "[mbox] Add command to parse mbox files",
+    "analysis": {
+      "loc_analyzed": 1867,
+      "num_vulns": 13,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 13
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433941.006817,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "81064d131e925559f6b6fb31e6dfd2c6d31cc7c8",
+  "updated_on": 1455308500.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "474153f36ab5398654ac149924c2205374ff3cb9"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "474153f36ab5398654ac149924c2205374ff3cb9",
+    "AuthorDate": "Fri Feb 12 21:21:40 2016 +0100",
+    "CommitDate": "Fri Feb 12 21:21:40 2016 +0100",
+    "message": "[mbox] Fix error decoding multipart payloads",
+    "analysis": {
+      "loc_analyzed": 1867,
+      "num_vulns": 13,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 13
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433941.679833,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "ceab6cdaf3e2f6c5b870fc756f1e4ea485bac359",
+  "updated_on": 1455308536.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "ab5d4457b1ff05e2b99f67cb0f532aad87e4ac36"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "ab5d4457b1ff05e2b99f67cb0f532aad87e4ac36",
+    "AuthorDate": "Fri Feb 12 21:22:16 2016 +0100",
+    "CommitDate": "Fri Feb 12 21:22:16 2016 +0100",
+    "message": "[tests] Test multipart payloads on mbox backend",
+    "analysis": {
+      "loc_analyzed": 1867,
+      "num_vulns": 13,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 13
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433942.351667,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "c7361c0dc702215b6c8afc3b91f0cec2a49cfaad",
+  "updated_on": 1455308622.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "28a20f34bd09dbaaffbafe21d16c5ee6f5acfd61"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "28a20f34bd09dbaaffbafe21d16c5ee6f5acfd61",
+    "AuthorDate": "Fri Feb 12 21:23:42 2016 +0100",
+    "CommitDate": "Fri Feb 12 21:23:42 2016 +0100",
+    "message": "[tests] Add missing mbox test file",
+    "analysis": {
+      "loc_analyzed": 1867,
+      "num_vulns": 13,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 13
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433943.002069,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "ad95f61a6647f3d02ad74e74153cb30554b9e89d",
+  "updated_on": 1455325861.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "398894238ed3c115e27b64936f9e340dffb3d3f5"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "398894238ed3c115e27b64936f9e340dffb3d3f5",
+    "AuthorDate": "Sat Feb 13 02:11:01 2016 +0100",
+    "CommitDate": "Sat Feb 13 02:11:01 2016 +0100",
+    "message": "[mbox] Fix error parsing non-defined charset payloads\n\nSome multiparts payloads do not defined a charset. Now, UTF-8\nis set by default for those payloads.",
+    "analysis": {
+      "loc_analyzed": 1867,
+      "num_vulns": 13,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 13
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433943.656777,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "e472da56a8adcea0ab4eea4039ae8c5e9ca3e504",
+  "updated_on": 1455562559.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "db40e3a6184d31e5ef8ccc7d3c5cd6a9b973b813"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "db40e3a6184d31e5ef8ccc7d3c5cd6a9b973b813",
+    "AuthorDate": "Mon Feb 15 19:42:11 2016 +0100",
+    "CommitDate": "Mon Feb 15 19:55:59 2016 +0100",
+    "message": "[mbox] Ignore messages without 'Message-ID' or 'Date' headers\n\nThese headers are mandatory in any message, so those messages\nwithout them are ignored.\n\nIn fact, the 'mbox' class from the 'mailbox' module produces\ninvalid messages when a line on a message body starts with\na 'From ' string. In those cases, an invalid message is generated\nusing the remaining part of the body. Checking if the message\nhas some headers (like 'Message-ID' or 'Date') avoids the problem,\nignoring them.",
+    "analysis": {
+      "loc_analyzed": 1884,
+      "num_vulns": 13,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 13
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433944.309582,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "040f4090df3221a0ba5bbd0f3e9b0f7f97a97e54",
+  "updated_on": 1455563098.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "ee562ccdebeb3f5e472197cc6e251c3e4f88c171"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "ee562ccdebeb3f5e472197cc6e251c3e4f88c171",
+    "AuthorDate": "Mon Feb 15 20:04:58 2016 +0100",
+    "CommitDate": "Mon Feb 15 20:04:58 2016 +0100",
+    "message": "[mbox] Improve logging messages",
+    "analysis": {
+      "loc_analyzed": 1893,
+      "num_vulns": 13,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 13
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433944.963795,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "473bdbf0161b96e87bbbae173043f8794b7aa9c9",
+  "updated_on": 1455565004.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "0b5ebdbdc750d70880b5c368cb93c499a50471c8"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "0b5ebdbdc750d70880b5c368cb93c499a50471c8",
+    "AuthorDate": "Mon Feb 15 20:36:44 2016 +0100",
+    "CommitDate": "Mon Feb 15 20:36:44 2016 +0100",
+    "message": "[mbox] Escape invalid encoded characters",
+    "analysis": {
+      "loc_analyzed": 1894,
+      "num_vulns": 13,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 13
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433945.654008,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "0a0045485dbb6d08e9076d20da7f3ab44af5758d",
+  "updated_on": 1455650482.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "312ce65e3025f78408e51288218685c9ae0fa183"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "312ce65e3025f78408e51288218685c9ae0fa183",
+    "AuthorDate": "Tue Feb 16 20:04:30 2016 +0100",
+    "CommitDate": "Tue Feb 16 20:21:22 2016 +0100",
+    "message": "[mbox] Parse payload handling possible encoding errors",
+    "analysis": {
+      "loc_analyzed": 1904,
+      "num_vulns": 13,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 13
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433946.501329,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "5f4437d3afec4bfed5adc14bb0c97aaaa777f4ee",
+  "updated_on": 1455668794.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "5ba12ccad5a1de9d046d802422c4ce8faea6ced4"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "5ba12ccad5a1de9d046d802422c4ce8faea6ced4",
+    "AuthorDate": "Wed Feb 17 01:26:34 2016 +0100",
+    "CommitDate": "Wed Feb 17 01:26:34 2016 +0100",
+    "message": "[mbox] Handle encoding errors while headers are parsed",
+    "analysis": {
+      "loc_analyzed": 1910,
+      "num_vulns": 13,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 13
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433947.2725,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "ff1a243264f8d1cc0565076abcb98c901de42c56",
+  "updated_on": 1455671275.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "964b2c9ff485558d3d4a22e2b482a3a9cbbc3f31"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "964b2c9ff485558d3d4a22e2b482a3a9cbbc3f31",
+    "AuthorDate": "Wed Feb 17 02:07:55 2016 +0100",
+    "CommitDate": "Wed Feb 17 02:07:55 2016 +0100",
+    "message": "[mbox] Avoid case sensitive checks on headers using case-insensitive dict\n\nAs the headers of the messages can follow different case sensitive\npatterns (i.e Message-ID, Message-id, Message-Id), we use\n'CaseInsensitiveDict' from 'requests' package to store the contents\nof a message and to avoid multiple existence checks of the same\nheader.",
+    "analysis": {
+      "loc_analyzed": 1915,
+      "num_vulns": 13,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 13
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433947.980856,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "a2209df8664fa45cc05ce0c762cf7cfe33e1b905",
+  "updated_on": 1455794178.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "b069b701f67b5de2f22f70d117ab460f09573d84"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "b069b701f67b5de2f22f70d117ab460f09573d84",
+    "AuthorDate": "Thu Feb 18 12:07:34 2016 +0100",
+    "CommitDate": "Thu Feb 18 12:16:18 2016 +0100",
+    "message": "[mbox] Add 'date' header as updating time\n\nIn the case of 'Date' header does not exist, 'date' is used\nin the metadata decorator to add it to the update_time field.",
+    "analysis": {
+      "loc_analyzed": 1916,
+      "num_vulns": 13,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 13
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433948.6535,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "1d3d44418eedfdf3dc67295e1815c61bac6eb937",
+  "updated_on": 1455816264.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "2a0797a04912bb39c6a29ff524dce98f97e4ec98"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "2a0797a04912bb39c6a29ff524dce98f97e4ec98",
+    "AuthorDate": "Thu Feb 18 18:24:24 2016 +0100",
+    "CommitDate": "Thu Feb 18 18:24:24 2016 +0100",
+    "message": "[mbox] Skip files that raise I/O errors",
+    "analysis": {
+      "loc_analyzed": 1931,
+      "num_vulns": 13,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 13
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433949.323081,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "b9e4adb55d4ecaf4a242aca731126e3c0e0e6cf8",
+  "updated_on": 1455817062.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "a7b89e9b35b313769164261225550d89a3c18235"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "a7b89e9b35b313769164261225550d89a3c18235",
+    "AuthorDate": "Thu Feb 18 18:37:42 2016 +0100",
+    "CommitDate": "Thu Feb 18 18:37:42 2016 +0100",
+    "message": "[mbox] Add finally clause to remove temporary mbox files",
+    "analysis": {
+      "loc_analyzed": 1931,
+      "num_vulns": 13,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 13
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433950.057463,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "575e99ed602f7ee8748ef2b49d4161c54cfb9a96",
+  "updated_on": 1456231779.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "2dfffcbf0331e3ff0dc93f5e855752dff739f7b3"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "2dfffcbf0331e3ff0dc93f5e855752dff739f7b3",
+    "AuthorDate": "Tue Feb 23 13:46:16 2016 +0100",
+    "CommitDate": "Tue Feb 23 13:49:39 2016 +0100",
+    "message": "[errors] Add RepositoryError exception",
+    "analysis": {
+      "loc_analyzed": 1934,
+      "num_vulns": 13,
+      "by_severity": {
+        "undefined": 0,
+        "low": 3,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 13
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433950.939805,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "865e3e3e884a65a9d8e9eebd39960b5174cad2b5",
+  "updated_on": 1456250082.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "603b67ab928d7f5f7fb96001a6616fcf338b652c"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "603b67ab928d7f5f7fb96001a6616fcf338b652c",
+    "AuthorDate": "Tue Feb 23 18:29:11 2016 +0100",
+    "CommitDate": "Tue Feb 23 18:54:42 2016 +0100",
+    "message": "[git] Add class to manage Git repositories\n\nThis class will allow to clone or pull a repository and to\nget its log. So far, it only supports to clone a repository\nfrom a local or a remote place.",
+    "analysis": {
+      "loc_analyzed": 1966,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433951.849296,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "b0ff997b11360463241f8d8fa6ad77835a126bb9",
+  "updated_on": 1456250926.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "f2523e033b497b7296ad6d4249d668b68dc08a36"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "f2523e033b497b7296ad6d4249d668b68dc08a36",
+    "AuthorDate": "Tue Feb 23 19:08:46 2016 +0100",
+    "CommitDate": "Tue Feb 23 19:08:46 2016 +0100",
+    "message": "[git] Check repository status when GitRepository is initialized",
+    "analysis": {
+      "loc_analyzed": 1972,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433952.575542,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "869f9581bf1ae13e0a7d7ea1391df561ff00252a",
+  "updated_on": 1456276596.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "727b532c6c7b164268c8fde636bc060e0fbcacbe"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "727b532c6c7b164268c8fde636bc060e0fbcacbe",
+    "AuthorDate": "Wed Feb 24 02:04:59 2016 +0100",
+    "CommitDate": "Wed Feb 24 02:16:36 2016 +0100",
+    "message": "[git] Add pull() method to GitRepository\n\nThis method updates the repository with the contents of\n'origin'. Any local commit will be deleted from the repository.",
+    "analysis": {
+      "loc_analyzed": 1993,
+      "num_vulns": 17,
+      "by_severity": {
+        "undefined": 0,
+        "low": 7,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 17
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433953.321214,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "34d8d9cec492133742e4e0d605a9bdd4cf972e17",
+  "updated_on": 1456311151.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "467494644d1d1b5efdc76e35c60cedb655ab94a6"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "467494644d1d1b5efdc76e35c60cedb655ab94a6",
+    "AuthorDate": "Wed Feb 24 11:51:46 2016 +0100",
+    "CommitDate": "Wed Feb 24 11:52:31 2016 +0100",
+    "message": "[git] Add log() method to GitRepository",
+    "analysis": {
+      "loc_analyzed": 2015,
+      "num_vulns": 18,
+      "by_severity": {
+        "undefined": 0,
+        "low": 8,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 18
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433954.07529,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "a63e1f7c89b3a16a02c20d6a91647391fb1c4bf8",
+  "updated_on": 1456317645.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "a8482abfd6855eab5b5d72436163dab9117c112e"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "a8482abfd6855eab5b5d72436163dab9117c112e",
+    "AuthorDate": "Wed Feb 24 13:40:45 2016 +0100",
+    "CommitDate": "Wed Feb 24 13:40:45 2016 +0100",
+    "message": "[git] Retrieve commits since a given date with log() method",
+    "analysis": {
+      "loc_analyzed": 2022,
+      "num_vulns": 18,
+      "by_severity": {
+        "undefined": 0,
+        "low": 8,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 18
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433954.824836,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "fc5e01a310d84d5c9e8432df9c90eaa530b43355",
+  "updated_on": 1456329710.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "000cac6f655f46cb489787fea8f06165923f3656"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "000cac6f655f46cb489787fea8f06165923f3656",
+    "AuthorDate": "Wed Feb 24 17:01:50 2016 +0100",
+    "CommitDate": "Wed Feb 24 17:01:50 2016 +0100",
+    "message": "[git] Add static method to run Git commands",
+    "analysis": {
+      "loc_analyzed": 2032,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433955.573393,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "dae4819c16290b90ff183af57d4d1e0dab5f662b",
+  "updated_on": 1456329740.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "dcacada35e8e823b45dd063b4f6d936ea624a199"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "dcacada35e8e823b45dd063b4f6d936ea624a199",
+    "AuthorDate": "Wed Feb 24 17:02:20 2016 +0100",
+    "CommitDate": "Wed Feb 24 17:02:20 2016 +0100",
+    "message": "[tests] Use context syntax to catch exceptions on Git tests",
+    "analysis": {
+      "loc_analyzed": 2032,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433956.311361,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "875f9455b31fcb8108752d4b05006627e8db2423",
+  "updated_on": 1456330354.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "86f5d279bf66892c1a28767fdfe35a2dc8921562"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "86f5d279bf66892c1a28767fdfe35a2dc8921562",
+    "AuthorDate": "Wed Feb 24 17:12:34 2016 +0100",
+    "CommitDate": "Wed Feb 24 17:12:34 2016 +0100",
+    "message": "[git] Return commit items in the same order they were parsed",
+    "analysis": {
+      "loc_analyzed": 2028,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433957.086972,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "c834dd1d7a0b17274dd978e2d26cf4dcf19a0552",
+  "updated_on": 1456336078.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "e388a4779aa434ab231bce2bf4e9e7e0c54a6e5b"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "e388a4779aa434ab231bce2bf4e9e7e0c54a6e5b",
+    "AuthorDate": "Wed Feb 24 18:47:58 2016 +0100",
+    "CommitDate": "Wed Feb 24 18:47:58 2016 +0100",
+    "message": "[git] Return a generator in log()",
+    "analysis": {
+      "loc_analyzed": 2031,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433957.869899,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "811b568d81c2e8044b334a07cae8db0cffd7791e",
+  "updated_on": 1456336952.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "5cbd0af56981a64039c649172a2f3ab506949eef"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "5cbd0af56981a64039c649172a2f3ab506949eef",
+    "AuthorDate": "Wed Feb 24 19:02:32 2016 +0100",
+    "CommitDate": "Wed Feb 24 19:02:32 2016 +0100",
+    "message": "[git] Add 'encoding' option to log() method",
+    "analysis": {
+      "loc_analyzed": 2032,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433958.61061,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "90569719be028d408e5aba4bd46534a33507d71e",
+  "updated_on": 1456339283.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "13f43a030dd9410b543e47c28d10ccdcff5c95a1"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "13f43a030dd9410b543e47c28d10ccdcff5c95a1",
+    "AuthorDate": "Wed Feb 24 19:41:23 2016 +0100",
+    "CommitDate": "Wed Feb 24 19:41:23 2016 +0100",
+    "message": "[git] Add parse_git_log_from_repository() static method",
+    "analysis": {
+      "loc_analyzed": 2048,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433959.457087,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "a04e9f669dd0591930be83b322300a73a849b062",
+  "updated_on": 1456343552.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "1427422c845e12eb6318040843c286002d3a79aa"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "1427422c845e12eb6318040843c286002d3a79aa",
+    "AuthorDate": "Wed Feb 24 20:49:40 2016 +0100",
+    "CommitDate": "Wed Feb 24 20:52:32 2016 +0100",
+    "message": "[git] Support to fetch commits from a Git repository\n\nWith this patch, the backend can clone a repository and\nfetch its commits. The backend uses a instance of\nGitRepository to execute all the commands needed to get\nand parse the log.\n\nGit backend still supports to fetch the commits from a\ngit log file.",
+    "analysis": {
+      "loc_analyzed": 2081,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433960.265271,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "992e7c1a048144a19be9940a6bb85db3eebd78c1",
+  "updated_on": 1456344941.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "39a44579c2834fc225a34552d593614359344538"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "39a44579c2834fc225a34552d593614359344538",
+    "AuthorDate": "Wed Feb 24 21:15:41 2016 +0100",
+    "CommitDate": "Wed Feb 24 21:15:41 2016 +0100",
+    "message": "[git] Update parser to parse a log from an iterator",
+    "analysis": {
+      "loc_analyzed": 2079,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433960.961852,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "467b1998f5346c1c18960d6af5496cbb89bd489f",
+  "updated_on": 1456346158.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "15b58c4ae7e489a7585cc79d72a71075579e0932"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "15b58c4ae7e489a7585cc79d72a71075579e0932",
+    "AuthorDate": "Wed Feb 24 21:35:58 2016 +0100",
+    "CommitDate": "Wed Feb 24 21:35:58 2016 +0100",
+    "message": "[git] Add 'from_date' parameter to fetch() method\n\nThis parameter only works when the log is parsed from\na repository and not from a file.",
+    "analysis": {
+      "loc_analyzed": 2088,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433961.695884,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "41bba0bfe8efdc07466eef6095020f121df0ada0",
+  "updated_on": 1456346414.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "542948e96a541117d8e1dc1747f6c0dc260a59d6"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "542948e96a541117d8e1dc1747f6c0dc260a59d6",
+    "AuthorDate": "Wed Feb 24 21:40:14 2016 +0100",
+    "CommitDate": "Wed Feb 24 21:40:14 2016 +0100",
+    "message": "[git] Add --from-date option to GitCommand class",
+    "analysis": {
+      "loc_analyzed": 2089,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433962.406131,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "18ec7c974c0855e3d1c287bd8ac5889cfb2d8a24",
+  "updated_on": 1456346877.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "86123fde55332f5a9099199211e4db837f810fbc"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "86123fde55332f5a9099199211e4db837f810fbc",
+    "AuthorDate": "Wed Feb 24 21:47:57 2016 +0100",
+    "CommitDate": "Wed Feb 24 21:47:57 2016 +0100",
+    "message": "Add to README an example to run Git backend with a repository",
+    "analysis": {
+      "loc_analyzed": 2089,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433963.162987,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "4eb2637ed910a386298143f9738c2bb7b4773524",
+  "updated_on": 1456421702.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "bbfe8ea08e68f14f82dfa126b30fe9b1c0f0fd56"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "bbfe8ea08e68f14f82dfa126b30fe9b1c0f0fd56",
+    "AuthorDate": "Tue Feb 23 18:27:37 2016 +0100",
+    "CommitDate": "Thu Feb 25 18:35:02 2016 +0100",
+    "message": "[jira] Add backend implementation",
+    "analysis": {
+      "loc_analyzed": 2333,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433963.910745,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "e8fbd4f1cad3e8e5067ca20901ecfaddb4f2b8c5",
+  "updated_on": 1456421702.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "7f0d97bb3e7d72cf4b1575891bb4a5c9ae2dc806"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "7f0d97bb3e7d72cf4b1575891bb4a5c9ae2dc806",
+    "AuthorDate": "Wed Feb 24 12:56:16 2016 +0100",
+    "CommitDate": "Thu Feb 25 18:35:02 2016 +0100",
+    "message": "[jira] Remove non used imports/variables",
+    "analysis": {
+      "loc_analyzed": 2331,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433964.656894,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "d0018251f06b326898afb5ee1d66a157b77462b3",
+  "updated_on": 1456421702.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "6acebbf4b42a12426579da9406135c756bb4aa1e"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "6acebbf4b42a12426579da9406135c756bb4aa1e",
+    "AuthorDate": "Wed Feb 24 13:09:44 2016 +0100",
+    "CommitDate": "Thu Feb 25 18:35:02 2016 +0100",
+    "message": "[jira] Raise exception when having certificate issues",
+    "analysis": {
+      "loc_analyzed": 2334,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433965.403623,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "66dd40b1b9dadcd17d8306fe7f4426e705f69eda",
+  "updated_on": 1456421702.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "5cd1b6c13a34c106ef0557944bf526038574c850"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "5cd1b6c13a34c106ef0557944bf526038574c850",
+    "AuthorDate": "Wed Feb 24 13:29:42 2016 +0100",
+    "CommitDate": "Thu Feb 25 18:35:02 2016 +0100",
+    "message": "[jira] Move JIRA's url required argument as positional argument",
+    "analysis": {
+      "loc_analyzed": 2333,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433966.158031,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "70122c271f5e8d1e6df0babdb90483df1f08ad42",
+  "updated_on": 1456421702.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "c1fd477a6a435ada5bba4aa6823ff2eb51920e4e"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "c1fd477a6a435ada5bba4aa6823ff2eb51920e4e",
+    "AuthorDate": "Thu Feb 25 15:40:35 2016 +0100",
+    "CommitDate": "Thu Feb 25 18:35:02 2016 +0100",
+    "message": "[jira] Remove backend prefix from client parameters",
+    "analysis": {
+      "loc_analyzed": 2333,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433966.928246,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "fddbf6392714d028d0aa4ebec250eb94d327ce77",
+  "updated_on": 1456421702.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "1a080ff5ad675171ddb755dd560d201acf44bb45"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "1a080ff5ad675171ddb755dd560d201acf44bb45",
+    "AuthorDate": "Thu Feb 25 15:43:47 2016 +0100",
+    "CommitDate": "Thu Feb 25 18:35:02 2016 +0100",
+    "message": "[jira] Add user and password parameters to documentation",
+    "analysis": {
+      "loc_analyzed": 2335,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433967.687753,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "9a6b7a09fd6ce0e4a2b87e7b1777ce48ed886d6b",
+  "updated_on": 1456421702.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "b56ac09375925ca21a5403b0710189dc5540638c"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "b56ac09375925ca21a5403b0710189dc5540638c",
+    "AuthorDate": "Thu Feb 25 15:57:12 2016 +0100",
+    "CommitDate": "Thu Feb 25 18:35:02 2016 +0100",
+    "message": "[jira] Fix expression operand",
+    "analysis": {
+      "loc_analyzed": 2335,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433968.44831,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "2a41508d22c15c39fecbc42cbbed6fb9fd5266dd",
+  "updated_on": 1456421702.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "5cb111b40a19b45ab48c1a5f70a69b0cfeb4ff6d"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "5cb111b40a19b45ab48c1a5f70a69b0cfeb4ff6d",
+    "AuthorDate": "Thu Feb 25 17:01:21 2016 +0100",
+    "CommitDate": "Thu Feb 25 18:35:02 2016 +0100",
+    "message": "[jira] Move import together with third party libraries",
+    "analysis": {
+      "loc_analyzed": 2335,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433969.180676,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "c8467acfe6ad203ec8047c971dd85c279d234371",
+  "updated_on": 1456421851.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "3c7bb99728b91b6fb544d1cfb70521af3026aaeb"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "3c7bb99728b91b6fb544d1cfb70521af3026aaeb",
+    "Merge": "86123fd 5cb111b",
+    "AuthorDate": "Thu Feb 25 18:37:31 2016 +0100",
+    "CommitDate": "Thu Feb 25 18:37:31 2016 +0100",
+    "message": "Merge branch 'jira' of 'git://github.com/albertinisg/perceval.git'\n\nMerges #14\nCloses #9\nCloses #14",
+    "analysis": {
+      "loc_analyzed": 2335,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433969.955843,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "732d24bd6c83520cabe7e119de7fb8d9927c24e3",
+  "updated_on": 1456423332.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "55f118f929e7217cb0b2d98e14f53512cdf36ec0"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "55f118f929e7217cb0b2d98e14f53512cdf36ec0",
+    "AuthorDate": "Wed Feb 24 13:40:03 2016 +0100",
+    "CommitDate": "Thu Feb 25 19:02:12 2016 +0100",
+    "message": "[github] Fix lint issues and unused imports",
+    "analysis": {
+      "loc_analyzed": 2333,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433970.743604,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "6783863c914d994bd691c9356b0bded418f97429",
+  "updated_on": 1456423332.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "e156a106b941b4a0b2fa83e2c66dac439e94d003"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "e156a106b941b4a0b2fa83e2c66dac439e94d003",
+    "AuthorDate": "Wed Feb 24 13:57:56 2016 +0100",
+    "CommitDate": "Thu Feb 25 19:02:12 2016 +0100",
+    "message": "[github] Make functions private using double underscore",
+    "analysis": {
+      "loc_analyzed": 2333,
+      "num_vulns": 15,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 6
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 15
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433971.531382,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "08d391192a378334988fe8f59fd52a652131abf6",
+  "updated_on": 1456423332.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "d028cc2d583ecc32d33b6c5eec9eb15e4a29ef7f"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "d028cc2d583ecc32d33b6c5eec9eb15e4a29ef7f",
+    "AuthorDate": "Wed Feb 24 14:00:51 2016 +0100",
+    "CommitDate": "Thu Feb 25 19:02:12 2016 +0100",
+    "message": "[github] Use verified requests",
+    "analysis": {
+      "loc_analyzed": 2329,
+      "num_vulns": 11,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 2
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 11
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433972.274214,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "5a47417e50b73fc8b7827e564b1e7cf99d3462e3",
+  "updated_on": 1456423332.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "9017891cb514b5b557d10063d473788bb0b8689f"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "9017891cb514b5b557d10063d473788bb0b8689f",
+    "AuthorDate": "Wed Feb 24 14:19:45 2016 +0100",
+    "CommitDate": "Thu Feb 25 19:02:12 2016 +0100",
+    "message": "[github] Requests small refactorization",
+    "analysis": {
+      "loc_analyzed": 2336,
+      "num_vulns": 11,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 2
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 11
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433973.025734,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "cee4add86a613794533e42d195d68d07982d3360",
+  "updated_on": 1456423345.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "717f03b4e39551457c9918a546e20c625fc4793d"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "717f03b4e39551457c9918a546e20c625fc4793d",
+    "AuthorDate": "Wed Feb 24 14:23:23 2016 +0100",
+    "CommitDate": "Thu Feb 25 19:02:25 2016 +0100",
+    "message": "[github] Raise exception when getting 4xx/5xx error responses",
+    "analysis": {
+      "loc_analyzed": 2342,
+      "num_vulns": 11,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 2
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 11
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433973.768374,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "811322a326625a54c0b7e7851f545efbd3689ed9",
+  "updated_on": 1456423354.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "2d2cd2d13b890c938d2be4e2095acab1fafa1ee0"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "2d2cd2d13b890c938d2be4e2095acab1fafa1ee0",
+    "AuthorDate": "Wed Feb 24 14:36:30 2016 +0100",
+    "CommitDate": "Thu Feb 25 19:02:34 2016 +0100",
+    "message": "[github] Use token param from Backend and set to not mandatory",
+    "analysis": {
+      "loc_analyzed": 2342,
+      "num_vulns": 11,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 2
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 11
+      }
+    }
+  }
+}{
+  "backend_name": "CoVuln",
+  "backend_version": "0.3.0",
+  "graal_version": "0.2.9",
+  "timestamp": 1640433974.512761,
+  "origin": "http://github.com/chaoss/grimoirelab-perceval",
+  "uuid": "b5e0fe33338890ae96370d9ed3038f4dfd24b468",
+  "updated_on": 1456423378.0,
+  "classified_fields_filtered": null,
+  "category": "code_vulnerabilities",
+  "search_fields": {
+    "item_id": "18b791688a110abbf670f88852f3f65fd33dbde0"
+  },
+  "tag": "http://github.com/chaoss/grimoirelab-perceval",
+  "data": {
+    "commit": "18b791688a110abbf670f88852f3f65fd33dbde0",
+    "AuthorDate": "Thu Feb 25 16:51:44 2016 +0100",
+    "CommitDate": "Thu Feb 25 19:02:58 2016 +0100",
+    "message": "[github] Keep parameter in client as token",
+    "analysis": {
+      "loc_analyzed": 2342,
+      "num_vulns": 11,
+      "by_severity": {
+        "undefined": 0,
+        "low": 5,
+        "medium": 4,
+        "high": 2
+      },
+      "by_confidence": {
+        "undefined": 0,
+        "low": 0,
+        "medium": 0,
+        "high": 11
+      }
+    }
+  }
+}
