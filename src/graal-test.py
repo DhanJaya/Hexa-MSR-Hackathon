@@ -9,7 +9,7 @@ directory = "/tmp/grimoirelab-perceval"
 
 # The repository should be mirrored to a new directory.
 # If the repository already exists in the given path it won't be mirrored.
-# As a result of the above the worktree won't be crated.
+# As a result of the above the worktree won't be created.
 if os.path.exists(directory):
     shutil.rmtree(directory)
 
