@@ -12,7 +12,7 @@ if os.path.exists(directory):
     shutil.rmtree(directory)
 
 repo_uri = 'https://github.com/' + owner + '/' + repo
-co_vuln = CoVuln(uri=repo_uri, entrypoint='/tmp/worktrees', git_path=directory)
+co_vuln = CoVuln(uri=repo_uri, entrypoint='/tmp/worktrees/'+repo, git_path=directory)
 items = co_vuln.fetch()
 for commit in items:
     print(commit['data']['analysis'])
