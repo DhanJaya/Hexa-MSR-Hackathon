@@ -4,20 +4,31 @@ import shutil
 
 from graal.backends.core.covuln import CoVuln
 
-repo_uri = "https://github.com/chaoss/grimoirelab-perceval"
-directory = "/tmp/grimoirelab-perceval"
+owner = 'chaoss'
+repo = 'grimoirelab-graal'
+directory = '/tmp/' + repo
 
-# The repository should be mirrored to a new directory.
-# If the repository already exists in the given path it won't be mirrored.
-# As a result of the above the worktree won't be created.
-if os.path.exists(directory):
-    shutil.rmtree(directory)
 
-# Entry point should be one of the modules in the project that we need to analyse, for example src/main
-co_vuln = CoVuln(uri=repo_uri, entrypoint="perceval", git_path=directory)
+def remove_directories():
+    if os.path.exists(directory):
+        shutil.rmtree(directory)
+        print('Removed: '+directory)
+    if os.path.exists('/tmp/worktrees'):
+        shutil.rmtree('/tmp/worktrees')
+        print('Removed: /tmp/worktrees')
 
+
+# Remove directories in case they already exist
+remove_directories()
+
+repo_uri = 'https://github.com/' + owner + '/' + repo
+co_vuln = CoVuln(uri=repo_uri, entrypoint='/tmp/worktrees/' + repo, git_path=directory)
 items = co_vuln.fetch()
 for commit in items:
     print(commit['data']['analysis'])
     with open('vulns.json', 'a') as j:
         json.dump(commit, j)
+
+remove_directories()
+
+
