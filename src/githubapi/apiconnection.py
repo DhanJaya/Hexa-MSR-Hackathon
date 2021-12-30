@@ -37,7 +37,7 @@ def graphql_query_template(query):
 
 
 def get_open_source_repos():
-    query = '{ search(query: "is:public stars:>=100 created:2011-01-01..2021-01-01", type: REPOSITORY, first: 100) ' \
+    query = '{ search(query: "is:public stars:>=100 created:2011-01-01..2021-01-01 languages:Python", type: REPOSITORY, first: 100) ' \
             '{ nodes { ... on Repository { isFork url pullRequests { totalCount } } } pageInfo { ' \
             'hasNextPage endCursor startCursor } } }'
     repo_urls = []
@@ -55,47 +55,34 @@ def extract_open_source_repo_urls(repo_urls, query):
                     print(repo['url'])
         if search_result['pageInfo']['hasNextPage']:
             end_cursor = search_result['pageInfo']['endCursor']
-            query = '{ search(query: "is:public stars:>=100 created:2011-01-01..2021-01-01", type: REPOSITORY,' \
+            query = '{ search(query: "is:public stars:>=100 created:2011-01-01..2021-01-01 languages:Python", type: REPOSITORY,' \
                     ' first: 100, after: "%s") ' \
                     '{ nodes { ... on Repository { isFork url pullRequests { totalCount } } } pageInfo { ' \
                     'hasNextPage endCursor startCursor } } }'% (end_cursor)
             extract_open_source_repo_urls(repo_urls, query)
 
 
-# def get_cross_reference_issues_for_pr(url):
-#     repo_owner = extract_owner_repo_name_from_url(url)
-#     pr_cross_ref_event_query = '{ repository(name: "%s", owner: "%s") { pullRequest(number:%s) { timelineItems(first:' \
-#                                ' 100, itemTypes: [CONNECTED_EVENT, CROSS_REFERENCED_EVENT]) { pageInfo { hasNextPage' \
-#                                ' endCursor } pageCount nodes { ... on ConnectedEvent { source { ... on Issue { url ' \
-#                                'bodyHTML comments(first: 100) { nodes { bodyHTML } pageInfo { endCursor hasNextPage } ' \
-#                                '} } ... on PullRequest { url bodyHTML comments(first: 100) { nodes { bodyHTML } ' \
-#                                'pageInfo { endCursor hasNextPage } } } } } ... on CrossReferencedEvent { source { ...' \
-#                                ' on Issue { url bodyHTML comments(first: 100) { nodes { bodyHTML } pageInfo { endCursor' \
-#                                ' hasNextPage } } } ... on PullRequest { url bodyHTML comments(first: 100) { nodes { ' \
-#                                'bodyHTML } pageInfo { endCursor hasNextPage } } } } } } } } } } ' % (
-#                                    repo_owner['repo'], repo_owner['owner'], repo_owner['number'])
-#
-#     cross_reference_issues = []
-#     extract_cross_reference_issues_for_pr(cross_reference_issues, pr_cross_ref_event_query, repo_owner, url)
-#     helper.drop_duplicates(cross_reference_issues)
-#     return helper.drop_duplicates(cross_reference_issues)
-#
-#
-# def extract_cross_reference_issues_for_pr(cross_reference_issues, pr_cross_ref_event_query, repo_owner, url):
-#     response = graphql_query_temp(pr_cross_ref_event_query)
-#     time_line_items = response['data']['repository']['pullRequest']['timelineItems']
-#     if len(time_line_items['nodes']) > 0:
-#         extract_linked_issue_from_response(cross_reference_issues, time_line_items, url)
-#     if time_line_items['pageInfo']['hasNextPage']:
-#         end_cursor = time_line_items['pageInfo']['endCursor']
-#         query = '{ repository(name: "%s", owner: "%s") { pullRequest(number:%s) { timelineItems(first:' \
-#                 ' 100, after: "%s", itemTypes: [CONNECTED_EVENT, CROSS_REFERENCED_EVENT]) { pageInfo { hasNextPage' \
-#                 ' endCursor } pageCount nodes { ... on ConnectedEvent { source { ... on Issue { url ' \
-#                 'bodyHTML comments(first: 100) { nodes { bodyHTML } pageInfo { endCursor hasNextPage } ' \
-#                 '} } ... on PullRequest { url bodyHTML comments(first: 100) { nodes { bodyHTML } ' \
-#                 'pageInfo { endCursor hasNextPage } } } } } ... on CrossReferencedEvent { source { ...' \
-#                 ' on Issue { url bodyHTML comments(first: 100) { nodes { bodyHTML } pageInfo { endCursor' \
-#                 ' hasNextPage } } } ... on PullRequest { url bodyHTML comments(first: 100) { nodes { ' \
-#                 'bodyHTML } pageInfo { endCursor hasNextPage } } } } } } } } } } ' % (
-#                     repo_owner['repo'], repo_owner['owner'], repo_owner['number'], end_cursor)
-#         extract_cross_reference_issues_for_pr(cross_reference_issues, query, repo_owner, url)
+def retrieve_pull_requests_with_details(repository_url):
+    pull_request_details = {}
+    repo_owner = extract_owner_repo_name_from_url(repository_url)
+    query = 'query { repository(name: "%s", owner: "%s") { pullRequests(first: 100) { ' \
+            'pageInfo { hasNextPage endCursor } nodes { number id participants { totalCount } reviewThreads(first: ' \
+            '100) { totalCount nodes { isResolved } pageInfo { hasNextPage endCursor } } reviews { totalCount } ' \
+            'state commits { totalCount } createdAt mergedAt merged assignees { totalCount } } } } }'% \
+            (repo_owner['repo'], repo_owner['owner'])
+    response = graphql_query_template(query)
+    if len(response) > 0:
+        search_result = response['data']['repository']['pullRequests']
+        if len(search_result['nodes']) > 0:
+            for node in search_result['nodes']:
+                pull_request_details[node['number']] = node
+                print(pull_request_details[node['number']])
+
+
+
+
+
+def extract_owner_repo_name_from_url(url):
+    repo_owner_details = url.split('https://github.com/', 1)[1]
+    repo_owner = {'owner': repo_owner_details.split('/')[0], 'repo': repo_owner_details.split('/')[1]}
+    return repo_owner
