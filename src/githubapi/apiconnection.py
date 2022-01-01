@@ -3,6 +3,7 @@ import os.path
 import time
 from datetime import datetime
 import csv
+import util.helper as help
 
 
 def get_git_auth_token():
@@ -13,7 +14,7 @@ def get_git_auth_token():
 def graphql_query_template(query):
     url = 'https://api.github.com/graphql'
     json = {'query': query}
-    api_token = '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'#get_git_auth_token()
+    api_token = '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'
     headers = {'Authorization': 'token %s' % api_token}
     no_of_tries = 0
     try:
@@ -44,6 +45,7 @@ def get_open_source_repos():
     repo_urls = []
     extract_open_source_repo_urls(repo_urls, query)
     print("Count " + str(len(repo_urls)))
+    return repo_urls
 
 
 def extract_open_source_repo_urls(repo_urls, query):
@@ -53,9 +55,6 @@ def extract_open_source_repo_urls(repo_urls, query):
         print('Repository count ' + str(search_result['repositoryCount']))
         if len(search_result['nodes']) > 0:
             for repo in search_result['nodes']:
-               # repo_urls.append(repo['url'])
-                #print(repo['url'])
-                #repo_urls.append(repo['url'])
                 if not repo['isFork'] and repo['pullRequests']['totalCount'] >= 10 and repo['stargazerCount'] >=10:
                      repo_urls.append(repo['url'])
                      print(repo['url'])
@@ -70,16 +69,17 @@ def extract_open_source_repo_urls(repo_urls, query):
 
 def retrieve_pull_requests_with_details(repository_url):
     pull_request_details = {}
-    repo_owner = extract_owner_repo_name_from_url(repository_url)
+    repo_owner = help.extract_owner_repo_name_from_url(repository_url)
     query = 'query { repository(name: "%s", owner: "%s") { pullRequests(first: 100) { ' \
             'pageInfo { hasNextPage endCursor } nodes { number id participants { totalCount } reviewThreads(first: ' \
             '100) { totalCount nodes { isResolved } pageInfo { hasNextPage endCursor } } reviews { totalCount } ' \
             'state commits (first: 100) { totalCount nodes { commit { oid committedDate authoredDate} } } createdAt mergedAt merged assignees { totalCount } } } } }'% \
             (repo_owner['repo'], repo_owner['owner'])
-    retrieve_pull_request_iteratively(query, repo_owner)
+    retrieve_pull_request_iteratively(query, repo_owner, pull_request_details)
+    return pull_request_details
 
 
-def retrieve_pull_request_iteratively(query, repo_owner):
+def retrieve_pull_request_iteratively(query, repo_owner, pull_request_details):
     response = graphql_query_template(query)
     if len(response) > 0:
         search_result = response['data']['repository']['pullRequests']
@@ -87,14 +87,23 @@ def retrieve_pull_request_iteratively(query, repo_owner):
             for node in search_result['nodes']:
                 if node['participants']['totalCount'] > 1 and node['reviewThreads']['totalCount'] > 0 and \
                         node['reviews']['totalCount'] > 1:
-                    for commit_node in node['commits']['nodes']:
-                        print('commit hash ' + commit_node['commit']['oid'] + ' commit date ' +
-                              commit_node['commit']['committedDate'] + ' authored date ' + commit_node['commit']['authoredDate'])
-                    print('pull request ' + str(node['number']))
-                    print('created at ' + node['createdAt'])
-                    if node['merged']:
-                        print('merged at ' + node['mergedAt'])
-                # pull_request_details[node['number']] = node
+                    if len(node['commits']['nodes']) > 1 and len(node['commits']['nodes']) < 100 :
+                        commits = {}
+                        for commit_node in node['commits']['nodes']:
+                            print('commit hash ' + commit_node['commit']['oid'] + ' commit date ' +
+                                  commit_node['commit']['committedDate'] + ' authored date ' + commit_node['commit']['authoredDate'])
+                            commits[commit_node['commit']['oid']] = {'commit_date' :
+                                                                    commit_node['commit']['committedDate'],
+                                                                    'author_date':commit_node['commit']['authoredDate']}
+                        print('pull request ' + str(node['number']))
+                        print('created at ' + node['createdAt'])
+                        if node['merged']:
+                            print('merged at ' + node['mergedAt'])
+                            pull_request_details[node['number']] = {'number': node['number'], 'createdAt':
+                                node['createdAt'], 'merged':  node['mergedAt'], 'commits': commits}
+                        else:
+                            pull_request_details[node['number']] = {'number': node['number'], 'createdAt':
+                                node['createdAt'], 'commits': commits }
         if search_result['pageInfo']['hasNextPage']:
             end_cursor = search_result['pageInfo']['endCursor']
             query = 'query { repository(name: "%s", owner: "%s") { pullRequests(first: 100, after: "%s") { ' \
@@ -105,7 +114,4 @@ def retrieve_pull_request_iteratively(query, repo_owner):
             retrieve_pull_request_iteratively(query, repo_owner)
 
 
-def extract_owner_repo_name_from_url(url):
-    repo_owner_details = url.split('https://github.com/', 1)[1]
-    repo_owner = {'owner': repo_owner_details.split('/')[0], 'repo': repo_owner_details.split('/')[1]}
-    return repo_owner
+
