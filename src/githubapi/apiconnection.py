@@ -7,14 +7,14 @@ import util.helper as help
 
 
 def get_git_auth_token():
-    file = open('../GithubAuthToken.txt', "r")
+    file = open('D:\PhD\workspace\PycharmProjects\Hexa-MSR-Hackathon\GithubAuthToken.txt', "r")
     return file.read().strip()
 
 
 def graphql_query_template(query):
     url = 'https://api.github.com/graphql'
     json = {'query': query}
-    api_token = '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'
+    api_token = get_git_auth_token()
     headers = {'Authorization': 'token %s' % api_token}
     no_of_tries = 0
     try:
@@ -37,7 +37,7 @@ def graphql_query_template(query):
             print("Exception occurred retry in 5 seconds {}".format(exception))
             time.sleep(5)
 
-#stars:>=10  created:2001-01-01..2021-01-01 is:public
+
 def get_open_source_repos():
     query = '{ search(query: "is:public created:2011-01-01..2012-01-01 language:java stars:>=10", type: REPOSITORY, first: 100) ' \
             '{repositoryCount nodes { ... on Repository { isFork url stargazerCount pullRequests { totalCount } } } pageInfo { ' \
@@ -111,7 +111,7 @@ def retrieve_pull_request_iteratively(query, repo_owner, pull_request_details):
                     '100) { totalCount nodes { isResolved } pageInfo { hasNextPage endCursor } } reviews { totalCount } ' \
                     'state commits (first: 100) { totalCount nodes { commit { oid committedDate authoredDate} } } createdAt mergedAt merged assignees { totalCount } } } } }' % \
                     (repo_owner['repo'], repo_owner['owner'], end_cursor)
-            retrieve_pull_request_iteratively(query, repo_owner)
+            retrieve_pull_request_iteratively(query, repo_owner, pull_request_details)
 
 
 
