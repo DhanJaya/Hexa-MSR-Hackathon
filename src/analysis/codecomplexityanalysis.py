@@ -62,3 +62,4 @@ def run_graal_analysis(url, start_date, end_date, commits):
     #     json.dump(commit, j)
     file1.close()
     remove_directories(directory)
+    return commit_analysis
