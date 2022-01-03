@@ -17,7 +17,7 @@ def main():
 
                 commit_analysis = cocom_analysis.run_graal_analysis(url, start_date, end_date, detail['commits'].keys())
                 if commit_analysis is not None and len(commit_analysis) > 0:
-                    for commit, analysis in commit_analysis:
+                    for commit, analysis in commit_analysis.items():
                         append_to_file(url, number, commit,  analysis)
 
 
