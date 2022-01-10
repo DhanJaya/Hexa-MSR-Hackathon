@@ -100,10 +100,14 @@ def retrieve_pull_request_iteratively(query, repo_owner, pull_request_details):
                         if node['merged']:
                             print('merged at ' + node['mergedAt'])
                             pull_request_details[node['number']] = {'number': node['number'], 'createdAt':
-                                node['createdAt'], 'merged':  node['mergedAt'], 'commits': commits}
+                                node['createdAt'], 'merged':  node['mergedAt'], 'commits': commits, 'participants':
+                                node['participants']['totalCount'], 'reviewThreads':
+                                node['reviewThreads']['totalCount'], 'totalReviews': node['reviews']['totalCount']}
                         else:
                             pull_request_details[node['number']] = {'number': node['number'], 'createdAt':
-                                node['createdAt'], 'commits': commits }
+                                node['createdAt'], 'commits': commits, 'participants':
+                                node['participants']['totalCount'], 'reviewThreads':
+                                node['reviewThreads']['totalCount'], 'totalReviews': node['reviews']['totalCount']}
         if search_result['pageInfo']['hasNextPage']:
             end_cursor = search_result['pageInfo']['endCursor']
             query = 'query { repository(name: "%s", owner: "%s") { pullRequests(first: 100, after: "%s") { ' \

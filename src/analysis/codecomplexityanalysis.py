@@ -31,7 +31,6 @@ def run_graal_analysis(url, start_date, end_date, commits):
     #                              tzinfo=dateutil.tz.tzutc())
     from_date = datetime.datetime.strptime(start_date, "%Y-%m-%dT%H:%M:%SZ")
     days = datetime.timedelta(1)
-
     new_from_date = from_date - days
     # 2017-04-28T18:20:56Z
     #to_date = datetime.datetime(2019, 10, 8, 00, 00, 00,
@@ -43,23 +42,18 @@ def run_graal_analysis(url, start_date, end_date, commits):
     print('Scanning repositories.....')
     items = cocom.fetch(from_date=new_from_date, to_date=to_date)
 
-    file1 = open("myfile4.txt", "a")
     commit_analysis = {}
-    for commit in items:
+    try:
+        for commit in items:
+            if commit['data']['commit'] in commits:
+                print(commit['data']['commit'] + ", ")
+                print(commit['search_fields']['item_id'] + ", ")
+                print(commit['data']['AuthorDate'] + ", ")
+                print(commit['data']['analysis'])
+                print('_________________________________________________________________________________')
+                commit_analysis[commit['data']['commit']] = commit['data']['analysis']
+    except Exception as exe:
+        print('Error occurred in {} : {}'.format(url, exe))
 
-        if commit['data']['commit'] in commits:
-            print(commit['data']['commit'] + ", ")
-            print(commit['search_fields']['item_id'] + ", ")
-            print(commit['data']['AuthorDate'] + ", ")
-            print(commit['data']['analysis'])
-            print('_________________________________________________________________________________')
-            commit_analysis[commit['data']['commit']] = commit['data']['analysis']
-    #  file1.write(commit['data']['commit'] + ", ")
-    # file1.write(commit['data']['AuthorDate'] + ", ")
-    # file1.write(json.dumps(commit['data']['analysis']))
-    # file1.write('\n')
-    # with open('vulns.json', 'a') as j:
-    #     json.dump(commit, j)
-    file1.close()
     remove_directories(directory)
     return commit_analysis
