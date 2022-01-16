@@ -28,15 +28,15 @@ def remove_directories():
 # Remove directories in case they already exist
 remove_directories()
 #2017-01-18T07:01:56Z
-from_date = datetime.datetime(2017, 1, 17, 00, 00, 00,
+from_date = datetime.datetime(2020, 3, 2, 00, 00, 00,
                               tzinfo=dateutil.tz.tzutc())
 #2017-04-28T18:20:56Z
-to_date = datetime.datetime(2017, 4, 29, 00, 00, 00,
+to_date = datetime.datetime(2020, 3, 4, 00, 00,00,
                                      tzinfo=dateutil.tz.tzutc())
 
 repo_uri = 'https://github.com/' + owner + '/' + repo
 cocom = CoCom(uri=repo_uri, git_path=directory)
-items = cocom.fetch()
+items = cocom.fetch(from_date=from_date, to_date=to_date)
 
 
 file1 = open("myfile1.txt","a")
@@ -46,10 +46,10 @@ for commit in items:
     print(commit['data']['commit'] + ", ")
     print(commit['data']['AuthorDate'] + ", ")
     print(commit['data']['analysis'] )
-    file1.write(commit['data']['commit'] + ", ")
-    file1.write(commit['data']['AuthorDate'] + ", ")
-    file1.write(json.dumps(commit['data']['analysis']))
-    file1.write('\n')
+    # file1.write(commit['data']['commit'] + ", ")
+    # file1.write(commit['data']['AuthorDate'] + ", ")
+    # file1.write(json.dumps(commit['data']['analysis']))
+    # file1.write('\n')
     # with open('vulns.json', 'a') as j:
     #     json.dump(commit, j)
 file1.close()
