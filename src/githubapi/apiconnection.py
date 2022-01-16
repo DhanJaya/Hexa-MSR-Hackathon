@@ -86,7 +86,8 @@ def retrieve_pull_request_iteratively(query, repo_owner, pull_request_details):
         search_result = response['data']['repository']['pullRequests']
         if len(search_result['nodes']) > 0:
             for node in search_result['nodes']:
-                if node['participants']['totalCount'] > 1 and (node['reviews']['totalCount'] >= 2 or node['comments']['totalCount'] > 2):
+                if node['participants']['totalCount'] > 1 and (node['reviews']['totalCount'] >= 2 or
+                                                               node['comments']['totalCount'] >= 2):
                     if len(node['commits']['nodes']) > 2 and len(node['commits']['nodes']) < 100 :
                         commits = {}
                         if node['headRepository'] is not None and node['headRepository']['url'] is not None:# and node['reviewDecision'] == 'APPROVED':
