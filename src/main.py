@@ -1,4 +1,5 @@
 import csv
+import os
 import pandas as pd
 
 import githubapi.apiconnection as apiconnection
@@ -33,8 +34,11 @@ def main():
 
 
 def add_pr_details_to_csv(repo, pr_no, fork, start_date, end_date, commits, participants):
+    file_exist = os.path.exists('/mnt/d/hackathon/prdata.csv')
     with open('/mnt/d/hackathon/prdata.csv', 'a', newline='') as csv_file:
         writer = csv.writer(csv_file)
+        if not file_exist:
+            writer.writerow(['Repo', 'PullRequest', 'Fork', 'Start_date', 'End_date', 'Commits', 'Participants'])
         writer.writerow([repo, pr_no, fork, start_date, end_date, commits, participants])
 
 def append_to_file(url, pr_number, participants, commit_hash, analysis):

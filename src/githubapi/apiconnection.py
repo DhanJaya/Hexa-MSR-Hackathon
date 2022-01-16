@@ -89,11 +89,9 @@ def retrieve_pull_request_iteratively(query, repo_owner, pull_request_details):
                 if node['participants']['totalCount'] > 1 and (node['reviews']['totalCount'] >= 2 or node['comments']['totalCount'] > 2):
                     if len(node['commits']['nodes']) > 2 and len(node['commits']['nodes']) < 100 :
                         commits = {}
-                        if node['headRepository'] is not None and node['headRepository']['url'] is not None and node['reviewDecision'] == 'APPROVED':
-                            pull_request_details[node['number']]['headRepository'] = node['headRepository']['url']
+                        if node['headRepository'] is not None and node['headRepository']['url'] is not None:# and node['reviewDecision'] == 'APPROVED':
                             print('headRepository ' + node['headRepository']['url'])
                             print('pull request ' + str(node['number']))
-                            print('created at ' + node['createdAt'])
                             for commit_node in node['commits']['nodes']:
                                 print('commit hash ' + commit_node['commit']['oid'] + ' commit date ' +
                                       commit_node['commit']['committedDate'] + ' authored date ' +
