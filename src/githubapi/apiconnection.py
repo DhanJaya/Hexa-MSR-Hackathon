@@ -70,10 +70,11 @@ def extract_open_source_repo_urls(repo_urls, query):
 def retrieve_pull_requests_with_details(repository_url):
     pull_request_details = {}
     repo_owner = help.extract_owner_repo_name_from_url(repository_url)
-    query = 'query { repository(name: "%s", owner: "%s") { pullRequests(first: 100) { ' \
-            'pageInfo { hasNextPage endCursor } nodes { number id participants { totalCount } reviewThreads(first: ' \
-            '100) { totalCount nodes { isResolved } pageInfo { hasNextPage endCursor } } reviews { totalCount } ' \
-            'state commits (first: 100) { totalCount nodes { commit { oid committedDate authoredDate} } } createdAt mergedAt merged assignees { totalCount } } } } }'% \
+    query = 'query { repository(name: "%s", owner: "%s") { pullRequests(first: 100, states: MERGED) { ' \
+            'pageInfo { hasNextPage endCursor } nodes { number id participants { totalCount }' \
+            'comments { totalCount } reviews { totalCount } reviewDecision ' \
+            ' commits (first: 100) { totalCount nodes { commit { oid committedDate authoredDate} } } ' \
+            ' headRepository { url } } } } }'% \
             (repo_owner['repo'], repo_owner['owner'])
     retrieve_pull_request_iteratively(query, repo_owner, pull_request_details)
     return pull_request_details
@@ -81,39 +82,40 @@ def retrieve_pull_requests_with_details(repository_url):
 
 def retrieve_pull_request_iteratively(query, repo_owner, pull_request_details):
     response = graphql_query_template(query)
-    if len(response) > 0:
+    if response is not None and len(response) > 0:
         search_result = response['data']['repository']['pullRequests']
         if len(search_result['nodes']) > 0:
             for node in search_result['nodes']:
-                if node['participants']['totalCount'] > 1 and node['reviewThreads']['totalCount'] > 0 and \
-                        node['reviews']['totalCount'] > 1:
-                    if len(node['commits']['nodes']) > 1 and len(node['commits']['nodes']) < 100 :
+                if node['participants']['totalCount'] > 1 and (node['reviews']['totalCount'] >= 2 or node['comments']['totalCount'] > 2):
+                    if len(node['commits']['nodes']) > 2 and len(node['commits']['nodes']) < 100 :
                         commits = {}
-                        for commit_node in node['commits']['nodes']:
-                            print('commit hash ' + commit_node['commit']['oid'] + ' commit date ' +
-                                  commit_node['commit']['committedDate'] + ' authored date ' + commit_node['commit']['authoredDate'])
-                            commits[commit_node['commit']['oid']] = {'commit_date' :
-                                                                    commit_node['commit']['committedDate'],
-                                                                    'author_date':commit_node['commit']['authoredDate']}
-                        print('pull request ' + str(node['number']))
-                        print('created at ' + node['createdAt'])
-                        if node['merged']:
-                            print('merged at ' + node['mergedAt'])
-                            pull_request_details[node['number']] = {'number': node['number'], 'createdAt':
-                                node['createdAt'], 'merged':  node['mergedAt'], 'commits': commits, 'participants':
-                                node['participants']['totalCount'], 'reviewThreads':
-                                node['reviewThreads']['totalCount'], 'totalReviews': node['reviews']['totalCount']}
-                        else:
-                            pull_request_details[node['number']] = {'number': node['number'], 'createdAt':
-                                node['createdAt'], 'commits': commits, 'participants':
-                                node['participants']['totalCount'], 'reviewThreads':
-                                node['reviewThreads']['totalCount'], 'totalReviews': node['reviews']['totalCount']}
+                        if node['headRepository'] is not None and node['headRepository']['url'] is not None and node['reviewDecision'] == 'APPROVED':
+                            pull_request_details[node['number']]['headRepository'] = node['headRepository']['url']
+                            print('headRepository ' + node['headRepository']['url'])
+                            print('pull request ' + str(node['number']))
+                            print('created at ' + node['createdAt'])
+                            for commit_node in node['commits']['nodes']:
+                                print('commit hash ' + commit_node['commit']['oid'] + ' commit date ' +
+                                      commit_node['commit']['committedDate'] + ' authored date ' +
+                                      commit_node['commit']['authoredDate'] + ' participants '
+                                      + str(node['participants']['totalCount']))
+                                commits[commit_node['commit']['oid']] = {'commit_date' :
+                                                                        commit_node['commit']['committedDate'],
+                                                                        'author_date':commit_node['commit']['authoredDate']}
+
+                            pull_request_details[node['number']] = {'number': node['number'], 'headRepository':
+                                node['headRepository']['url'], 'commits': commits, 'participants':
+                                node['participants']['totalCount']}
+
+
+
         if search_result['pageInfo']['hasNextPage']:
             end_cursor = search_result['pageInfo']['endCursor']
-            query = 'query { repository(name: "%s", owner: "%s") { pullRequests(first: 100, after: "%s") { ' \
-                    'pageInfo { hasNextPage endCursor } nodes { number id participants { totalCount } reviewThreads(first: ' \
-                    '100) { totalCount nodes { isResolved } pageInfo { hasNextPage endCursor } } reviews { totalCount } ' \
-                    'state commits (first: 100) { totalCount nodes { commit { oid committedDate authoredDate} } } createdAt mergedAt merged assignees { totalCount } } } } }' % \
+            query = 'query { repository(name: "%s", owner: "%s") { pullRequests(first: 100, states: MERGED, after: "%s") { ' \
+                    'pageInfo { hasNextPage endCursor } nodes { number id participants { totalCount }' \
+                    'comments { totalCount } reviews { totalCount } reviewDecision ' \
+                    ' commits (first: 100) { totalCount nodes { commit { oid committedDate authoredDate} } } ' \
+                    ' headRepository { url } } } } }' % \
                     (repo_owner['repo'], repo_owner['owner'], end_cursor)
             retrieve_pull_request_iteratively(query, repo_owner, pull_request_details)
 
