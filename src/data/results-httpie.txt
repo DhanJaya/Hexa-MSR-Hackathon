@@ -1,0 +1,245 @@
+https://github.com/httpie/httpie/pull/2
+	FORK: https://github.com/flashingpumpkin/httpie
+	ANALYSIS: 
+	f73aaa844f760e171a68e21d7796a62e7ae51c20 -> {"loc_analyzed": 284, "num_vulns": 2, "by_severity": {"undefined": 0, "low": 2, "medium": 0, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 0, "high": 2}}
+	b567104267c4de7b16af1498906cd7fe61d33579 -> {"loc_analyzed": 284, "num_vulns": 2, "by_severity": {"undefined": 0, "low": 2, "medium": 0, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 0, "high": 2}}
+	2f569b901dcd5852d16a88084af19883ee847f3e -> {"loc_analyzed": 291, "num_vulns": 2, "by_severity": {"undefined": 0, "low": 2, "medium": 0, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 0, "high": 2}}
+	6f9ad9e4e10df653e5d8cd9f70626b809dec71eb -> {"loc_analyzed": 284, "num_vulns": 2, "by_severity": {"undefined": 0, "low": 2, "medium": 0, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 0, "high": 2}}
+https://github.com/httpie/httpie/pull/45
+	FORK: https://github.com/gandaro/httpie
+	ANALYSIS: 
+	2d7f2c65a22edbe84f269069c53dc06d80272259 -> {"loc_analyzed": 772, "num_vulns": 3, "by_severity": {"undefined": 0, "low": 3, "medium": 0, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 0, "high": 3}}
+	4aa86cb438603850bc8864b529572c58255296d6 -> {"loc_analyzed": 762, "num_vulns": 2, "by_severity": {"undefined": 0, "low": 2, "medium": 0, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 0, "high": 2}}
+	bced559496de7735b6cc37c77bf00d5c241542c0 -> {"loc_analyzed": 769, "num_vulns": 3, "by_severity": {"undefined": 0, "low": 3, "medium": 0, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 0, "high": 3}}
+	d89eeb0796b5dd3d009a8eb202628ac136e32d86 -> {"loc_analyzed": 770, "num_vulns": 3, "by_severity": {"undefined": 0, "low": 3, "medium": 0, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 0, "high": 3}}
+https://github.com/httpie/httpie/pull/51
+	FORK: https://github.com/msabramo/httpie
+	ANALYSIS: 
+	1388206f1a67a8a27f8660b21ed873b98cfccd42 -> {"loc_analyzed": 775, "num_vulns": 3, "by_severity": {"undefined": 0, "low": 3, "medium": 0, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 0, "high": 3}}
+	0d129d5f692d76ad34e7b1d0f9241eea57ba02d1 -> {"loc_analyzed": 775, "num_vulns": 3, "by_severity": {"undefined": 0, "low": 3, "medium": 0, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 0, "high": 3}}
+	b3ea273a21565932d6efeff02ea45d8095041d0b -> {"loc_analyzed": 775, "num_vulns": 3, "by_severity": {"undefined": 0, "low": 3, "medium": 0, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 0, "high": 3}}
+https://github.com/httpie/httpie/pull/171
+	FORK: https://github.com/nlf/httpie
+	ANALYSIS: 
+	711168a899819105c2a61d132dda7a037aaf2301 -> {"loc_analyzed": 3654, "num_vulns": 20, "by_severity": {"undefined": 0, "low": 17, "medium": 3, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 0, "high": 20}}
+	8a52bef559e58d98efa1bd6e12be0c060f95f4d7 -> {"loc_analyzed": 3689, "num_vulns": 20, "by_severity": {"undefined": 0, "low": 17, "medium": 3, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 0, "high": 20}}
+	70eb97dece6cf20668391427f9cca75e4092d7ed -> {"loc_analyzed": 3689, "num_vulns": 20, "by_severity": {"undefined": 0, "low": 17, "medium": 3, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 0, "high": 20}}
+	2c12fd99f9d4f60220a2a022345be317762cadbc -> {"loc_analyzed": 3689, "num_vulns": 20, "by_severity": {"undefined": 0, "low": 17, "medium": 3, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 0, "high": 20}}
+	9034546b804fd0fa99cdc41e4f800f1d36c87a13 -> {"loc_analyzed": 3689, "num_vulns": 20, "by_severity": {"undefined": 0, "low": 17, "medium": 3, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 0, "high": 20}}
+	4fe3deb9d916023b3bffe60e0d655216bcb9276a -> {"loc_analyzed": 3692, "num_vulns": 20, "by_severity": {"undefined": 0, "low": 17, "medium": 3, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 0, "high": 20}}
+https://github.com/httpie/httpie/pull/568
+	FORK: https://github.com/dsego/httpie
+	ANALYSIS: 
+	b0fde07cfd8676a75292188dd8bedab7de74e6f2 -> {"loc_analyzed": 4714, "num_vulns": 346, "by_severity": {"undefined": 0, "low": 346, "medium": 0, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 345}}
+	a4f796fe6913497a7e212ce8d07837037adcc135 -> {"loc_analyzed": 4833, "num_vulns": 346, "by_severity": {"undefined": 0, "low": 346, "medium": 0, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 345}}
+	9886f01f91b9007e9b21601264b9c42fecc0d9f7 -> {"loc_analyzed": 4840, "num_vulns": 346, "by_severity": {"undefined": 0, "low": 346, "medium": 0, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 345}}
+	02209c2db1b4399c17f50718cc19fb37461eba39 -> {"loc_analyzed": 4840, "num_vulns": 346, "by_severity": {"undefined": 0, "low": 346, "medium": 0, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 345}}
+https://github.com/httpie/httpie/pull/706
+	FORK: https://github.com/matthew16550/httpie
+	ANALYSIS: 
+https://github.com/httpie/httpie/pull/739
+	FORK: https://github.com/aleksandr-vin/httpie
+	ANALYSIS: 
+	fca811b672095d44db40811535003c68335ae358 -> {"loc_analyzed": 4800, "num_vulns": 349, "by_severity": {"undefined": 0, "low": 349, "medium": 0, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 348}}
+	1096a7951cdd0739ebd71bfd783d6df8630ebf64 -> {"loc_analyzed": 4831, "num_vulns": 368, "by_severity": {"undefined": 0, "low": 368, "medium": 0, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 367}}
+	61c4c75e3f93d222696ab6ae9ac9e787abfb998f -> {"loc_analyzed": 4831, "num_vulns": 368, "by_severity": {"undefined": 0, "low": 368, "medium": 0, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 367}}
+	338f5a4d4e2d91a659134eb99c1698a9f73e7390 -> {"loc_analyzed": 4835, "num_vulns": 368, "by_severity": {"undefined": 0, "low": 368, "medium": 0, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 367}}
+	2be0a3f1544e03b8a5853afcb9d145dcec0aa6a6 -> {"loc_analyzed": 4834, "num_vulns": 368, "by_severity": {"undefined": 0, "low": 368, "medium": 0, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 367}}
+	ff331dbda6665ddffdc94d925cf67a0abf675a1b -> {"loc_analyzed": 4864, "num_vulns": 368, "by_severity": {"undefined": 0, "low": 368, "medium": 0, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 367}}
+	569d79ac12e13d83bffe6f69119025c744a264b8 -> {"loc_analyzed": 4878, "num_vulns": 371, "by_severity": {"undefined": 0, "low": 369, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 370}}
+https://github.com/httpie/httpie/pull/927
+	FORK: https://github.com/skuro/httpie
+	ANALYSIS: 
+	c1537e8285ce4dd99c2c7b33b5424459c4a08d34 -> {"loc_analyzed": 5679, "num_vulns": 408, "by_severity": {"undefined": 0, "low": 405, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 407}}
+	14e46236fe73b24b2f7adc17ff66f1b2711e8ffa -> {"loc_analyzed": 5679, "num_vulns": 408, "by_severity": {"undefined": 0, "low": 405, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 407}}
+	4cd97a6f122cd4231f2f3a41aed6baa549d78426 -> {"loc_analyzed": 5679, "num_vulns": 408, "by_severity": {"undefined": 0, "low": 405, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 407}}
+	c297cb8bb4f53fa93489e1b6bf564f8f5c8be20b -> {"loc_analyzed": 5680, "num_vulns": 408, "by_severity": {"undefined": 0, "low": 405, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 407}}
+https://github.com/httpie/httpie/pull/929
+	FORK: https://github.com/MLH-Fellowship/httpie
+	ANALYSIS: 
+	ce466434ba34237d0f65fff66bd4188dc66e9b68 -> {"loc_analyzed": 5690, "num_vulns": 409, "by_severity": {"undefined": 0, "low": 406, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 408}}
+	a4eb5c4498d24816c971578216d351d892293549 -> {"loc_analyzed": 5704, "num_vulns": 411, "by_severity": {"undefined": 0, "low": 408, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 410}}
+	f849bb4c64425ed0f10b3a9683ba9fb085632d7a -> {"loc_analyzed": 5729, "num_vulns": 411, "by_severity": {"undefined": 0, "low": 408, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 410}}
+	d242e21bce8101dab03fa52810bc5d2789c9307e -> {"loc_analyzed": 5715, "num_vulns": 409, "by_severity": {"undefined": 0, "low": 406, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 408}}
+	9fac66d2e43268e08962f69417df2fc5f89a0288 -> {"loc_analyzed": 5729, "num_vulns": 411, "by_severity": {"undefined": 0, "low": 408, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 410}}
+	8bc7eada570e5473f75f0b5b2a7acb0898f91807 -> {"loc_analyzed": 5732, "num_vulns": 411, "by_severity": {"undefined": 0, "low": 408, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 410}}
+	5e54222d1b9891056971c804081cc6dfc9fb1680 -> {"loc_analyzed": 5733, "num_vulns": 411, "by_severity": {"undefined": 0, "low": 408, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 410}}
+	307846256e97f31515ad0bfdcf6d9d6d81ab339b -> {"loc_analyzed": 5728, "num_vulns": 411, "by_severity": {"undefined": 0, "low": 408, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 410}}
+	0bc9aaf3648ede7c26f19cefbcdea1c1c693a626 -> {"loc_analyzed": 5728, "num_vulns": 411, "by_severity": {"undefined": 0, "low": 408, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 410}}
+	6194995246effcddb909bc95a9a403870bb55349 -> {"loc_analyzed": 5728, "num_vulns": 411, "by_severity": {"undefined": 0, "low": 408, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 410}}
+	3e23388483a21bec75428da58c74276672db68c3 -> {"loc_analyzed": 5728, "num_vulns": 411, "by_severity": {"undefined": 0, "low": 408, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 410}}
+	1dafec7189140f2cfe7c8b242d3cb34dd690398f -> {"loc_analyzed": 5727, "num_vulns": 411, "by_severity": {"undefined": 0, "low": 408, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 410}}
+	78170138c35506b7f32638eaad52184df746f4c1 -> {"loc_analyzed": 5747, "num_vulns": 412, "by_severity": {"undefined": 0, "low": 409, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 411}}
+	340f083b015222cdadc40035689dfd11cee200a2 -> {"loc_analyzed": 5756, "num_vulns": 412, "by_severity": {"undefined": 0, "low": 409, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 411}}
+	5dea1a83a12b37198bc44b4964d3cc067eb6743d -> {"loc_analyzed": 5759, "num_vulns": 412, "by_severity": {"undefined": 0, "low": 409, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 411}}
+	f0199b294bf226fc0721a09d9db65e063c3a7b08 -> {"loc_analyzed": 5759, "num_vulns": 412, "by_severity": {"undefined": 0, "low": 409, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 411}}
+	619fc5d4e21f3b10f92ce019ba0a2c2b6c496f8b -> {"loc_analyzed": 5762, "num_vulns": 412, "by_severity": {"undefined": 0, "low": 409, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 411}}
+	561a640e6fcce9843b99e9159f1ad67dc000bf02 -> {"loc_analyzed": 5776, "num_vulns": 413, "by_severity": {"undefined": 0, "low": 410, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 412}}
+	3bfdf859bc3f28e9b0da4312db27f6416f1da021 -> {"loc_analyzed": 5776, "num_vulns": 413, "by_severity": {"undefined": 0, "low": 410, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 412}}
+	bab15ce2a1c00bd40678ec3f3b827c938524bc5a -> {"loc_analyzed": 5768, "num_vulns": 413, "by_severity": {"undefined": 0, "low": 410, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 412}}
+	4fec25cd717a1dc286deff15953a43c787485697 -> {"loc_analyzed": 5769, "num_vulns": 413, "by_severity": {"undefined": 0, "low": 410, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 412}}
+	e6b7cdc6a57122ad00a0471b03b1f16555300504 -> {"loc_analyzed": 5770, "num_vulns": 413, "by_severity": {"undefined": 0, "low": 410, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 412}}
+	81e34edf0d8a00ffa7217407ef46225d26c90c00 -> {"loc_analyzed": 5773, "num_vulns": 413, "by_severity": {"undefined": 0, "low": 410, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 412}}
+	b04c3bcfcca1210f5aa2bcac7d25583e8bc795ba -> {"loc_analyzed": 5773, "num_vulns": 413, "by_severity": {"undefined": 0, "low": 410, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 412}}
+	9b1f1cd26c8f75c863bc5f703974436149f09d70 -> {"loc_analyzed": 5794, "num_vulns": 413, "by_severity": {"undefined": 0, "low": 410, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 412}}
+	39a6b5ae00caed75759c3f11352b2f22c6c18295 -> {"loc_analyzed": 5796, "num_vulns": 413, "by_severity": {"undefined": 0, "low": 410, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 412}}
+	92b84395b0797367eb75e4d10fa90f9d3c1c4e98 -> {"loc_analyzed": 5796, "num_vulns": 413, "by_severity": {"undefined": 0, "low": 410, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 412}}
+https://github.com/httpie/httpie/pull/932
+	FORK: https://github.com/MLH-Fellowship/httpie
+	ANALYSIS: 
+	0d9a5ce72e1639c26245c6ce74721a9b8b14e2d4 -> {"loc_analyzed": 5698, "num_vulns": 409, "by_severity": {"undefined": 0, "low": 406, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 408}}
+	773a65ea0a69a13e00d0a46649ba47c180746e16 -> {"loc_analyzed": 5708, "num_vulns": 409, "by_severity": {"undefined": 0, "low": 406, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 408}}
+	d30ce9285e891ba49a009136af66901205cd7e39 -> {"loc_analyzed": 5718, "num_vulns": 411, "by_severity": {"undefined": 0, "low": 408, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 410}}
+	b21e8c25a2a08e4ddb79a880f1c2c636417a0a31 -> {"loc_analyzed": 5728, "num_vulns": 411, "by_severity": {"undefined": 0, "low": 408, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 410}}
+	87f6d234b61d0445c65d394acbf0d6118a3d14ee -> {"loc_analyzed": 5729, "num_vulns": 411, "by_severity": {"undefined": 0, "low": 408, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 410}}
+	07afd91ca042b57836b0abc0887283254f41ad66 -> {"loc_analyzed": 6057, "num_vulns": 422, "by_severity": {"undefined": 0, "low": 419, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 421}}
+	d58e1cdd6cf6fb4dc1dc4b7b283a2a97d4fd2278 -> {"loc_analyzed": 6067, "num_vulns": 422, "by_severity": {"undefined": 0, "low": 419, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 421}}
+	bfea90f377217e828d623166b71714b1322b4ba1 -> {"loc_analyzed": 6114, "num_vulns": 423, "by_severity": {"undefined": 0, "low": 420, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 422}}
+	5b98e4adbe9daae5cd72ce1f4b7424b1129edb23 -> {"loc_analyzed": 6096, "num_vulns": 423, "by_severity": {"undefined": 0, "low": 420, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 422}}
+	06af2815e2f344570f6d63f24ea448e9e24518f1 -> {"loc_analyzed": 6096, "num_vulns": 423, "by_severity": {"undefined": 0, "low": 420, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 422}}
+	34a92b7a2f1fe8559e4ce8e556c7cf830acc7af1 -> {"loc_analyzed": 6096, "num_vulns": 423, "by_severity": {"undefined": 0, "low": 420, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 422}}
+https://github.com/httpie/httpie/pull/941
+	FORK: https://github.com/MLH-Fellowship/httpie
+	ANALYSIS: 
+	3a7efd6da7c73efc4bcc412c71b2d5d3722416ef -> {"loc_analyzed": 6098, "num_vulns": 423, "by_severity": {"undefined": 0, "low": 420, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 422}}
+	2b0e4777a38ad0261d1a67e53c7941bb9e9d8428 -> {"loc_analyzed": 6098, "num_vulns": 423, "by_severity": {"undefined": 0, "low": 420, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 422}}
+	8a4310e9683adeeb9b18230b058e9032c7e5284a -> {"loc_analyzed": 6098, "num_vulns": 423, "by_severity": {"undefined": 0, "low": 420, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 422}}
+	dde2ff919020a5c00d04f243f132e5aba212630c -> {"loc_analyzed": 6098, "num_vulns": 423, "by_severity": {"undefined": 0, "low": 420, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 422}}
+	b937528447f68dd78fc8490d72dda625eb4827bd -> {"loc_analyzed": 6098, "num_vulns": 423, "by_severity": {"undefined": 0, "low": 420, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 422}}
+	a2e5ebebf49a586b653af3d776973219e001eac9 -> {"loc_analyzed": 6098, "num_vulns": 423, "by_severity": {"undefined": 0, "low": 420, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 422}}
+https://github.com/httpie/httpie/pull/1029
+	FORK: https://github.com/LuckyDenis/httpie
+	ANALYSIS: 
+	1d4c35f14ed69761f70ff8ffaea6771791098c57 -> {"loc_analyzed": 7128, "num_vulns": 509, "by_severity": {"undefined": 0, "low": 506, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 508}}
+	8c116e8bc71c88d0a07c7091e9a54d2f003a3bfe -> {"loc_analyzed": 7136, "num_vulns": 510, "by_severity": {"undefined": 0, "low": 507, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 509}}
+	1654d71cb7995f1140df56616268689cbdc5074d -> {"loc_analyzed": 7136, "num_vulns": 510, "by_severity": {"undefined": 0, "low": 507, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 509}}
+	bcd67d14cbd915de07a74d9354521a172a183549 -> {"loc_analyzed": 7137, "num_vulns": 510, "by_severity": {"undefined": 0, "low": 507, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 509}}
+	d4e57b221e1d055064d27c721c4b91130e1e55bc -> {"loc_analyzed": 7136, "num_vulns": 510, "by_severity": {"undefined": 0, "low": 507, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 509}}
+https://github.com/httpie/httpie/pull/1094
+	FORK: https://github.com/IlyaSukhanov/httpie
+	ANALYSIS: 
+	19e904b3eb6b3004d3e7882cb6eac3c04316d82f -> {"loc_analyzed": 7347, "num_vulns": 544, "by_severity": {"undefined": 0, "low": 541, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 543}}
+	f6bd84ef0796a680e76fc4aa984d5b1a31092443 -> {"loc_analyzed": 7332, "num_vulns": 544, "by_severity": {"undefined": 0, "low": 541, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 543}}
+	860091262f4489da94fcd9faaea25e1a731efceb -> {"loc_analyzed": 7327, "num_vulns": 544, "by_severity": {"undefined": 0, "low": 541, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 543}}
+	a7ac5b38e0444a51676ff6f29e57fb28ce34ee3f -> {"loc_analyzed": 7323, "num_vulns": 544, "by_severity": {"undefined": 0, "low": 541, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 543}}
+	fafb6f071a082467fa8a5877784c30f447061d45 -> {"loc_analyzed": 7323, "num_vulns": 544, "by_severity": {"undefined": 0, "low": 541, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 543}}
+	3f8b212357f4384a2d21ae770b9b2e600c576cf7 -> {"loc_analyzed": 7323, "num_vulns": 544, "by_severity": {"undefined": 0, "low": 541, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 543}}
+	6fcbcc8b52d53feeb4e468ffb2281a39ec54b786 -> {"loc_analyzed": 7323, "num_vulns": 544, "by_severity": {"undefined": 0, "low": 541, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 543}}
+	e57adece1696cd7653f05c3b1c264bf516a10bb6 -> {"loc_analyzed": 7370, "num_vulns": 546, "by_severity": {"undefined": 0, "low": 543, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 545}}
+	906ad39e89ea1db8392c4036156a193d394f938f -> {"loc_analyzed": 7370, "num_vulns": 546, "by_severity": {"undefined": 0, "low": 543, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 545}}
+	b47412f266ccb51f783099ef04f88956f4ea20c8 -> {"loc_analyzed": 7370, "num_vulns": 546, "by_severity": {"undefined": 0, "low": 543, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 545}}
+	1ffc2aa111878e270aa3878e1d48b56fb22e36ca -> {"loc_analyzed": 7370, "num_vulns": 546, "by_severity": {"undefined": 0, "low": 543, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 545}}
+	a5428ff95ac0849329c182f7d5af887924b33f2f -> {"loc_analyzed": 7374, "num_vulns": 546, "by_severity": {"undefined": 0, "low": 543, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 545}}
+	57997da5f06e1c445e1e4e9355d0535da66b5e9c -> {"loc_analyzed": 7373, "num_vulns": 546, "by_severity": {"undefined": 0, "low": 543, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 545}}
+	7635d527256c3c59df235886b9dd9dca5e603f95 -> {"loc_analyzed": 7373, "num_vulns": 546, "by_severity": {"undefined": 0, "low": 543, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 545}}
+	93aa3583155d411da5300a73b70531982a93205b -> {"loc_analyzed": 7373, "num_vulns": 546, "by_severity": {"undefined": 0, "low": 543, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 545}}
+	4e2e96911ad12df7f8708c731aea874ff51c6bb3 -> {"loc_analyzed": 7373, "num_vulns": 546, "by_severity": {"undefined": 0, "low": 543, "medium": 2, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 545}}
+https://github.com/httpie/httpie/pull/1096
+	FORK: https://github.com/nixbytes/httpie
+	ANALYSIS: 
+https://github.com/httpie/httpie/pull/1141
+	FORK: https://github.com/httpie/httpie
+	ANALYSIS: 
+https://github.com/httpie/httpie/pull/1149
+	FORK: https://github.com/httpie/httpie
+	ANALYSIS: 
+https://github.com/httpie/httpie/pull/1151
+	FORK: https://github.com/httpie/httpie
+	ANALYSIS: 
+https://github.com/httpie/httpie/pull/1159
+	FORK: https://github.com/httpie/httpie
+	ANALYSIS: 
+https://github.com/httpie/httpie/pull/1168
+	FORK: https://github.com/httpie/httpie
+	ANALYSIS: 
+https://github.com/httpie/httpie/pull/1173
+	FORK: https://github.com/httpie/httpie
+	ANALYSIS: 
+https://github.com/httpie/httpie/pull/1175
+	FORK: https://github.com/dkreeft/httpie
+	ANALYSIS: 
+	361acbf164204a03e01ef5c471023f3aad63f5e6 -> {"loc_analyzed": 8167, "num_vulns": 593, "by_severity": {"undefined": 0, "low": 591, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 592}}
+	f6b2884ff528dd6c4a68acc87ec5502534c8f604 -> {"loc_analyzed": 8167, "num_vulns": 593, "by_severity": {"undefined": 0, "low": 591, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 592}}
+	c07d88f51069d8cf8a9d01321a72787dcc82273a -> {"loc_analyzed": 8167, "num_vulns": 593, "by_severity": {"undefined": 0, "low": 591, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 592}}
+	7b3f3aafb26aeecda157316a6c81df9434816270 -> {"loc_analyzed": 8167, "num_vulns": 593, "by_severity": {"undefined": 0, "low": 591, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 592}}
+	f597beb942942a5cc8c7f31895d6c3ba9aa7b4a2 -> {"loc_analyzed": 8167, "num_vulns": 593, "by_severity": {"undefined": 0, "low": 591, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 592}}
+https://github.com/httpie/httpie/pull/1190
+	FORK: https://github.com/isidentical/httpie
+	ANALYSIS: 
+https://github.com/httpie/httpie/pull/1197
+	FORK: https://github.com/httpie/httpie
+	ANALYSIS: 
+https://github.com/httpie/httpie/pull/1200
+	FORK: https://github.com/isidentical/httpie
+	ANALYSIS: 
+https://github.com/httpie/httpie/pull/1208
+	FORK: https://github.com/isidentical/httpie
+	ANALYSIS: 
+https://github.com/httpie/httpie/pull/1213
+	FORK: https://github.com/isidentical/httpie
+	ANALYSIS: 
+https://github.com/httpie/httpie/pull/1221
+	FORK: https://github.com/isidentical/httpie
+	ANALYSIS: 
+https://github.com/httpie/httpie/pull/1224
+	FORK: https://github.com/httpie/httpie
+	ANALYSIS: 
+https://github.com/httpie/httpie/pull/1225
+	FORK: https://github.com/isidentical/httpie
+	ANALYSIS: 
+	9671bede6d69869c733713d8d5efae147896bbc1 -> {"loc_analyzed": 9607, "num_vulns": 678, "by_severity": {"undefined": 0, "low": 676, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 677}}
+	7c3a999ea54545a2c85117b6e4523430d36298d2 -> {"loc_analyzed": 9607, "num_vulns": 678, "by_severity": {"undefined": 0, "low": 676, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 677}}
+	f2a0879afda2a786170cb579ec269c92801eac5c -> {"loc_analyzed": 9607, "num_vulns": 678, "by_severity": {"undefined": 0, "low": 676, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 677}}
+https://github.com/httpie/httpie/pull/1226
+	FORK: https://github.com/isidentical/httpie
+	ANALYSIS: 
+	c32b0577c587bb24f5ddf580e05a829ba885861f -> {"loc_analyzed": 9643, "num_vulns": 679, "by_severity": {"undefined": 0, "low": 677, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 678}}
+	6b6cbbc94041f8a2a62600d91489ce0b5e6bec26 -> {"loc_analyzed": 9639, "num_vulns": 679, "by_severity": {"undefined": 0, "low": 677, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 678}}
+	fd8897e914823223b05b3a596df1d4d950024f2e -> {"loc_analyzed": 9633, "num_vulns": 679, "by_severity": {"undefined": 0, "low": 677, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 678}}
+	81cd53974ba89548d313fcf08556a7568ea0783a -> {"loc_analyzed": 9881, "num_vulns": 683, "by_severity": {"undefined": 0, "low": 681, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 682}}
+https://github.com/httpie/httpie/pull/1232
+	FORK: https://github.com/httpie/httpie
+	ANALYSIS: 
+https://github.com/httpie/httpie/pull/1238
+	FORK: https://github.com/isidentical/httpie
+	ANALYSIS: 
+	3933ea92db78a80fa4d4ac2d9d9f33a6fa5c9183 -> {"loc_analyzed": 10101, "num_vulns": 683, "by_severity": {"undefined": 0, "low": 681, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 682}}
+	4aab90479ede7b1d9a91401f450fe23fad62f595 -> {"loc_analyzed": 10099, "num_vulns": 683, "by_severity": {"undefined": 0, "low": 681, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 682}}
+	87ac7d8590e46e1f113007d3044877702f3c5750 -> {"loc_analyzed": 10196, "num_vulns": 683, "by_severity": {"undefined": 0, "low": 681, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 682}}
+	65cf35a809bb0a4f1200899207db5cdc836d2530 -> {"loc_analyzed": 10196, "num_vulns": 683, "by_severity": {"undefined": 0, "low": 681, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 682}}
+	56bf02e78361a14ce61eaef0b7ba33994fbdfdcb -> {"loc_analyzed": 10196, "num_vulns": 683, "by_severity": {"undefined": 0, "low": 681, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 682}}
+	6afcf210c67a6bb5b68d6b504d7d73ab1e44d227 -> {"loc_analyzed": 10189, "num_vulns": 683, "by_severity": {"undefined": 0, "low": 681, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 682}}
+	2287a086b511564feb164209d72b2a81b85da820 -> {"loc_analyzed": 10184, "num_vulns": 683, "by_severity": {"undefined": 0, "low": 681, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 682}}
+https://github.com/httpie/httpie/pull/1239
+	FORK: https://github.com/sebastianczech/httpie
+	ANALYSIS: 
+https://github.com/httpie/httpie/pull/1241
+	FORK: https://github.com/isidentical/httpie
+	ANALYSIS: 
+	674101bf56e9d380cd58dec5ad36d1765793766f -> {"loc_analyzed": 9903, "num_vulns": 684, "by_severity": {"undefined": 0, "low": 682, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 683}}
+	2fbc79ef788e94979c8cea75dbd5faa4f3796fda -> {"loc_analyzed": 9946, "num_vulns": 684, "by_severity": {"undefined": 0, "low": 682, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 683}}
+	b7ee8bb953380ffc593037e29418d2508ca9207e -> {"loc_analyzed": 9947, "num_vulns": 684, "by_severity": {"undefined": 0, "low": 682, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 683}}
+https://github.com/httpie/httpie/pull/1244
+	FORK: https://github.com/isidentical/httpie
+	ANALYSIS: 
+	766e09b122d9b30ee3dfb9bb18798c998a450394 -> {"loc_analyzed": 10270, "num_vulns": 691, "by_severity": {"undefined": 0, "low": 689, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 690}}
+	c8d8bcffd79d07ce544098c7aa7b838cc90b8618 -> {"loc_analyzed": 10270, "num_vulns": 691, "by_severity": {"undefined": 0, "low": 689, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 690}}
+	39c0e4619cee060736ccd4403bfbc1e0b26da632 -> {"loc_analyzed": 10270, "num_vulns": 691, "by_severity": {"undefined": 0, "low": 689, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 690}}
+https://github.com/httpie/httpie/pull/1254
+	FORK: https://github.com/httpie/httpie
+	ANALYSIS: 
+https://github.com/httpie/httpie/pull/1256
+	FORK: https://github.com/isidentical/httpie
+	ANALYSIS: 
+	c0368a43303d751dce0de92ad8fc5a506269bbea -> {"loc_analyzed": 11074, "num_vulns": 708, "by_severity": {"undefined": 0, "low": 706, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 707}}
+	18eabfbe1d7f6a2c99f0c391eb8b3ded65118a00 -> {"loc_analyzed": 11079, "num_vulns": 708, "by_severity": {"undefined": 0, "low": 706, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 707}}
+	be4df02e170f328e27de0f8355b9567064d29a2d -> {"loc_analyzed": 11092, "num_vulns": 709, "by_severity": {"undefined": 0, "low": 707, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 708}}
+https://github.com/httpie/httpie/pull/1260
+	FORK: https://github.com/isidentical/httpie
+	ANALYSIS: 
+	a9a9c4e5d7f6c703772be16d1b0f22a54cbf5c76 -> {"loc_analyzed": 11388, "num_vulns": 704, "by_severity": {"undefined": 0, "low": 702, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 703}}
+	3f4c8c07b836987b4b3e0f3aa4c2bdd430e5d391 -> {"loc_analyzed": 11433, "num_vulns": 704, "by_severity": {"undefined": 0, "low": 702, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 703}}
+	297c060e768493ebfb4bace6e8ee051ffb929346 -> {"loc_analyzed": 11433, "num_vulns": 704, "by_severity": {"undefined": 0, "low": 702, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 703}}
+	6b53a3eb4533137ddbe59c0c14059e7f02c9ab04 -> {"loc_analyzed": 11435, "num_vulns": 704, "by_severity": {"undefined": 0, "low": 702, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 703}}
+	bb0d3e12a5bb8510ba243aa66ebd80c52b137e57 -> {"loc_analyzed": 11442, "num_vulns": 704, "by_severity": {"undefined": 0, "low": 702, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 703}}
+	e0a3c8e7ce6f7bca7636a9820d4499306fecb6f0 -> {"loc_analyzed": 11447, "num_vulns": 704, "by_severity": {"undefined": 0, "low": 702, "medium": 2, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 1, "high": 703}}
