@@ -1,0 +1,630 @@
+https://github.com/tornadoweb/tornado/pull/260
+	FORK: https://github.com/alanhogan/tornado
+	ANALYSIS: 
+	699318c837ea7727dbb8b03d81432b8b679a646d -> {"loc_analyzed": 13218, "num_vulns": 32, "by_severity": {"undefined": 0, "low": 26, "medium": 3, "high": 3}, "by_confidence": {"undefined": 0, "low": 0, "medium": 16, "high": 16}}
+	910a0b543648a664906098d5734ccd1a3f347b00 -> {"loc_analyzed": 13218, "num_vulns": 32, "by_severity": {"undefined": 0, "low": 26, "medium": 3, "high": 3}, "by_confidence": {"undefined": 0, "low": 0, "medium": 16, "high": 16}}
+	1100a5239ca0c572141dd1e698ffca4f2b377986 -> {"loc_analyzed": 13218, "num_vulns": 32, "by_severity": {"undefined": 0, "low": 26, "medium": 3, "high": 3}, "by_confidence": {"undefined": 0, "low": 0, "medium": 16, "high": 16}}
+	4f911478e1fdbfddd9e0f985965cdc924534280f -> {"loc_analyzed": 13218, "num_vulns": 32, "by_severity": {"undefined": 0, "low": 26, "medium": 3, "high": 3}, "by_confidence": {"undefined": 0, "low": 0, "medium": 16, "high": 16}}
+https://github.com/tornadoweb/tornado/pull/302
+	FORK: https://github.com/ovidiucp/tornado
+	ANALYSIS: 
+	a45f673573cdc95177e7d17022c786156084671b -> {"loc_analyzed": 13688, "num_vulns": 34, "by_severity": {"undefined": 0, "low": 28, "medium": 4, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 14, "high": 20}}
+	7326a150b9f5816bb40e64746702cef6e0f744ef -> {"loc_analyzed": 13696, "num_vulns": 34, "by_severity": {"undefined": 0, "low": 28, "medium": 4, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 14, "high": 20}}
+	e1043bed2450f77ca1a19226fc4fe9c2bf953f2a -> {"loc_analyzed": 13709, "num_vulns": 34, "by_severity": {"undefined": 0, "low": 28, "medium": 4, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 14, "high": 20}}
+	ec838edccbe6642ee6aa9a9f50a442b89aa5b0c4 -> {"loc_analyzed": 13710, "num_vulns": 34, "by_severity": {"undefined": 0, "low": 28, "medium": 4, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 14, "high": 20}}
+	3bb589fbd0c88dd12e65ceacda358867d1ec299e -> {"loc_analyzed": 13712, "num_vulns": 34, "by_severity": {"undefined": 0, "low": 28, "medium": 4, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 14, "high": 20}}
+	99b3a9a764011ed8bdb9f71c791aac738de6e14c -> {"loc_analyzed": 13712, "num_vulns": 34, "by_severity": {"undefined": 0, "low": 28, "medium": 4, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 14, "high": 20}}
+	5eaa84b7e335b80f02c9ac53af78de5ef9f9583d -> {"loc_analyzed": 13750, "num_vulns": 37, "by_severity": {"undefined": 0, "low": 31, "medium": 4, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 14, "high": 23}}
+	051a6cac0ee5f981136be7b43c2ee74a1aba1b4b -> {"loc_analyzed": 13770, "num_vulns": 37, "by_severity": {"undefined": 0, "low": 31, "medium": 4, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 14, "high": 23}}
+	a026a784d0e5b5d4291d3d299467df45fc7f4e06 -> {"loc_analyzed": 13768, "num_vulns": 37, "by_severity": {"undefined": 0, "low": 31, "medium": 4, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 14, "high": 23}}
+https://github.com/tornadoweb/tornado/pull/368
+	FORK: https://github.com/amorton/tornado
+	ANALYSIS: 
+	1667e0b7f800f4fe41ad49c17f7151c6a6058c92 -> {"loc_analyzed": 15426, "num_vulns": 57, "by_severity": {"undefined": 0, "low": 50, "medium": 5, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 20, "high": 37}}
+	6cd8e08fe3092b3ccfa167b0560c42c4348989bd -> {"loc_analyzed": 15431, "num_vulns": 57, "by_severity": {"undefined": 0, "low": 50, "medium": 5, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 20, "high": 37}}
+	45752bfdf96724e88d616f626132461e08e02a33 -> {"loc_analyzed": 15432, "num_vulns": 57, "by_severity": {"undefined": 0, "low": 50, "medium": 5, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 20, "high": 37}}
+https://github.com/tornadoweb/tornado/pull/476
+	FORK: https://github.com/birknilson/tornado
+	ANALYSIS: 
+	ac45401f2a71a32447afcdc64e123a396a549020 -> {"loc_analyzed": 16645, "num_vulns": 59, "by_severity": {"undefined": 0, "low": 52, "medium": 5, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 20, "high": 39}}
+	e0048efc32a2415d5f34ed2067901261ca94ade5 -> {"loc_analyzed": 16645, "num_vulns": 59, "by_severity": {"undefined": 0, "low": 52, "medium": 5, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 20, "high": 39}}
+	c34888b0558c9f0c814788c79ccd182d81b201d1 -> {"loc_analyzed": 16653, "num_vulns": 59, "by_severity": {"undefined": 0, "low": 52, "medium": 5, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 20, "high": 39}}
+	38cccf8e53b41370f19a1914646e6949ba1fd907 -> {"loc_analyzed": 16660, "num_vulns": 59, "by_severity": {"undefined": 0, "low": 52, "medium": 5, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 20, "high": 39}}
+https://github.com/tornadoweb/tornado/pull/575
+	FORK: https://github.com/bergundy/tornado
+	ANALYSIS: 
+	121604bc3052e5be59ed0f08ce7cb56d5b203396 -> {"loc_analyzed": 17384, "num_vulns": 44, "by_severity": {"undefined": 0, "low": 37, "medium": 5, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 19, "high": 25}}
+	954777f35351ea93b2413281495a704c460bfba0 -> {"loc_analyzed": 17383, "num_vulns": 44, "by_severity": {"undefined": 0, "low": 37, "medium": 5, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 19, "high": 25}}
+	b399c011cd186e8f3da73711552bd904038278d1 -> {"loc_analyzed": 17383, "num_vulns": 44, "by_severity": {"undefined": 0, "low": 37, "medium": 5, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 19, "high": 25}}
+	0e1863c6a0d654a4259def91af5856f158315b09 -> {"loc_analyzed": 17383, "num_vulns": 44, "by_severity": {"undefined": 0, "low": 37, "medium": 5, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 19, "high": 25}}
+https://github.com/tornadoweb/tornado/pull/593
+	FORK: https://github.com/phihag/tornado
+	ANALYSIS: 
+	c744288f94e7b5a65abe447d672e3b875ff5482c -> {"loc_analyzed": 17545, "num_vulns": 45, "by_severity": {"undefined": 0, "low": 38, "medium": 5, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 20, "high": 25}}
+	587ef5ee9c53e2b99458b1946d10b85efa4d54b0 -> {"loc_analyzed": 17543, "num_vulns": 45, "by_severity": {"undefined": 0, "low": 38, "medium": 5, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 20, "high": 25}}
+	b85e2f6e6031bbae9ea72fb57383f873bdb7302b -> {"loc_analyzed": 17544, "num_vulns": 45, "by_severity": {"undefined": 0, "low": 38, "medium": 5, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 20, "high": 25}}
+https://github.com/tornadoweb/tornado/pull/628
+	FORK: https://github.com/jparise/tornado
+	ANALYSIS: 
+	68f52c12d6eca66e9404f4e76b69f056f9ee5d43 -> {"loc_analyzed": 18941, "num_vulns": 48, "by_severity": {"undefined": 0, "low": 41, "medium": 5, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 20, "high": 28}}
+	a5fffe3259d7d5c2786c49058442a07fab6cacf3 -> {"loc_analyzed": 19177, "num_vulns": 48, "by_severity": {"undefined": 0, "low": 41, "medium": 5, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 21, "high": 27}}
+	364321653935686a71097a3995acd7cf20c74d7a -> {"loc_analyzed": 19199, "num_vulns": 48, "by_severity": {"undefined": 0, "low": 41, "medium": 5, "high": 2}, "by_confidence": {"undefined": 0, "low": 0, "medium": 21, "high": 27}}
+https://github.com/tornadoweb/tornado/pull/686
+	FORK: https://github.com/omribahumi/tornado
+	ANALYSIS: 
+	4de9ab87f24558cc7c2c463b20ef75178fd18257 -> {"loc_analyzed": 20822, "num_vulns": 135, "by_severity": {"undefined": 0, "low": 124, "medium": 10, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 30, "high": 105}}
+	abaecb033e725b08c1c9d004aa3c44c2bee021b8 -> {"loc_analyzed": 20837, "num_vulns": 135, "by_severity": {"undefined": 0, "low": 124, "medium": 10, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 30, "high": 105}}
+	a070dec2429a0c8a63e4ff1aa775adfddc15f09f -> {"loc_analyzed": 20837, "num_vulns": 135, "by_severity": {"undefined": 0, "low": 124, "medium": 10, "high": 1}, "by_confidence": {"undefined": 0, "low": 0, "medium": 30, "high": 105}}
+https://github.com/tornadoweb/tornado/pull/723
+	FORK: https://github.com/ajdavis/tornado
+	ANALYSIS: 
+	cab39beba263e68647d54d68d18cab4f52c7a802 -> {"loc_analyzed": 19130, "num_vulns": 136, "by_severity": {"undefined": 0, "low": 124, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 31, "high": 105}}
+	bf21f83cd0f7fde3f155c2ae8c1d3ee8b90edaa9 -> {"loc_analyzed": 19125, "num_vulns": 136, "by_severity": {"undefined": 0, "low": 124, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 31, "high": 105}}
+	741e9c8e4e9d552cf1bc5e56359e2b94302b8a98 -> {"loc_analyzed": 19131, "num_vulns": 136, "by_severity": {"undefined": 0, "low": 124, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 31, "high": 105}}
+	526f94e50bd40c60a566be2a3b9079d2401209ee -> {"loc_analyzed": 19131, "num_vulns": 136, "by_severity": {"undefined": 0, "low": 124, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 31, "high": 105}}
+	62dde35e3f5329c65db55dde42bf4c065e2605ef -> {"loc_analyzed": 19151, "num_vulns": 136, "by_severity": {"undefined": 0, "low": 124, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 31, "high": 105}}
+https://github.com/tornadoweb/tornado/pull/727
+	FORK: https://github.com/mrjoes/tornado
+	ANALYSIS: 
+	681e76a4e9b4940542fd5f5e8facb680d37f56c2 -> {"loc_analyzed": 19038, "num_vulns": 136, "by_severity": {"undefined": 0, "low": 124, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 31, "high": 105}}
+	fd7286646909501376c9a205bed28cdf610bcbe3 -> {"loc_analyzed": 19038, "num_vulns": 136, "by_severity": {"undefined": 0, "low": 124, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 31, "high": 105}}
+	f716564dfef9564e301f446f9c657f6cb4ccc066 -> {"loc_analyzed": 19038, "num_vulns": 136, "by_severity": {"undefined": 0, "low": 124, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 31, "high": 105}}
+	78d9cc6519f2894783b3409ca67360173e8a26fa -> {"loc_analyzed": 19039, "num_vulns": 136, "by_severity": {"undefined": 0, "low": 124, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 31, "high": 105}}
+	7485f2a0cb7b378159a509c11224d04a942565b6 -> {"loc_analyzed": 19039, "num_vulns": 136, "by_severity": {"undefined": 0, "low": 124, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 31, "high": 105}}
+https://github.com/tornadoweb/tornado/pull/789
+	FORK: https://github.com/ajdavis/tornado
+	ANALYSIS: 
+	5868b7edacb631ee323c2eb868cc2c1154050d57 -> {"loc_analyzed": 19753, "num_vulns": 137, "by_severity": {"undefined": 0, "low": 125, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 33, "high": 104}}
+	f253bea303050a217e836731de9c208541d567a4 -> {"loc_analyzed": 19756, "num_vulns": 137, "by_severity": {"undefined": 0, "low": 125, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 33, "high": 104}}
+	225aceb6f788bd4faa02ca200475dfae3dc8952b -> {"loc_analyzed": 19774, "num_vulns": 137, "by_severity": {"undefined": 0, "low": 125, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 33, "high": 104}}
+	f57fd525f9d765b9578a025ae65919a4e79efeeb -> {"loc_analyzed": 19777, "num_vulns": 137, "by_severity": {"undefined": 0, "low": 125, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 33, "high": 104}}
+https://github.com/tornadoweb/tornado/pull/790
+	FORK: https://github.com/wolever/tornado
+	ANALYSIS: 
+	5dd18d30544edf83bdec0408a0c033c4253981bc -> {"loc_analyzed": 19733, "num_vulns": 137, "by_severity": {"undefined": 0, "low": 125, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 33, "high": 104}}
+	02e9e68f016cf6339ee17ebf8559b6a034c37433 -> {"loc_analyzed": 19790, "num_vulns": 137, "by_severity": {"undefined": 0, "low": 125, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 33, "high": 104}}
+	6f2ac240210fdd082f1a94e95fa0fdb7577548a7 -> {"loc_analyzed": 19791, "num_vulns": 137, "by_severity": {"undefined": 0, "low": 125, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 33, "high": 104}}
+	b9352f8ad2c8f9269c355a6f85cfad2b35cccadf -> {"loc_analyzed": 19795, "num_vulns": 137, "by_severity": {"undefined": 0, "low": 125, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 33, "high": 104}}
+	167acb0f2efa4d74883a54ad9c0cce33d6c295fd -> {"loc_analyzed": 19808, "num_vulns": 137, "by_severity": {"undefined": 0, "low": 125, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 33, "high": 104}}
+	802bb9c6614d3a0b2645c8972d56a4565a41ee7e -> {"loc_analyzed": 19831, "num_vulns": 137, "by_severity": {"undefined": 0, "low": 125, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 33, "high": 104}}
+	907216eaf988a9bcc70888077d4d25a9e7b746bc -> {"loc_analyzed": 19834, "num_vulns": 137, "by_severity": {"undefined": 0, "low": 125, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 33, "high": 104}}
+	640db694490661b6264ff3d06747d047ae4e39ea -> {"loc_analyzed": 19835, "num_vulns": 137, "by_severity": {"undefined": 0, "low": 125, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 33, "high": 104}}
+	8a0e824b1a3acd317e3ec489c71f38511f344eca -> {"loc_analyzed": 19857, "num_vulns": 137, "by_severity": {"undefined": 0, "low": 125, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 33, "high": 104}}
+https://github.com/tornadoweb/tornado/pull/794
+	FORK: https://github.com/wolever/tornado
+	ANALYSIS: 
+	5b794deecc3b63fa3f9d47481db27da09cbd5d99 -> {"loc_analyzed": 19868, "num_vulns": 137, "by_severity": {"undefined": 0, "low": 125, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 33, "high": 104}}
+	96e0ea552ffc16a84ddb0adb2aab8f0c8654b79f -> {"loc_analyzed": 20171, "num_vulns": 139, "by_severity": {"undefined": 0, "low": 127, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 33, "high": 106}}
+	a1adcaf01f987cefde8230c3f5934d2aba8d4183 -> {"loc_analyzed": 20171, "num_vulns": 139, "by_severity": {"undefined": 0, "low": 127, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 33, "high": 106}}
+	55ae667b48aaf1f888b3a0b38055eee4b94c9944 -> {"loc_analyzed": 20171, "num_vulns": 139, "by_severity": {"undefined": 0, "low": 127, "medium": 12, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 33, "high": 106}}
+https://github.com/tornadoweb/tornado/pull/885
+	FORK: https://github.com/codeb2cc/tornado
+	ANALYSIS: 
+	e48c794c3408ef5e8ca255297f3c5af3d0ca7a35 -> {"loc_analyzed": 20957, "num_vulns": 164, "by_severity": {"undefined": 0, "low": 149, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 129}}
+	65a4f8a77479101ab9ab84a0220f9d676f2bd1cd -> {"loc_analyzed": 20969, "num_vulns": 164, "by_severity": {"undefined": 0, "low": 149, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 129}}
+	2d5f396407f9ce3c19751d1b6205a0f04143d3d6 -> {"loc_analyzed": 20966, "num_vulns": 164, "by_severity": {"undefined": 0, "low": 149, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 129}}
+https://github.com/tornadoweb/tornado/pull/907
+	FORK: https://github.com/MrTravisB/tornado
+	ANALYSIS: 
+	d45711ab631302f40f6ac157ae01a39f3cbbed49 -> {"loc_analyzed": 21051, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 130}}
+	30d15413d367647207ed3f2fa3ffc0186304d66a -> {"loc_analyzed": 21091, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 130}}
+	e7ed9d31e1b3075d4875744b35db035a191777d1 -> {"loc_analyzed": 21093, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 130}}
+	010728adbdaeb96838e3e6f547504eb41b257eb3 -> {"loc_analyzed": 21093, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 130}}
+https://github.com/tornadoweb/tornado/pull/963
+	FORK: https://github.com/minrk/tornado
+	ANALYSIS: 
+	1c0f4257d1dc5ecc53abe98c7499422c6cf7b052 -> {"loc_analyzed": 21631, "num_vulns": 161, "by_severity": {"undefined": 0, "low": 146, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 125}}
+	12d1ed56dfbb3811cace62003fb7a9132ee4e451 -> {"loc_analyzed": 21634, "num_vulns": 161, "by_severity": {"undefined": 0, "low": 146, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 125}}
+	dbc2c53d65f9945ec5bce0c09b4b0ce56a479d0d -> {"loc_analyzed": 21635, "num_vulns": 161, "by_severity": {"undefined": 0, "low": 146, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 125}}
+https://github.com/tornadoweb/tornado/pull/980
+	FORK: https://github.com/rgbkrk/tornado
+	ANALYSIS: 
+	917b54af98a61d62971740e6d05bf4225307daa4 -> {"loc_analyzed": 24156, "num_vulns": 168, "by_severity": {"undefined": 0, "low": 153, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 37, "high": 131}}
+	27637a30e19434dc830ff2ea1688b2856be2cab3 -> {"loc_analyzed": 24159, "num_vulns": 168, "by_severity": {"undefined": 0, "low": 153, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 37, "high": 131}}
+	75fd4db1b6ebf0f69cc309f9317f83c20de9f77b -> {"loc_analyzed": 24163, "num_vulns": 168, "by_severity": {"undefined": 0, "low": 153, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 37, "high": 131}}
+	217ba68490e690a7fd6185b9c6d8367713034c3f -> {"loc_analyzed": 24190, "num_vulns": 168, "by_severity": {"undefined": 0, "low": 153, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 37, "high": 131}}
+	8cf5f0a0a92622872203141639d03d606e8c644d -> {"loc_analyzed": 24190, "num_vulns": 168, "by_severity": {"undefined": 0, "low": 153, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 37, "high": 131}}
+	9963e737aaa1ff158897ef9f92c361894005e669 -> {"loc_analyzed": 24212, "num_vulns": 168, "by_severity": {"undefined": 0, "low": 153, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 37, "high": 131}}
+	47a8530157f059869360c4ce32a029f8b1132f9b -> {"loc_analyzed": 24210, "num_vulns": 168, "by_severity": {"undefined": 0, "low": 153, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 37, "high": 131}}
+	fb39ba2cdd939955bab9f354c2ac2eb5ed572ea9 -> {"loc_analyzed": 24209, "num_vulns": 168, "by_severity": {"undefined": 0, "low": 153, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 37, "high": 131}}
+	bc2b146f0d41cc9c09e4208b11b12d15698b8ca5 -> {"loc_analyzed": 24221, "num_vulns": 168, "by_severity": {"undefined": 0, "low": 153, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 37, "high": 131}}
+	7fcbe30b3c47052fd5b57d6c048eab63bb8a6d9d -> {"loc_analyzed": 24219, "num_vulns": 168, "by_severity": {"undefined": 0, "low": 153, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 37, "high": 131}}
+https://github.com/tornadoweb/tornado/pull/1021
+	FORK: https://github.com/bdarnell/tornado
+	ANALYSIS: 
+	656f78e18a14aa1b3a018f6922bf40b1204e0e22 -> {"loc_analyzed": 22265, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	a7cda6081da91466ea044173c0dc5bc37eb92a7f -> {"loc_analyzed": 22267, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	e22cd67dc86ab0f3bce9af401c94dca63dcac9af -> {"loc_analyzed": 22288, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	5d7e37c0c322152805c0d033915b2d309d16a199 -> {"loc_analyzed": 22292, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	5c283f9c6bf6c91d65be65a09dbada5a0116e2ad -> {"loc_analyzed": 22309, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	e564ddbe32bb2b250beef44eca3bdeb03fe4838d -> {"loc_analyzed": 22328, "num_vulns": 166, "by_severity": {"undefined": 0, "low": 151, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 130}}
+	a3d6fc6defb9cd690a5f66a18130a3aa080f402d -> {"loc_analyzed": 22374, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	90dcf5a396757c799749047454f0d0afebfc0a38 -> {"loc_analyzed": 22377, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	a47e500d3e74034127ffc23b2d203bb3281d1891 -> {"loc_analyzed": 22388, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	16b9bc34df98d4489d3bc7078878e4b0a70a2d48 -> {"loc_analyzed": 22436, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	122be5ed8ae7484093498041d9b84c1635db925c -> {"loc_analyzed": 22449, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	361b61266362feb17cd20b7cf8be8eefc8523548 -> {"loc_analyzed": 22445, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	6c7eac6c835cdcc8a5c0809b247be60703f6efc7 -> {"loc_analyzed": 22424, "num_vulns": 166, "by_severity": {"undefined": 0, "low": 151, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 130}}
+	39f18880881ab9bfa55b3c0193d57deed75e1461 -> {"loc_analyzed": 22434, "num_vulns": 166, "by_severity": {"undefined": 0, "low": 151, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 130}}
+	ca7f4d0724fded8317f2e950e1852203e4cb80dd -> {"loc_analyzed": 22430, "num_vulns": 166, "by_severity": {"undefined": 0, "low": 151, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 130}}
+	4f734ddcb01f23b9b35b33299c06b523e86ab967 -> {"loc_analyzed": 22427, "num_vulns": 166, "by_severity": {"undefined": 0, "low": 151, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 130}}
+	e9c83cbbc87d7b33c068284afaa526dc2f8f18f9 -> {"loc_analyzed": 22430, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	10e1108ad682b9191d9d45caaa5970491baa3688 -> {"loc_analyzed": 22498, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	adc7e4f17fa413370aacaedfef3130f74affb35b -> {"loc_analyzed": 22512, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	c8ce4517e3bde526106b48e0446f5758ff768fde -> {"loc_analyzed": 22513, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	d41caf16971d11f858b317ddd14d53c31da5a5f7 -> {"loc_analyzed": 22513, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	37cf8b9ea924119fc983a1f1b14402d17fd979e4 -> {"loc_analyzed": 22534, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	02579a35c3bc406b3cfb54650da63055c965536d -> {"loc_analyzed": 22608, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	42df0361e53e0e40e11e1c50c56e3fa8ad0944be -> {"loc_analyzed": 22637, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	e63b4cb9a57f9b941309e587ac335312a6ca9339 -> {"loc_analyzed": 22644, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	681e51b38f0e20d528df1f28517d88aedb34984b -> {"loc_analyzed": 22724, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	c39e69f4a5a225b1340cd01f529d12b71001e012 -> {"loc_analyzed": 22749, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	800d1dcec43f979fa3eb8c316ce5606431d23fff -> {"loc_analyzed": 22847, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	f95b4d7a34f161a56ee3ffabf8cb5ff252e05973 -> {"loc_analyzed": 22907, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	b489ef6d7f7536e66c5b21f50848f97c3fc9b1ab -> {"loc_analyzed": 22999, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	8999596d1a5e5f7d3c2869e5e6525b0df52b4b4f -> {"loc_analyzed": 23128, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	5b624ab729824346dfc1e6958b81992a82ce462b -> {"loc_analyzed": 23174, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	587ed89aaaa0df35ff2dac1a1c45c248194f1219 -> {"loc_analyzed": 23279, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	ce4eb7f59b07ca7c35a6b57b0c8b9774395ff20d -> {"loc_analyzed": 23275, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	243f28272274060922bfb2617a588d5b62b65cd2 -> {"loc_analyzed": 23275, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	7335cc245b9363a454ecaf75f217f5611aa60efe -> {"loc_analyzed": 23317, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	ae7447abb6fa18b38b4657fae0f8561e005f5a5a -> {"loc_analyzed": 23317, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	18cfb371d45cbb7abba5fc094d4331f31b9a0f42 -> {"loc_analyzed": 23327, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	e239a8a73603fda37b1849cf7e11ea835a7d5553 -> {"loc_analyzed": 23327, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	5faab93af7d2b857c862fefb9f595d86276d1322 -> {"loc_analyzed": 23331, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	d3bf586892d2dd9cb93be57ea2d4cb3b0777a8fa -> {"loc_analyzed": 23352, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	89d794c93643af36491247f016c4ab20e78580ae -> {"loc_analyzed": 23469, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	adba10d66724d601b0cced11e14e70a2a661fa09 -> {"loc_analyzed": 23467, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	a92b4ac001e0d1827df3cd4192e6e356681d2620 -> {"loc_analyzed": 23475, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	292e72d5e5a4558c13a292446588ebc55918cc31 -> {"loc_analyzed": 23489, "num_vulns": 166, "by_severity": {"undefined": 0, "low": 151, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 130}}
+	f2d4b8ec474b1386f2f7fb19b5d5ca979e47518f -> {"loc_analyzed": 23488, "num_vulns": 166, "by_severity": {"undefined": 0, "low": 151, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 130}}
+	894bab4d3a7fb2905ab353a849319c6d356f4a71 -> {"loc_analyzed": 23505, "num_vulns": 166, "by_severity": {"undefined": 0, "low": 151, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 130}}
+	ce3ca51495bfe72acf7a850203e5c6816d6c1fb4 -> {"loc_analyzed": 23511, "num_vulns": 166, "by_severity": {"undefined": 0, "low": 151, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 130}}
+	33370aa7fb618c9585cb756c5228bae94d8630ec -> {"loc_analyzed": 23513, "num_vulns": 166, "by_severity": {"undefined": 0, "low": 151, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 130}}
+	fd00f9ca63c46de83e318258cb51a0cd7a8af688 -> {"loc_analyzed": 23553, "num_vulns": 166, "by_severity": {"undefined": 0, "low": 151, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 130}}
+	41597204500ed564d226e9d5302ea96594cd43d1 -> {"loc_analyzed": 23577, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	0d2158971754eacb884c7e7aa98289cc153d6044 -> {"loc_analyzed": 23578, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	544887c35665eb7070e29036b65a68b3dea4c14d -> {"loc_analyzed": 23615, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	d007a2f9ae0eae6e4259a30934218226dfa92134 -> {"loc_analyzed": 23638, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	500a6055342c0765efa8d6fa12c0046ab48bca59 -> {"loc_analyzed": 23752, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	425a31d2a59a99947ddb2c9e32499270fb2a617b -> {"loc_analyzed": 23899, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	b4dc5aef1a66c9d95e201eb86f6c521870106212 -> {"loc_analyzed": 23897, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	42a00ef9ff391e4f6e8bef07d5a28c9a164ba5d2 -> {"loc_analyzed": 23899, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	8630b3b7ede744fc3824b36dc1bbfcfb021155f9 -> {"loc_analyzed": 23915, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	61c05ab4921d2ec4ae5653cfba263c5b700a4be8 -> {"loc_analyzed": 23905, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+	073a535d522c88649322cc1b2129e0fd2414b3a7 -> {"loc_analyzed": 23908, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 152, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 131}}
+https://github.com/tornadoweb/tornado/pull/1023
+	FORK: https://github.com/zakkie/tornado
+	ANALYSIS: 
+	ccbe5a2787c2721f2aa0b7f5f08f89183aef2415 -> {"loc_analyzed": 22295, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	e914a5143e8fd99c4904eedc7547d0d637d752de -> {"loc_analyzed": 22266, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+	32c7a328ed2c00d0ec9adc62b036e1bee65ad146 -> {"loc_analyzed": 22295, "num_vulns": 165, "by_severity": {"undefined": 0, "low": 150, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 129}}
+https://github.com/tornadoweb/tornado/pull/1053
+	FORK: https://github.com/dano/tornado
+	ANALYSIS: 
+	93b81576ed91c2deab56ad9e12f7b42bb91171fd -> {"loc_analyzed": 24132, "num_vulns": 168, "by_severity": {"undefined": 0, "low": 153, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 37, "high": 131}}
+	ea0df97aa21676c1111497642d13e3338f1cfeef -> {"loc_analyzed": 24139, "num_vulns": 168, "by_severity": {"undefined": 0, "low": 153, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 37, "high": 131}}
+	185a246bd5f096966624e352cdcc08eab00f9181 -> {"loc_analyzed": 24146, "num_vulns": 168, "by_severity": {"undefined": 0, "low": 153, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 37, "high": 131}}
+	a15eccec91484b8f70537f7933283c039d7e8ed9 -> {"loc_analyzed": 24144, "num_vulns": 168, "by_severity": {"undefined": 0, "low": 153, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 37, "high": 131}}
+	5176866c68c0f4842427b986b8ac5df3cea0488c -> {"loc_analyzed": 24145, "num_vulns": 168, "by_severity": {"undefined": 0, "low": 153, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 37, "high": 131}}
+	33bab42eeffa823f6dfc40a8942fab6ecdc6617e -> {"loc_analyzed": 24217, "num_vulns": 168, "by_severity": {"undefined": 0, "low": 153, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 37, "high": 131}}
+	1f897ae67933e9819753ee03dc113ff25fadc429 -> {"loc_analyzed": 24217, "num_vulns": 168, "by_severity": {"undefined": 0, "low": 153, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 37, "high": 131}}
+https://github.com/tornadoweb/tornado/pull/1233
+	FORK: https://github.com/jordanbettis/tornado
+	ANALYSIS: 
+	5dd933815175d6b472a6787189babbd8e4250cad -> {"loc_analyzed": 25933, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 153, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 128}}
+	689f2603a6cdc40b2157b10d956fd0b597cba7cb -> {"loc_analyzed": 25918, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 153, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 128}}
+	a5b2d4a61a7ed6cbc95813136f69ef6ab91c159f -> {"loc_analyzed": 25923, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 153, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 128}}
+https://github.com/tornadoweb/tornado/pull/1261
+	FORK: https://github.com/lilydjwg/tornado
+	ANALYSIS: 
+	36b35653b175d1866a7ba5dacf7b69177d49872a -> {"loc_analyzed": 25757, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 153, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 128}}
+	b100b5ff6cdd709acf7be27feb8ef3fc003b8ea7 -> {"loc_analyzed": 25770, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 153, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 128}}
+	03d722775ce8c2490feca1805fe662146f7abff2 -> {"loc_analyzed": 25770, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 153, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 128}}
+	44beea379dcb5f1b85440cf2093cc0f4311584e9 -> {"loc_analyzed": 25777, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 153, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 128}}
+https://github.com/tornadoweb/tornado/pull/1270
+	FORK: https://github.com/djvis/tornado
+	ANALYSIS: 
+	ab706d692e83d146b2b8ecfc502414bc49cbdd01 -> {"loc_analyzed": 25764, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 153, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 128}}
+	e9f14510b3d691b52472963e7bd4e3fcba308681 -> {"loc_analyzed": 25773, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 153, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 128}}
+	48457db394fb39efbbc0d5ddd67fd2eb887c71e8 -> {"loc_analyzed": 25775, "num_vulns": 167, "by_severity": {"undefined": 0, "low": 153, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 128}}
+https://github.com/tornadoweb/tornado/pull/1274
+	FORK: https://github.com/daftshady/tornado
+	ANALYSIS: 
+	18a9e197c9c71bb2acd649a90054a593be90cb99 -> {"loc_analyzed": 27368, "num_vulns": 170, "by_severity": {"undefined": 0, "low": 156, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 131}}
+	23f033d5837614d6ff5a587be49944777b887be1 -> {"loc_analyzed": 27368, "num_vulns": 170, "by_severity": {"undefined": 0, "low": 156, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 131}}
+	8024eee265705d8d5da4f5631c027aed417fb6d7 -> {"loc_analyzed": 27370, "num_vulns": 170, "by_severity": {"undefined": 0, "low": 156, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 131}}
+	8db1f6660b2cd655ea64529235f79341762be8bd -> {"loc_analyzed": 27380, "num_vulns": 170, "by_severity": {"undefined": 0, "low": 156, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 131}}
+	89e153fcda482c4ff5a1f46352131f6cc4ebb386 -> {"loc_analyzed": 27450, "num_vulns": 170, "by_severity": {"undefined": 0, "low": 156, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 131}}
+	196bcc68f7a265a9d98658ad8b1a12eda80f4d99 -> {"loc_analyzed": 27450, "num_vulns": 170, "by_severity": {"undefined": 0, "low": 156, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 131}}
+	9275deb3abc49ffae92bc86a2669c49ee5d74209 -> {"loc_analyzed": 27502, "num_vulns": 170, "by_severity": {"undefined": 0, "low": 156, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 131}}
+	ddc84fd1570f173761d943e91b2745f0f5c45ee6 -> {"loc_analyzed": 27502, "num_vulns": 170, "by_severity": {"undefined": 0, "low": 156, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 131}}
+https://github.com/tornadoweb/tornado/pull/1335
+	FORK: https://github.com/grafuls/tornado
+	ANALYSIS: 
+	daf5eb39d5120cd8fa1dc7e1f9dfc5dbb47c22b5 -> {"loc_analyzed": 26563, "num_vulns": 169, "by_severity": {"undefined": 0, "low": 155, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 130}}
+	4819308023213312c64bdcee30b7111b5554e853 -> {"loc_analyzed": 26563, "num_vulns": 169, "by_severity": {"undefined": 0, "low": 155, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 130}}
+	ace7dd61e66a659b083bc7cbcd8da400a87297fb -> {"loc_analyzed": 26563, "num_vulns": 169, "by_severity": {"undefined": 0, "low": 155, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 130}}
+https://github.com/tornadoweb/tornado/pull/1341
+	FORK: https://github.com/ajdavis/tornado
+	ANALYSIS: 
+	673b75938b868fd98a250685d3608e0dc92e96cb -> {"loc_analyzed": 26849, "num_vulns": 169, "by_severity": {"undefined": 0, "low": 155, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 130}}
+	d7cbb18fe167bd9c8b8cdc488ae14d89818e4293 -> {"loc_analyzed": 26928, "num_vulns": 169, "by_severity": {"undefined": 0, "low": 155, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 130}}
+	c229167edda73510f062fded67a30eb4d032fd08 -> {"loc_analyzed": 26927, "num_vulns": 169, "by_severity": {"undefined": 0, "low": 155, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 130}}
+	17598514ec5be9af97887cae6421ab89d58af865 -> {"loc_analyzed": 26919, "num_vulns": 169, "by_severity": {"undefined": 0, "low": 155, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 130}}
+	d2114d9ded593c2f6a91b29150daf361fed71a1b -> {"loc_analyzed": 26912, "num_vulns": 169, "by_severity": {"undefined": 0, "low": 155, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 130}}
+	1c3d22fcf5305ebe506c4ac1e5ab760b7ddf4c04 -> {"loc_analyzed": 26921, "num_vulns": 169, "by_severity": {"undefined": 0, "low": 155, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 130}}
+	f52541129c09d3ce6847e94643eda9e9c9712c93 -> {"loc_analyzed": 26921, "num_vulns": 169, "by_severity": {"undefined": 0, "low": 155, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 130}}
+https://github.com/tornadoweb/tornado/pull/1344
+	FORK: https://github.com/ajdavis/tornado
+	ANALYSIS: 
+	82ab31ca4f722d80a9192469658ebfcebcf51d12 -> {"loc_analyzed": 26938, "num_vulns": 169, "by_severity": {"undefined": 0, "low": 155, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 130}}
+	22640a7cc20bb704f55aa218ac6a6ca4a82787cc -> {"loc_analyzed": 26938, "num_vulns": 169, "by_severity": {"undefined": 0, "low": 155, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 130}}
+	892f0aceffc5602e62f3201676a458212dd067fd -> {"loc_analyzed": 26939, "num_vulns": 169, "by_severity": {"undefined": 0, "low": 155, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 130}}
+https://github.com/tornadoweb/tornado/pull/1399
+	FORK: https://github.com/martinhoefling/tornado
+	ANALYSIS: 
+	61817b4d38c34ae747dbc0973d6b3666fdfb5022 -> {"loc_analyzed": 28357, "num_vulns": 178, "by_severity": {"undefined": 0, "low": 164, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 38, "high": 140}}
+	b5fd020add2eb8dcf7a564fd8cc863fedd7c9bd8 -> {"loc_analyzed": 28357, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 165, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 38, "high": 141}}
+	f3a7816eaba02b2e6fabb607aca7a4598c755c0b -> {"loc_analyzed": 28357, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 165, "medium": 14, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 38, "high": 141}}
+	7dc9f25532c2281158caa4c1ade2562b7bb405ce -> {"loc_analyzed": 28481, "num_vulns": 173, "by_severity": {"undefined": 0, "low": 160, "medium": 13, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 139}}
+https://github.com/tornadoweb/tornado/pull/1421
+	FORK: https://github.com/ajdavis/tornado
+	ANALYSIS: 
+	41724baf6588178ddf101da632c91a59b3755df5 -> {"loc_analyzed": 28115, "num_vulns": 171, "by_severity": {"undefined": 0, "low": 158, "medium": 13, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 137}}
+	aed1fc456787070c1445da11a649d66ba460c240 -> {"loc_analyzed": 28105, "num_vulns": 171, "by_severity": {"undefined": 0, "low": 158, "medium": 13, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 137}}
+	d1829969aa318130cc8e36015cbe0376f4e4a3d0 -> {"loc_analyzed": 28105, "num_vulns": 171, "by_severity": {"undefined": 0, "low": 158, "medium": 13, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 137}}
+https://github.com/tornadoweb/tornado/pull/1479
+	FORK: https://github.com/mr-ping/tornado
+	ANALYSIS: 
+	22a8c6efcf7d8d0fc8016344e99e4762da86b786 -> {"loc_analyzed": 29300, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+	90d9f17468613073006d762fc61382d029ad2ec6 -> {"loc_analyzed": 29291, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+	5d0ac1d2897a18714e748873b44fe9967c21a5cf -> {"loc_analyzed": 29319, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+	a8949f9d9210f5fabb9bfbb645a551dcbbfe1cc4 -> {"loc_analyzed": 29304, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+https://github.com/tornadoweb/tornado/pull/1494
+	FORK: https://github.com/gwillem/tornado
+	ANALYSIS: 
+https://github.com/tornadoweb/tornado/pull/1526
+	FORK: https://github.com/bdarnell/tornado
+	ANALYSIS: 
+	96dc7adcbd1d18a53431da7c5d74e6508dad8e37 -> {"loc_analyzed": 29501, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+	1453e665726c5a721a665845084ea4ed5b478944 -> {"loc_analyzed": 29501, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+	852c209821eacbcb45b9b3b1862ab73a0f103cfe -> {"loc_analyzed": 29503, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+https://github.com/tornadoweb/tornado/pull/1542
+	FORK: https://github.com/bdarnell/tornado
+	ANALYSIS: 
+	52f94d006750cfa2f823dcde86ba71f79030ca42 -> {"loc_analyzed": 29722, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+	abdb692dd8b6fa8873df47486b747b2fd921526d -> {"loc_analyzed": 29740, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+	7bdbd0b2aba3ccbc46792ff9da38203027941246 -> {"loc_analyzed": 29755, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+	2237a72af711c49b020922c0f33a3fe63f6f8ee8 -> {"loc_analyzed": 29773, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+	b20ca363c7df16d8bd7c21b9db4c639ebae543c5 -> {"loc_analyzed": 29799, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+	95a17c6c4bbadbca404281e568c712b97a64d811 -> {"loc_analyzed": 29803, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+	53bf664844a78099c0f0eab5f5cfa86f5ed5c38f -> {"loc_analyzed": 29798, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+	5590741eaea09d2a5477a1a016334725e2f450a8 -> {"loc_analyzed": 29843, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+	99527e1f0355847c1ce93a376b010e6f346a81c9 -> {"loc_analyzed": 29843, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+https://github.com/tornadoweb/tornado/pull/1599
+	FORK: https://github.com/emehrkay/tornado
+	ANALYSIS: 
+	97705b920d8330e3cb115fb9a04f041509520171 -> {"loc_analyzed": 29960, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+	b34dc5ce23ff4d6e1b21b0d2d7b79cb4f6b5af82 -> {"loc_analyzed": 29960, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+	db36a844fc60c00b6ba384cbb0e4861ab54e4c43 -> {"loc_analyzed": 29959, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+https://github.com/tornadoweb/tornado/pull/1615
+	FORK: https://github.com/ColorFuzzy/tornado
+	ANALYSIS: 
+	9a911b09965145af15bb5bbac4ed883f31166fab -> {"loc_analyzed": 30021, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+	fa38173fe2c4c4959cda7d80299595b5b71181a1 -> {"loc_analyzed": 29989, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+	8fdffc4c8910f136e34bb21faa7b93c8d0ed44a4 -> {"loc_analyzed": 29986, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+https://github.com/tornadoweb/tornado/pull/1714
+	FORK: https://github.com/Maillol/tornado
+	ANALYSIS: 
+	4576fb07ae9a34f7000870f8f33596716c56456c -> {"loc_analyzed": 30222, "num_vulns": 180, "by_severity": {"undefined": 0, "low": 164, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 145}}
+	5b8f610347b551532cc62bd5f5b3ab20bf17c595 -> {"loc_analyzed": 30218, "num_vulns": 180, "by_severity": {"undefined": 0, "low": 164, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 145}}
+	2a62361d21810e65d8f3cf3b36244a1d5d583aae -> {"loc_analyzed": 30215, "num_vulns": 180, "by_severity": {"undefined": 0, "low": 164, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 145}}
+https://github.com/tornadoweb/tornado/pull/1720
+	FORK: https://github.com/daftshady/tornado
+	ANALYSIS: 
+	d8d9a84c548ef7b0941b76f4c58222a3f40085f9 -> {"loc_analyzed": 30178, "num_vulns": 180, "by_severity": {"undefined": 0, "low": 164, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 145}}
+	1aa5a5bc9afae299527316b39c91150907678707 -> {"loc_analyzed": 30187, "num_vulns": 180, "by_severity": {"undefined": 0, "low": 164, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 145}}
+	0075fd9c2cef912f690ad52f55c8a15001dadfeb -> {"loc_analyzed": 30187, "num_vulns": 180, "by_severity": {"undefined": 0, "low": 164, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 145}}
+https://github.com/tornadoweb/tornado/pull/1794
+	FORK: https://github.com/mivade/tornado
+	ANALYSIS: 
+	1920c86dd619752665bb34c3a20aa35163a7f05b -> {"loc_analyzed": 30357, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 162, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 144}}
+	39c3d95ddcb19fd53a1e1226207ec396d284a5e4 -> {"loc_analyzed": 30369, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 162, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 144}}
+	07f76904c34ac50589b0fecc2d105d8a7201785e -> {"loc_analyzed": 30366, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 162, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 144}}
+	85fb6a2985894df13117bf04b23b66ea332aabdb -> {"loc_analyzed": 30366, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 162, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 144}}
+https://github.com/tornadoweb/tornado/pull/1806
+	FORK: https://github.com/SuminAndrew/tornado
+	ANALYSIS: 
+	dd047596c70e449f9c3f10e05a3efe31c7f96c11 -> {"loc_analyzed": 30837, "num_vulns": 182, "by_severity": {"undefined": 0, "low": 165, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 147}}
+	384f049d6ce7acb17334eeffb3d6900d4b0f5f4a -> {"loc_analyzed": 30961, "num_vulns": 182, "by_severity": {"undefined": 0, "low": 165, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 147}}
+	1d8c0617d7535972f4f6fd2005000e690ae30ebf -> {"loc_analyzed": 30980, "num_vulns": 182, "by_severity": {"undefined": 0, "low": 165, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 147}}
+	7bb6bb4d30076f825a52b799f641289a6bbe8ab0 -> {"loc_analyzed": 30985, "num_vulns": 182, "by_severity": {"undefined": 0, "low": 165, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 147}}
+https://github.com/tornadoweb/tornado/pull/1817
+	FORK: https://github.com/mivade/tornado
+	ANALYSIS: 
+	4f894630d0889973c88a087b4e0de8441afdaa33 -> {"loc_analyzed": 30319, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 162, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 144}}
+	43413a2cb962e59d8f528aa568edcd5ea59f71d4 -> {"loc_analyzed": 30319, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 162, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 144}}
+	f8fa4a151fdd13ea86bdea212f8f3851ee3138a0 -> {"loc_analyzed": 30322, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 162, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 144}}
+	c9a4adb038bb69ac5f39bb9c39abec342ff955a6 -> {"loc_analyzed": 30323, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 162, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 144}}
+	9ffd08ff8ff3decabc503f71e883ad3a26052f40 -> {"loc_analyzed": 30327, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 162, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 144}}
+	c610dd403dacf850f30b4cf185cd00c3facd76c1 -> {"loc_analyzed": 30327, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 162, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 144}}
+https://github.com/tornadoweb/tornado/pull/1852
+	FORK: https://github.com/bdarnell/tornado
+	ANALYSIS: 
+	f43ec69f13dbcdc1fd03cd80ea77eed2623c5820 -> {"loc_analyzed": 30296, "num_vulns": 178, "by_severity": {"undefined": 0, "low": 162, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 143}}
+	cb247cb8db7903fda0ca26531c1526e895e10800 -> {"loc_analyzed": 30384, "num_vulns": 180, "by_severity": {"undefined": 0, "low": 164, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 145}}
+	1664ce3d73b7e1ec891fb95545b8a724b6265e53 -> {"loc_analyzed": 30384, "num_vulns": 180, "by_severity": {"undefined": 0, "low": 164, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 145}}
+https://github.com/tornadoweb/tornado/pull/1873
+	FORK: https://github.com/pitrou/tornado
+	ANALYSIS: 
+	992a00e079ae5a874d0428ef2b6f5128462f3d1f -> {"loc_analyzed": 30527, "num_vulns": 183, "by_severity": {"undefined": 0, "low": 166, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 148}}
+	8fcae631e173bc084fe787ff3878b69f53e998b3 -> {"loc_analyzed": 30536, "num_vulns": 182, "by_severity": {"undefined": 0, "low": 165, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 147}}
+	61a84a99e8cd447471b4b13020778892a8819722 -> {"loc_analyzed": 30536, "num_vulns": 182, "by_severity": {"undefined": 0, "low": 165, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 147}}
+	70b075f6aab9f61387d44cc1214f74bf7cabd856 -> {"loc_analyzed": 30538, "num_vulns": 182, "by_severity": {"undefined": 0, "low": 165, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 147}}
+	eaff9f218a7f2a657422968789f1b3908828699a -> {"loc_analyzed": 30538, "num_vulns": 182, "by_severity": {"undefined": 0, "low": 165, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 147}}
+	236d70ce2c5e56d89a88f1ef9eeec8180561fbcd -> {"loc_analyzed": 30554, "num_vulns": 182, "by_severity": {"undefined": 0, "low": 165, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 147}}
+	9e2d824307996fe1bc7250346bf3d3224fd3050f -> {"loc_analyzed": 30557, "num_vulns": 182, "by_severity": {"undefined": 0, "low": 165, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 147}}
+	1030ac746be393f7c921cc27485325c11786f41c -> {"loc_analyzed": 30577, "num_vulns": 182, "by_severity": {"undefined": 0, "low": 165, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 147}}
+https://github.com/tornadoweb/tornado/pull/1876
+	FORK: https://github.com/pitrou/tornado
+	ANALYSIS: 
+	29b1429bda629e568ba429d3dcbf250c6722d7ee -> {"loc_analyzed": 30557, "num_vulns": 181, "by_severity": {"undefined": 0, "low": 164, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 146}}
+	71cfaf666a7637f44d7541015c4780817cd4ab03 -> {"loc_analyzed": 30557, "num_vulns": 181, "by_severity": {"undefined": 0, "low": 164, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 146}}
+	d509f72d54caf8ee70f446e1d90ddbdabfd5d6d0 -> {"loc_analyzed": 30553, "num_vulns": 181, "by_severity": {"undefined": 0, "low": 164, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 146}}
+	c40e3a9e0ee5538e7ebb68646365d1e99f0cfccb -> {"loc_analyzed": 30553, "num_vulns": 181, "by_severity": {"undefined": 0, "low": 164, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 146}}
+https://github.com/tornadoweb/tornado/pull/1917
+	FORK: https://github.com/retinator/tornado
+	ANALYSIS: 
+	0ed1bb761e8978b42aef2a8f654dd737eb3ff062 -> {"loc_analyzed": 31348, "num_vulns": 184, "by_severity": {"undefined": 0, "low": 167, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 149}}
+	3e3a34df0e153b6f58446eb5300d0eeb3f37d73c -> {"loc_analyzed": 31348, "num_vulns": 184, "by_severity": {"undefined": 0, "low": 167, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 149}}
+	85f3d8bc6f349a38683edc1cb652a70b1c426153 -> {"loc_analyzed": 31346, "num_vulns": 184, "by_severity": {"undefined": 0, "low": 167, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 149}}
+	68c15a14656c8968c31425befb187215fec8cf82 -> {"loc_analyzed": 31352, "num_vulns": 184, "by_severity": {"undefined": 0, "low": 167, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 149}}
+	70727e7708e56adb44c28747d4f179eaa47c0edd -> {"loc_analyzed": 31357, "num_vulns": 184, "by_severity": {"undefined": 0, "low": 167, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 149}}
+	17da654549a7c68d42ebe3b69066348c03ac4549 -> {"loc_analyzed": 31341, "num_vulns": 183, "by_severity": {"undefined": 0, "low": 166, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 148}}
+	7461d5c082b880e62e30f6c8cbb6e44b29cc7f4a -> {"loc_analyzed": 31342, "num_vulns": 183, "by_severity": {"undefined": 0, "low": 166, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 148}}
+	71a8d194e7be8655c04d6083ac650da182879081 -> {"loc_analyzed": 31699, "num_vulns": 184, "by_severity": {"undefined": 0, "low": 167, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 149}}
+https://github.com/tornadoweb/tornado/pull/1935
+	FORK: https://github.com/mirceaulinic/tornado
+	ANALYSIS: 
+https://github.com/tornadoweb/tornado/pull/1936
+	FORK: https://github.com/homm/tornado
+	ANALYSIS: 
+	aa5c6d9fdc0dc94c5710ea23dfae77f99464cfb0 -> {"loc_analyzed": 30387, "num_vulns": 180, "by_severity": {"undefined": 0, "low": 164, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 145}}
+	24eb6a677e7329373f3efd46da9a30f75ceb0343 -> {"loc_analyzed": 30406, "num_vulns": 180, "by_severity": {"undefined": 0, "low": 164, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 145}}
+	d2acc2bd8283f22798422ee2313eaf4af7fc76c8 -> {"loc_analyzed": 30419, "num_vulns": 180, "by_severity": {"undefined": 0, "low": 164, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 145}}
+	4f353454a692d9203ba7f9555af88d1806275e1e -> {"loc_analyzed": 31393, "num_vulns": 183, "by_severity": {"undefined": 0, "low": 166, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 148}}
+https://github.com/tornadoweb/tornado/pull/1957
+	FORK: https://github.com/bdarnell/tornado
+	ANALYSIS: 
+	078a4d1f510844de7d090fca33054897e79fe961 -> {"loc_analyzed": 30165, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+	2a157f41480f29131983758a61fb988c33443399 -> {"loc_analyzed": 30175, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+	ef29978302e077a48b4a13dd9490181099c5ea4d -> {"loc_analyzed": 31364, "num_vulns": 183, "by_severity": {"undefined": 0, "low": 166, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 148}}
+	a4215304d8ff0ba55a0aee7783d9e11f22cfe460 -> {"loc_analyzed": 31424, "num_vulns": 183, "by_severity": {"undefined": 0, "low": 166, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 148}}
+	816ebe6cc8764ebe5b0a4c7527912362d3025907 -> {"loc_analyzed": 31456, "num_vulns": 183, "by_severity": {"undefined": 0, "low": 166, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 148}}
+https://github.com/tornadoweb/tornado/pull/1977
+	FORK: https://github.com/daynejones/tornado
+	ANALYSIS: 
+	a26daca3fa18f80264b2a29a7bc4c39f11c650a6 -> {"loc_analyzed": 29960, "num_vulns": 179, "by_severity": {"undefined": 0, "low": 163, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 34, "high": 145}}
+	ce381f355b591deb73e4a2092fe253029258d426 -> {"loc_analyzed": 31606, "num_vulns": 185, "by_severity": {"undefined": 0, "low": 168, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 149}}
+	31a717697ce79d3761e263c6c376cb11c8fb8993 -> {"loc_analyzed": 31607, "num_vulns": 185, "by_severity": {"undefined": 0, "low": 168, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 149}}
+	471f02423745567f8c1752bbd6dfc7fa0732c2f9 -> {"loc_analyzed": 31606, "num_vulns": 185, "by_severity": {"undefined": 0, "low": 168, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 149}}
+	cdc205d2e73d49f76aaa0c3d59f1274c8478ab2e -> {"loc_analyzed": 31605, "num_vulns": 185, "by_severity": {"undefined": 0, "low": 168, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 149}}
+https://github.com/tornadoweb/tornado/pull/2067
+	FORK: https://github.com/mivade/tornado
+	ANALYSIS: 
+	4ef6a6426482b1f56303d6cd06339c5aacb366c8 -> {"loc_analyzed": 32134, "num_vulns": 188, "by_severity": {"undefined": 0, "low": 171, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 152}}
+	8eff0d41c9c128f2742965b3f1008959d2b7dd3e -> {"loc_analyzed": 32136, "num_vulns": 186, "by_severity": {"undefined": 0, "low": 169, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 150}}
+	dcb2d776c1c8d8d4d0fa74d2304647d378303d6d -> {"loc_analyzed": 32137, "num_vulns": 186, "by_severity": {"undefined": 0, "low": 169, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 150}}
+	57508857aa349abd6b204ed69e3a8a6ce2518a8f -> {"loc_analyzed": 32135, "num_vulns": 186, "by_severity": {"undefined": 0, "low": 169, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 150}}
+	a317c4db47dfdec356a235f90b28761d5b502ce5 -> {"loc_analyzed": 32135, "num_vulns": 186, "by_severity": {"undefined": 0, "low": 169, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 150}}
+	79d9106327ef184aff19795d68c2c4bdb1ffae2d -> {"loc_analyzed": 32137, "num_vulns": 186, "by_severity": {"undefined": 0, "low": 169, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 150}}
+	2eb7d1a8ebe6fd8ce61e0740b292e8c860971eba -> {"loc_analyzed": 32146, "num_vulns": 184, "by_severity": {"undefined": 0, "low": 167, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 148}}
+	107efcd32d69aab790a97faa76145dd3f0c7eeed -> {"loc_analyzed": 32143, "num_vulns": 184, "by_severity": {"undefined": 0, "low": 167, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 148}}
+	999ebdf5f5a31a30a89f5f88b01d473a01934024 -> {"loc_analyzed": 32146, "num_vulns": 184, "by_severity": {"undefined": 0, "low": 167, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 148}}
+	e776ddba2dd221976c53dc283f9aca74d108cfc4 -> {"loc_analyzed": 32153, "num_vulns": 184, "by_severity": {"undefined": 0, "low": 167, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 148}}
+	b09203b32ed96cd2c5e4f1cc5793beda809cf837 -> {"loc_analyzed": 32149, "num_vulns": 184, "by_severity": {"undefined": 0, "low": 167, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 148}}
+https://github.com/tornadoweb/tornado/pull/2073
+	FORK: https://github.com/bdarnell/tornado
+	ANALYSIS: 
+	694a5a9c4c1b77b01b904608f45d69f70265f6d3 -> {"loc_analyzed": 32454, "num_vulns": 189, "by_severity": {"undefined": 0, "low": 172, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 154}}
+	4ccfc4c3f7fa7fdf68e4bbd03a0a654c1330a02f -> {"loc_analyzed": 32453, "num_vulns": 189, "by_severity": {"undefined": 0, "low": 172, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 154}}
+	89b46a51720776a57cbdf89e8615a09cc020404a -> {"loc_analyzed": 32464, "num_vulns": 189, "by_severity": {"undefined": 0, "low": 172, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 154}}
+	b7d2a152f96c349648f1212c67d05f8aebd027fb -> {"loc_analyzed": 32476, "num_vulns": 189, "by_severity": {"undefined": 0, "low": 172, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 154}}
+	941d6f30d738de1e979b94c3a45c9f6b628836f3 -> {"loc_analyzed": 32470, "num_vulns": 189, "by_severity": {"undefined": 0, "low": 172, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 154}}
+	3fb845db0b2d2c78d53d8e0cdc2ed1b11a02f170 -> {"loc_analyzed": 32472, "num_vulns": 189, "by_severity": {"undefined": 0, "low": 172, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 154}}
+	42a1d23bf4b11f1575def9875219ee7bc78b2e7e -> {"loc_analyzed": 32484, "num_vulns": 189, "by_severity": {"undefined": 0, "low": 172, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 154}}
+	ac13ee5f64cd3bceb1628dbcbbfc77445358038f -> {"loc_analyzed": 32563, "num_vulns": 189, "by_severity": {"undefined": 0, "low": 172, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 154}}
+https://github.com/tornadoweb/tornado/pull/2075
+	FORK: https://github.com/pitrou/tornado
+	ANALYSIS: 
+	21680e20c539aa837f9a42b1e3d82026c0e1beff -> {"loc_analyzed": 32192, "num_vulns": 186, "by_severity": {"undefined": 0, "low": 169, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 150}}
+	f7d8ad2dd68b1f0b623c2ab3dc4043635e78b184 -> {"loc_analyzed": 32194, "num_vulns": 186, "by_severity": {"undefined": 0, "low": 169, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 150}}
+	6b6d0e0673765f3c4bbc437d1599d7b7fd01f53e -> {"loc_analyzed": 32194, "num_vulns": 186, "by_severity": {"undefined": 0, "low": 169, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 150}}
+https://github.com/tornadoweb/tornado/pull/2081
+	FORK: https://github.com/noyainrain/tornado
+	ANALYSIS: 
+	c40cdb930b2a9335af0451ef51821d4f2838c61d -> {"loc_analyzed": 32184, "num_vulns": 189, "by_severity": {"undefined": 0, "low": 172, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 153}}
+	7f1a58f9faacb0bb0e95c2527a348195742eb866 -> {"loc_analyzed": 32186, "num_vulns": 189, "by_severity": {"undefined": 0, "low": 172, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 153}}
+	fcc21d4e45038defbcd06d4d9a3fb551d3a92858 -> {"loc_analyzed": 32187, "num_vulns": 189, "by_severity": {"undefined": 0, "low": 172, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 153}}
+https://github.com/tornadoweb/tornado/pull/2094
+	FORK: https://github.com/Lancher/tornado
+	ANALYSIS: 
+	4bdde5986f82b4208b13c842ee3dfe9855762e88 -> {"loc_analyzed": 32277, "num_vulns": 189, "by_severity": {"undefined": 0, "low": 172, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 153}}
+	0b5ed867c53c0e96cf0461d56c4513b8834614df -> {"loc_analyzed": 32293, "num_vulns": 189, "by_severity": {"undefined": 0, "low": 172, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 153}}
+	6edded34c0ff491ca503487435ffef92ca1f425c -> {"loc_analyzed": 32294, "num_vulns": 189, "by_severity": {"undefined": 0, "low": 172, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 153}}
+	b5e9bfadc1d9fec635cb7affc88bbecd2d4f7547 -> {"loc_analyzed": 32301, "num_vulns": 189, "by_severity": {"undefined": 0, "low": 172, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 153}}
+	e4c228caef1238a1ac837105c90df612831494d4 -> {"loc_analyzed": 32302, "num_vulns": 189, "by_severity": {"undefined": 0, "low": 172, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 153}}
+	d715e886a840bd3109970327c0d4c6ad46ee61c4 -> {"loc_analyzed": 32332, "num_vulns": 189, "by_severity": {"undefined": 0, "low": 172, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 153}}
+	8c7d46a66058504c05509badc01588ffa9db0c69 -> {"loc_analyzed": 32333, "num_vulns": 189, "by_severity": {"undefined": 0, "low": 172, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 153}}
+https://github.com/tornadoweb/tornado/pull/2169
+	FORK: https://github.com/pitrou/tornado
+	ANALYSIS: 
+	11866db4d39e6f6d6b708d672092a9002163d68c -> {"loc_analyzed": 32563, "num_vulns": 194, "by_severity": {"undefined": 0, "low": 177, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 158}}
+	7cb39c68ba5cb5174b0480fdf67ee9a670edc0b2 -> {"loc_analyzed": 32640, "num_vulns": 194, "by_severity": {"undefined": 0, "low": 177, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 158}}
+	94865a4628e8378f60b620b8c82c1d69283fd8ee -> {"loc_analyzed": 32563, "num_vulns": 193, "by_severity": {"undefined": 0, "low": 176, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 158}}
+	43ab15b597f34dfed023b66b7d6a8dd46ce4684f -> {"loc_analyzed": 32569, "num_vulns": 193, "by_severity": {"undefined": 0, "low": 176, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 158}}
+	d9e3cc5dc13305f7a9671cb7ff4e94767db8cd8d -> {"loc_analyzed": 32569, "num_vulns": 193, "by_severity": {"undefined": 0, "low": 176, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 158}}
+	b390f80a8338e48b1db50fbcf059b0c084d7acee -> {"loc_analyzed": 32568, "num_vulns": 193, "by_severity": {"undefined": 0, "low": 176, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 158}}
+	70e2d397c0401677ef3ebaef0eed9ba2174ec189 -> {"loc_analyzed": 32568, "num_vulns": 193, "by_severity": {"undefined": 0, "low": 176, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 158}}
+	5b74e97f0231ea31c5f35dca0d2ec49d8a397ba1 -> {"loc_analyzed": 32729, "num_vulns": 193, "by_severity": {"undefined": 0, "low": 176, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 158}}
+	af0d4f83990c7b825fcc5a42526df4fd784050b5 -> {"loc_analyzed": 32729, "num_vulns": 193, "by_severity": {"undefined": 0, "low": 176, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 158}}
+	78b6cb422fc474b83c66f33bbf61d56654fa7614 -> {"loc_analyzed": 32743, "num_vulns": 193, "by_severity": {"undefined": 0, "low": 176, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 158}}
+https://github.com/tornadoweb/tornado/pull/2201
+	FORK: https://github.com/risboo6909/tornado
+	ANALYSIS: 
+	24d0405c0f0094cf5a1af9a37339fabc8cacc397 -> {"loc_analyzed": 32794, "num_vulns": 193, "by_severity": {"undefined": 0, "low": 176, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 158}}
+	28734349d0280a56193c70ad00d19245f78f894f -> {"loc_analyzed": 32795, "num_vulns": 193, "by_severity": {"undefined": 0, "low": 176, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 158}}
+	faf60027394984b486e59c6b5b41bf4a0c5d9f32 -> {"loc_analyzed": 32811, "num_vulns": 193, "by_severity": {"undefined": 0, "low": 176, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 158}}
+	8023372b15dff3954c6b88ef55b0d7f646a98de8 -> {"loc_analyzed": 32812, "num_vulns": 193, "by_severity": {"undefined": 0, "low": 176, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 158}}
+	195bef84dfc270b2b624a55eb3b88aef83dcda48 -> {"loc_analyzed": 32813, "num_vulns": 193, "by_severity": {"undefined": 0, "low": 176, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 158}}
+	486c665e4739f9611564bf97b2825e2e3142b834 -> {"loc_analyzed": 32811, "num_vulns": 193, "by_severity": {"undefined": 0, "low": 176, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 158}}
+https://github.com/tornadoweb/tornado/pull/2219
+	FORK: https://github.com/bdarnell/tornado
+	ANALYSIS: 
+	1e758ad5aac22dbacc3f51f9d18ac39a11ae3517 -> {"loc_analyzed": 32872, "num_vulns": 192, "by_severity": {"undefined": 0, "low": 176, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 157}}
+	c85dfd2e11ded1edfa937c535d5eb6483e715597 -> {"loc_analyzed": 31991, "num_vulns": 185, "by_severity": {"undefined": 0, "low": 168, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 149}}
+	c4911bf2e7b8640a8730b9e5a539152869444f12 -> {"loc_analyzed": 31991, "num_vulns": 185, "by_severity": {"undefined": 0, "low": 168, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 149}}
+	810c341d2488c11813995dd2beadab7ba00ff44d -> {"loc_analyzed": 31991, "num_vulns": 185, "by_severity": {"undefined": 0, "low": 168, "medium": 17, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 149}}
+	121f85f8839489e0b198592d349ecfd5582450c9 -> {"loc_analyzed": 32872, "num_vulns": 192, "by_severity": {"undefined": 0, "low": 176, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 157}}
+https://github.com/tornadoweb/tornado/pull/2237
+	FORK: https://github.com/ploxiln/tornado
+	ANALYSIS: 
+	b9a7ee5542ebfe01e05e059767b80556aa2c1466 -> {"loc_analyzed": 33091, "num_vulns": 194, "by_severity": {"undefined": 0, "low": 178, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 159}}
+	a87fba76b574ed3b9725f2220b1a1032bfa4a00b -> {"loc_analyzed": 33081, "num_vulns": 194, "by_severity": {"undefined": 0, "low": 178, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 159}}
+	9b60fc5fcdf43572a0d63af7cf450ea5bc8fa27b -> {"loc_analyzed": 33081, "num_vulns": 194, "by_severity": {"undefined": 0, "low": 178, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 159}}
+	48e042f2af444322e6a4167087c582718afa9c6b -> {"loc_analyzed": 33081, "num_vulns": 194, "by_severity": {"undefined": 0, "low": 178, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 159}}
+	a358a660fbd37e4ffa6b14027d5e79d8dd16337f -> {"loc_analyzed": 33081, "num_vulns": 194, "by_severity": {"undefined": 0, "low": 178, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 159}}
+	376cfc2102621b42fcf1f419b5260b33aa204c09 -> {"loc_analyzed": 33081, "num_vulns": 194, "by_severity": {"undefined": 0, "low": 178, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 159}}
+	26591b51450ac540ad596b66fd7bfcac27417018 -> {"loc_analyzed": 33090, "num_vulns": 194, "by_severity": {"undefined": 0, "low": 178, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 159}}
+	27bb4eab8db21bb59d7629b7ccdba6134b6110b7 -> {"loc_analyzed": 33088, "num_vulns": 194, "by_severity": {"undefined": 0, "low": 178, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 159}}
+	7e2fef9fb12097b49b066a4041ef0f216a25251b -> {"loc_analyzed": 33088, "num_vulns": 194, "by_severity": {"undefined": 0, "low": 178, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 159}}
+	d72dc5433d5b5e6deb0695713479113abcb7861d -> {"loc_analyzed": 33109, "num_vulns": 208, "by_severity": {"undefined": 0, "low": 189, "medium": 19, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 173}}
+	0a1565aba237d7a611d1e7dd6d5e47a2b166f21d -> {"loc_analyzed": 33105, "num_vulns": 208, "by_severity": {"undefined": 0, "low": 189, "medium": 19, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 173}}
+	6682d58bf261bcaa0d0939e4fd50a496f10a32ec -> {"loc_analyzed": 33119, "num_vulns": 208, "by_severity": {"undefined": 0, "low": 189, "medium": 19, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 173}}
+	120afef8e7a7c0b12a28dafd30e50570e80994eb -> {"loc_analyzed": 33137, "num_vulns": 208, "by_severity": {"undefined": 0, "low": 189, "medium": 19, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 173}}
+	cbd53e24b6f80a232703f95c66ea1c49b407d374 -> {"loc_analyzed": 33172, "num_vulns": 208, "by_severity": {"undefined": 0, "low": 189, "medium": 19, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 173}}
+https://github.com/tornadoweb/tornado/pull/2248
+	FORK: https://github.com/bdarnell/tornado
+	ANALYSIS: 
+	1294b0765ff3041342d45bc5a6539a5c8aa2370f -> {"loc_analyzed": 33173, "num_vulns": 208, "by_severity": {"undefined": 0, "low": 189, "medium": 19, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 173}}
+	8c513117fcae553aa938427159de029da4f56edf -> {"loc_analyzed": 33233, "num_vulns": 208, "by_severity": {"undefined": 0, "low": 189, "medium": 19, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 173}}
+	2d7fb199ca91d0e6fb521f347fa1807efe7e121e -> {"loc_analyzed": 33239, "num_vulns": 208, "by_severity": {"undefined": 0, "low": 189, "medium": 19, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 173}}
+	e964f989399b6a961b3e97e723f03fbe5fc620bc -> {"loc_analyzed": 33255, "num_vulns": 208, "by_severity": {"undefined": 0, "low": 189, "medium": 19, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 173}}
+https://github.com/tornadoweb/tornado/pull/2253
+	FORK: https://github.com/bdarnell/tornado
+	ANALYSIS: 
+	2ec7dca027f6333ce07d7eae4124586536ec7f8a -> {"loc_analyzed": 33452, "num_vulns": 214, "by_severity": {"undefined": 0, "low": 193, "medium": 21, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 179}}
+	c1ae51677b5c0bad961835a2ee481e07d3547c6f -> {"loc_analyzed": 33431, "num_vulns": 214, "by_severity": {"undefined": 0, "low": 193, "medium": 21, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 179}}
+	b66acec055afe0171695971a24c5dc9e18b29404 -> {"loc_analyzed": 33451, "num_vulns": 214, "by_severity": {"undefined": 0, "low": 193, "medium": 21, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 179}}
+	606f0b5e90645fd8a1309043e839c5b0cf8abfad -> {"loc_analyzed": 33463, "num_vulns": 214, "by_severity": {"undefined": 0, "low": 193, "medium": 21, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 179}}
+	6e8a137e6824716531d749bce8a18a1f229ed873 -> {"loc_analyzed": 33464, "num_vulns": 214, "by_severity": {"undefined": 0, "low": 193, "medium": 21, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 179}}
+	10056ae257467279c07bc38a76344b701cfb4a38 -> {"loc_analyzed": 33464, "num_vulns": 214, "by_severity": {"undefined": 0, "low": 193, "medium": 21, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 179}}
+	49804d9d0d39919ea74498bc61559d49b67f8b0f -> {"loc_analyzed": 33464, "num_vulns": 214, "by_severity": {"undefined": 0, "low": 193, "medium": 21, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 179}}
+	336da267f087943b6150fcd652dfe4d4c7eec13c -> {"loc_analyzed": 33464, "num_vulns": 214, "by_severity": {"undefined": 0, "low": 193, "medium": 21, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 35, "high": 179}}
+https://github.com/tornadoweb/tornado/pull/2330
+	FORK: https://github.com/minrk/tornado
+	ANALYSIS: 
+	ebdfb9c0eed872bfc3a3a9840037b14b7d24cd11 -> {"loc_analyzed": 34271, "num_vulns": 219, "by_severity": {"undefined": 0, "low": 198, "medium": 21, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 180}}
+	7b5ddf16ebe68a2a11db9aed9a849d2a0bfd51ca -> {"loc_analyzed": 34295, "num_vulns": 219, "by_severity": {"undefined": 0, "low": 198, "medium": 21, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 180}}
+	b81323b1398a271676619ef1569f94f320744c8f -> {"loc_analyzed": 34289, "num_vulns": 219, "by_severity": {"undefined": 0, "low": 198, "medium": 21, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 180}}
+	67452de31b49f54fee4549c8f0d3fdf4074b5119 -> {"loc_analyzed": 34292, "num_vulns": 219, "by_severity": {"undefined": 0, "low": 198, "medium": 21, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 39, "high": 180}}
+https://github.com/tornadoweb/tornado/pull/2432
+	FORK: https://github.com/bdarnell/tornado
+	ANALYSIS: 
+	8952120d54ebabf7add64565d1a1c4546298bbe8 -> {"loc_analyzed": 34868, "num_vulns": 218, "by_severity": {"undefined": 0, "low": 197, "medium": 21, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 41, "high": 177}}
+	00675409071b41650a5cd6894cafd921d16085ae -> {"loc_analyzed": 34868, "num_vulns": 218, "by_severity": {"undefined": 0, "low": 197, "medium": 21, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 41, "high": 177}}
+	9fb12bbbfe365c98f6fd4c0b13d324372917d8c9 -> {"loc_analyzed": 34868, "num_vulns": 218, "by_severity": {"undefined": 0, "low": 197, "medium": 21, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 41, "high": 177}}
+https://github.com/tornadoweb/tornado/pull/2440
+	FORK: https://github.com/bdarnell/tornado
+	ANALYSIS: 
+	2ca8821d006f6693f920a4b183a3a7c985a5c8ad -> {"loc_analyzed": 32474, "num_vulns": 261, "by_severity": {"undefined": 0, "low": 246, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 225}}
+	4f486a4aec746e9d66441600ee3b0743228b061c -> {"loc_analyzed": 32489, "num_vulns": 261, "by_severity": {"undefined": 0, "low": 246, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 225}}
+	c443fb7bf8a87ba8ab02b9a6af9e140cabc0ab0d -> {"loc_analyzed": 32508, "num_vulns": 261, "by_severity": {"undefined": 0, "low": 246, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 225}}
+https://github.com/tornadoweb/tornado/pull/2469
+	FORK: https://github.com/mrocklin/tornado
+	ANALYSIS: 
+https://github.com/tornadoweb/tornado/pull/2673
+	FORK: https://github.com/ploxiln/tornado
+	ANALYSIS: 
+	22b17454d75ac62f783faf9814fdd4c613559484 -> {"loc_analyzed": 32706, "num_vulns": 262, "by_severity": {"undefined": 0, "low": 246, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 226}}
+	71494a4db76b3ae458e5757d741bdd1aac255640 -> {"loc_analyzed": 32705, "num_vulns": 262, "by_severity": {"undefined": 0, "low": 246, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 226}}
+	e19f06d3d422554d5b1823c61e18745ba28aabfb -> {"loc_analyzed": 32706, "num_vulns": 262, "by_severity": {"undefined": 0, "low": 246, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 226}}
+	ecd42b610d88635dbc17cebad70b70289e6b711b -> {"loc_analyzed": 32706, "num_vulns": 262, "by_severity": {"undefined": 0, "low": 246, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 226}}
+https://github.com/tornadoweb/tornado/pull/2678
+	FORK: https://github.com/robinro/tornado
+	ANALYSIS: 
+	99471894136d2ef540a4525c06a190d886d44e4b -> {"loc_analyzed": 32708, "num_vulns": 262, "by_severity": {"undefined": 0, "low": 246, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 226}}
+	cd6cd9c06ec26a6d8c3ca59c44953aac8a13116d -> {"loc_analyzed": 32697, "num_vulns": 262, "by_severity": {"undefined": 0, "low": 246, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 226}}
+	43230d66f83352f1309d07206f4815197431838e -> {"loc_analyzed": 32790, "num_vulns": 262, "by_severity": {"undefined": 0, "low": 246, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 226}}
+	58875eea29aa5f358e40179a2493a89c649c5cac -> {"loc_analyzed": 32789, "num_vulns": 262, "by_severity": {"undefined": 0, "low": 246, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 226}}
+	4beb228544ef5adcd2cdc3ad895af17db86a328e -> {"loc_analyzed": 32792, "num_vulns": 262, "by_severity": {"undefined": 0, "low": 246, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 226}}
+https://github.com/tornadoweb/tornado/pull/2683
+	FORK: https://github.com/bdarnell/tornado
+	ANALYSIS: 
+	3ba49c10d457200845ae0c0b44095f67f88cc5b0 -> {"loc_analyzed": 32794, "num_vulns": 262, "by_severity": {"undefined": 0, "low": 246, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 226}}
+	c216c7bf120423acc2104e9a6d3e6654eb4ce52a -> {"loc_analyzed": 32794, "num_vulns": 262, "by_severity": {"undefined": 0, "low": 246, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 226}}
+	4d2b625589b9b81904641f2b033dca0c7e3a41e8 -> {"loc_analyzed": 32794, "num_vulns": 262, "by_severity": {"undefined": 0, "low": 246, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 226}}
+https://github.com/tornadoweb/tornado/pull/2789
+	FORK: https://github.com/piraz/tornado
+	ANALYSIS: 
+	c31c8d6a306d0d9afce5e6a62c93e538429dc51f -> {"loc_analyzed": 32841, "num_vulns": 278, "by_severity": {"undefined": 0, "low": 263, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 242}}
+	0340933b14e1b27355ff67dcbf794ef07900ec88 -> {"loc_analyzed": 32850, "num_vulns": 278, "by_severity": {"undefined": 0, "low": 263, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 242}}
+	8037e9288a2c88e6a755cdf89545d63d19dc365a -> {"loc_analyzed": 32849, "num_vulns": 278, "by_severity": {"undefined": 0, "low": 263, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 242}}
+	32ac3b58dc0240192eb06477e366827e2a7a9991 -> {"loc_analyzed": 32849, "num_vulns": 278, "by_severity": {"undefined": 0, "low": 263, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 242}}
+	347e8856717b4e486847e671c0da787694616851 -> {"loc_analyzed": 32849, "num_vulns": 278, "by_severity": {"undefined": 0, "low": 263, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 242}}
+https://github.com/tornadoweb/tornado/pull/2805
+	FORK: https://github.com/tornadoweb/tornado
+	ANALYSIS: 
+	a772ed991531ba442a8d1bd090b91fd42b6b09de -> {"loc_analyzed": 32896, "num_vulns": 278, "by_severity": {"undefined": 0, "low": 263, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 242}}
+	deed964897e3af435c81addf37ff314d0835db25 -> {"loc_analyzed": 32897, "num_vulns": 278, "by_severity": {"undefined": 0, "low": 263, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 242}}
+	a4290052676fc7a06f96d411b56950faba575e9f -> {"loc_analyzed": 32901, "num_vulns": 278, "by_severity": {"undefined": 0, "low": 263, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 242}}
+	b0d495e5d91364c1359c45f7eb824b717386c8b9 -> {"loc_analyzed": 32934, "num_vulns": 278, "by_severity": {"undefined": 0, "low": 263, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 242}}
+	238110bf56c319a2be33614208b593e0a1faf3f2 -> {"loc_analyzed": 32934, "num_vulns": 278, "by_severity": {"undefined": 0, "low": 263, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 242}}
+https://github.com/tornadoweb/tornado/pull/2815
+	FORK: https://github.com/bdarnell/tornado
+	ANALYSIS: 
+	dcb23eee4eeaaa37f14475dfbf69b33e4e495870 -> {"loc_analyzed": 32876, "num_vulns": 278, "by_severity": {"undefined": 0, "low": 263, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 242}}
+	2c357af92611d32e4ae8fc3c53da77831171ad18 -> {"loc_analyzed": 32877, "num_vulns": 278, "by_severity": {"undefined": 0, "low": 263, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 242}}
+	7d7b4dda6a23f38774828348576abd347e650584 -> {"loc_analyzed": 32877, "num_vulns": 278, "by_severity": {"undefined": 0, "low": 263, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 242}}
+	89d9c417b5d7a16c1d9c5a0537b3a51ab88f7794 -> {"loc_analyzed": 32998, "num_vulns": 278, "by_severity": {"undefined": 0, "low": 263, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 242}}
+	5cfe2fc2223fc2b3f6f26d5e6d59167d9b46fdc5 -> {"loc_analyzed": 33037, "num_vulns": 278, "by_severity": {"undefined": 0, "low": 263, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 242}}
+	52c45c00fe0bbc52cccdea0048193cc6beba853c -> {"loc_analyzed": 33043, "num_vulns": 278, "by_severity": {"undefined": 0, "low": 263, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 242}}
+	b03acc54c468c0cf9a3c139b3e59e8627fd7e64f -> {"loc_analyzed": 33036, "num_vulns": 278, "by_severity": {"undefined": 0, "low": 263, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 242}}
+	9602c6a9ee48c79065f5862c37f1fb33d1cc4944 -> {"loc_analyzed": 33036, "num_vulns": 278, "by_severity": {"undefined": 0, "low": 263, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 242}}
+https://github.com/tornadoweb/tornado/pull/2831
+	FORK: https://github.com/chris-laplante/tornado
+	ANALYSIS: 
+	340e3738185c3c2e017bdd907b2b5d13696d3974 -> {"loc_analyzed": 32644, "num_vulns": 262, "by_severity": {"undefined": 0, "low": 246, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 226}}
+	72a9c061ba47038f0a6ab8d74f41cc87459258dc -> {"loc_analyzed": 32645, "num_vulns": 262, "by_severity": {"undefined": 0, "low": 246, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 226}}
+	fa9ce3014300d767790c7ea485d3d5e2d96406d9 -> {"loc_analyzed": 32645, "num_vulns": 262, "by_severity": {"undefined": 0, "low": 246, "medium": 16, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 226}}
+https://github.com/tornadoweb/tornado/pull/2919
+	FORK: https://github.com/ploxiln/tornado
+	ANALYSIS: 
+	582f2cbc920a2633f94409614a07696f63fea07e -> {"loc_analyzed": 33060, "num_vulns": 278, "by_severity": {"undefined": 0, "low": 263, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 242}}
+	926040063532076ee270f79a54ad85d6c777d645 -> {"loc_analyzed": 33064, "num_vulns": 278, "by_severity": {"undefined": 0, "low": 263, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 242}}
+	92b981e51fec26140cebc311c4c1e6193ef60b8e -> {"loc_analyzed": 33064, "num_vulns": 278, "by_severity": {"undefined": 0, "low": 263, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 242}}
+https://github.com/tornadoweb/tornado/pull/2924
+	FORK: https://github.com/ploxiln/tornado
+	ANALYSIS: 
+	99dfb7035bcc788ffd41c34be8d1e0351896791a -> {"loc_analyzed": 33194, "num_vulns": 286, "by_severity": {"undefined": 0, "low": 271, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 250}}
+	116a11f3ca27d966d8006adbcdd98c3da56e8839 -> {"loc_analyzed": 33204, "num_vulns": 286, "by_severity": {"undefined": 0, "low": 271, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 250}}
+	c6a97b0561e45740ca9b7fa40200d1a1c07ae3b7 -> {"loc_analyzed": 33248, "num_vulns": 286, "by_severity": {"undefined": 0, "low": 271, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 250}}
+	30af70b1d1881de53d2260fdafd5045df42c3f4e -> {"loc_analyzed": 33248, "num_vulns": 286, "by_severity": {"undefined": 0, "low": 271, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 250}}
+	930ae72c17dec54116e8a663865fe29c06f8a2f2 -> {"loc_analyzed": 33248, "num_vulns": 286, "by_severity": {"undefined": 0, "low": 271, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 250}}
+	9bd034fa30c88f4f7510ed53b3c2114696033d73 -> {"loc_analyzed": 33251, "num_vulns": 286, "by_severity": {"undefined": 0, "low": 271, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 250}}
+	4cc013199d7310ae15665d42d51a7ed4f0df1058 -> {"loc_analyzed": 33247, "num_vulns": 286, "by_severity": {"undefined": 0, "low": 271, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 250}}
+https://github.com/tornadoweb/tornado/pull/2970
+	FORK: https://github.com/bfis/tornado
+	ANALYSIS: 
+	d04e775212ccd2d03e4ee79407c8cb996ae0f738 -> {"loc_analyzed": 33159, "num_vulns": 284, "by_severity": {"undefined": 0, "low": 269, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 248}}
+	81bc33aea2db93f3e020172832e1e6677efb8d26 -> {"loc_analyzed": 33159, "num_vulns": 284, "by_severity": {"undefined": 0, "low": 269, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 248}}
+	2dce6df1520e32c1dea54600294eea91c75da6fe -> {"loc_analyzed": 33159, "num_vulns": 284, "by_severity": {"undefined": 0, "low": 269, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 248}}
+https://github.com/tornadoweb/tornado/pull/2974
+	FORK: https://github.com/youguanxinqing/tornado
+	ANALYSIS: 
+	1e7b95cd3d8d31f08a1a827b600e63ce2ab8ad42 -> {"loc_analyzed": 33159, "num_vulns": 284, "by_severity": {"undefined": 0, "low": 269, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 248}}
+	6e60bc9852eb23aeb6ce5dc2ef913de5b567f775 -> {"loc_analyzed": 33161, "num_vulns": 284, "by_severity": {"undefined": 0, "low": 269, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 248}}
+	c673cac53462f79bf2ae8fd64fc0448214780041 -> {"loc_analyzed": 33161, "num_vulns": 284, "by_severity": {"undefined": 0, "low": 269, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 248}}
+	c2135484b1d6e30101c447b10898f219dafb63c5 -> {"loc_analyzed": 33163, "num_vulns": 284, "by_severity": {"undefined": 0, "low": 269, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 248}}
+	29ed966a8a0f57f7a01a31c3575021dac9207230 -> {"loc_analyzed": 33164, "num_vulns": 284, "by_severity": {"undefined": 0, "low": 269, "medium": 15, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 36, "high": 248}}
