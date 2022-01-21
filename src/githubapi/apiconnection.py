@@ -1,7 +1,7 @@
 import requests
 import os.path
 import time
-from datetime import datetime
+import datetime
 import csv
 import util.helper as help
 
@@ -74,7 +74,7 @@ def retrieve_pull_requests_with_details(repository_url):
             'pageInfo { hasNextPage endCursor } nodes { number id participants { totalCount }' \
             'comments { totalCount } reviews { totalCount } reviewDecision ' \
             ' commits (first: 100) { totalCount nodes { commit { oid committedDate authoredDate} } } ' \
-            ' headRepository { url } } } } }'% \
+            ' headRepository { url } createdAt} } } }'% \
             (repo_owner['repo'], repo_owner['owner'])
     retrieve_pull_request_iteratively(query, repo_owner, pull_request_details)
     return pull_request_details
@@ -92,19 +92,26 @@ def retrieve_pull_request_iteratively(query, repo_owner, pull_request_details):
                         commits = {}
                         if node['headRepository'] is not None and node['headRepository']['url'] is not None:# and node['reviewDecision'] == 'APPROVED':
                             print('headRepository ' + node['headRepository']['url'])
-                            print('pull request ' + str(node['number']))
+                            print('pull request ' + str(node['number']) + ' pr created on ' + node['createdAt'])
+                            pr_created = datetime.datetime.strptime(node['createdAt'], "%Y-%m-%dT%H:%M:%SZ")
+                            commit_before_pr = None
                             for commit_node in node['commits']['nodes']:
                                 print('commit hash ' + commit_node['commit']['oid'] + ' commit date ' +
                                       commit_node['commit']['committedDate'] + ' authored date ' +
                                       commit_node['commit']['authoredDate'] + ' participants '
                                       + str(node['participants']['totalCount']))
+
                                 commits[commit_node['commit']['oid']] = {'commit_date' :
                                                                         commit_node['commit']['committedDate'],
                                                                         'author_date':commit_node['commit']['authoredDate']}
+                                if commit_before_pr is None:
+                                    commit_before_pr = commit_node['commit']['oid']
+                                elif datetime.datetime.strptime(commit_node['commit']['committedDate'], "%Y-%m-%dT%H:%M:%SZ") < pr_created:
+                                    commit_before_pr = commit_node['commit']['oid']
 
                             pull_request_details[node['number']] = {'number': node['number'], 'headRepository':
                                 node['headRepository']['url'], 'commits': commits, 'participants':
-                                node['participants']['totalCount']}
+                                node['participants']['totalCount'], 'prCreated':  node['createdAt'], 'commitBeforePR': commit_before_pr}
 
 
 
@@ -114,7 +121,7 @@ def retrieve_pull_request_iteratively(query, repo_owner, pull_request_details):
                     'pageInfo { hasNextPage endCursor } nodes { number id participants { totalCount }' \
                     'comments { totalCount } reviews { totalCount } reviewDecision ' \
                     ' commits (first: 100) { totalCount nodes { commit { oid committedDate authoredDate} } } ' \
-                    ' headRepository { url } } } } }' % \
+                    ' headRepository { url } createdAt} } } }' % \
                     (repo_owner['repo'], repo_owner['owner'], end_cursor)
             retrieve_pull_request_iteratively(query, repo_owner, pull_request_details)
 
