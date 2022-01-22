@@ -9,10 +9,11 @@ import analysis.codecomplexityanalysis as cocom_analysis
 def retreive_pr_details():
     #repo_urls = apiconnection.get_open_source_repos()
     #repo_urls = ['https://github.com/spring-projects/spring-boot', 'https://github.com/elastic/elasticsearch', 'https://github.com/ReactiveX/RxJava', 'https://github.com/google/guava', 'https://github.com/apache/tomcat', 'https://github.com/dbeaver/dbeaver', 'https://github.com/greenrobot/EventBus', 'https://github.com/SeleniumHQ/selenium', 'https://github.com/google/gson', 'https://github.com/jenkinsci/jenkins', 'https://github.com/redisson/redisson', 'https://github.com/apache/flink', 'https://github.com/mybatis/mybatis-3', 'https://github.com/oracle/graal']
-    repo_urls = ['https://github.com/ReactiveX/RxJava']
+    #repo_urls = ['https://github.com/httpie/httpie']
+    #repo_urls = ['https://github.com/pallets/flask']
+    #repo_urls = ['https://github.com/tornadoweb/tornado']
+    repo_urls = ['https://github.com/keras-team/keras']
 
-    #df = pd.read_csv('/mnt/d/hackathon/elasticsearch.csv')
-    #already_processed = df['PullNo'].unique().tolist()
 
     for url in repo_urls:
         pull_request_details = apiconnection.retrieve_pull_requests_with_details(url)
@@ -32,10 +33,10 @@ def retreive_pr_details():
 
 def run_graal_analysis():
     already_processed = []
-    if os.path.exists('/mnt/d/hackathon/httpie.csv'):
-        df = pd.read_csv('/mnt/d/hackathon/httpie.csv')
+    if os.path.exists('/mnt/d/hackathon/keras.csv'):
+        df = pd.read_csv('/mnt/d/hackathon/keras.csv')
         already_processed.extend(df['PullNo'].unique().tolist())
-    with open('/mnt/d/hackathon/httpieprdata.csv', encoding="utf8") as f:
+    with open('/mnt/d/hackathon/kerasprdata.csv', encoding="utf8") as f:
         csv_reader = csv.DictReader(f)
         # skip the header
         next(csv_reader)
@@ -47,20 +48,21 @@ def run_graal_analysis():
                                                                     line['Commits'])
                 if commit_analysis is not None and len(commit_analysis) > 0:
                     for commit, analysis in commit_analysis.items():
-                         append_to_file(line['Repo'], line['PullRequest'], line['Participants'], commit,  analysis)
+                         append_to_file(line['Repo'], line['PullRequest'], line['Participants'], commit, analysis)
 
 
 def add_pr_details_to_csv(repo, pr_no, fork, start_date, end_date, commits, pr_created, commit_before_pr, participants):
-    file_exist = os.path.exists('/mnt/d/hackathon/reactRXprdata1.csv')
-    with open('/mnt/d/hackathon/reactRXprdata1.csv', 'a', newline='') as csv_file:
+    file_exist = os.path.exists('/mnt/d/hackathon/kerasprdata.csv')
+    with open('/mnt/d/hackathon/kerasprdata.csv', 'a', newline='') as csv_file:
         writer = csv.writer(csv_file)
         if not file_exist:
             writer.writerow(['Repo', 'PullRequest', 'Fork', 'Start_date', 'End_date', 'Commits', 'PR_Start', 'Commit_Before_PR', 'Participants'])
         writer.writerow([repo, pr_no, fork, start_date, end_date, commits, pr_created, commit_before_pr, participants])
 
+
 def append_to_file(url, pr_number, participants, commit_hash, analysis):
-    file_exist = os.path.exists('/mnt/d/hackathon/httpie.csv')
-    with open('/mnt/d/hackathon/httpie.csv', 'a', newline='') as csv_file:
+    file_exist = os.path.exists('/mnt/d/hackathon/keras.csv')
+    with open('/mnt/d/hackathon/keras.csv', 'a', newline='') as csv_file:
         writer = csv.writer(csv_file)
         if not file_exist:
             writer.writerow(['URL', 'PullNo', 'Participants', 'CommitHash', 'Analysis'])
@@ -69,4 +71,4 @@ def append_to_file(url, pr_number, participants, commit_hash, analysis):
 
 if __name__ == "__main__":
    retreive_pr_details()
-   #run_graal_analysis()
+   run_graal_analysis()

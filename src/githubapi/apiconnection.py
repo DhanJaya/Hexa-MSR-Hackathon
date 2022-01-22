@@ -7,7 +7,7 @@ import util.helper as help
 
 
 def get_git_auth_token():
-    file = open('D:\PhD\workspace\PycharmProjects\Hexa-MSR-Hackathon\GithubAuthToken.txt', "r")
+    file = open('/mnt/d/PhD/workspace/PycharmProjects/Hexa-MSR-Hackathon/GithubAuthToken.txt', "r")
     return file.read().strip()
 
 
