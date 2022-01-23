@@ -8,9 +8,6 @@ import json
 
 from graal.backends.core.cocom import CoCom
 
-#https://github.com/apache/tomcat
-#https://github.com/alibaba/fastjson
-#https://github.com/apache/ambari
 owner = 'apache'
 repo = 'tomcat'
 directory = '/tmp/' + repo
