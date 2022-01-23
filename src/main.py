@@ -13,7 +13,7 @@ def retreive_pr_details():
     #repo_urls = ['https://github.com/httpie/httpie']
     #repo_urls = ['https://github.com/pallets/flask']
     #repo_urls = ['https://github.com/tornadoweb/tornado']
-    repo_urls = ['https://github.com/keras-team/keras']
+    repo_urls = ['https://github.com/pallets/flask']
 
 
     for url in repo_urls:
@@ -72,4 +72,4 @@ def append_to_file(url, pr_number, participants, commit_hash, analysis):
 
 if __name__ == "__main__":
    retreive_pr_details()
-   run_graal_analysis()
+   # run_graal_analysis()

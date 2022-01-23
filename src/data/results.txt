@@ -409,3 +409,9 @@ https://github.com/pallets/flask/pull/4074
 https://github.com/pallets/flask/pull/4268
 	FORK: https://github.com/Jalkhov/flask
 	ANALYSIS: 
+https://github.com/pallets/flask/pull/427
+	FORK: https://github.com/kevinburke/flask
+	ANALYSIS: 
+	6b9e6a5a52f22bdf6b86b76de1fc7c8e1a635a8f -> {"loc_analyzed": 7473, "num_vulns": 55, "by_severity": {"undefined": 0, "low": 52, "medium": 3, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 5, "high": 50}}
+	605d0ee34421fbc1dd714790ff016834c9b3f0cb -> {"loc_analyzed": 7473, "num_vulns": 55, "by_severity": {"undefined": 0, "low": 52, "medium": 3, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 5, "high": 50}}
+	2befab24c50a8f1a3417a7ce22e65608ba3905e1 -> {"loc_analyzed": 7473, "num_vulns": 55, "by_severity": {"undefined": 0, "low": 52, "medium": 3, "high": 0}, "by_confidence": {"undefined": 0, "low": 0, "medium": 5, "high": 50}}
