@@ -5,6 +5,7 @@ import pandas as pd
 import githubapi.apiconnection as apiconnection
 import analysis.codecomplexityanalysis as cocom_analysis
 
+file_path = 'data/prs/flask-prs.csv'
 
 def retreive_pr_details():
     #repo_urls = apiconnection.get_open_source_repos()
@@ -33,10 +34,10 @@ def retreive_pr_details():
 
 def run_graal_analysis():
     already_processed = []
-    if os.path.exists('/mnt/d/hackathon/keras.csv'):
-        df = pd.read_csv('/mnt/d/hackathon/keras.csv')
+    if os.path.exists(file_path):
+        df = pd.read_csv(file_path)
         already_processed.extend(df['PullNo'].unique().tolist())
-    with open('/mnt/d/hackathon/kerasprdata.csv', encoding="utf8") as f:
+    with open(file_path, encoding="utf8") as f:
         csv_reader = csv.DictReader(f)
         # skip the header
         next(csv_reader)
@@ -52,8 +53,8 @@ def run_graal_analysis():
 
 
 def add_pr_details_to_csv(repo, pr_no, fork, start_date, end_date, commits, pr_created, commit_before_pr, participants):
-    file_exist = os.path.exists('/mnt/d/hackathon/kerasprdata.csv')
-    with open('/mnt/d/hackathon/kerasprdata.csv', 'a', newline='') as csv_file:
+    file_exist = os.path.exists(file_path)
+    with open(file_path, 'a', newline='') as csv_file:
         writer = csv.writer(csv_file)
         if not file_exist:
             writer.writerow(['Repo', 'PullRequest', 'Fork', 'Start_date', 'End_date', 'Commits', 'PR_Start', 'Commit_Before_PR', 'Participants'])
@@ -61,8 +62,8 @@ def add_pr_details_to_csv(repo, pr_no, fork, start_date, end_date, commits, pr_c
 
 
 def append_to_file(url, pr_number, participants, commit_hash, analysis):
-    file_exist = os.path.exists('/mnt/d/hackathon/keras.csv')
-    with open('/mnt/d/hackathon/keras.csv', 'a', newline='') as csv_file:
+    file_exist = os.path.exists(file_path)
+    with open(file_path, 'a', newline='') as csv_file:
         writer = csv.writer(csv_file)
         if not file_exist:
             writer.writerow(['URL', 'PullNo', 'Participants', 'CommitHash', 'Analysis'])
