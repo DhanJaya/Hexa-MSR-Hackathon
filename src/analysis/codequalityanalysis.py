@@ -36,7 +36,7 @@ def run_quality_analysis(url, start_date, end_date, commits):
 
     coqua = CoQua(uri=repo_uri, entrypoint='/tmp/worktrees/' + repo, git_path=directory)
     print('Scanning repositories.....')
-    items = coqua.fetch(from_date=new_from_date, to_date=to_date)
+    items = coqua.fetch(from_date=new_from_date, to_date=to_date, category='code_quality_flake8')
 
     commit_analysis = {}
     try:
