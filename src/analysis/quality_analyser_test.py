@@ -24,7 +24,7 @@ def run_quality_analysis():
     start_date_time = datetime.datetime.strptime('2017-01-16T00:00:00Z', '%Y-%m-%dT%H:%M:%SZ') - datetime.timedelta(2)
     end_date_time = datetime.datetime.strptime('2017-01-17T00:00:00Z', '%Y-%m-%dT%H:%M:%SZ') + datetime.timedelta(days=2)
 
-    # Entrypoint should be the source root
+    # Entrypoint should be the source root (Usually source root = repo name)
     coqua = CoQua(uri=repo_uri, entrypoint='flask', git_path=directory)
     items = coqua.fetch(from_date=start_date_time, to_date=end_date_time, category=CATEGORY_COQUA_PYLINT)
 
