@@ -1,0 +1,953 @@
+------------------------------------------------------------------------------------------------------
+Pull Request 173
+requests/core.py
+	dcebab4c35369f9f91dab3eb6ff877509f7d38c2 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 23, 'tokens': 49, 'ext': 'py', 'blanks': 8, 'comments': 8, 'file_path': 'requests/core.py'}
+	c48cf2bba8aafa50ae5cd77e7ab4bb476dca086c {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 23, 'tokens': 49, 'ext': 'py', 'blanks': 8, 'comments': 8, 'file_path': 'requests/core.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 175
+requests/models.py
+	ffde764a910e64398d01a8058a540853b63d60d3 {'ccn': 123, 'avg_ccn': 4.241379310344827, 'avg_loc': 11.206896551724139, 'avg_tokens': 80.0, 'num_funs': 29, 'loc': 380, 'tokens': 2531, 'ext': 'py', 'blanks': 172, 'comments': 109, 'file_path': 'requests/models.py'}
+	7077272baa39113538aeed6e40ce38d20f5c512c {'ccn': 68, 'avg_ccn': 5.230769230769231, 'avg_loc': 16.923076923076923, 'avg_tokens': 110.15384615384616, 'num_funs': 13, 'loc': 248, 'tokens': 1547, 'ext': 'py', 'blanks': 136, 'comments': 120, 'file_path': 'requests/models.py'}
+	2361a6fc79f3af84550478cd43e0f9ab26e714f4 {'ccn': 68, 'avg_ccn': 5.230769230769231, 'avg_loc': 16.923076923076923, 'avg_tokens': 110.15384615384616, 'num_funs': 13, 'loc': 248, 'tokens': 1547, 'ext': 'py', 'blanks': 136, 'comments': 120, 'file_path': 'requests/models.py'}
+requests/utils.py
+	62d29d510625aa6c5415f4ba35579059b1c842fd {'ccn': 61, 'avg_ccn': 4.6923076923076925, 'avg_loc': 12.692307692307692, 'avg_tokens': 89.3076923076923, 'num_funs': 13, 'loc': 180, 'tokens': 1195, 'ext': 'py', 'blanks': 104, 'comments': 79, 'file_path': 'requests/utils.py'}
+	7077272baa39113538aeed6e40ce38d20f5c512c {'ccn': 72, 'avg_ccn': 4.8, 'avg_loc': 12.6, 'avg_tokens': 87.33333333333333, 'num_funs': 15, 'loc': 204, 'tokens': 1346, 'ext': 'py', 'blanks': 113, 'comments': 86, 'file_path': 'requests/utils.py'}
+	2361a6fc79f3af84550478cd43e0f9ab26e714f4 {'ccn': 72, 'avg_ccn': 4.8, 'avg_loc': 12.6, 'avg_tokens': 87.33333333333333, 'num_funs': 15, 'loc': 204, 'tokens': 1346, 'ext': 'py', 'blanks': 113, 'comments': 86, 'file_path': 'requests/utils.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 220
+requests/auth.py
+	340f7a0733b6b023c2bec18bb0f91e8f1052a84d {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 3.0, 'avg_tokens': 28.0, 'num_funs': 2, 'loc': 13, 'tokens': 65, 'ext': 'py', 'blanks': 10, 'comments': 12, 'file_path': 'requests/auth.py'}
+	d23c4b94c11eadfba7554fa7216f2a30b04396ca {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 30.5, 'num_funs': 2, 'loc': 15, 'tokens': 68, 'ext': 'py', 'blanks': 10, 'comments': 12, 'file_path': 'requests/auth.py'}
+	0dae52220b274890af08ac040bd90747146c3d90 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 30.5, 'num_funs': 2, 'loc': 15, 'tokens': 68, 'ext': 'py', 'blanks': 10, 'comments': 12, 'file_path': 'requests/auth.py'}
+	4892a305d9cd658287b3320d18c60886b14b5b48 {'ccn': 8, 'avg_ccn': 2.6666666666666665, 'avg_loc': 7.333333333333333, 'avg_tokens': 55.0, 'num_funs': 3, 'loc': 29, 'tokens': 173, 'ext': 'py', 'blanks': 19, 'comments': 17, 'file_path': 'requests/auth.py'}
+	12db1576e9d0ed897f799a8f382ee92db891988d {'ccn': 8, 'avg_ccn': 2.6666666666666665, 'avg_loc': 7.333333333333333, 'avg_tokens': 56.0, 'num_funs': 3, 'loc': 29, 'tokens': 176, 'ext': 'py', 'blanks': 19, 'comments': 17, 'file_path': 'requests/auth.py'}
+	60b37e54b56ae9b1f3457bfda6178c001cdddcc4 {'ccn': 19, 'avg_ccn': 4.75, 'avg_loc': 20.5, 'avg_tokens': 149.25, 'num_funs': 4, 'loc': 92, 'tokens': 619, 'ext': 'py', 'blanks': 41, 'comments': 24, 'file_path': 'requests/auth.py'}
+requests/models.py
+	94c587d642eb131660e738667dc3861fbd35314e {'ccn': 80, 'avg_ccn': 5.0, 'avg_loc': 15.6875, 'avg_tokens': 107.5625, 'num_funs': 16, 'loc': 302, 'tokens': 1903, 'ext': 'py', 'blanks': 150, 'comments': 124, 'file_path': 'requests/models.py'}
+	495c3d500640ce39d53292fd9846a2354d203675 {'ccn': 82, 'avg_ccn': 5.125, 'avg_loc': 16.125, 'avg_tokens': 111.0, 'num_funs': 16, 'loc': 309, 'tokens': 1958, 'ext': 'py', 'blanks': 154, 'comments': 122, 'file_path': 'requests/models.py'}
+	20e0ee4968298815ed8a3cd7de01a17e8451cd6c {'ccn': 79, 'avg_ccn': 5.266666666666667, 'avg_loc': 16.466666666666665, 'avg_tokens': 112.66666666666667, 'num_funs': 15, 'loc': 281, 'tokens': 1844, 'ext': 'py', 'blanks': 142, 'comments': 99, 'file_path': 'requests/models.py'}
+	491a3c075d341a048c50b4a989b87da0c2a75992 {'ccn': 79, 'avg_ccn': 5.266666666666667, 'avg_loc': 16.8, 'avg_tokens': 116.53333333333333, 'num_funs': 15, 'loc': 287, 'tokens': 1907, 'ext': 'py', 'blanks': 145, 'comments': 102, 'file_path': 'requests/models.py'}
+	b88fbb5e0c1a95987612e891c60c3b14418fd077 {'ccn': 79, 'avg_ccn': 5.266666666666667, 'avg_loc': 16.8, 'avg_tokens': 116.53333333333333, 'num_funs': 15, 'loc': 285, 'tokens': 1899, 'ext': 'py', 'blanks': 145, 'comments': 102, 'file_path': 'requests/models.py'}
+test_requests.py
+	06a5aed8e2a539d780020fb893fdf5ef9192ae04 {'ccn': 65, 'avg_ccn': 1.5853658536585367, 'avg_loc': 6.780487804878049, 'avg_tokens': 62.48780487804878, 'num_funs': 41, 'loc': 298, 'tokens': 2680, 'ext': 'py', 'blanks': 201, 'comments': 16, 'file_path': 'test_requests.py'}
+	53c7b777355a42eaef1df0c88916d413d3e996ec {'ccn': 67, 'avg_ccn': 1.5952380952380953, 'avg_loc': 6.880952380952381, 'avg_tokens': 63.357142857142854, 'num_funs': 42, 'loc': 309, 'tokens': 2780, 'ext': 'py', 'blanks': 208, 'comments': 16, 'file_path': 'test_requests.py'}
+requests/async.py
+	af6aa3e5729aa4e99716546915957ecf70bb894d {'ccn': 9, 'avg_ccn': 2.25, 'avg_loc': 4.0, 'avg_tokens': 28.75, 'num_funs': 4, 'loc': 42, 'tokens': 228, 'ext': 'py', 'blanks': 28, 'comments': 16, 'file_path': 'requests/async.py'}
+	b7c788cc56b6f2f1113555074fad848afa9caf0f {'ccn': 9, 'avg_ccn': 2.25, 'avg_loc': 4.0, 'avg_tokens': 28.75, 'num_funs': 4, 'loc': 42, 'tokens': 228, 'ext': 'py', 'blanks': 28, 'comments': 16, 'file_path': 'requests/async.py'}
+requests/sessions.py
+	af6aa3e5729aa4e99716546915957ecf70bb894d {'ccn': 33, 'avg_ccn': 2.5384615384615383, 'avg_loc': 7.923076923076923, 'avg_tokens': 51.53846153846154, 'num_funs': 13, 'loc': 119, 'tokens': 736, 'ext': 'py', 'blanks': 69, 'comments': 62, 'file_path': 'requests/sessions.py'}
+	68b48309480db3a95372967fe9c005d612c91ea0 {'ccn': 33, 'avg_ccn': 2.5384615384615383, 'avg_loc': 8.0, 'avg_tokens': 52.30769230769231, 'num_funs': 13, 'loc': 120, 'tokens': 746, 'ext': 'py', 'blanks': 71, 'comments': 63, 'file_path': 'requests/sessions.py'}
+	58b1c69b6a40749f7dcc03f6489e5486e50f7ea2 {'ccn': 33, 'avg_ccn': 2.5384615384615383, 'avg_loc': 8.0, 'avg_tokens': 52.30769230769231, 'num_funs': 13, 'loc': 120, 'tokens': 746, 'ext': 'py', 'blanks': 71, 'comments': 63, 'file_path': 'requests/sessions.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 316
+requests/models.py
+	12f3c65e5a426ce32808cc456387ca7d7e7c5126 {'ccn': 115, 'avg_ccn': 6.388888888888889, 'avg_loc': 20.0, 'avg_tokens': 130.77777777777777, 'num_funs': 18, 'loc': 398, 'tokens': 2536, 'ext': 'py', 'blanks': 183, 'comments': 129, 'file_path': 'requests/models.py'}
+	91766548d10cd5ebf46aba376f9e000263285875 {'ccn': 115, 'avg_ccn': 6.388888888888889, 'avg_loc': 20.055555555555557, 'avg_tokens': 130.88888888888889, 'num_funs': 18, 'loc': 399, 'tokens': 2538, 'ext': 'py', 'blanks': 182, 'comments': 127, 'file_path': 'requests/models.py'}
+	2c0ff95d4d8daae7c0624b3a96584d722ebf6c38 {'ccn': 115, 'avg_ccn': 6.388888888888889, 'avg_loc': 20.0, 'avg_tokens': 130.77777777777777, 'num_funs': 18, 'loc': 398, 'tokens': 2536, 'ext': 'py', 'blanks': 183, 'comments': 129, 'file_path': 'requests/models.py'}
+	a7223f86a976410bb904fb2e983440c94175aa75 {'ccn': 115, 'avg_ccn': 6.388888888888889, 'avg_loc': 20.0, 'avg_tokens': 130.77777777777777, 'num_funs': 18, 'loc': 398, 'tokens': 2536, 'ext': 'py', 'blanks': 183, 'comments': 129, 'file_path': 'requests/models.py'}
+test_requests.py
+	12f3c65e5a426ce32808cc456387ca7d7e7c5126 {'ccn': 73, 'avg_ccn': 1.553191489361702, 'avg_loc': 7.297872340425532, 'avg_tokens': 66.91489361702128, 'num_funs': 47, 'loc': 365, 'tokens': 3281, 'ext': 'py', 'blanks': 237, 'comments': 35, 'file_path': 'test_requests.py'}
+	91766548d10cd5ebf46aba376f9e000263285875 {'ccn': 72, 'avg_ccn': 1.565217391304348, 'avg_loc': 7.326086956521739, 'avg_tokens': 66.80434782608695, 'num_funs': 46, 'loc': 359, 'tokens': 3208, 'ext': 'py', 'blanks': 234, 'comments': 33, 'file_path': 'test_requests.py'}
+	2c0ff95d4d8daae7c0624b3a96584d722ebf6c38 {'ccn': 73, 'avg_ccn': 1.553191489361702, 'avg_loc': 7.297872340425532, 'avg_tokens': 66.91489361702128, 'num_funs': 47, 'loc': 365, 'tokens': 3281, 'ext': 'py', 'blanks': 237, 'comments': 35, 'file_path': 'test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 446
+requests/utils.py
+	79bb9ee1417afe2231972c1331308500104e5dc7 {'ccn': 79, 'avg_ccn': 4.157894736842105, 'avg_loc': 10.421052631578947, 'avg_tokens': 71.63157894736842, 'num_funs': 19, 'loc': 220, 'tokens': 1441, 'ext': 'py', 'blanks': 125, 'comments': 122, 'file_path': 'requests/utils.py'}
+	b0e18650735dc667f76f6aff108877f03b729c23 {'ccn': 80, 'avg_ccn': 4.2105263157894735, 'avg_loc': 10.526315789473685, 'avg_tokens': 72.05263157894737, 'num_funs': 19, 'loc': 222, 'tokens': 1449, 'ext': 'py', 'blanks': 125, 'comments': 122, 'file_path': 'requests/utils.py'}
+	fd7610dd7a144879481b48e3b5412753b8499776 {'ccn': 80, 'avg_ccn': 4.2105263157894735, 'avg_loc': 10.526315789473685, 'avg_tokens': 72.05263157894737, 'num_funs': 19, 'loc': 222, 'tokens': 1449, 'ext': 'py', 'blanks': 125, 'comments': 122, 'file_path': 'requests/utils.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 475
+tests/test_requests.py
+	fba77fc65f40ba10428346c0d01fe6c5d55ddbce {'ccn': 93, 'avg_ccn': 1.55, 'avg_loc': 7.283333333333333, 'avg_tokens': 61.55, 'num_funs': 60, 'loc': 459, 'tokens': 3876, 'ext': 'py', 'blanks': 242, 'comments': 108, 'file_path': 'tests/test_requests.py'}
+	bd0e00280460b28d3bf715d64888605750d9e735 {'ccn': 92, 'avg_ccn': 1.5593220338983051, 'avg_loc': 7.338983050847458, 'avg_tokens': 62.08474576271186, 'num_funs': 59, 'loc': 455, 'tokens': 3845, 'ext': 'py', 'blanks': 241, 'comments': 108, 'file_path': 'tests/test_requests.py'}
+tests/test_requests_ext.py
+	1cf5ec872c4db961addcfe7ba7d167c04205b030 {'ccn': 6, 'avg_ccn': 1.0, 'avg_loc': 2.8333333333333335, 'avg_tokens': 23.0, 'num_funs': 6, 'loc': 30, 'tokens': 202, 'ext': 'py', 'blanks': 24, 'comments': 4, 'file_path': 'tests/test_requests_ext.py'}
+	bd0e00280460b28d3bf715d64888605750d9e735 {'ccn': 7, 'avg_ccn': 1.0, 'avg_loc': 3.0, 'avg_tokens': 24.0, 'num_funs': 7, 'loc': 34, 'tokens': 233, 'ext': 'py', 'blanks': 26, 'comments': 4, 'file_path': 'tests/test_requests_ext.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 535
+tests/test_requests.py
+	3550ac7473883aea52ca7f4153de8c26357d5c37 {'ccn': 94, 'avg_ccn': 1.540983606557377, 'avg_loc': 7.80327868852459, 'avg_tokens': 65.52459016393442, 'num_funs': 61, 'loc': 498, 'tokens': 4181, 'ext': 'py', 'blanks': 242, 'comments': 73, 'file_path': 'tests/test_requests.py'}
+	e28c1c9bfa286b0badb10ddbbeb1fd965f57cad6 {'ccn': 94, 'avg_ccn': 1.540983606557377, 'avg_loc': 7.868852459016393, 'avg_tokens': 66.11475409836065, 'num_funs': 61, 'loc': 502, 'tokens': 4217, 'ext': 'py', 'blanks': 244, 'comments': 74, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 552
+requests/models.py
+	99210995463497cf4ee9ec1bee79c5f2bff4e3f8 {'ccn': 159, 'avg_ccn': 6.913043478260869, 'avg_loc': 19.565217391304348, 'avg_tokens': 133.17391304347825, 'num_funs': 23, 'loc': 497, 'tokens': 3300, 'ext': 'py', 'blanks': 204, 'comments': 158, 'file_path': 'requests/models.py'}
+	b4eb8663afce7d6c5e06df8625c5307a6126ecb5 {'ccn': 159, 'avg_ccn': 6.913043478260869, 'avg_loc': 19.565217391304348, 'avg_tokens': 132.95652173913044, 'num_funs': 23, 'loc': 498, 'tokens': 3295, 'ext': 'py', 'blanks': 204, 'comments': 156, 'file_path': 'requests/models.py'}
+requests/utils.py
+	99210995463497cf4ee9ec1bee79c5f2bff4e3f8 {'ccn': 86, 'avg_ccn': 4.095238095238095, 'avg_loc': 10.0, 'avg_tokens': 65.95238095238095, 'num_funs': 21, 'loc': 238, 'tokens': 1501, 'ext': 'py', 'blanks': 133, 'comments': 131, 'file_path': 'requests/utils.py'}
+	e1528ce3be5a0798d509ae774ac7c3667b17ef29 {'ccn': 86, 'avg_ccn': 4.095238095238095, 'avg_loc': 10.0, 'avg_tokens': 65.95238095238095, 'num_funs': 21, 'loc': 239, 'tokens': 1503, 'ext': 'py', 'blanks': 133, 'comments': 132, 'file_path': 'requests/utils.py'}
+	b4eb8663afce7d6c5e06df8625c5307a6126ecb5 {'ccn': 86, 'avg_ccn': 4.095238095238095, 'avg_loc': 10.047619047619047, 'avg_tokens': 66.04761904761905, 'num_funs': 21, 'loc': 246, 'tokens': 1525, 'ext': 'py', 'blanks': 133, 'comments': 135, 'file_path': 'requests/utils.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 559
+requests/models.py
+	ed7b14899fcc196acb5631819585dcc2be1b41f7 {'ccn': 158, 'avg_ccn': 7.181818181818182, 'avg_loc': 20.636363636363637, 'avg_tokens': 136.6818181818182, 'num_funs': 22, 'loc': 505, 'tokens': 3262, 'ext': 'py', 'blanks': 191, 'comments': 153, 'file_path': 'requests/models.py'}
+	3288426f2bb4fc52f58ea6422444bc013ce31a8c {'ccn': 158, 'avg_ccn': 7.181818181818182, 'avg_loc': 20.636363636363637, 'avg_tokens': 136.86363636363637, 'num_funs': 22, 'loc': 505, 'tokens': 3266, 'ext': 'py', 'blanks': 191, 'comments': 153, 'file_path': 'requests/models.py'}
+tests/test_requests.py
+	ed7b14899fcc196acb5631819585dcc2be1b41f7 {'ccn': 104, 'avg_ccn': 1.5522388059701493, 'avg_loc': 7.358208955223881, 'avg_tokens': 64.08955223880596, 'num_funs': 67, 'loc': 514, 'tokens': 4488, 'ext': 'py', 'blanks': 262, 'comments': 119, 'file_path': 'tests/test_requests.py'}
+	3288426f2bb4fc52f58ea6422444bc013ce31a8c {'ccn': 104, 'avg_ccn': 1.5522388059701493, 'avg_loc': 7.447761194029851, 'avg_tokens': 65.25373134328358, 'num_funs': 67, 'loc': 520, 'tokens': 4566, 'ext': 'py', 'blanks': 265, 'comments': 119, 'file_path': 'tests/test_requests.py'}
+	64eb415ec0595f4ee5a59578dbbbb99200755c49 {'ccn': 104, 'avg_ccn': 1.5522388059701493, 'avg_loc': 7.447761194029851, 'avg_tokens': 65.22388059701493, 'num_funs': 67, 'loc': 520, 'tokens': 4564, 'ext': 'py', 'blanks': 265, 'comments': 119, 'file_path': 'tests/test_requests.py'}
+	b06690270500c9b550c989ed3ddf0115808e8796 {'ccn': 104, 'avg_ccn': 1.5522388059701493, 'avg_loc': 7.522388059701493, 'avg_tokens': 66.22388059701493, 'num_funs': 67, 'loc': 525, 'tokens': 4631, 'ext': 'py', 'blanks': 267, 'comments': 119, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 562
+requests/sessions.py
+	973e9cb54826062328f1c8650630819205ccfe8e {'ccn': 52, 'avg_ccn': 3.0588235294117645, 'avg_loc': 8.823529411764707, 'avg_tokens': 60.588235294117645, 'num_funs': 17, 'loc': 171, 'tokens': 1125, 'ext': 'py', 'blanks': 77, 'comments': 85, 'file_path': 'requests/sessions.py'}
+	2f50cb92b6fd471d4f9771b815bf8bfbb881795f {'ccn': 52, 'avg_ccn': 3.0588235294117645, 'avg_loc': 8.823529411764707, 'avg_tokens': 60.588235294117645, 'num_funs': 17, 'loc': 171, 'tokens': 1125, 'ext': 'py', 'blanks': 77, 'comments': 85, 'file_path': 'requests/sessions.py'}
+requests/auth.py
+	355003b400e18be508e530400c2c232f9ce0041c {'ccn': 29, 'avg_ccn': 2.4166666666666665, 'avg_loc': 9.583333333333334, 'avg_tokens': 73.58333333333333, 'num_funs': 12, 'loc': 149, 'tokens': 1027, 'ext': 'py', 'blanks': 46, 'comments': 44, 'file_path': 'requests/auth.py'}
+	f25827c5b66450482fad8209f38ca77664f504dd {'ccn': 29, 'avg_ccn': 2.4166666666666665, 'avg_loc': 9.583333333333334, 'avg_tokens': 73.75, 'num_funs': 12, 'loc': 150, 'tokens': 1029, 'ext': 'py', 'blanks': 46, 'comments': 44, 'file_path': 'requests/auth.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 565
+requests/models.py
+	2a27b123fd5bda2030e81995ff77e0e06f09ceca {'ccn': 162, 'avg_ccn': 7.043478260869565, 'avg_loc': 20.08695652173913, 'avg_tokens': 134.91304347826087, 'num_funs': 23, 'loc': 510, 'tokens': 3340, 'ext': 'py', 'blanks': 205, 'comments': 161, 'file_path': 'requests/models.py'}
+	c4ab96b63800f04511aada9b5899540a7937967a {'ccn': 160, 'avg_ccn': 6.956521739130435, 'avg_loc': 20.0, 'avg_tokens': 132.65217391304347, 'num_funs': 23, 'loc': 509, 'tokens': 3297, 'ext': 'py', 'blanks': 203, 'comments': 161, 'file_path': 'requests/models.py'}
+	4d6871d9176c13affe625b1885278d396a39f21d {'ccn': 158, 'avg_ccn': 6.869565217391305, 'avg_loc': 19.73913043478261, 'avg_tokens': 131.34782608695653, 'num_funs': 23, 'loc': 503, 'tokens': 3265, 'ext': 'py', 'blanks': 199, 'comments': 157, 'file_path': 'requests/models.py'}
+	ff169d32fee661a40fd600a86ea6fae931bd99c8 {'ccn': 159, 'avg_ccn': 6.913043478260869, 'avg_loc': 19.82608695652174, 'avg_tokens': 131.7391304347826, 'num_funs': 23, 'loc': 505, 'tokens': 3274, 'ext': 'py', 'blanks': 199, 'comments': 157, 'file_path': 'requests/models.py'}
+requests/packages/oreos/cookiejar.py
+	fed6cfbf4d282cc5056fd1e26b999523fdac73b1 {'ccn': 47, 'avg_ccn': 1.9583333333333333, 'avg_loc': 5.916666666666667, 'avg_tokens': 40.875, 'num_funs': 24, 'loc': 156, 'tokens': 1037, 'ext': 'py', 'blanks': 27, 'comments': 11, 'file_path': 'requests/packages/oreos/cookiejar.py'}
+	c4ab96b63800f04511aada9b5899540a7937967a {'ccn': 47, 'avg_ccn': 1.9583333333333333, 'avg_loc': 5.916666666666667, 'avg_tokens': 41.208333333333336, 'num_funs': 24, 'loc': 160, 'tokens': 1046, 'ext': 'py', 'blanks': 28, 'comments': 15, 'file_path': 'requests/packages/oreos/cookiejar.py'}
+requests/sessions.py
+	c4ab96b63800f04511aada9b5899540a7937967a {'ccn': 45, 'avg_ccn': 2.6470588235294117, 'avg_loc': 8.294117647058824, 'avg_tokens': 56.64705882352941, 'num_funs': 17, 'loc': 160, 'tokens': 1051, 'ext': 'py', 'blanks': 78, 'comments': 78, 'file_path': 'requests/sessions.py'}
+	4d6871d9176c13affe625b1885278d396a39f21d {'ccn': 53, 'avg_ccn': 3.1176470588235294, 'avg_loc': 8.941176470588236, 'avg_tokens': 61.411764705882355, 'num_funs': 17, 'loc': 172, 'tokens': 1135, 'ext': 'py', 'blanks': 78, 'comments': 86, 'file_path': 'requests/sessions.py'}
+requests/cookies.py
+	4d6871d9176c13affe625b1885278d396a39f21d {'ccn': 55, 'avg_ccn': 1.896551724137931, 'avg_loc': 4.9655172413793105, 'avg_tokens': 36.827586206896555, 'num_funs': 29, 'loc': 189, 'tokens': 1148, 'ext': 'py', 'blanks': 53, 'comments': 51, 'file_path': 'requests/cookies.py'}
+	1de14e6a93d2f84b1aaea198785c05b2e51d933b {'ccn': 55, 'avg_ccn': 1.896551724137931, 'avg_loc': 4.9655172413793105, 'avg_tokens': 36.62068965517241, 'num_funs': 29, 'loc': 189, 'tokens': 1142, 'ext': 'py', 'blanks': 53, 'comments': 51, 'file_path': 'requests/cookies.py'}
+	404ecaf95bbaaa42013d7ae67b96c7593296d8cf {'ccn': 55, 'avg_ccn': 1.896551724137931, 'avg_loc': 4.931034482758621, 'avg_tokens': 36.62068965517241, 'num_funs': 29, 'loc': 188, 'tokens': 1142, 'ext': 'py', 'blanks': 54, 'comments': 57, 'file_path': 'requests/cookies.py'}
+	11a3eaec265735b63569bb165047d39df5ba465f {'ccn': 55, 'avg_ccn': 1.896551724137931, 'avg_loc': 4.931034482758621, 'avg_tokens': 36.51724137931034, 'num_funs': 29, 'loc': 188, 'tokens': 1139, 'ext': 'py', 'blanks': 54, 'comments': 57, 'file_path': 'requests/cookies.py'}
+tests/test_cookies.py
+	4d6871d9176c13affe625b1885278d396a39f21d {'ccn': 8, 'avg_ccn': 1.1428571428571428, 'avg_loc': 11.428571428571429, 'avg_tokens': 123.14285714285714, 'num_funs': 7, 'loc': 99, 'tokens': 966, 'ext': 'py', 'blanks': 25, 'comments': 26, 'file_path': 'tests/test_cookies.py'}
+	492bda1343b6413eead297c4b4acf26f68b2a3f2 {'ccn': 9, 'avg_ccn': 1.125, 'avg_loc': 11.125, 'avg_tokens': 123.625, 'num_funs': 8, 'loc': 108, 'tokens': 1094, 'ext': 'py', 'blanks': 27, 'comments': 27, 'file_path': 'tests/test_cookies.py'}
+	ff169d32fee661a40fd600a86ea6fae931bd99c8 {'ccn': 10, 'avg_ccn': 1.1111111111111112, 'avg_loc': 10.222222222222221, 'avg_tokens': 113.77777777777777, 'num_funs': 9, 'loc': 111, 'tokens': 1130, 'ext': 'py', 'blanks': 28, 'comments': 28, 'file_path': 'tests/test_cookies.py'}
+tests/test_requests.py
+	4d6871d9176c13affe625b1885278d396a39f21d {'ccn': 99, 'avg_ccn': 1.5714285714285714, 'avg_loc': 7.4603174603174605, 'avg_tokens': 63.79365079365079, 'num_funs': 63, 'loc': 492, 'tokens': 4211, 'ext': 'py', 'blanks': 252, 'comments': 111, 'file_path': 'tests/test_requests.py'}
+	11a3eaec265735b63569bb165047d39df5ba465f {'ccn': 99, 'avg_ccn': 1.5714285714285714, 'avg_loc': 7.4603174603174605, 'avg_tokens': 63.79365079365079, 'num_funs': 63, 'loc': 492, 'tokens': 4211, 'ext': 'py', 'blanks': 252, 'comments': 111, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 572
+requests/models.py
+	538de55607eb1db8299f2b83421a91b9f533cb50 {'ccn': 157, 'avg_ccn': 7.136363636363637, 'avg_loc': 20.727272727272727, 'avg_tokens': 137.0909090909091, 'num_funs': 22, 'loc': 507, 'tokens': 3267, 'ext': 'py', 'blanks': 191, 'comments': 153, 'file_path': 'requests/models.py'}
+	853a07112b19fe6101ae5b6914e111230d465156 {'ccn': 156, 'avg_ccn': 7.090909090909091, 'avg_loc': 20.636363636363637, 'avg_tokens': 136.72727272727272, 'num_funs': 22, 'loc': 505, 'tokens': 3259, 'ext': 'py', 'blanks': 191, 'comments': 153, 'file_path': 'requests/models.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 709
+requests/defaults.py
+	11433d942dcc0bb9e321141ff04d378568c288fb {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 65, 'tokens': 242, 'ext': 'py', 'blanks': 15, 'comments': 22, 'file_path': 'requests/defaults.py'}
+	523433f26cc6385b91fcc87186437474abd2cde1 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 66, 'tokens': 259, 'ext': 'py', 'blanks': 15, 'comments': 22, 'file_path': 'requests/defaults.py'}
+	21f60fe8dfe2ebbde2318f763f585d7de18d3d6f {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 43, 'tokens': 123, 'ext': 'py', 'blanks': 10, 'comments': 20, 'file_path': 'requests/defaults.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 746
+requests/models.py
+	cfa627ae62cebff20edf0816ce327c61603ef6a8 {'ccn': 171, 'avg_ccn': 6.84, 'avg_loc': 19.4, 'avg_tokens': 128.36, 'num_funs': 25, 'loc': 533, 'tokens': 3468, 'ext': 'py', 'blanks': 198, 'comments': 162, 'file_path': 'requests/models.py'}
+	dee3693ea004e2f859e4fba4cfedb376e4d0bb2b {'ccn': 172, 'avg_ccn': 6.88, 'avg_loc': 19.48, 'avg_tokens': 128.76, 'num_funs': 25, 'loc': 536, 'tokens': 3482, 'ext': 'py', 'blanks': 198, 'comments': 162, 'file_path': 'requests/models.py'}
+tests/test_requests.py
+	cfa627ae62cebff20edf0816ce327c61603ef6a8 {'ccn': 119, 'avg_ccn': 1.5063291139240507, 'avg_loc': 7.443037974683544, 'avg_tokens': 63.962025316455694, 'num_funs': 79, 'loc': 608, 'tokens': 5257, 'ext': 'py', 'blanks': 295, 'comments': 167, 'file_path': 'tests/test_requests.py'}
+	dee3693ea004e2f859e4fba4cfedb376e4d0bb2b {'ccn': 120, 'avg_ccn': 1.5, 'avg_loc': 7.375, 'avg_tokens': 63.4375, 'num_funs': 80, 'loc': 610, 'tokens': 5280, 'ext': 'py', 'blanks': 295, 'comments': 170, 'file_path': 'tests/test_requests.py'}
+	88c762e256647a03f10a7a8c8707043a1b33aa5b {'ccn': 120, 'avg_ccn': 1.5, 'avg_loc': 7.325, 'avg_tokens': 63.275, 'num_funs': 80, 'loc': 606, 'tokens': 5267, 'ext': 'py', 'blanks': 295, 'comments': 170, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 764
+tests/test_requests.py
+	857d8eda3a4055d92626f71ff5b34ce8cc6ec167 {'ccn': 111, 'avg_ccn': 1.5205479452054795, 'avg_loc': 7.410958904109589, 'avg_tokens': 65.5068493150685, 'num_funs': 73, 'loc': 563, 'tokens': 4984, 'ext': 'py', 'blanks': 283, 'comments': 158, 'file_path': 'tests/test_requests.py'}
+	291859c199c481bf1e304e39613ca90b6f55f9f8 {'ccn': 111, 'avg_ccn': 1.5205479452054795, 'avg_loc': 7.410958904109589, 'avg_tokens': 65.64383561643835, 'num_funs': 73, 'loc': 563, 'tokens': 4994, 'ext': 'py', 'blanks': 283, 'comments': 158, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 819
+requests/auth.py
+	8a1d53eb3ac19cabbb85e2bdfae418cd6fa84612 {'ccn': 55, 'avg_ccn': 2.391304347826087, 'avg_loc': 9.08695652173913, 'avg_tokens': 68.47826086956522, 'num_funs': 23, 'loc': 252, 'tokens': 1756, 'ext': 'py', 'blanks': 83, 'comments': 59, 'file_path': 'requests/auth.py'}
+	46ff4b386281f619506c13f8a6548ecd3e4d3559 {'ccn': 55, 'avg_ccn': 2.391304347826087, 'avg_loc': 9.043478260869565, 'avg_tokens': 68.1304347826087, 'num_funs': 23, 'loc': 251, 'tokens': 1748, 'ext': 'py', 'blanks': 83, 'comments': 59, 'file_path': 'requests/auth.py'}
+	aded42f23247e86495654ddd85ae9e000bbe9c1e {'ccn': 56, 'avg_ccn': 2.4347826086956523, 'avg_loc': 9.08695652173913, 'avg_tokens': 68.30434782608695, 'num_funs': 23, 'loc': 252, 'tokens': 1752, 'ext': 'py', 'blanks': 83, 'comments': 59, 'file_path': 'requests/auth.py'}
+	babac7368b9aa34fd1f0e5d29d4f80c2006ad614 {'ccn': 56, 'avg_ccn': 2.4347826086956523, 'avg_loc': 9.08695652173913, 'avg_tokens': 68.30434782608695, 'num_funs': 23, 'loc': 252, 'tokens': 1752, 'ext': 'py', 'blanks': 83, 'comments': 59, 'file_path': 'requests/auth.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 884
+tests/test_requests.py
+	86b39bf3e33c174f5535207082ccac64aaf7aa45 {'ccn': 136, 'avg_ccn': 1.5280898876404494, 'avg_loc': 7.730337078651686, 'avg_tokens': 67.61797752808988, 'num_funs': 89, 'loc': 705, 'tokens': 6230, 'ext': 'py', 'blanks': 319, 'comments': 180, 'file_path': 'tests/test_requests.py'}
+	bb9e72885a9a516550efbe1a1f40c780a3e2554d {'ccn': 136, 'avg_ccn': 1.5280898876404494, 'avg_loc': 7.662921348314606, 'avg_tokens': 67.61797752808988, 'num_funs': 89, 'loc': 699, 'tokens': 6230, 'ext': 'py', 'blanks': 319, 'comments': 180, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 909
+tests/test_utils.py
+	4decc7986e32bb8f3511df3dd0c9b1c1d57453c1 {'ccn': 10, 'avg_ccn': 5.0, 'avg_loc': 8.5, 'avg_tokens': 76.5, 'num_funs': 2, 'loc': 33, 'tokens': 230, 'ext': 'py', 'blanks': 9, 'comments': 11, 'file_path': 'tests/test_utils.py'}
+	9832bd89172fb1200e8fdfb2e1cc334ad0fcf332 {'ccn': 10, 'avg_ccn': 5.0, 'avg_loc': 8.5, 'avg_tokens': 76.5, 'num_funs': 2, 'loc': 33, 'tokens': 230, 'ext': 'py', 'blanks': 9, 'comments': 11, 'file_path': 'tests/test_utils.py'}
+	a4be9a2578dcb8f0862cc80f1e37243edfc04bd7 {'ccn': 8, 'avg_ccn': 4.0, 'avg_loc': 7.5, 'avg_tokens': 62.5, 'num_funs': 2, 'loc': 34, 'tokens': 219, 'ext': 'py', 'blanks': 11, 'comments': 11, 'file_path': 'tests/test_utils.py'}
+	be01a35ef12c7e71c0e71c4e37d1f1a392a66fd8 {'ccn': 8, 'avg_ccn': 4.0, 'avg_loc': 7.5, 'avg_tokens': 62.5, 'num_funs': 2, 'loc': 36, 'tokens': 224, 'ext': 'py', 'blanks': 11, 'comments': 11, 'file_path': 'tests/test_utils.py'}
+	e26ccb34eb1c0d3948bfd9e50ffe333605ae554d {'ccn': 10, 'avg_ccn': 5.0, 'avg_loc': 15.0, 'avg_tokens': 114.0, 'num_funs': 2, 'loc': 52, 'tokens': 329, 'ext': 'py', 'blanks': 10, 'comments': 15, 'file_path': 'tests/test_utils.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 957
+requests/models.py
+	f003025a37f9d546570e52f7d355c6f5d1a81617 {'ccn': 182, 'avg_ccn': 7.28, 'avg_loc': 20.0, 'avg_tokens': 135.28, 'num_funs': 25, 'loc': 552, 'tokens': 3659, 'ext': 'py', 'blanks': 206, 'comments': 169, 'file_path': 'requests/models.py'}
+	61f16d1ddcf4729945ce7b0b9bfbd94b75dc4b92 {'ccn': 183, 'avg_ccn': 7.32, 'avg_loc': 20.16, 'avg_tokens': 136.84, 'num_funs': 25, 'loc': 556, 'tokens': 3698, 'ext': 'py', 'blanks': 206, 'comments': 169, 'file_path': 'requests/models.py'}
+	b93fbd30c32b122bf7aba7db6663ca5a292b17d3 {'ccn': 184, 'avg_ccn': 7.36, 'avg_loc': 20.16, 'avg_tokens': 137.12, 'num_funs': 25, 'loc': 556, 'tokens': 3705, 'ext': 'py', 'blanks': 206, 'comments': 169, 'file_path': 'requests/models.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1049
+requests/adapters.py
+	8cb904b49d343a4f6ede534bdcfdf7b614ea77e0 {'ccn': 26, 'avg_ccn': 2.6, 'avg_loc': 8.9, 'avg_tokens': 58.6, 'num_funs': 10, 'loc': 115, 'tokens': 711, 'ext': 'py', 'blanks': 45, 'comments': 23, 'file_path': 'requests/adapters.py'}
+	f1ba27faa2b9b1a26e6c935c18acd6fcd9e7e164 {'ccn': 26, 'avg_ccn': 2.6, 'avg_loc': 8.9, 'avg_tokens': 58.7, 'num_funs': 10, 'loc': 115, 'tokens': 712, 'ext': 'py', 'blanks': 45, 'comments': 23, 'file_path': 'requests/adapters.py'}
+	09da1921ffbd9cfd4dff83ca440cc49b087c732c {'ccn': 26, 'avg_ccn': 2.6, 'avg_loc': 8.9, 'avg_tokens': 58.7, 'num_funs': 10, 'loc': 115, 'tokens': 714, 'ext': 'py', 'blanks': 45, 'comments': 23, 'file_path': 'requests/adapters.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1060
+requests/models.py
+	b479a62ec2c0a3c64d4a67540263b82afd68f55d {'ccn': 131, 'avg_ccn': 4.225806451612903, 'avg_loc': 9.903225806451612, 'avg_tokens': 66.74193548387096, 'num_funs': 31, 'loc': 388, 'tokens': 2296, 'ext': 'py', 'blanks': 135, 'comments': 132, 'file_path': 'requests/models.py'}
+	d675abbd3f3883bc5a45895da2d63ffec5ed4634 {'ccn': 131, 'avg_ccn': 4.225806451612903, 'avg_loc': 9.903225806451612, 'avg_tokens': 66.74193548387096, 'num_funs': 31, 'loc': 388, 'tokens': 2294, 'ext': 'py', 'blanks': 135, 'comments': 132, 'file_path': 'requests/models.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1143
+requests/models.py
+	2ac391373329b2d8c67d34fd7c056ff9db16a5f9 {'ccn': 141, 'avg_ccn': 4.147058823529412, 'avg_loc': 10.117647058823529, 'avg_tokens': 67.38235294117646, 'num_funs': 34, 'loc': 426, 'tokens': 2521, 'ext': 'py', 'blanks': 145, 'comments': 143, 'file_path': 'requests/models.py'}
+	2f7923bc0564ed6c8bb30b4d547cbacccbecaebb {'ccn': 141, 'avg_ccn': 4.147058823529412, 'avg_loc': 10.117647058823529, 'avg_tokens': 67.38235294117646, 'num_funs': 34, 'loc': 426, 'tokens': 2521, 'ext': 'py', 'blanks': 145, 'comments': 143, 'file_path': 'requests/models.py'}
+test_requests.py
+	2ac391373329b2d8c67d34fd7c056ff9db16a5f9 {'ccn': 36, 'avg_ccn': 1.0588235294117647, 'avg_loc': 6.705882352941177, 'avg_tokens': 55.35294117647059, 'num_funs': 34, 'loc': 243, 'tokens': 1979, 'ext': 'py', 'blanks': 85, 'comments': 8, 'file_path': 'test_requests.py'}
+	95084c9ca8b3c33d6f16bf63f9c041aa6e442641 {'ccn': 36, 'avg_ccn': 1.0588235294117647, 'avg_loc': 6.705882352941177, 'avg_tokens': 55.3235294117647, 'num_funs': 34, 'loc': 243, 'tokens': 1978, 'ext': 'py', 'blanks': 85, 'comments': 8, 'file_path': 'test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1173
+requests/sessions.py
+	3299771e3497199adda6ad6354f78742806cd320 {'ccn': 52, 'avg_ccn': 2.4761904761904763, 'avg_loc': 7.9523809523809526, 'avg_tokens': 59.476190476190474, 'num_funs': 21, 'loc': 238, 'tokens': 1589, 'ext': 'py', 'blanks': 110, 'comments': 116, 'file_path': 'requests/sessions.py'}
+	e2ad0d0fe8f4bff1640417f67e7e321f030c1bed {'ccn': 52, 'avg_ccn': 2.4761904761904763, 'avg_loc': 7.9523809523809526, 'avg_tokens': 59.476190476190474, 'num_funs': 21, 'loc': 240, 'tokens': 1603, 'ext': 'py', 'blanks': 111, 'comments': 116, 'file_path': 'requests/sessions.py'}
+	e7bc9bf1b2c8abb51b56981548632baed3b4fb87 {'ccn': 52, 'avg_ccn': 2.4761904761904763, 'avg_loc': 7.9523809523809526, 'avg_tokens': 59.476190476190474, 'num_funs': 21, 'loc': 246, 'tokens': 1649, 'ext': 'py', 'blanks': 111, 'comments': 116, 'file_path': 'requests/sessions.py'}
+	9c8660dbb6e5d9b8694447e91e7936161f868ab0 {'ccn': 52, 'avg_ccn': 2.4761904761904763, 'avg_loc': 7.9523809523809526, 'avg_tokens': 59.476190476190474, 'num_funs': 21, 'loc': 247, 'tokens': 1661, 'ext': 'py', 'blanks': 112, 'comments': 115, 'file_path': 'requests/sessions.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1242
+requests/auth.py
+	e752455b6f1b5913305a9014f3c0b535ba054069 {'ccn': 28, 'avg_ccn': 2.5454545454545454, 'avg_loc': 9.181818181818182, 'avg_tokens': 72.0, 'num_funs': 11, 'loc': 124, 'tokens': 868, 'ext': 'py', 'blanks': 42, 'comments': 20, 'file_path': 'requests/auth.py'}
+	9d16c7276791fb7e5e75f2fbcddec95fa8f15b2b {'ccn': 28, 'avg_ccn': 2.5454545454545454, 'avg_loc': 9.272727272727273, 'avg_tokens': 72.54545454545455, 'num_funs': 11, 'loc': 125, 'tokens': 874, 'ext': 'py', 'blanks': 42, 'comments': 20, 'file_path': 'requests/auth.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1267
+requests/sessions.py
+	aca91e06f2c83da1553ea8b39814c5c78cb3c433 {'ccn': 50, 'avg_ccn': 2.380952380952381, 'avg_loc': 8.0, 'avg_tokens': 60.095238095238095, 'num_funs': 21, 'loc': 264, 'tokens': 1758, 'ext': 'py', 'blanks': 119, 'comments': 148, 'file_path': 'requests/sessions.py'}
+	0cd23d8d6e9fee70e4cc51c37e0b6a111411f2c0 {'ccn': 50, 'avg_ccn': 2.380952380952381, 'avg_loc': 8.0, 'avg_tokens': 60.095238095238095, 'num_funs': 21, 'loc': 264, 'tokens': 1758, 'ext': 'py', 'blanks': 119, 'comments': 150, 'file_path': 'requests/sessions.py'}
+	325ea7b7e209de2cd895e3275bde8378a183c7e7 {'ccn': 50, 'avg_ccn': 2.380952380952381, 'avg_loc': 8.047619047619047, 'avg_tokens': 60.76190476190476, 'num_funs': 21, 'loc': 265, 'tokens': 1772, 'ext': 'py', 'blanks': 119, 'comments': 150, 'file_path': 'requests/sessions.py'}
+requests/models.py
+	1d5c4f3f0f49e04165303952ccc5fd1c70aee7c1 {'ccn': 145, 'avg_ccn': 4.264705882352941, 'avg_loc': 10.235294117647058, 'avg_tokens': 69.08823529411765, 'num_funs': 34, 'loc': 428, 'tokens': 2557, 'ext': 'py', 'blanks': 148, 'comments': 145, 'file_path': 'requests/models.py'}
+	0cd23d8d6e9fee70e4cc51c37e0b6a111411f2c0 {'ccn': 145, 'avg_ccn': 4.264705882352941, 'avg_loc': 10.235294117647058, 'avg_tokens': 69.08823529411765, 'num_funs': 34, 'loc': 428, 'tokens': 2557, 'ext': 'py', 'blanks': 148, 'comments': 145, 'file_path': 'requests/models.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1290
+test_requests.py
+	88f13598f32bd2da4099f4bb61a082d63fcf42c7 {'ccn': 47, 'avg_ccn': 1.0444444444444445, 'avg_loc': 6.444444444444445, 'avg_tokens': 53.86666666666667, 'num_funs': 45, 'loc': 306, 'tokens': 2536, 'ext': 'py', 'blanks': 103, 'comments': 8, 'file_path': 'test_requests.py'}
+	5c47ce1136ed12e992fe3404b8e6634060bcd411 {'ccn': 47, 'avg_ccn': 1.0444444444444445, 'avg_loc': 6.444444444444445, 'avg_tokens': 53.8, 'num_funs': 45, 'loc': 306, 'tokens': 2533, 'ext': 'py', 'blanks': 103, 'comments': 8, 'file_path': 'test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1328
+test_requests.py
+	3ff8d4380188934ed170a084083c7c5fe6cdf0c6 {'ccn': 50, 'avg_ccn': 1.0416666666666667, 'avg_loc': 6.666666666666667, 'avg_tokens': 56.583333333333336, 'num_funs': 48, 'loc': 336, 'tokens': 2837, 'ext': 'py', 'blanks': 109, 'comments': 10, 'file_path': 'test_requests.py'}
+	a7fef5875688bce4435fd356c4442ffdad1dd49d {'ccn': 51, 'avg_ccn': 1.0408163265306123, 'avg_loc': 6.653061224489796, 'avg_tokens': 56.69387755102041, 'num_funs': 49, 'loc': 342, 'tokens': 2900, 'ext': 'py', 'blanks': 110, 'comments': 11, 'file_path': 'test_requests.py'}
+requests/sessions.py
+	9763a671da1061244aa0a98e924efa1ec8379a7b {'ccn': 51, 'avg_ccn': 2.4285714285714284, 'avg_loc': 8.095238095238095, 'avg_tokens': 61.095238095238095, 'num_funs': 21, 'loc': 263, 'tokens': 1767, 'ext': 'py', 'blanks': 117, 'comments': 147, 'file_path': 'requests/sessions.py'}
+	0c609b59abfa25e00e320034e46c5bf4443078b6 {'ccn': 50, 'avg_ccn': 2.380952380952381, 'avg_loc': 8.095238095238095, 'avg_tokens': 61.095238095238095, 'num_funs': 21, 'loc': 262, 'tokens': 1765, 'ext': 'py', 'blanks': 117, 'comments': 147, 'file_path': 'requests/sessions.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1334
+requests/sessions.py
+	e715d7184b98f6c2a8c4810e7524e2e9a5a033c3 {'ccn': 49, 'avg_ccn': 2.45, 'avg_loc': 8.2, 'avg_tokens': 63.5, 'num_funs': 20, 'loc': 262, 'tokens': 1792, 'ext': 'py', 'blanks': 115, 'comments': 147, 'file_path': 'requests/sessions.py'}
+	72e155e529ae9f1892c5dffb5a021fa36ca0243e {'ccn': 49, 'avg_ccn': 2.45, 'avg_loc': 8.2, 'avg_tokens': 63.5, 'num_funs': 20, 'loc': 263, 'tokens': 1799, 'ext': 'py', 'blanks': 115, 'comments': 147, 'file_path': 'requests/sessions.py'}
+test_requests.py
+	72e155e529ae9f1892c5dffb5a021fa36ca0243e {'ccn': 80, 'avg_ccn': 1.0666666666666667, 'avg_loc': 7.16, 'avg_tokens': 58.92, 'num_funs': 75, 'loc': 557, 'tokens': 4595, 'ext': 'py', 'blanks': 140, 'comments': 17, 'file_path': 'test_requests.py'}
+	f3036adc4f156627dce26a6106e22d3631940d3e {'ccn': 80, 'avg_ccn': 1.0666666666666667, 'avg_loc': 7.173333333333333, 'avg_tokens': 59.053333333333335, 'num_funs': 75, 'loc': 558, 'tokens': 4605, 'ext': 'py', 'blanks': 139, 'comments': 17, 'file_path': 'test_requests.py'}
+	d59510481ad624641ec404bac423e8ab44f0f41b {'ccn': 80, 'avg_ccn': 1.0666666666666667, 'avg_loc': 7.173333333333333, 'avg_tokens': 59.053333333333335, 'num_funs': 75, 'loc': 558, 'tokens': 4605, 'ext': 'py', 'blanks': 137, 'comments': 17, 'file_path': 'test_requests.py'}
+	2c5ea69e5df963a4914424639b2a7382cf82e4fb {'ccn': 80, 'avg_ccn': 1.0666666666666667, 'avg_loc': 7.173333333333333, 'avg_tokens': 59.053333333333335, 'num_funs': 75, 'loc': 558, 'tokens': 4605, 'ext': 'py', 'blanks': 139, 'comments': 17, 'file_path': 'test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1487
+test_requests.py
+	012cc33d44073ce2dc93a9b91368cbe6c5246014 {'ccn': 88, 'avg_ccn': 1.1, 'avg_loc': 7.25, 'avg_tokens': 59.6375, 'num_funs': 80, 'loc': 600, 'tokens': 4966, 'ext': 'py', 'blanks': 149, 'comments': 22, 'file_path': 'test_requests.py'}
+	c4f16c351c4b639a194ff36f61abebd1ecccf797 {'ccn': 87, 'avg_ccn': 1.1012658227848102, 'avg_loc': 7.30379746835443, 'avg_tokens': 60.10126582278481, 'num_funs': 79, 'loc': 597, 'tokens': 4942, 'ext': 'py', 'blanks': 148, 'comments': 22, 'file_path': 'test_requests.py'}
+	56b5f02551cd65cfc99f7f38c60d36b2cfdfc6e8 {'ccn': 87, 'avg_ccn': 1.1012658227848102, 'avg_loc': 7.329113924050633, 'avg_tokens': 60.35443037974684, 'num_funs': 79, 'loc': 599, 'tokens': 4962, 'ext': 'py', 'blanks': 148, 'comments': 22, 'file_path': 'test_requests.py'}
+	82c9aa912efde203080ab33e93725e41d3f28604 {'ccn': 87, 'avg_ccn': 1.1012658227848102, 'avg_loc': 7.341772151898734, 'avg_tokens': 60.58227848101266, 'num_funs': 79, 'loc': 600, 'tokens': 4980, 'ext': 'py', 'blanks': 148, 'comments': 22, 'file_path': 'test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1507
+requests/models.py
+	b5c136152f4184387017ce570d2a499f21b6de14 {'ccn': 155, 'avg_ccn': 4.305555555555555, 'avg_loc': 10.527777777777779, 'avg_tokens': 70.19444444444444, 'num_funs': 36, 'loc': 460, 'tokens': 2742, 'ext': 'py', 'blanks': 154, 'comments': 153, 'file_path': 'requests/models.py'}
+	ee90f0af608a58761e5f1e08ea5ea6a6365651a2 {'ccn': 155, 'avg_ccn': 4.305555555555555, 'avg_loc': 10.527777777777779, 'avg_tokens': 70.69444444444444, 'num_funs': 36, 'loc': 461, 'tokens': 2766, 'ext': 'py', 'blanks': 157, 'comments': 155, 'file_path': 'requests/models.py'}
+	0ab7a52f7c04998ae68ed7da442fce32293e0fb5 {'ccn': 155, 'avg_ccn': 4.305555555555555, 'avg_loc': 10.36111111111111, 'avg_tokens': 69.33333333333333, 'num_funs': 36, 'loc': 461, 'tokens': 2760, 'ext': 'py', 'blanks': 153, 'comments': 154, 'file_path': 'requests/models.py'}
+requests/sessions.py
+	b5c136152f4184387017ce570d2a499f21b6de14 {'ccn': 55, 'avg_ccn': 2.5, 'avg_loc': 7.818181818181818, 'avg_tokens': 61.54545454545455, 'num_funs': 22, 'loc': 269, 'tokens': 1867, 'ext': 'py', 'blanks': 117, 'comments': 154, 'file_path': 'requests/sessions.py'}
+	9edba838b3c7891c955b49d680c49b4ee8e64dd4 {'ccn': 55, 'avg_ccn': 2.5, 'avg_loc': 7.863636363636363, 'avg_tokens': 61.72727272727273, 'num_funs': 22, 'loc': 270, 'tokens': 1871, 'ext': 'py', 'blanks': 117, 'comments': 155, 'file_path': 'requests/sessions.py'}
+	0ab7a52f7c04998ae68ed7da442fce32293e0fb5 {'ccn': 54, 'avg_ccn': 2.5714285714285716, 'avg_loc': 8.333333333333334, 'avg_tokens': 64.19047619047619, 'num_funs': 21, 'loc': 272, 'tokens': 1860, 'ext': 'py', 'blanks': 117, 'comments': 156, 'file_path': 'requests/sessions.py'}
+test_requests.py
+	d4385f6fc84854d78f838f4eb3a93dd3985242c5 {'ccn': 88, 'avg_ccn': 1.0864197530864197, 'avg_loc': 7.703703703703703, 'avg_tokens': 64.44444444444444, 'num_funs': 81, 'loc': 644, 'tokens': 5414, 'ext': 'py', 'blanks': 154, 'comments': 22, 'file_path': 'test_requests.py'}
+	0eccb547a29eda9c04d5e1cef586557846b19e92 {'ccn': 90, 'avg_ccn': 1.0843373493975903, 'avg_loc': 7.674698795180723, 'avg_tokens': 64.1566265060241, 'num_funs': 83, 'loc': 656, 'tokens': 5519, 'ext': 'py', 'blanks': 159, 'comments': 22, 'file_path': 'test_requests.py'}
+	0ab7a52f7c04998ae68ed7da442fce32293e0fb5 {'ccn': 89, 'avg_ccn': 1.0853658536585367, 'avg_loc': 7.451219512195122, 'avg_tokens': 61.792682926829265, 'num_funs': 82, 'loc': 630, 'tokens': 5260, 'ext': 'py', 'blanks': 154, 'comments': 22, 'file_path': 'test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1635
+requests/sessions.py
+	d22eaf96e2a1c64bc29579a072f67d2a9c758ef8 {'ccn': 56, 'avg_ccn': 2.6666666666666665, 'avg_loc': 8.523809523809524, 'avg_tokens': 65.71428571428571, 'num_funs': 21, 'loc': 273, 'tokens': 1871, 'ext': 'py', 'blanks': 118, 'comments': 158, 'file_path': 'requests/sessions.py'}
+	012f0334ce43fe23044fc58e4246a804db88650d {'ccn': 56, 'avg_ccn': 2.6666666666666665, 'avg_loc': 8.523809523809524, 'avg_tokens': 66.19047619047619, 'num_funs': 21, 'loc': 273, 'tokens': 1879, 'ext': 'py', 'blanks': 118, 'comments': 158, 'file_path': 'requests/sessions.py'}
+requests/cookies.py
+	d22eaf96e2a1c64bc29579a072f67d2a9c758ef8 {'ccn': 103, 'avg_ccn': 2.395348837209302, 'avg_loc': 5.162790697674419, 'avg_tokens': 37.93023255813954, 'num_funs': 43, 'loc': 274, 'tokens': 1740, 'ext': 'py', 'blanks': 86, 'comments': 99, 'file_path': 'requests/cookies.py'}
+	012f0334ce43fe23044fc58e4246a804db88650d {'ccn': 100, 'avg_ccn': 2.380952380952381, 'avg_loc': 5.166666666666667, 'avg_tokens': 38.07142857142857, 'num_funs': 42, 'loc': 269, 'tokens': 1707, 'ext': 'py', 'blanks': 83, 'comments': 97, 'file_path': 'requests/cookies.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1657
+requests/sessions.py
+	5bf396d5d12bf9debc667a509c84f640560da517 {'ccn': 63, 'avg_ccn': 2.8636363636363638, 'avg_loc': 8.545454545454545, 'avg_tokens': 66.5909090909091, 'num_funs': 22, 'loc': 282, 'tokens': 1955, 'ext': 'py', 'blanks': 123, 'comments': 162, 'file_path': 'requests/sessions.py'}
+	a4605fe32426bcc404ab1eb4ea4b0dde9238a3e8 {'ccn': 61, 'avg_ccn': 2.772727272727273, 'avg_loc': 8.363636363636363, 'avg_tokens': 64.86363636363636, 'num_funs': 22, 'loc': 278, 'tokens': 1917, 'ext': 'py', 'blanks': 122, 'comments': 162, 'file_path': 'requests/sessions.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1660
+requests/cookies.py
+	0bb8be0e5ba58dfff9648b4058acaa927837e605 {'ccn': 98, 'avg_ccn': 2.3333333333333335, 'avg_loc': 5.285714285714286, 'avg_tokens': 38.904761904761905, 'num_funs': 42, 'loc': 274, 'tokens': 1744, 'ext': 'py', 'blanks': 82, 'comments': 94, 'file_path': 'requests/cookies.py'}
+	df7aece2c8aef689a4b1f71126b93a5f09a3d168 {'ccn': 98, 'avg_ccn': 2.3333333333333335, 'avg_loc': 5.285714285714286, 'avg_tokens': 38.904761904761905, 'num_funs': 42, 'loc': 274, 'tokens': 1744, 'ext': 'py', 'blanks': 82, 'comments': 98, 'file_path': 'requests/cookies.py'}
+	6632fb87c0eceed91d48f2bf84144cd4d24f77b8 {'ccn': 98, 'avg_ccn': 2.3333333333333335, 'avg_loc': 5.285714285714286, 'avg_tokens': 38.904761904761905, 'num_funs': 42, 'loc': 274, 'tokens': 1744, 'ext': 'py', 'blanks': 82, 'comments': 98, 'file_path': 'requests/cookies.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1713
+requests/sessions.py
+	2bbd7ba1c2c5a56c0957be64b5f94f6a4b0243ca {'ccn': 58, 'avg_ccn': 2.761904761904762, 'avg_loc': 8.761904761904763, 'avg_tokens': 67.71428571428571, 'num_funs': 21, 'loc': 278, 'tokens': 1897, 'ext': 'py', 'blanks': 121, 'comments': 161, 'file_path': 'requests/sessions.py'}
+	e40c1637c915e112fabaffb39fcd73beed56ff4b {'ccn': 56, 'avg_ccn': 2.6666666666666665, 'avg_loc': 8.571428571428571, 'avg_tokens': 66.19047619047619, 'num_funs': 21, 'loc': 275, 'tokens': 1871, 'ext': 'py', 'blanks': 121, 'comments': 161, 'file_path': 'requests/sessions.py'}
+	1adba3c9e94a7408584d0d819da6aa47b34ed0bd {'ccn': 56, 'avg_ccn': 2.6666666666666665, 'avg_loc': 8.523809523809524, 'avg_tokens': 66.0952380952381, 'num_funs': 21, 'loc': 274, 'tokens': 1869, 'ext': 'py', 'blanks': 121, 'comments': 161, 'file_path': 'requests/sessions.py'}
+	c26a6c310cf8489bb55be5b4b9899d06a2bddda9 {'ccn': 56, 'avg_ccn': 2.6666666666666665, 'avg_loc': 8.523809523809524, 'avg_tokens': 66.0952380952381, 'num_funs': 21, 'loc': 274, 'tokens': 1867, 'ext': 'py', 'blanks': 121, 'comments': 161, 'file_path': 'requests/sessions.py'}
+test_requests.py
+	e3c771f36bbec5d116181229b58182435a2da461 {'ccn': 107, 'avg_ccn': 1.0808080808080809, 'avg_loc': 6.91919191919192, 'avg_tokens': 52.898989898989896, 'num_funs': 99, 'loc': 707, 'tokens': 5467, 'ext': 'py', 'blanks': 182, 'comments': 37, 'file_path': 'test_requests.py'}
+	1adba3c9e94a7408584d0d819da6aa47b34ed0bd {'ccn': 107, 'avg_ccn': 1.0808080808080809, 'avg_loc': 6.929292929292929, 'avg_tokens': 53.04040404040404, 'num_funs': 99, 'loc': 708, 'tokens': 5481, 'ext': 'py', 'blanks': 182, 'comments': 37, 'file_path': 'test_requests.py'}
+	5fcaf45c33c35aa36794bddf97da82545ada5fff {'ccn': 107, 'avg_ccn': 1.0808080808080809, 'avg_loc': 6.91919191919192, 'avg_tokens': 52.898989898989896, 'num_funs': 99, 'loc': 707, 'tokens': 5467, 'ext': 'py', 'blanks': 182, 'comments': 37, 'file_path': 'test_requests.py'}
+requests/cookies.py
+	e40c1637c915e112fabaffb39fcd73beed56ff4b {'ccn': 106, 'avg_ccn': 2.4651162790697674, 'avg_loc': 5.441860465116279, 'avg_tokens': 40.348837209302324, 'num_funs': 43, 'loc': 286, 'tokens': 1846, 'ext': 'py', 'blanks': 88, 'comments': 105, 'file_path': 'requests/cookies.py'}
+	30018e604c0f89a0dad7d8b7e6f2a227916ee8c9 {'ccn': 106, 'avg_ccn': 2.4651162790697674, 'avg_loc': 5.4186046511627906, 'avg_tokens': 40.27906976744186, 'num_funs': 43, 'loc': 285, 'tokens': 1843, 'ext': 'py', 'blanks': 88, 'comments': 105, 'file_path': 'requests/cookies.py'}
+	1adba3c9e94a7408584d0d819da6aa47b34ed0bd {'ccn': 106, 'avg_ccn': 2.4651162790697674, 'avg_loc': 5.465116279069767, 'avg_tokens': 40.53488372093023, 'num_funs': 43, 'loc': 287, 'tokens': 1854, 'ext': 'py', 'blanks': 89, 'comments': 105, 'file_path': 'requests/cookies.py'}
+	5fcaf45c33c35aa36794bddf97da82545ada5fff {'ccn': 109, 'avg_ccn': 2.5348837209302326, 'avg_loc': 5.5813953488372094, 'avg_tokens': 40.93023255813954, 'num_funs': 43, 'loc': 292, 'tokens': 1871, 'ext': 'py', 'blanks': 88, 'comments': 105, 'file_path': 'requests/cookies.py'}
+	8b2255d0f8b0bb472ec2193e4ac5c4d28336a5eb {'ccn': 109, 'avg_ccn': 2.5348837209302326, 'avg_loc': 5.5813953488372094, 'avg_tokens': 40.81395348837209, 'num_funs': 43, 'loc': 292, 'tokens': 1866, 'ext': 'py', 'blanks': 88, 'comments': 105, 'file_path': 'requests/cookies.py'}
+	8eb40c777e4a5d0967205404a170615eb96ca237 {'ccn': 108, 'avg_ccn': 2.511627906976744, 'avg_loc': 5.511627906976744, 'avg_tokens': 40.651162790697676, 'num_funs': 43, 'loc': 289, 'tokens': 1859, 'ext': 'py', 'blanks': 88, 'comments': 105, 'file_path': 'requests/cookies.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1770
+requests/utils.py
+	2c914126ba0c4865dc37c0a70f481091112a7dac {'ccn': 112, 'avg_ccn': 4.3076923076923075, 'avg_loc': 10.692307692307692, 'avg_tokens': 68.88461538461539, 'num_funs': 26, 'loc': 312, 'tokens': 1943, 'ext': 'py', 'blanks': 151, 'comments': 152, 'file_path': 'requests/utils.py'}
+	8aff6f5ed0aca2dbe5b2eba242f0e3b96285c700 {'ccn': 117, 'avg_ccn': 3.9, 'avg_loc': 9.8, 'avg_tokens': 64.8, 'num_funs': 30, 'loc': 329, 'tokens': 2102, 'ext': 'py', 'blanks': 158, 'comments': 153, 'file_path': 'requests/utils.py'}
+	947248129ba3b0917c86c013f24d7499c15cb8ae {'ccn': 117, 'avg_ccn': 3.9, 'avg_loc': 9.8, 'avg_tokens': 64.86666666666666, 'num_funs': 30, 'loc': 329, 'tokens': 2104, 'ext': 'py', 'blanks': 158, 'comments': 162, 'file_path': 'requests/utils.py'}
+	59b29d02f8c4674a9922df53c9df9f960e6eaf34 {'ccn': 117, 'avg_ccn': 3.9, 'avg_loc': 9.8, 'avg_tokens': 64.86666666666666, 'num_funs': 30, 'loc': 329, 'tokens': 2104, 'ext': 'py', 'blanks': 158, 'comments': 162, 'file_path': 'requests/utils.py'}
+	21c88c829aade9347d74b69546f2541ae2a66caf {'ccn': 117, 'avg_ccn': 3.9, 'avg_loc': 9.8, 'avg_tokens': 65.0, 'num_funs': 30, 'loc': 329, 'tokens': 2108, 'ext': 'py', 'blanks': 158, 'comments': 162, 'file_path': 'requests/utils.py'}
+	f3bc8b6e1f470298467738f1a33c759eeb0474f4 {'ccn': 117, 'avg_ccn': 3.9, 'avg_loc': 9.8, 'avg_tokens': 65.0, 'num_funs': 30, 'loc': 329, 'tokens': 2108, 'ext': 'py', 'blanks': 158, 'comments': 162, 'file_path': 'requests/utils.py'}
+	1d42d9d2741d36c469fca38bc7e7a5383e3b7bd9 {'ccn': 120, 'avg_ccn': 4.0, 'avg_loc': 10.0, 'avg_tokens': 66.23333333333333, 'num_funs': 30, 'loc': 335, 'tokens': 2145, 'ext': 'py', 'blanks': 160, 'comments': 162, 'file_path': 'requests/utils.py'}
+test_requests.py
+	9ec222c363b226e908a9d72018e2f467952da52f {'ccn': 108, 'avg_ccn': 1.08, 'avg_loc': 6.92, 'avg_tokens': 52.91, 'num_funs': 100, 'loc': 714, 'tokens': 5522, 'ext': 'py', 'blanks': 183, 'comments': 38, 'file_path': 'test_requests.py'}
+	0a4e65c0ed6bab6fbe9cfc4f4c4d349098b6f319 {'ccn': 110, 'avg_ccn': 1.0784313725490196, 'avg_loc': 6.882352941176471, 'avg_tokens': 52.28431372549019, 'num_funs': 102, 'loc': 724, 'tokens': 5566, 'ext': 'py', 'blanks': 185, 'comments': 38, 'file_path': 'test_requests.py'}
+	0d52ef7084a6839376be182dd91e9e003d3275ff {'ccn': 112, 'avg_ccn': 1.0769230769230769, 'avg_loc': 6.836538461538462, 'avg_tokens': 51.83653846153846, 'num_funs': 104, 'loc': 733, 'tokens': 5626, 'ext': 'py', 'blanks': 188, 'comments': 38, 'file_path': 'test_requests.py'}
+	1d42d9d2741d36c469fca38bc7e7a5383e3b7bd9 {'ccn': 112, 'avg_ccn': 1.0769230769230769, 'avg_loc': 6.836538461538462, 'avg_tokens': 51.83653846153846, 'num_funs': 104, 'loc': 733, 'tokens': 5626, 'ext': 'py', 'blanks': 188, 'comments': 38, 'file_path': 'test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1793
+requests/adapters.py
+	cac2077c36ca841bdee8b2978677325e0754eaec {'ccn': 47, 'avg_ccn': 3.1333333333333333, 'avg_loc': 11.266666666666667, 'avg_tokens': 72.66666666666667, 'num_funs': 15, 'loc': 228, 'tokens': 1335, 'ext': 'py', 'blanks': 87, 'comments': 105, 'file_path': 'requests/adapters.py'}
+	16f9798208f2ef78e3ba91fc03584a522dd258a9 {'ccn': 48, 'avg_ccn': 3.2, 'avg_loc': 11.4, 'avg_tokens': 73.66666666666667, 'num_funs': 15, 'loc': 230, 'tokens': 1350, 'ext': 'py', 'blanks': 88, 'comments': 107, 'file_path': 'requests/adapters.py'}
+	1500632b602be698bfce682daeb01a2d64fc2d39 {'ccn': 47, 'avg_ccn': 3.1333333333333333, 'avg_loc': 11.266666666666667, 'avg_tokens': 72.66666666666667, 'num_funs': 15, 'loc': 228, 'tokens': 1335, 'ext': 'py', 'blanks': 87, 'comments': 107, 'file_path': 'requests/adapters.py'}
+	df1c2335c82165b961b8a0361d0176cdb298e513 {'ccn': 47, 'avg_ccn': 3.1333333333333333, 'avg_loc': 11.466666666666667, 'avg_tokens': 73.86666666666666, 'num_funs': 15, 'loc': 233, 'tokens': 1353, 'ext': 'py', 'blanks': 87, 'comments': 109, 'file_path': 'requests/adapters.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1862
+requests/utils.py
+	2f98ef17924d296a4871d909e43f5e7e365d05a3 {'ccn': 120, 'avg_ccn': 4.0, 'avg_loc': 10.3, 'avg_tokens': 67.4, 'num_funs': 30, 'loc': 344, 'tokens': 2178, 'ext': 'py', 'blanks': 165, 'comments': 169, 'file_path': 'requests/utils.py'}
+	49fb630eb4c8345702aaddc90d8edf73fd173a6e {'ccn': 120, 'avg_ccn': 4.0, 'avg_loc': 10.3, 'avg_tokens': 67.4, 'num_funs': 30, 'loc': 344, 'tokens': 2178, 'ext': 'py', 'blanks': 165, 'comments': 169, 'file_path': 'requests/utils.py'}
+test_requests.py
+	ca187abd13052fee100909076358fca89b473e0f {'ccn': 132, 'avg_ccn': 1.064516129032258, 'avg_loc': 6.830645161290323, 'avg_tokens': 51.193548387096776, 'num_funs': 124, 'loc': 874, 'tokens': 6627, 'ext': 'py', 'blanks': 241, 'comments': 51, 'file_path': 'test_requests.py'}
+	49fb630eb4c8345702aaddc90d8edf73fd173a6e {'ccn': 133, 'avg_ccn': 1.064, 'avg_loc': 6.848, 'avg_tokens': 51.296, 'num_funs': 125, 'loc': 883, 'tokens': 6692, 'ext': 'py', 'blanks': 241, 'comments': 51, 'file_path': 'test_requests.py'}
+	eb124353af330f8e1249e568e521795652fefb11 {'ccn': 133, 'avg_ccn': 1.064, 'avg_loc': 6.848, 'avg_tokens': 51.304, 'num_funs': 125, 'loc': 883, 'tokens': 6693, 'ext': 'py', 'blanks': 241, 'comments': 52, 'file_path': 'test_requests.py'}
+requests/adapters.py
+	5b4e9aff0ea2d0876de33f57cece4b06fe4bc194 {'ccn': 47, 'avg_ccn': 3.1333333333333333, 'avg_loc': 11.333333333333334, 'avg_tokens': 73.06666666666666, 'num_funs': 15, 'loc': 231, 'tokens': 1341, 'ext': 'py', 'blanks': 87, 'comments': 107, 'file_path': 'requests/adapters.py'}
+	49fb630eb4c8345702aaddc90d8edf73fd173a6e {'ccn': 47, 'avg_ccn': 3.1333333333333333, 'avg_loc': 11.333333333333334, 'avg_tokens': 73.06666666666666, 'num_funs': 15, 'loc': 231, 'tokens': 1341, 'ext': 'py', 'blanks': 87, 'comments': 107, 'file_path': 'requests/adapters.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1891
+requests/exceptions.py
+	27eb54a20a6f21cfe7138d4a26a8f41f5b2ced4b {'ccn': 3, 'avg_ccn': 3.0, 'avg_loc': 6.0, 'avg_tokens': 70.0, 'num_funs': 1, 'loc': 41, 'tokens': 182, 'ext': 'py', 'blanks': 30, 'comments': 23, 'file_path': 'requests/exceptions.py'}
+	c2fab5b4ca2f8dcdc76fabb1851bd268f0d41889 {'ccn': 4, 'avg_ccn': 4.0, 'avg_loc': 7.0, 'avg_tokens': 78.0, 'num_funs': 1, 'loc': 42, 'tokens': 190, 'ext': 'py', 'blanks': 30, 'comments': 23, 'file_path': 'requests/exceptions.py'}
+	07e0a6198d132fee147806105a6ff05e541d3ba2 {'ccn': 4, 'avg_ccn': 4.0, 'avg_loc': 8.0, 'avg_tokens': 83.0, 'num_funs': 1, 'loc': 43, 'tokens': 195, 'ext': 'py', 'blanks': 30, 'comments': 23, 'file_path': 'requests/exceptions.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1892
+requests/sessions.py
+	7ba5a534ae9fc24e40b3ae6c480c9075d684727e {'ccn': 61, 'avg_ccn': 2.772727272727273, 'avg_loc': 8.363636363636363, 'avg_tokens': 65.04545454545455, 'num_funs': 22, 'loc': 292, 'tokens': 1992, 'ext': 'py', 'blanks': 128, 'comments': 169, 'file_path': 'requests/sessions.py'}
+	326a22e8880c1dba52698a479eb7b6038d5b2e87 {'ccn': 61, 'avg_ccn': 2.772727272727273, 'avg_loc': 8.363636363636363, 'avg_tokens': 65.04545454545455, 'num_funs': 22, 'loc': 290, 'tokens': 1992, 'ext': 'py', 'blanks': 128, 'comments': 169, 'file_path': 'requests/sessions.py'}
+	d9f34c6848b9b313beefa7d3ce05f52fdea28c27 {'ccn': 61, 'avg_ccn': 2.772727272727273, 'avg_loc': 8.363636363636363, 'avg_tokens': 65.04545454545455, 'num_funs': 22, 'loc': 290, 'tokens': 1998, 'ext': 'py', 'blanks': 128, 'comments': 169, 'file_path': 'requests/sessions.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1951
+requests/sessions.py
+	4d8cb3244e8e4f84b250c10a48e025f9a8bf6137 {'ccn': 75, 'avg_ccn': 3.125, 'avg_loc': 9.25, 'avg_tokens': 68.625, 'num_funs': 24, 'loc': 319, 'tokens': 2159, 'ext': 'py', 'blanks': 146, 'comments': 188, 'file_path': 'requests/sessions.py'}
+	4f6dca42ea0fb3d1c4706e63e594e43f7a3237f7 {'ccn': 75, 'avg_ccn': 3.125, 'avg_loc': 9.25, 'avg_tokens': 68.625, 'num_funs': 24, 'loc': 319, 'tokens': 2159, 'ext': 'py', 'blanks': 146, 'comments': 182, 'file_path': 'requests/sessions.py'}
+	90f73378582e4e2cbc75a189a2cfa7826824f29e {'ccn': 75, 'avg_ccn': 3.125, 'avg_loc': 9.125, 'avg_tokens': 69.08333333333333, 'num_funs': 24, 'loc': 316, 'tokens': 2170, 'ext': 'py', 'blanks': 148, 'comments': 182, 'file_path': 'requests/sessions.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1972
+requests/structures.py
+	98ac3df71369a6cf9bde35b8e5c8dc5935b028d0 {'ccn': 26, 'avg_ccn': 1.368421052631579, 'avg_loc': 2.8947368421052633, 'avg_tokens': 23.736842105263158, 'num_funs': 19, 'loc': 97, 'tokens': 502, 'ext': 'py', 'blanks': 34, 'comments': 36, 'file_path': 'requests/structures.py'}
+	a3fb689942e8a215858ef0619d0ec95e22186c77 {'ccn': 26, 'avg_ccn': 1.368421052631579, 'avg_loc': 2.8947368421052633, 'avg_tokens': 23.789473684210527, 'num_funs': 19, 'loc': 97, 'tokens': 503, 'ext': 'py', 'blanks': 34, 'comments': 36, 'file_path': 'requests/structures.py'}
+	c2e6fe4d5dfbb2bf4e31d70bb7c3f3eda2435beb {'ccn': 26, 'avg_ccn': 1.368421052631579, 'avg_loc': 2.8947368421052633, 'avg_tokens': 23.736842105263158, 'num_funs': 19, 'loc': 97, 'tokens': 502, 'ext': 'py', 'blanks': 34, 'comments': 36, 'file_path': 'requests/structures.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2090
+requests/models.py
+	07d9b730b712e8d77106c5c886be4e8bf3bef4f6 {'ccn': 168, 'avg_ccn': 4.3076923076923075, 'avg_loc': 10.35897435897436, 'avg_tokens': 69.76923076923077, 'num_funs': 39, 'loc': 516, 'tokens': 3066, 'ext': 'py', 'blanks': 164, 'comments': 176, 'file_path': 'requests/models.py'}
+	ec3a2e6f04a6e268cbae747e9f1ff6ea4217f8b2 {'ccn': 168, 'avg_ccn': 4.3076923076923075, 'avg_loc': 10.35897435897436, 'avg_tokens': 69.76923076923077, 'num_funs': 39, 'loc': 516, 'tokens': 3066, 'ext': 'py', 'blanks': 164, 'comments': 176, 'file_path': 'requests/models.py'}
+requests/status_codes.py
+	ec3a2e6f04a6e268cbae747e9f1ff6ea4217f8b2 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 75, 'tokens': 593, 'ext': 'py', 'blanks': 8, 'comments': 5, 'file_path': 'requests/status_codes.py'}
+	da3178f377b34230792c70a48cc992500578316f {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 76, 'tokens': 597, 'ext': 'py', 'blanks': 8, 'comments': 5, 'file_path': 'requests/status_codes.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2176
+requests/exceptions.py
+	c2aeaa3959b5754f5b39a45bceff91b196b6c986 {'ccn': 4, 'avg_ccn': 4.0, 'avg_loc': 8.0, 'avg_tokens': 83.0, 'num_funs': 1, 'loc': 54, 'tokens': 209, 'ext': 'py', 'blanks': 36, 'comments': 30, 'file_path': 'requests/exceptions.py'}
+	8f9ce13e433013cd9bd4dbe9cf61c5b5f14b65ed {'ccn': 4, 'avg_ccn': 4.0, 'avg_loc': 8.0, 'avg_tokens': 83.0, 'num_funs': 1, 'loc': 54, 'tokens': 211, 'ext': 'py', 'blanks': 36, 'comments': 30, 'file_path': 'requests/exceptions.py'}
+requests/structures.py
+	c2aeaa3959b5754f5b39a45bceff91b196b6c986 {'ccn': 18, 'avg_ccn': 1.2857142857142858, 'avg_loc': 2.857142857142857, 'avg_tokens': 22.857142857142858, 'num_funs': 14, 'loc': 78, 'tokens': 353, 'ext': 'py', 'blanks': 27, 'comments': 34, 'file_path': 'requests/structures.py'}
+	f0b9b60f6298ec743f2b470819cd249a041845d3 {'ccn': 18, 'avg_ccn': 1.2857142857142858, 'avg_loc': 2.857142857142857, 'avg_tokens': 22.857142857142858, 'num_funs': 14, 'loc': 78, 'tokens': 353, 'ext': 'py', 'blanks': 27, 'comments': 34, 'file_path': 'requests/structures.py'}
+test_requests.py
+	c2aeaa3959b5754f5b39a45bceff91b196b6c986 {'ccn': 177, 'avg_ccn': 1.1346153846153846, 'avg_loc': 6.82051282051282, 'avg_tokens': 50.17948717948718, 'num_funs': 156, 'loc': 1113, 'tokens': 8244, 'ext': 'py', 'blanks': 292, 'comments': 81, 'file_path': 'test_requests.py'}
+	39b3a436d3058975ac8e05735825da03e755a3b0 {'ccn': 177, 'avg_ccn': 1.1346153846153846, 'avg_loc': 6.833333333333333, 'avg_tokens': 50.282051282051285, 'num_funs': 156, 'loc': 1115, 'tokens': 8264, 'ext': 'py', 'blanks': 292, 'comments': 81, 'file_path': 'test_requests.py'}
+	7f236fcc40ae3597bfc944c704bff2b8d907cd93 {'ccn': 177, 'avg_ccn': 1.1346153846153846, 'avg_loc': 6.826923076923077, 'avg_tokens': 50.27564102564103, 'num_funs': 156, 'loc': 1114, 'tokens': 8263, 'ext': 'py', 'blanks': 292, 'comments': 81, 'file_path': 'test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2193
+requests/adapters.py
+	da122231e4dab3cc3f9726b4e8edf70bb649dd5d {'ccn': 50, 'avg_ccn': 3.125, 'avg_loc': 11.375, 'avg_tokens': 75.875, 'num_funs': 16, 'loc': 247, 'tokens': 1487, 'ext': 'py', 'blanks': 90, 'comments': 119, 'file_path': 'requests/adapters.py'}
+	9354855648cedbec3a91a9391e067f56e8414814 {'ccn': 49, 'avg_ccn': 3.0625, 'avg_loc': 11.25, 'avg_tokens': 75.25, 'num_funs': 16, 'loc': 245, 'tokens': 1477, 'ext': 'py', 'blanks': 89, 'comments': 119, 'file_path': 'requests/adapters.py'}
+test_requests.py
+	2c76122a48c6a4b513930fed56c0aea5362d6c9c {'ccn': 178, 'avg_ccn': 1.1337579617834395, 'avg_loc': 6.802547770700637, 'avg_tokens': 50.0828025477707, 'num_funs': 157, 'loc': 1117, 'tokens': 8284, 'ext': 'py', 'blanks': 293, 'comments': 82, 'file_path': 'test_requests.py'}
+	c6a1167e8b35a7fa46b6bebe8f5d21fed9e25edc {'ccn': 178, 'avg_ccn': 1.1337579617834395, 'avg_loc': 6.802547770700637, 'avg_tokens': 50.0828025477707, 'num_funs': 157, 'loc': 1117, 'tokens': 8284, 'ext': 'py', 'blanks': 293, 'comments': 82, 'file_path': 'test_requests.py'}
+	ce7957c085d912bd1b225460d159b19eaf3e6510 {'ccn': 178, 'avg_ccn': 1.1337579617834395, 'avg_loc': 6.8152866242038215, 'avg_tokens': 50.17197452229299, 'num_funs': 157, 'loc': 1119, 'tokens': 8298, 'ext': 'py', 'blanks': 294, 'comments': 82, 'file_path': 'test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2216
+requests/adapters.py
+	2bc7762cb6c91f49e5b116d3eb9f93af01e331f2 {'ccn': 49, 'avg_ccn': 3.0625, 'avg_loc': 11.25, 'avg_tokens': 74.9375, 'num_funs': 16, 'loc': 250, 'tokens': 1498, 'ext': 'py', 'blanks': 89, 'comments': 123, 'file_path': 'requests/adapters.py'}
+	2eb7e3c80b345f6c6e13fadf6f1ba98efccdd2e2 {'ccn': 50, 'avg_ccn': 3.125, 'avg_loc': 11.375, 'avg_tokens': 76.125, 'num_funs': 16, 'loc': 253, 'tokens': 1526, 'ext': 'py', 'blanks': 90, 'comments': 123, 'file_path': 'requests/adapters.py'}
+	adf475ef82cbd29f63814c0626f64926deb2355b {'ccn': 50, 'avg_ccn': 3.125, 'avg_loc': 11.375, 'avg_tokens': 76.125, 'num_funs': 16, 'loc': 255, 'tokens': 1526, 'ext': 'py', 'blanks': 90, 'comments': 125, 'file_path': 'requests/adapters.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2241
+requests/models.py
+	fdf932c61c7ff77d494a4a413cc5fbdb71328ac7 {'ccn': 173, 'avg_ccn': 4.325, 'avg_loc': 10.3, 'avg_tokens': 69.5, 'num_funs': 40, 'loc': 526, 'tokens': 3134, 'ext': 'py', 'blanks': 165, 'comments': 179, 'file_path': 'requests/models.py'}
+	d6470870d08828c1d332ae446d5288eaab55d1f1 {'ccn': 173, 'avg_ccn': 4.325, 'avg_loc': 10.275, 'avg_tokens': 69.45, 'num_funs': 40, 'loc': 525, 'tokens': 3132, 'ext': 'py', 'blanks': 165, 'comments': 179, 'file_path': 'requests/models.py'}
+	6e5f7bb9d397ade498ee22d9785863ef1b8ad946 {'ccn': 173, 'avg_ccn': 4.325, 'avg_loc': 10.25, 'avg_tokens': 69.425, 'num_funs': 40, 'loc': 525, 'tokens': 3133, 'ext': 'py', 'blanks': 165, 'comments': 179, 'file_path': 'requests/models.py'}
+requests/exceptions.py
+	58e0a6f4a020db660119f1c9459ab37ba55b92d4 {'ccn': 4, 'avg_ccn': 4.0, 'avg_loc': 8.0, 'avg_tokens': 83.0, 'num_funs': 1, 'loc': 57, 'tokens': 218, 'ext': 'py', 'blanks': 37, 'comments': 32, 'file_path': 'requests/exceptions.py'}
+	64ba451049c614eb14d336c2e7989ffaa81b2bb5 {'ccn': 4, 'avg_ccn': 4.0, 'avg_loc': 8.0, 'avg_tokens': 83.0, 'num_funs': 1, 'loc': 57, 'tokens': 220, 'ext': 'py', 'blanks': 37, 'comments': 32, 'file_path': 'requests/exceptions.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2253
+requests/auth.py
+	c28da22e9c42e22b303bb07da434ce65e10c0cb2 {'ccn': 35, 'avg_ccn': 2.9166666666666665, 'avg_loc': 10.666666666666666, 'avg_tokens': 78.33333333333333, 'num_funs': 12, 'loc': 150, 'tokens': 1014, 'ext': 'py', 'blanks': 44, 'comments': 22, 'file_path': 'requests/auth.py'}
+	6ff6f756c034ad0a946c711d0e136cfbd077ab62 {'ccn': 35, 'avg_ccn': 2.9166666666666665, 'avg_loc': 10.583333333333334, 'avg_tokens': 79.25, 'num_funs': 12, 'loc': 150, 'tokens': 1030, 'ext': 'py', 'blanks': 44, 'comments': 22, 'file_path': 'requests/auth.py'}
+	3d8823cafc82fd9849eef6650a54a61554079b61 {'ccn': 35, 'avg_ccn': 2.9166666666666665, 'avg_loc': 10.416666666666666, 'avg_tokens': 78.41666666666667, 'num_funs': 12, 'loc': 148, 'tokens': 1020, 'ext': 'py', 'blanks': 44, 'comments': 22, 'file_path': 'requests/auth.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2306
+requests/models.py
+	cfd6e25749dd17c6b511043a6720b672f74029ed {'ccn': 176, 'avg_ccn': 4.4, 'avg_loc': 10.4, 'avg_tokens': 70.825, 'num_funs': 40, 'loc': 533, 'tokens': 3196, 'ext': 'py', 'blanks': 167, 'comments': 183, 'file_path': 'requests/models.py'}
+	77687de5099b6b65cde5901a29a3b1c5e751b8a2 {'ccn': 175, 'avg_ccn': 4.375, 'avg_loc': 10.375, 'avg_tokens': 70.675, 'num_funs': 40, 'loc': 532, 'tokens': 3190, 'ext': 'py', 'blanks': 167, 'comments': 183, 'file_path': 'requests/models.py'}
+	26ed7c2e1dce4271f3a3b111a167a6dcca3acddf {'ccn': 175, 'avg_ccn': 4.375, 'avg_loc': 10.375, 'avg_tokens': 70.675, 'num_funs': 40, 'loc': 532, 'tokens': 3198, 'ext': 'py', 'blanks': 167, 'comments': 183, 'file_path': 'requests/models.py'}
+	8e69c9f0a16b37990df4430eb81a5138520689ac {'ccn': 175, 'avg_ccn': 4.375, 'avg_loc': 10.375, 'avg_tokens': 70.675, 'num_funs': 40, 'loc': 532, 'tokens': 3190, 'ext': 'py', 'blanks': 167, 'comments': 183, 'file_path': 'requests/models.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2344
+requests/models.py
+	087a27aba97d3eac017d321e37bf1970f8833c1a {'ccn': 178, 'avg_ccn': 4.45, 'avg_loc': 10.525, 'avg_tokens': 71.825, 'num_funs': 40, 'loc': 538, 'tokens': 3238, 'ext': 'py', 'blanks': 168, 'comments': 183, 'file_path': 'requests/models.py'}
+	3246b1fe172ca3d4f098e85467234ded2f833b31 {'ccn': 178, 'avg_ccn': 4.45, 'avg_loc': 10.525, 'avg_tokens': 71.825, 'num_funs': 40, 'loc': 538, 'tokens': 3238, 'ext': 'py', 'blanks': 168, 'comments': 183, 'file_path': 'requests/models.py'}
+test_requests.py
+	087a27aba97d3eac017d321e37bf1970f8833c1a {'ccn': 183, 'avg_ccn': 1.1296296296296295, 'avg_loc': 6.808641975308642, 'avg_tokens': 49.876543209876544, 'num_funs': 162, 'loc': 1153, 'tokens': 8508, 'ext': 'py', 'blanks': 298, 'comments': 93, 'file_path': 'test_requests.py'}
+	3246b1fe172ca3d4f098e85467234ded2f833b31 {'ccn': 183, 'avg_ccn': 1.1296296296296295, 'avg_loc': 6.808641975308642, 'avg_tokens': 49.876543209876544, 'num_funs': 162, 'loc': 1153, 'tokens': 8508, 'ext': 'py', 'blanks': 298, 'comments': 93, 'file_path': 'test_requests.py'}
+	39090cfba65cd056258dadce35e53dfeddd4568c {'ccn': 185, 'avg_ccn': 1.1280487804878048, 'avg_loc': 6.810975609756097, 'avg_tokens': 50.048780487804876, 'num_funs': 164, 'loc': 1167, 'tokens': 8640, 'ext': 'py', 'blanks': 304, 'comments': 93, 'file_path': 'test_requests.py'}
+	4c61fef13f53db220f95032b72e6e374970bf272 {'ccn': 186, 'avg_ccn': 1.1272727272727272, 'avg_loc': 6.8121212121212125, 'avg_tokens': 50.127272727272725, 'num_funs': 165, 'loc': 1174, 'tokens': 8704, 'ext': 'py', 'blanks': 306, 'comments': 84, 'file_path': 'test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2466
+requests/packages/__init__.py
+	6ea3f2ada87177559188bfc9148af1b2384f38c6 {'ccn': 13, 'avg_ccn': 4.333333333333333, 'avg_loc': 13.0, 'avg_tokens': 74.0, 'num_funs': 3, 'loc': 65, 'tokens': 256, 'ext': 'py', 'blanks': 16, 'comments': 37, 'file_path': 'requests/packages/__init__.py'}
+	2669f0c0b1e98c9ea36d2614d48b07ad150ea276 {'ccn': 17, 'avg_ccn': 5.666666666666667, 'avg_loc': 16.333333333333332, 'avg_tokens': 91.33333333333333, 'num_funs': 3, 'loc': 75, 'tokens': 305, 'ext': 'py', 'blanks': 17, 'comments': 37, 'file_path': 'requests/packages/__init__.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2468
+test_requests.py
+	326f77d57c3fdb45bf1d263a8b4ecef781f39850 {'ccn': 194, 'avg_ccn': 1.1213872832369942, 'avg_loc': 6.7398843930635834, 'avg_tokens': 49.7514450867052, 'num_funs': 173, 'loc': 1216, 'tokens': 9048, 'ext': 'py', 'blanks': 314, 'comments': 91, 'file_path': 'test_requests.py'}
+	1887f32b17326fdaced7b57da349dc5ad7873435 {'ccn': 194, 'avg_ccn': 1.1213872832369942, 'avg_loc': 6.7398843930635834, 'avg_tokens': 49.73988439306358, 'num_funs': 173, 'loc': 1216, 'tokens': 9046, 'ext': 'py', 'blanks': 314, 'comments': 91, 'file_path': 'test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2523
+requests/auth.py
+	845e8f943f47ed3b88e19ff8351e6f248a9d6ab9 {'ccn': 35, 'avg_ccn': 2.9166666666666665, 'avg_loc': 10.75, 'avg_tokens': 79.66666666666667, 'num_funs': 12, 'loc': 153, 'tokens': 1037, 'ext': 'py', 'blanks': 45, 'comments': 26, 'file_path': 'requests/auth.py'}
+	e65360dbaf252a136a011adf639e5dce880a2412 {'ccn': 35, 'avg_ccn': 2.9166666666666665, 'avg_loc': 10.75, 'avg_tokens': 79.25, 'num_funs': 12, 'loc': 153, 'tokens': 1032, 'ext': 'py', 'blanks': 45, 'comments': 26, 'file_path': 'requests/auth.py'}
+	e8d9bc55bc9fae82e3ba934d3f7a93e94a72d094 {'ccn': 37, 'avg_ccn': 2.8461538461538463, 'avg_loc': 10.461538461538462, 'avg_tokens': 78.84615384615384, 'num_funs': 13, 'loc': 160, 'tokens': 1107, 'ext': 'py', 'blanks': 46, 'comments': 29, 'file_path': 'requests/auth.py'}
+	36dea434065fa174105ac220152d94f7a39827b5 {'ccn': 37, 'avg_ccn': 2.8461538461538463, 'avg_loc': 10.307692307692308, 'avg_tokens': 79.07692307692308, 'num_funs': 13, 'loc': 158, 'tokens': 1110, 'ext': 'py', 'blanks': 46, 'comments': 29, 'file_path': 'requests/auth.py'}
+	5a69137ac871c38f4597b574e93de07d9ff9655f {'ccn': 37, 'avg_ccn': 2.8461538461538463, 'avg_loc': 10.23076923076923, 'avg_tokens': 78.84615384615384, 'num_funs': 13, 'loc': 157, 'tokens': 1107, 'ext': 'py', 'blanks': 46, 'comments': 29, 'file_path': 'requests/auth.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2547
+requests/models.py
+	f89b5a5d90d7b45a7f59dbd2bb29ae2f400aba44 {'ccn': 176, 'avg_ccn': 4.4, 'avg_loc': 10.525, 'avg_tokens': 71.575, 'num_funs': 40, 'loc': 537, 'tokens': 3228, 'ext': 'py', 'blanks': 171, 'comments': 195, 'file_path': 'requests/models.py'}
+	f02d0f9e79a3aa3f0b716871f457ceb8f446bdba {'ccn': 176, 'avg_ccn': 4.4, 'avg_loc': 10.525, 'avg_tokens': 71.625, 'num_funs': 40, 'loc': 537, 'tokens': 3230, 'ext': 'py', 'blanks': 171, 'comments': 195, 'file_path': 'requests/models.py'}
+	599f8343512277671d08e043a0505a82630c641d {'ccn': 176, 'avg_ccn': 4.4, 'avg_loc': 10.55, 'avg_tokens': 71.575, 'num_funs': 40, 'loc': 538, 'tokens': 3228, 'ext': 'py', 'blanks': 171, 'comments': 195, 'file_path': 'requests/models.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2556
+requests/packages/urllib3/__init__.py
+	5fcd843eb23e8e84cd5f60c6d372ef4d678f80fe {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 28.0, 'num_funs': 3, 'loc': 41, 'tokens': 215, 'ext': 'py', 'blanks': 13, 'comments': 17, 'file_path': 'requests/packages/urllib3/__init__.py'}
+	3d339ed7e61261832347190185113b890b55009e {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 28.0, 'num_funs': 3, 'loc': 41, 'tokens': 215, 'ext': 'py', 'blanks': 13, 'comments': 17, 'file_path': 'requests/packages/urllib3/__init__.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2666
+test_requests.py
+	147a305da8c7c5e1fa44d073f97c865f4e81bfd7 {'ccn': 200, 'avg_ccn': 1.1173184357541899, 'avg_loc': 6.70391061452514, 'avg_tokens': 49.41899441340782, 'num_funs': 179, 'loc': 1252, 'tokens': 9301, 'ext': 'py', 'blanks': 325, 'comments': 92, 'file_path': 'test_requests.py'}
+	47e71d1774745543b743bdf570d9d8e7151355e6 {'ccn': 200, 'avg_ccn': 1.1173184357541899, 'avg_loc': 6.70391061452514, 'avg_tokens': 49.391061452513966, 'num_funs': 179, 'loc': 1252, 'tokens': 9296, 'ext': 'py', 'blanks': 325, 'comments': 92, 'file_path': 'test_requests.py'}
+	3b325f1bc5df476c4c4e93c5a742d81e2c5bd950 {'ccn': 200, 'avg_ccn': 1.1173184357541899, 'avg_loc': 6.720670391061453, 'avg_tokens': 49.46368715083799, 'num_funs': 179, 'loc': 1255, 'tokens': 9309, 'ext': 'py', 'blanks': 325, 'comments': 92, 'file_path': 'test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2678
+test_requests.py
+	77d7e53c12da9fbeea75711d8607741bdfd12973 {'ccn': 205, 'avg_ccn': 1.1263736263736264, 'avg_loc': 6.71978021978022, 'avg_tokens': 49.43956043956044, 'num_funs': 182, 'loc': 1278, 'tokens': 9468, 'ext': 'py', 'blanks': 332, 'comments': 92, 'file_path': 'test_requests.py'}
+	31817b66c6b793689c93a5b558384fb53d0576f7 {'ccn': 205, 'avg_ccn': 1.1263736263736264, 'avg_loc': 6.71978021978022, 'avg_tokens': 49.42857142857143, 'num_funs': 182, 'loc': 1278, 'tokens': 9466, 'ext': 'py', 'blanks': 332, 'comments': 92, 'file_path': 'test_requests.py'}
+	873f834fc9104b894eb7b254d8dcbd3170086cc7 {'ccn': 204, 'avg_ccn': 1.12707182320442, 'avg_loc': 6.723756906077348, 'avg_tokens': 49.552486187845304, 'num_funs': 181, 'loc': 1272, 'tokens': 9438, 'ext': 'py', 'blanks': 331, 'comments': 92, 'file_path': 'test_requests.py'}
+	5d7392f140ed476cdc99f4178e425ce2fbb05884 {'ccn': 205, 'avg_ccn': 1.1263736263736264, 'avg_loc': 6.71978021978022, 'avg_tokens': 49.675824175824175, 'num_funs': 182, 'loc': 1278, 'tokens': 9511, 'ext': 'py', 'blanks': 332, 'comments': 92, 'file_path': 'test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2741
+requests/adapters.py
+	48fe34447de02bfe9827321fafe3277741d77c38 {'ccn': 50, 'avg_ccn': 3.125, 'avg_loc': 11.3125, 'avg_tokens': 76.75, 'num_funs': 16, 'loc': 255, 'tokens': 1543, 'ext': 'py', 'blanks': 90, 'comments': 123, 'file_path': 'requests/adapters.py'}
+	22075f02d0f41ee8d6e7328361b59c3b2d54bdaf {'ccn': 51, 'avg_ccn': 3.1875, 'avg_loc': 11.4375, 'avg_tokens': 77.125, 'num_funs': 16, 'loc': 257, 'tokens': 1549, 'ext': 'py', 'blanks': 90, 'comments': 123, 'file_path': 'requests/adapters.py'}
+	d7a3aa618839e304c324e6092953131a1f43c647 {'ccn': 52, 'avg_ccn': 3.25, 'avg_loc': 11.5625, 'avg_tokens': 78.8125, 'num_funs': 16, 'loc': 259, 'tokens': 1576, 'ext': 'py', 'blanks': 90, 'comments': 123, 'file_path': 'requests/adapters.py'}
+	500f15da1fe54e3773be42f7770680d1f86b699f {'ccn': 48, 'avg_ccn': 3.0, 'avg_loc': 11.0625, 'avg_tokens': 74.4375, 'num_funs': 16, 'loc': 252, 'tokens': 1508, 'ext': 'py', 'blanks': 89, 'comments': 123, 'file_path': 'requests/adapters.py'}
+	c80121df91997535f4c27f9c44c7aca10ad39af6 {'ccn': 48, 'avg_ccn': 3.0, 'avg_loc': 11.0625, 'avg_tokens': 74.4375, 'num_funs': 16, 'loc': 252, 'tokens': 1508, 'ext': 'py', 'blanks': 89, 'comments': 123, 'file_path': 'requests/adapters.py'}
+	f3d4480a33b367cf020b0ed447bca10797706094 {'ccn': 48, 'avg_ccn': 3.0, 'avg_loc': 11.125, 'avg_tokens': 74.6875, 'num_funs': 16, 'loc': 253, 'tokens': 1512, 'ext': 'py', 'blanks': 89, 'comments': 123, 'file_path': 'requests/adapters.py'}
+	4c6540898c101a606e1a50e539f01a82163bdae0 {'ccn': 48, 'avg_ccn': 3.0, 'avg_loc': 11.125, 'avg_tokens': 74.4375, 'num_funs': 16, 'loc': 253, 'tokens': 1508, 'ext': 'py', 'blanks': 89, 'comments': 123, 'file_path': 'requests/adapters.py'}
+requests/utils.py
+	500f15da1fe54e3773be42f7770680d1f86b699f {'ccn': 130, 'avg_ccn': 3.9393939393939394, 'avg_loc': 10.484848484848484, 'avg_tokens': 68.0909090909091, 'num_funs': 33, 'loc': 383, 'tokens': 2410, 'ext': 'py', 'blanks': 169, 'comments': 180, 'file_path': 'requests/utils.py'}
+	c80121df91997535f4c27f9c44c7aca10ad39af6 {'ccn': 130, 'avg_ccn': 3.9393939393939394, 'avg_loc': 10.484848484848484, 'avg_tokens': 68.0909090909091, 'num_funs': 33, 'loc': 383, 'tokens': 2410, 'ext': 'py', 'blanks': 170, 'comments': 183, 'file_path': 'requests/utils.py'}
+	4c6540898c101a606e1a50e539f01a82163bdae0 {'ccn': 130, 'avg_ccn': 3.9393939393939394, 'avg_loc': 10.484848484848484, 'avg_tokens': 67.96969696969697, 'num_funs': 33, 'loc': 383, 'tokens': 2406, 'ext': 'py', 'blanks': 170, 'comments': 183, 'file_path': 'requests/utils.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2763
+requests/models.py
+	37037607b5f3da32ff1897caca3c38e210f04c37 {'ccn': 178, 'avg_ccn': 4.45, 'avg_loc': 10.575, 'avg_tokens': 73.925, 'num_funs': 40, 'loc': 524, 'tokens': 3270, 'ext': 'py', 'blanks': 175, 'comments': 198, 'file_path': 'requests/models.py'}
+	7a0cd16c1a5be16f3df395ee12ed11d0ddde7837 {'ccn': 178, 'avg_ccn': 4.45, 'avg_loc': 10.575, 'avg_tokens': 73.975, 'num_funs': 40, 'loc': 524, 'tokens': 3272, 'ext': 'py', 'blanks': 175, 'comments': 198, 'file_path': 'requests/models.py'}
+test_requests.py
+	37037607b5f3da32ff1897caca3c38e210f04c37 {'ccn': 202, 'avg_ccn': 1.1160220994475138, 'avg_loc': 6.718232044198895, 'avg_tokens': 49.751381215469614, 'num_funs': 181, 'loc': 1270, 'tokens': 9464, 'ext': 'py', 'blanks': 327, 'comments': 93, 'file_path': 'test_requests.py'}
+	7a0cd16c1a5be16f3df395ee12ed11d0ddde7837 {'ccn': 202, 'avg_ccn': 1.1160220994475138, 'avg_loc': 6.718232044198895, 'avg_tokens': 49.72375690607735, 'num_funs': 181, 'loc': 1270, 'tokens': 9459, 'ext': 'py', 'blanks': 327, 'comments': 93, 'file_path': 'test_requests.py'}
+	1f48a4c9ea81d6b2128a7e1199be2dfbb81b643d {'ccn': 202, 'avg_ccn': 1.1160220994475138, 'avg_loc': 6.718232044198895, 'avg_tokens': 49.69613259668508, 'num_funs': 181, 'loc': 1270, 'tokens': 9454, 'ext': 'py', 'blanks': 327, 'comments': 93, 'file_path': 'test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2859
+test_requests.py
+	e5053cd32269ce9122ab7643e112e21518005b63 {'ccn': 212, 'avg_ccn': 1.1216931216931216, 'avg_loc': 6.661375661375661, 'avg_tokens': 49.24338624338624, 'num_funs': 189, 'loc': 1314, 'tokens': 9768, 'ext': 'py', 'blanks': 342, 'comments': 93, 'file_path': 'test_requests.py'}
+	a56db9ecc4456c992372f13d979e526bca251183 {'ccn': 212, 'avg_ccn': 1.1216931216931216, 'avg_loc': 6.661375661375661, 'avg_tokens': 49.24338624338624, 'num_funs': 189, 'loc': 1314, 'tokens': 9766, 'ext': 'py', 'blanks': 342, 'comments': 93, 'file_path': 'test_requests.py'}
+	f52287d9992f0cff892ab5b55ed12803791a78a7 {'ccn': 212, 'avg_ccn': 1.1216931216931216, 'avg_loc': 6.656084656084656, 'avg_tokens': 49.2010582010582, 'num_funs': 189, 'loc': 1313, 'tokens': 9758, 'ext': 'py', 'blanks': 342, 'comments': 93, 'file_path': 'test_requests.py'}
+	9b63f9cd37d19f2d4bbce42caec112ad0606d8dd {'ccn': 213, 'avg_ccn': 1.126984126984127, 'avg_loc': 6.677248677248677, 'avg_tokens': 49.2962962962963, 'num_funs': 189, 'loc': 1317, 'tokens': 9776, 'ext': 'py', 'blanks': 343, 'comments': 93, 'file_path': 'test_requests.py'}
+	3bc189b0afba0d6ea8c65f0e99a78196a4a6d8b6 {'ccn': 213, 'avg_ccn': 1.126984126984127, 'avg_loc': 6.677248677248677, 'avg_tokens': 50.29100529100529, 'num_funs': 189, 'loc': 1317, 'tokens': 9964, 'ext': 'py', 'blanks': 343, 'comments': 93, 'file_path': 'test_requests.py'}
+	a8fdba15b12550a9bb08b1fa1e4d78b5d9508c1f {'ccn': 213, 'avg_ccn': 1.126984126984127, 'avg_loc': 6.677248677248677, 'avg_tokens': 50.264550264550266, 'num_funs': 189, 'loc': 1317, 'tokens': 9959, 'ext': 'py', 'blanks': 343, 'comments': 93, 'file_path': 'test_requests.py'}
+	70d7b134c806cf75c5c4343f9cefa92f9345635a {'ccn': 213, 'avg_ccn': 1.126984126984127, 'avg_loc': 6.677248677248677, 'avg_tokens': 50.264550264550266, 'num_funs': 189, 'loc': 1317, 'tokens': 9959, 'ext': 'py', 'blanks': 343, 'comments': 93, 'file_path': 'test_requests.py'}
+	be564e500cdebff5c0325808adb9ff33610b7c78 {'ccn': 213, 'avg_ccn': 1.126984126984127, 'avg_loc': 6.677248677248677, 'avg_tokens': 50.25925925925926, 'num_funs': 189, 'loc': 1317, 'tokens': 9958, 'ext': 'py', 'blanks': 343, 'comments': 93, 'file_path': 'test_requests.py'}
+	7c91e27d0142c177add6a1f726712f58914d4f52 {'ccn': 210, 'avg_ccn': 1.1229946524064172, 'avg_loc': 6.679144385026738, 'avg_tokens': 50.3048128342246, 'num_funs': 187, 'loc': 1305, 'tokens': 9866, 'ext': 'py', 'blanks': 340, 'comments': 93, 'file_path': 'test_requests.py'}
+	43b90d7f72c4793aa538dd7eac2ac126da2a3aaf {'ccn': 210, 'avg_ccn': 1.1229946524064172, 'avg_loc': 6.679144385026738, 'avg_tokens': 50.3048128342246, 'num_funs': 187, 'loc': 1305, 'tokens': 9866, 'ext': 'py', 'blanks': 340, 'comments': 93, 'file_path': 'test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2897
+dummyserver/server.py
+	99825de025fe47372ce8fc09f1461a7f0576f4f7 {'ccn': 5, 'avg_ccn': 1.25, 'avg_loc': 5.75, 'avg_tokens': 40.75, 'num_funs': 4, 'loc': 28, 'tokens': 180, 'ext': 'py', 'blanks': 9, 'comments': 3, 'file_path': 'dummyserver/server.py'}
+	9a2cc99b068b2aaa572f52b4516852b239577c34 {'ccn': 5, 'avg_ccn': 1.25, 'avg_loc': 5.75, 'avg_tokens': 40.75, 'num_funs': 4, 'loc': 26, 'tokens': 180, 'ext': 'py', 'blanks': 10, 'comments': 1, 'file_path': 'dummyserver/server.py'}
+test_requests.py
+	99825de025fe47372ce8fc09f1461a7f0576f4f7 {'ccn': 213, 'avg_ccn': 1.1210526315789473, 'avg_loc': 6.684210526315789, 'avg_tokens': 50.189473684210526, 'num_funs': 190, 'loc': 1328, 'tokens': 10012, 'ext': 'py', 'blanks': 344, 'comments': 94, 'file_path': 'test_requests.py'}
+	b806ce15ba5d726f94f58aa247fe40b6e2972fb7 {'ccn': 213, 'avg_ccn': 1.1210526315789473, 'avg_loc': 6.684210526315789, 'avg_tokens': 50.2, 'num_funs': 190, 'loc': 1328, 'tokens': 10014, 'ext': 'py', 'blanks': 344, 'comments': 94, 'file_path': 'test_requests.py'}
+	47e96c4e57964dd2db4806b2c24e02a89f3ae8bc {'ccn': 213, 'avg_ccn': 1.1210526315789473, 'avg_loc': 6.684210526315789, 'avg_tokens': 50.2, 'num_funs': 190, 'loc': 1328, 'tokens': 10014, 'ext': 'py', 'blanks': 344, 'comments': 94, 'file_path': 'test_requests.py'}
+	11ad502b80a10d3c4fe5631509f893a7bd20c2e9 {'ccn': 214, 'avg_ccn': 1.1204188481675392, 'avg_loc': 6.680628272251309, 'avg_tokens': 50.21989528795812, 'num_funs': 191, 'loc': 1334, 'tokens': 10069, 'ext': 'py', 'blanks': 345, 'comments': 94, 'file_path': 'test_requests.py'}
+	b4b4661f461a132c6815daa3719a3200553464a9 {'ccn': 215, 'avg_ccn': 1.1197916666666667, 'avg_loc': 6.6875, 'avg_tokens': 50.307291666666664, 'num_funs': 192, 'loc': 1342, 'tokens': 10137, 'ext': 'py', 'blanks': 347, 'comments': 94, 'file_path': 'test_requests.py'}
+	6adabacd81d8e453c3915f8a98692c9891df022b {'ccn': 215, 'avg_ccn': 1.1197916666666667, 'avg_loc': 6.6875, 'avg_tokens': 50.307291666666664, 'num_funs': 192, 'loc': 1342, 'tokens': 10137, 'ext': 'py', 'blanks': 347, 'comments': 94, 'file_path': 'test_requests.py'}
+	aac32ac56e60ac220a15c33d207306806c193d1b {'ccn': 218, 'avg_ccn': 1.1237113402061856, 'avg_loc': 6.711340206185567, 'avg_tokens': 50.618556701030926, 'num_funs': 194, 'loc': 1362, 'tokens': 10304, 'ext': 'py', 'blanks': 356, 'comments': 95, 'file_path': 'test_requests.py'}
+	4a41c591f88c3be7bb1319c8e6b8eba631fea8da {'ccn': 219, 'avg_ccn': 1.123076923076923, 'avg_loc': 6.733333333333333, 'avg_tokens': 50.676923076923075, 'num_funs': 195, 'loc': 1373, 'tokens': 10367, 'ext': 'py', 'blanks': 359, 'comments': 95, 'file_path': 'test_requests.py'}
+	578b03255594d446b4fc8c6e00ec67dd3c8b440f {'ccn': 221, 'avg_ccn': 1.1275510204081634, 'avg_loc': 6.75, 'avg_tokens': 50.82142857142857, 'num_funs': 196, 'loc': 1383, 'tokens': 10447, 'ext': 'py', 'blanks': 365, 'comments': 96, 'file_path': 'test_requests.py'}
+	3eeea3771b274e1089317faa302730e74203b37c {'ccn': 222, 'avg_ccn': 1.1269035532994924, 'avg_loc': 6.791878172588833, 'avg_tokens': 51.07106598984772, 'num_funs': 197, 'loc': 1398, 'tokens': 10548, 'ext': 'py', 'blanks': 370, 'comments': 96, 'file_path': 'test_requests.py'}
+	534ee814fcb9d7b563413ea77ce6838090ead25f {'ccn': 224, 'avg_ccn': 1.1256281407035176, 'avg_loc': 6.819095477386934, 'avg_tokens': 51.21105527638191, 'num_funs': 199, 'loc': 1417, 'tokens': 10680, 'ext': 'py', 'blanks': 376, 'comments': 96, 'file_path': 'test_requests.py'}
+	fa91b0ab7ce45389357a4fc9f33785514b265b40 {'ccn': 224, 'avg_ccn': 1.1256281407035176, 'avg_loc': 6.819095477386934, 'avg_tokens': 51.21105527638191, 'num_funs': 199, 'loc': 1417, 'tokens': 10680, 'ext': 'py', 'blanks': 369, 'comments': 96, 'file_path': 'test_requests.py'}
+	241656355bbc03f24d04578e3e523bee9ca70269 {'ccn': 224, 'avg_ccn': 1.1256281407035176, 'avg_loc': 6.819095477386934, 'avg_tokens': 51.21105527638191, 'num_funs': 199, 'loc': 1417, 'tokens': 10680, 'ext': 'py', 'blanks': 371, 'comments': 96, 'file_path': 'test_requests.py'}
+testserver/server.py
+	47e96c4e57964dd2db4806b2c24e02a89f3ae8bc {'ccn': 5, 'avg_ccn': 1.25, 'avg_loc': 5.75, 'avg_tokens': 40.75, 'num_funs': 4, 'loc': 26, 'tokens': 180, 'ext': 'py', 'blanks': 7, 'comments': 1, 'file_path': 'testserver/server.py'}
+	ab0f063d85d01a707516c84881c0a698edc526cd {'ccn': 5, 'avg_ccn': 1.25, 'avg_loc': 6.0, 'avg_tokens': 43.75, 'num_funs': 4, 'loc': 27, 'tokens': 192, 'ext': 'py', 'blanks': 8, 'comments': 2, 'file_path': 'testserver/server.py'}
+	2ad3f079821769062ad6b8e91c927b1b345895d6 {'ccn': 7, 'avg_ccn': 1.4, 'avg_loc': 6.0, 'avg_tokens': 40.0, 'num_funs': 5, 'loc': 33, 'tokens': 218, 'ext': 'py', 'blanks': 9, 'comments': 2, 'file_path': 'testserver/server.py'}
+	11ad502b80a10d3c4fe5631509f893a7bd20c2e9 {'ccn': 9, 'avg_ccn': 1.2857142857142858, 'avg_loc': 5.857142857142857, 'avg_tokens': 36.57142857142857, 'num_funs': 7, 'loc': 44, 'tokens': 276, 'ext': 'py', 'blanks': 11, 'comments': 2, 'file_path': 'testserver/server.py'}
+	f7917c305a4f05a86a3ae058036e2205dc0f47e7 {'ccn': 9, 'avg_ccn': 1.2857142857142858, 'avg_loc': 5.857142857142857, 'avg_tokens': 36.57142857142857, 'num_funs': 7, 'loc': 44, 'tokens': 276, 'ext': 'py', 'blanks': 11, 'comments': 2, 'file_path': 'testserver/server.py'}
+	6551c290fdbf0b29e4534abef1b04f7485a88aad {'ccn': 14, 'avg_ccn': 1.5555555555555556, 'avg_loc': 5.666666666666667, 'avg_tokens': 36.111111111111114, 'num_funs': 9, 'loc': 55, 'tokens': 347, 'ext': 'py', 'blanks': 16, 'comments': 2, 'file_path': 'testserver/server.py'}
+	5ecf789a6f2c50a69854e2663083aeea1a0ff683 {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.0, 'avg_tokens': 37.666666666666664, 'num_funs': 9, 'loc': 58, 'tokens': 361, 'ext': 'py', 'blanks': 16, 'comments': 4, 'file_path': 'testserver/server.py'}
+	3b2a489e13a2dc3c9d1ef919ad35e14cc5189f10 {'ccn': 16, 'avg_ccn': 1.6, 'avg_loc': 5.6, 'avg_tokens': 36.3, 'num_funs': 10, 'loc': 61, 'tokens': 388, 'ext': 'py', 'blanks': 18, 'comments': 4, 'file_path': 'testserver/server.py'}
+	3eeea3771b274e1089317faa302730e74203b37c {'ccn': 17, 'avg_ccn': 1.7, 'avg_loc': 6.8, 'avg_tokens': 46.6, 'num_funs': 10, 'loc': 74, 'tokens': 493, 'ext': 'py', 'blanks': 27, 'comments': 5, 'file_path': 'testserver/server.py'}
+	fa91b0ab7ce45389357a4fc9f33785514b265b40 {'ccn': 17, 'avg_ccn': 1.7, 'avg_loc': 6.8, 'avg_tokens': 45.7, 'num_funs': 10, 'loc': 74, 'tokens': 484, 'ext': 'py', 'blanks': 25, 'comments': 5, 'file_path': 'testserver/server.py'}
+	9ac5a6e4aea4ba76c515291be3682aac262e34d4 {'ccn': 17, 'avg_ccn': 1.7, 'avg_loc': 6.8, 'avg_tokens': 46.2, 'num_funs': 10, 'loc': 75, 'tokens': 492, 'ext': 'py', 'blanks': 27, 'comments': 5, 'file_path': 'testserver/server.py'}
+tests/test_requests.py
+	141db281d1adffd39cb14e3bc343e311d855ddc5 {'ccn': 168, 'avg_ccn': 1.1586206896551725, 'avg_loc': 6.993103448275862, 'avg_tokens': 53.744827586206895, 'num_funs': 145, 'loc': 1127, 'tokens': 8627, 'ext': 'py', 'blanks': 271, 'comments': 62, 'file_path': 'tests/test_requests.py'}
+	e3ad31f3be58790b719c4798f4f3dbdc19518819 {'ccn': 170, 'avg_ccn': 1.1643835616438356, 'avg_loc': 7.013698630136986, 'avg_tokens': 54.04109589041096, 'num_funs': 146, 'loc': 1139, 'tokens': 8733, 'ext': 'py', 'blanks': 277, 'comments': 63, 'file_path': 'tests/test_requests.py'}
+	bf026e3c3109ee3d5948f674df120e97e3c3fb84 {'ccn': 170, 'avg_ccn': 1.1643835616438356, 'avg_loc': 7.013698630136986, 'avg_tokens': 54.04109589041096, 'num_funs': 146, 'loc': 1137, 'tokens': 8723, 'ext': 'py', 'blanks': 271, 'comments': 63, 'file_path': 'tests/test_requests.py'}
+	eeafdc143bee0f0356e0f5115029eaef792d4eb4 {'ccn': 168, 'avg_ccn': 1.1586206896551725, 'avg_loc': 6.993103448275862, 'avg_tokens': 53.744827586206895, 'num_funs': 145, 'loc': 1125, 'tokens': 8617, 'ext': 'py', 'blanks': 268, 'comments': 62, 'file_path': 'tests/test_requests.py'}
+	94d4818fde1df23747e2208b01fd4911a97bb69f {'ccn': 168, 'avg_ccn': 1.1586206896551725, 'avg_loc': 6.993103448275862, 'avg_tokens': 53.744827586206895, 'num_funs': 145, 'loc': 1125, 'tokens': 8617, 'ext': 'py', 'blanks': 268, 'comments': 62, 'file_path': 'tests/test_requests.py'}
+	0dff06a7b9eb337ce02838f1e4cb9b042c9f3f52 {'ccn': 168, 'avg_ccn': 1.1586206896551725, 'avg_loc': 6.993103448275862, 'avg_tokens': 53.744827586206895, 'num_funs': 145, 'loc': 1125, 'tokens': 8617, 'ext': 'py', 'blanks': 269, 'comments': 62, 'file_path': 'tests/test_requests.py'}
+tests/test_utils.py
+	141db281d1adffd39cb14e3bc343e311d855ddc5 {'ccn': 33, 'avg_ccn': 1.064516129032258, 'avg_loc': 5.193548387096774, 'avg_tokens': 36.58064516129032, 'num_funs': 31, 'loc': 285, 'tokens': 1669, 'ext': 'py', 'blanks': 75, 'comments': 20, 'file_path': 'tests/test_utils.py'}
+	567b31080e62fd52bb9b8fb778736eb05359daa8 {'ccn': 33, 'avg_ccn': 1.064516129032258, 'avg_loc': 5.193548387096774, 'avg_tokens': 36.58064516129032, 'num_funs': 31, 'loc': 285, 'tokens': 1669, 'ext': 'py', 'blanks': 75, 'comments': 20, 'file_path': 'tests/test_utils.py'}
+	f17ef753d2c1f4db0d7f5aec51261da1db20d611 {'ccn': 31, 'avg_ccn': 1.0333333333333334, 'avg_loc': 5.033333333333333, 'avg_tokens': 34.53333333333333, 'num_funs': 30, 'loc': 275, 'tokens': 1570, 'ext': 'py', 'blanks': 69, 'comments': 19, 'file_path': 'tests/test_utils.py'}
+	44161ac373199716c4231aa5cb5011a08d2d6ed4 {'ccn': 20, 'avg_ccn': 1.0, 'avg_loc': 2.9, 'avg_tokens': 19.1, 'num_funs': 20, 'loc': 178, 'tokens': 897, 'ext': 'py', 'blanks': 42, 'comments': 18, 'file_path': 'tests/test_utils.py'}
+	3c3bde5381ab13dabac0d05b6bb31b4668d020c8 {'ccn': 20, 'avg_ccn': 1.0, 'avg_loc': 2.9, 'avg_tokens': 19.1, 'num_funs': 20, 'loc': 177, 'tokens': 891, 'ext': 'py', 'blanks': 43, 'comments': 18, 'file_path': 'tests/test_utils.py'}
+	c4abb4c9fbce7635ea89938f52896defa5583c54 {'ccn': 20, 'avg_ccn': 1.0, 'avg_loc': 2.9, 'avg_tokens': 19.1, 'num_funs': 20, 'loc': 177, 'tokens': 891, 'ext': 'py', 'blanks': 42, 'comments': 18, 'file_path': 'tests/test_utils.py'}
+tests/testserver/server.py
+	ca35c847a203b264edb57a2d6d3a2700ac69dcde {'ccn': 17, 'avg_ccn': 1.7, 'avg_loc': 6.8, 'avg_tokens': 46.2, 'num_funs': 10, 'loc': 75, 'tokens': 492, 'ext': 'py', 'blanks': 27, 'comments': 5, 'file_path': 'tests/testserver/server.py'}
+	0d1a779030c1b26f9decda889b3e140d89bdeef9 {'ccn': 17, 'avg_ccn': 1.7, 'avg_loc': 6.7, 'avg_tokens': 45.8, 'num_funs': 10, 'loc': 74, 'tokens': 488, 'ext': 'py', 'blanks': 23, 'comments': 5, 'file_path': 'tests/testserver/server.py'}
+	66c52c3ce0e273250cbb5e470ef4e0daadeac715 {'ccn': 17, 'avg_ccn': 1.7, 'avg_loc': 6.7, 'avg_tokens': 45.8, 'num_funs': 10, 'loc': 74, 'tokens': 488, 'ext': 'py', 'blanks': 25, 'comments': 5, 'file_path': 'tests/testserver/server.py'}
+	b473440cc1038ae9e745141ea4084291c7f8ea6d {'ccn': 17, 'avg_ccn': 1.7, 'avg_loc': 6.7, 'avg_tokens': 45.9, 'num_funs': 10, 'loc': 74, 'tokens': 489, 'ext': 'py', 'blanks': 25, 'comments': 5, 'file_path': 'tests/testserver/server.py'}
+	634b2beb39644a1aa1ef3f1f7c4f26fe0a6a9bf8 {'ccn': 17, 'avg_ccn': 1.7, 'avg_loc': 6.7, 'avg_tokens': 45.9, 'num_funs': 10, 'loc': 74, 'tokens': 489, 'ext': 'py', 'blanks': 24, 'comments': 5, 'file_path': 'tests/testserver/server.py'}
+tests/test_testserver.py
+	44161ac373199716c4231aa5cb5011a08d2d6ed4 {'ccn': 11, 'avg_ccn': 1.1, 'avg_loc': 9.3, 'avg_tokens': 65.4, 'num_funs': 10, 'loc': 99, 'tokens': 681, 'ext': 'py', 'blanks': 28, 'comments': 1, 'file_path': 'tests/test_testserver.py'}
+	7088c06d8daef094eca6d154cbd3c1e6c8ea6126 {'ccn': 11, 'avg_ccn': 1.1, 'avg_loc': 9.3, 'avg_tokens': 65.4, 'num_funs': 10, 'loc': 99, 'tokens': 681, 'ext': 'py', 'blanks': 28, 'comments': 1, 'file_path': 'tests/test_testserver.py'}
+	4edf1ae55f361c7cb9b3deab88c67505fa797263 {'ccn': 11, 'avg_ccn': 1.1, 'avg_loc': 9.3, 'avg_tokens': 65.6, 'num_funs': 10, 'loc': 99, 'tokens': 683, 'ext': 'py', 'blanks': 28, 'comments': 1, 'file_path': 'tests/test_testserver.py'}
+	03743b15ed30a030629231da6ba0ecc23240bf66 {'ccn': 11, 'avg_ccn': 1.1, 'avg_loc': 9.3, 'avg_tokens': 66.5, 'num_funs': 10, 'loc': 99, 'tokens': 692, 'ext': 'py', 'blanks': 28, 'comments': 10, 'file_path': 'tests/test_testserver.py'}
+	b473440cc1038ae9e745141ea4084291c7f8ea6d {'ccn': 11, 'avg_ccn': 1.1, 'avg_loc': 9.3, 'avg_tokens': 65.7, 'num_funs': 10, 'loc': 99, 'tokens': 686, 'ext': 'py', 'blanks': 28, 'comments': 10, 'file_path': 'tests/test_testserver.py'}
+tests/test_lowlevel.py
+	eeafdc143bee0f0356e0f5115029eaef792d4eb4 {'ccn': 2, 'avg_ccn': 2.0, 'avg_loc': 10.0, 'avg_tokens': 97.0, 'num_funs': 1, 'loc': 13, 'tokens': 108, 'ext': 'py', 'blanks': 5, 'comments': 1, 'file_path': 'tests/test_lowlevel.py'}
+	b473440cc1038ae9e745141ea4084291c7f8ea6d {'ccn': 2, 'avg_ccn': 2.0, 'avg_loc': 10.0, 'avg_tokens': 97.0, 'num_funs': 1, 'loc': 13, 'tokens': 110, 'ext': 'py', 'blanks': 5, 'comments': 1, 'file_path': 'tests/test_lowlevel.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2953
+requests/adapters.py
+	08364c6739ef94d245327acf88359de371bbf3ba {'ccn': 56, 'avg_ccn': 3.2941176470588234, 'avg_loc': 12.058823529411764, 'avg_tokens': 79.82352941176471, 'num_funs': 17, 'loc': 286, 'tokens': 1715, 'ext': 'py', 'blanks': 94, 'comments': 129, 'file_path': 'requests/adapters.py'}
+	1c54014daff8fa237820d5c67dcbd1aa2f585927 {'ccn': 57, 'avg_ccn': 3.3529411764705883, 'avg_loc': 12.117647058823529, 'avg_tokens': 80.0, 'num_funs': 17, 'loc': 287, 'tokens': 1718, 'ext': 'py', 'blanks': 94, 'comments': 129, 'file_path': 'requests/adapters.py'}
+	11b9b24ac9c6d7e2231493b3d8723de7715b0f2e {'ccn': 57, 'avg_ccn': 3.3529411764705883, 'avg_loc': 12.235294117647058, 'avg_tokens': 80.52941176470588, 'num_funs': 17, 'loc': 289, 'tokens': 1729, 'ext': 'py', 'blanks': 94, 'comments': 129, 'file_path': 'requests/adapters.py'}
+	e4d15c464929e87a6648c57f32c422dc5bfecef3 {'ccn': 56, 'avg_ccn': 3.2941176470588234, 'avg_loc': 12.176470588235293, 'avg_tokens': 80.47058823529412, 'num_funs': 17, 'loc': 288, 'tokens': 1728, 'ext': 'py', 'blanks': 95, 'comments': 128, 'file_path': 'requests/adapters.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2972
+requests/sessions.py
+	e6f218f3f6c365bc919218fae9d0726473043079 {'ccn': 80, 'avg_ccn': 3.2, 'avg_loc': 9.16, 'avg_tokens': 70.68, 'num_funs': 25, 'loc': 352, 'tokens': 2377, 'ext': 'py', 'blanks': 155, 'comments': 202, 'file_path': 'requests/sessions.py'}
+	6a8a480d6c535e8fd52526875296576c5309203c {'ccn': 80, 'avg_ccn': 3.2, 'avg_loc': 9.16, 'avg_tokens': 70.68, 'num_funs': 25, 'loc': 348, 'tokens': 2373, 'ext': 'py', 'blanks': 155, 'comments': 202, 'file_path': 'requests/sessions.py'}
+test_requests.py
+	e6f218f3f6c365bc919218fae9d0726473043079 {'ccn': 216, 'avg_ccn': 1.130890052356021, 'avg_loc': 6.680628272251309, 'avg_tokens': 50.17277486910995, 'num_funs': 191, 'loc': 1332, 'tokens': 10050, 'ext': 'py', 'blanks': 346, 'comments': 94, 'file_path': 'test_requests.py'}
+	5a18066c451ce6d5cd8a4b3dbcb229d7e3af2492 {'ccn': 216, 'avg_ccn': 1.130890052356021, 'avg_loc': 6.680628272251309, 'avg_tokens': 50.17277486910995, 'num_funs': 191, 'loc': 1332, 'tokens': 10050, 'ext': 'py', 'blanks': 346, 'comments': 94, 'file_path': 'test_requests.py'}
+	6a8a480d6c535e8fd52526875296576c5309203c {'ccn': 216, 'avg_ccn': 1.130890052356021, 'avg_loc': 6.69109947643979, 'avg_tokens': 50.340314136125656, 'num_funs': 191, 'loc': 1334, 'tokens': 10080, 'ext': 'py', 'blanks': 346, 'comments': 94, 'file_path': 'test_requests.py'}
+	1f05867493215d51790f965419149e45ad765ac0 {'ccn': 216, 'avg_ccn': 1.130890052356021, 'avg_loc': 6.69109947643979, 'avg_tokens': 50.35078534031414, 'num_funs': 191, 'loc': 1334, 'tokens': 10082, 'ext': 'py', 'blanks': 346, 'comments': 94, 'file_path': 'test_requests.py'}
+	56a1b55a42072eb594eb0cc969dc4b4a80b7fab2 {'ccn': 216, 'avg_ccn': 1.130890052356021, 'avg_loc': 6.701570680628272, 'avg_tokens': 50.39267015706806, 'num_funs': 191, 'loc': 1336, 'tokens': 10090, 'ext': 'py', 'blanks': 346, 'comments': 94, 'file_path': 'test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3032
+tests/test_requests.py
+	b9517a58bc0d0fe7884bf7f9f0ac79531d645261 {'ccn': 170, 'avg_ccn': 1.1564625850340136, 'avg_loc': 7.034013605442177, 'avg_tokens': 53.89115646258504, 'num_funs': 147, 'loc': 1145, 'tokens': 8748, 'ext': 'py', 'blanks': 273, 'comments': 62, 'file_path': 'tests/test_requests.py'}
+	c53a685e7d2ff3ca73308acadf85bb5a32661894 {'ccn': 170, 'avg_ccn': 1.1564625850340136, 'avg_loc': 7.034013605442177, 'avg_tokens': 53.89115646258504, 'num_funs': 147, 'loc': 1145, 'tokens': 8748, 'ext': 'py', 'blanks': 273, 'comments': 62, 'file_path': 'tests/test_requests.py'}
+	f74a6707afe6f14a9edfb63a0d464e4aa93aca8f {'ccn': 170, 'avg_ccn': 1.1564625850340136, 'avg_loc': 7.061224489795919, 'avg_tokens': 54.12244897959184, 'num_funs': 147, 'loc': 1149, 'tokens': 8782, 'ext': 'py', 'blanks': 275, 'comments': 64, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3036
+requests/utils.py
+	e034dd1140cb6b6862d5ebc633ba94d332fc2bb2 {'ccn': 130, 'avg_ccn': 3.9393939393939394, 'avg_loc': 10.484848484848484, 'avg_tokens': 66.39393939393939, 'num_funs': 33, 'loc': 383, 'tokens': 2356, 'ext': 'py', 'blanks': 171, 'comments': 188, 'file_path': 'requests/utils.py'}
+	6cc0b56d51d13e2a8553f7abffa06e9fbaf795db {'ccn': 130, 'avg_ccn': 3.9393939393939394, 'avg_loc': 10.484848484848484, 'avg_tokens': 66.39393939393939, 'num_funs': 33, 'loc': 383, 'tokens': 2356, 'ext': 'py', 'blanks': 171, 'comments': 190, 'file_path': 'requests/utils.py'}
+tests/test_utils.py
+	e034dd1140cb6b6862d5ebc633ba94d332fc2bb2 {'ccn': 23, 'avg_ccn': 1.0, 'avg_loc': 2.9130434782608696, 'avg_tokens': 18.47826086956522, 'num_funs': 23, 'loc': 185, 'tokens': 948, 'ext': 'py', 'blanks': 44, 'comments': 21, 'file_path': 'tests/test_utils.py'}
+	6cc0b56d51d13e2a8553f7abffa06e9fbaf795db {'ccn': 23, 'avg_ccn': 1.0, 'avg_loc': 2.9130434782608696, 'avg_tokens': 18.47826086956522, 'num_funs': 23, 'loc': 185, 'tokens': 948, 'ext': 'py', 'blanks': 44, 'comments': 21, 'file_path': 'tests/test_utils.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3082
+tests/test_requests.py
+	2246a52a364b794f38daf073b085d7d669446e73 {'ccn': 188, 'avg_ccn': 1.175, 'avg_loc': 7.0, 'avg_tokens': 53.7, 'num_funs': 160, 'loc': 1227, 'tokens': 9423, 'ext': 'py', 'blanks': 290, 'comments': 65, 'file_path': 'tests/test_requests.py'}
+	219490ea7fe0907bb12222e913cb4d1a63483e3c {'ccn': 187, 'avg_ccn': 1.16875, 'avg_loc': 6.98125, 'avg_tokens': 53.61875, 'num_funs': 160, 'loc': 1224, 'tokens': 9410, 'ext': 'py', 'blanks': 290, 'comments': 65, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3096
+requests/structures.py
+	4c04469cfb22c31871b33c0344c73f636109fda9 {'ccn': 18, 'avg_ccn': 1.2857142857142858, 'avg_loc': 2.857142857142857, 'avg_tokens': 23.0, 'num_funs': 14, 'loc': 78, 'tokens': 355, 'ext': 'py', 'blanks': 27, 'comments': 34, 'file_path': 'requests/structures.py'}
+	c8a0fc6aa2131c9bfa7ac3903c01d522fca3d346 {'ccn': 18, 'avg_ccn': 1.2857142857142858, 'avg_loc': 2.857142857142857, 'avg_tokens': 22.857142857142858, 'num_funs': 14, 'loc': 79, 'tokens': 358, 'ext': 'py', 'blanks': 28, 'comments': 34, 'file_path': 'requests/structures.py'}
+tests/test_requests.py
+	4f5741e1ffd8bef185582bcba6145493d4abab15 {'ccn': 188, 'avg_ccn': 1.1677018633540373, 'avg_loc': 7.049689440993789, 'avg_tokens': 54.40372670807454, 'num_funs': 161, 'loc': 1242, 'tokens': 9591, 'ext': 'py', 'blanks': 291, 'comments': 66, 'file_path': 'tests/test_requests.py'}
+	c8a0fc6aa2131c9bfa7ac3903c01d522fca3d346 {'ccn': 188, 'avg_ccn': 1.1677018633540373, 'avg_loc': 7.049689440993789, 'avg_tokens': 54.37888198757764, 'num_funs': 161, 'loc': 1242, 'tokens': 9587, 'ext': 'py', 'blanks': 291, 'comments': 66, 'file_path': 'tests/test_requests.py'}
+	b1a7dcd79915ec7a58043031da432b5841d4d8ec {'ccn': 188, 'avg_ccn': 1.1677018633540373, 'avg_loc': 7.049689440993789, 'avg_tokens': 54.39751552795031, 'num_funs': 161, 'loc': 1242, 'tokens': 9590, 'ext': 'py', 'blanks': 291, 'comments': 66, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3185
+tests/test_requests.py
+	1121f8b915000d8fd60fb8015286b9c9fd8abebc {'ccn': 196, 'avg_ccn': 1.180722891566265, 'avg_loc': 7.126506024096385, 'avg_tokens': 54.69879518072289, 'num_funs': 166, 'loc': 1297, 'tokens': 9965, 'ext': 'py', 'blanks': 301, 'comments': 67, 'file_path': 'tests/test_requests.py'}
+	4bf88661720782670e14a0904a28ee897180b429 {'ccn': 192, 'avg_ccn': 1.1636363636363636, 'avg_loc': 7.096969696969697, 'avg_tokens': 54.624242424242425, 'num_funs': 165, 'loc': 1285, 'tokens': 9898, 'ext': 'py', 'blanks': 299, 'comments': 67, 'file_path': 'tests/test_requests.py'}
+tests/test_lowlevel.py
+	4bf88661720782670e14a0904a28ee897180b429 {'ccn': 3, 'avg_ccn': 1.5, 'avg_loc': 10.5, 'avg_tokens': 95.5, 'num_funs': 2, 'loc': 38, 'tokens': 305, 'ext': 'py', 'blanks': 14, 'comments': 4, 'file_path': 'tests/test_lowlevel.py'}
+	35744c3e5d212f8841be3a5ab7de3e3b37dda5bb {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 10.5, 'avg_tokens': 94.0, 'num_funs': 2, 'loc': 38, 'tokens': 302, 'ext': 'py', 'blanks': 14, 'comments': 4, 'file_path': 'tests/test_lowlevel.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3192
+tests/test_testserver.py
+	364594b2ce2042dc853009e31960697f62817510 {'ccn': 13, 'avg_ccn': 1.1818181818181819, 'avg_loc': 9.181818181818182, 'avg_tokens': 62.90909090909091, 'num_funs': 11, 'loc': 107, 'tokens': 722, 'ext': 'py', 'blanks': 31, 'comments': 13, 'file_path': 'tests/test_testserver.py'}
+	0b17e445f716cba090aff9fc5783b241038a1551 {'ccn': 14, 'avg_ccn': 1.1666666666666667, 'avg_loc': 8.833333333333334, 'avg_tokens': 59.833333333333336, 'num_funs': 12, 'loc': 112, 'tokens': 749, 'ext': 'py', 'blanks': 34, 'comments': 16, 'file_path': 'tests/test_testserver.py'}
+	5cfb69173cff61db7b63d4136965894e25291829 {'ccn': 13, 'avg_ccn': 1.0833333333333333, 'avg_loc': 8.666666666666666, 'avg_tokens': 60.0, 'num_funs': 12, 'loc': 110, 'tokens': 751, 'ext': 'py', 'blanks': 34, 'comments': 16, 'file_path': 'tests/test_testserver.py'}
+tests/testserver/server.py
+	364594b2ce2042dc853009e31960697f62817510 {'ccn': 23, 'avg_ccn': 1.9166666666666667, 'avg_loc': 7.0, 'avg_tokens': 45.75, 'num_funs': 12, 'loc': 91, 'tokens': 581, 'ext': 'py', 'blanks': 31, 'comments': 5, 'file_path': 'tests/testserver/server.py'}
+	0b17e445f716cba090aff9fc5783b241038a1551 {'ccn': 23, 'avg_ccn': 1.9166666666666667, 'avg_loc': 7.0, 'avg_tokens': 45.75, 'num_funs': 12, 'loc': 91, 'tokens': 581, 'ext': 'py', 'blanks': 30, 'comments': 6, 'file_path': 'tests/testserver/server.py'}
+	5cfb69173cff61db7b63d4136965894e25291829 {'ccn': 23, 'avg_ccn': 1.9166666666666667, 'avg_loc': 7.0, 'avg_tokens': 46.083333333333336, 'num_funs': 12, 'loc': 91, 'tokens': 585, 'ext': 'py', 'blanks': 29, 'comments': 6, 'file_path': 'tests/testserver/server.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3195
+tests/test_utils.py
+	f59a95713ebefcbcf4baf247d9ef193d5e8b83b0 {'ccn': 41, 'avg_ccn': 1.0, 'avg_loc': 2.707317073170732, 'avg_tokens': 18.78048780487805, 'num_funs': 41, 'loc': 364, 'tokens': 1917, 'ext': 'py', 'blanks': 79, 'comments': 32, 'file_path': 'tests/test_utils.py'}
+	b94decc47c1026067b99e4452ddabec1ad139845 {'ccn': 40, 'avg_ccn': 1.0, 'avg_loc': 2.675, 'avg_tokens': 18.325, 'num_funs': 40, 'loc': 353, 'tokens': 1863, 'ext': 'py', 'blanks': 77, 'comments': 26, 'file_path': 'tests/test_utils.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3417
+requests/sessions.py
+	fd4332916fd980f522ef13790a8ae68e55b8dde9 {'ccn': 88, 'avg_ccn': 3.3846153846153846, 'avg_loc': 9.23076923076923, 'avg_tokens': 70.5, 'num_funs': 26, 'loc': 358, 'tokens': 2442, 'ext': 'py', 'blanks': 165, 'comments': 223, 'file_path': 'requests/sessions.py'}
+	c418c4c4aa4e8491db814e5139b836d8b6b42811 {'ccn': 88, 'avg_ccn': 3.3846153846153846, 'avg_loc': 9.23076923076923, 'avg_tokens': 70.5, 'num_funs': 26, 'loc': 358, 'tokens': 2434, 'ext': 'py', 'blanks': 165, 'comments': 223, 'file_path': 'requests/sessions.py'}
+tests/test_requests.py
+	fd4332916fd980f522ef13790a8ae68e55b8dde9 {'ccn': 203, 'avg_ccn': 1.180232558139535, 'avg_loc': 7.203488372093023, 'avg_tokens': 55.52906976744186, 'num_funs': 172, 'loc': 1358, 'tokens': 10452, 'ext': 'py', 'blanks': 318, 'comments': 81, 'file_path': 'tests/test_requests.py'}
+	715830fe2113c74db3da071484fe23fab743c1fe {'ccn': 203, 'avg_ccn': 1.180232558139535, 'avg_loc': 7.203488372093023, 'avg_tokens': 55.51744186046512, 'num_funs': 172, 'loc': 1358, 'tokens': 10450, 'ext': 'py', 'blanks': 318, 'comments': 81, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3489
+tests/test_requests.py
+	117813ee2ef730d1338d5cd6d55c389089799002 {'ccn': 214, 'avg_ccn': 1.202247191011236, 'avg_loc': 7.320224719101123, 'avg_tokens': 56.837078651685395, 'num_funs': 178, 'loc': 1430, 'tokens': 11061, 'ext': 'py', 'blanks': 334, 'comments': 99, 'file_path': 'tests/test_requests.py'}
+	647ed5b6de6a71d235eb222fe978899c0447b0f2 {'ccn': 216, 'avg_ccn': 1.2, 'avg_loc': 7.311111111111111, 'avg_tokens': 56.78333333333333, 'num_funs': 180, 'loc': 1442, 'tokens': 11165, 'ext': 'py', 'blanks': 340, 'comments': 102, 'file_path': 'tests/test_requests.py'}
+	340902153f49a2ed9316cbe1f44c67032dcc8376 {'ccn': 215, 'avg_ccn': 1.2011173184357542, 'avg_loc': 7.335195530726257, 'avg_tokens': 57.12849162011173, 'num_funs': 179, 'loc': 1440, 'tokens': 11171, 'ext': 'py', 'blanks': 333, 'comments': 99, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3535
+requests/utils.py
+	8873a090979ffb627b21d54c04e7ddd1943eea03 {'ccn': 146, 'avg_ccn': 4.294117647058823, 'avg_loc': 11.147058823529411, 'avg_tokens': 69.52941176470588, 'num_funs': 34, 'loc': 415, 'tokens': 2546, 'ext': 'py', 'blanks': 195, 'comments': 236, 'file_path': 'requests/utils.py'}
+	99364b6b0b8d1ce5ac69121040e641db99d562d1 {'ccn': 143, 'avg_ccn': 4.205882352941177, 'avg_loc': 11.058823529411764, 'avg_tokens': 68.88235294117646, 'num_funs': 34, 'loc': 412, 'tokens': 2524, 'ext': 'py', 'blanks': 196, 'comments': 236, 'file_path': 'requests/utils.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3598
+requests/cookies.py
+	01e405c6116c94d92057f7aaea58d51d1d7f90a7 {'ccn': 120, 'avg_ccn': 2.5, 'avg_loc': 5.4375, 'avg_tokens': 39.416666666666664, 'num_funs': 48, 'loc': 320, 'tokens': 2012, 'ext': 'py', 'blanks': 111, 'comments': 157, 'file_path': 'requests/cookies.py'}
+	2af059797a33a1ee2132ed13e456413c18bc7aa2 {'ccn': 117, 'avg_ccn': 2.4375, 'avg_loc': 5.375, 'avg_tokens': 38.895833333333336, 'num_funs': 48, 'loc': 318, 'tokens': 1991, 'ext': 'py', 'blanks': 110, 'comments': 156, 'file_path': 'requests/cookies.py'}
+	f002b73026bdc136654ba545296898af9a88007a {'ccn': 117, 'avg_ccn': 2.4375, 'avg_loc': 5.375, 'avg_tokens': 38.854166666666664, 'num_funs': 48, 'loc': 318, 'tokens': 1990, 'ext': 'py', 'blanks': 110, 'comments': 156, 'file_path': 'requests/cookies.py'}
+requests/_internal_utils.py
+	f002b73026bdc136654ba545296898af9a88007a {'ccn': 3, 'avg_ccn': 3.0, 'avg_loc': 9.0, 'avg_tokens': 46.0, 'num_funs': 1, 'loc': 10, 'tokens': 54, 'ext': 'py', 'blanks': 3, 'comments': 4, 'file_path': 'requests/_internal_utils.py'}
+	3ac70defff233359fbd715ad6e02350c2519291d {'ccn': 3, 'avg_ccn': 3.0, 'avg_loc': 9.0, 'avg_tokens': 46.0, 'num_funs': 1, 'loc': 17, 'tokens': 55, 'ext': 'py', 'blanks': 6, 'comments': 11, 'file_path': 'requests/_internal_utils.py'}
+requests/utils.py
+	f002b73026bdc136654ba545296898af9a88007a {'ccn': 140, 'avg_ccn': 4.242424242424242, 'avg_loc': 11.121212121212121, 'avg_tokens': 69.57575757575758, 'num_funs': 33, 'loc': 403, 'tokens': 2478, 'ext': 'py', 'blanks': 193, 'comments': 233, 'file_path': 'requests/utils.py'}
+	3ac70defff233359fbd715ad6e02350c2519291d {'ccn': 140, 'avg_ccn': 4.242424242424242, 'avg_loc': 11.121212121212121, 'avg_tokens': 69.57575757575758, 'num_funs': 33, 'loc': 403, 'tokens': 2478, 'ext': 'py', 'blanks': 193, 'comments': 233, 'file_path': 'requests/utils.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3620
+requests/packages/idna/codec.py
+	3c680cc1c6ca3005ae1bee929af330d3187f24c1 {'ccn': 26, 'avg_ccn': 5.2, 'avg_loc': 15.4, 'avg_tokens': 89.4, 'num_funs': 5, 'loc': 88, 'tokens': 525, 'ext': 'py', 'blanks': 25, 'comments': 5, 'file_path': 'requests/packages/idna/codec.py'}
+	e7f5bd634d3fa757f067b297a3d20f1760777a23 {'ccn': 26, 'avg_ccn': 5.2, 'avg_loc': 15.4, 'avg_tokens': 89.4, 'num_funs': 5, 'loc': 88, 'tokens': 524, 'ext': 'py', 'blanks': 25, 'comments': 5, 'file_path': 'requests/packages/idna/codec.py'}
+requests/packages/idna/compat.py
+	3c680cc1c6ca3005ae1bee929af330d3187f24c1 {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 10.0, 'num_funs': 3, 'loc': 8, 'tokens': 45, 'ext': 'py', 'blanks': 4, 'comments': 0, 'file_path': 'requests/packages/idna/compat.py'}
+	e7f5bd634d3fa757f067b297a3d20f1760777a23 {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 10.0, 'num_funs': 3, 'loc': 8, 'tokens': 43, 'ext': 'py', 'blanks': 4, 'comments': 0, 'file_path': 'requests/packages/idna/compat.py'}
+requests/models.py
+	27812eb90248c021d7277a8823dd9c7885f497af {'ccn': 183, 'avg_ccn': 4.575, 'avg_loc': 10.8, 'avg_tokens': 75.45, 'num_funs': 40, 'loc': 534, 'tokens': 3345, 'ext': 'py', 'blanks': 174, 'comments': 221, 'file_path': 'requests/models.py'}
+	8dd51d22fc42abf98f8e75ff5722f4b0295015e5 {'ccn': 183, 'avg_ccn': 4.575, 'avg_loc': 10.8, 'avg_tokens': 75.55, 'num_funs': 40, 'loc': 534, 'tokens': 3349, 'ext': 'py', 'blanks': 174, 'comments': 221, 'file_path': 'requests/models.py'}
+tests/test_requests.py
+	9337b4d95d23b66f04acdfec1b8a9cd41687d70f {'ccn': 220, 'avg_ccn': 1.2021857923497268, 'avg_loc': 7.295081967213115, 'avg_tokens': 56.85245901639344, 'num_funs': 183, 'loc': 1491, 'tokens': 11485, 'ext': 'py', 'blanks': 337, 'comments': 101, 'file_path': 'tests/test_requests.py'}
+	8dd51d22fc42abf98f8e75ff5722f4b0295015e5 {'ccn': 220, 'avg_ccn': 1.2021857923497268, 'avg_loc': 7.295081967213115, 'avg_tokens': 56.85245901639344, 'num_funs': 183, 'loc': 1502, 'tokens': 11506, 'ext': 'py', 'blanks': 337, 'comments': 101, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3655
+tests/test_requests.py
+	40402cd0dd044b640b984d25233e1095fae9ec16 {'ccn': 227, 'avg_ccn': 1.194736842105263, 'avg_loc': 7.152631578947369, 'avg_tokens': 55.62105263157895, 'num_funs': 190, 'loc': 1520, 'tokens': 11667, 'ext': 'py', 'blanks': 344, 'comments': 101, 'file_path': 'tests/test_requests.py'}
+	9849c27b70b919bc5636745fa2ccddbaf4163ed6 {'ccn': 243, 'avg_ccn': 1.1796116504854368, 'avg_loc': 6.990291262135922, 'avg_tokens': 53.907766990291265, 'num_funs': 206, 'loc': 1591, 'tokens': 12200, 'ext': 'py', 'blanks': 370, 'comments': 105, 'file_path': 'tests/test_requests.py'}
+	38dd089c5f7a35bf6eed72f4e63820aed9eb7ca3 {'ccn': 245, 'avg_ccn': 1.1778846153846154, 'avg_loc': 6.990384615384615, 'avg_tokens': 54.1875, 'num_funs': 208, 'loc': 1605, 'tokens': 12368, 'ext': 'py', 'blanks': 372, 'comments': 105, 'file_path': 'tests/test_requests.py'}
+	522d37c9597882db3fbd5fb08804b27b5fd8be4d {'ccn': 245, 'avg_ccn': 1.1778846153846154, 'avg_loc': 6.985576923076923, 'avg_tokens': 54.13942307692308, 'num_funs': 208, 'loc': 1604, 'tokens': 12358, 'ext': 'py', 'blanks': 372, 'comments': 105, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3673
+requests/auth.py
+	e514920e190bbda3ddd35242bf566e7d752725a1 {'ccn': 44, 'avg_ccn': 2.588235294117647, 'avg_loc': 8.941176470588236, 'avg_tokens': 68.23529411764706, 'num_funs': 17, 'loc': 177, 'tokens': 1251, 'ext': 'py', 'blanks': 56, 'comments': 36, 'file_path': 'requests/auth.py'}
+	329a5cfdd4500fb1ce405a3242ef95f9197d24ba {'ccn': 44, 'avg_ccn': 2.588235294117647, 'avg_loc': 8.941176470588236, 'avg_tokens': 68.05882352941177, 'num_funs': 17, 'loc': 177, 'tokens': 1248, 'ext': 'py', 'blanks': 56, 'comments': 36, 'file_path': 'requests/auth.py'}
+	2185fac6261bd4a3e625f7bdb267696d7ba1bf56 {'ccn': 44, 'avg_ccn': 2.588235294117647, 'avg_loc': 8.941176470588236, 'avg_tokens': 68.05882352941177, 'num_funs': 17, 'loc': 177, 'tokens': 1246, 'ext': 'py', 'blanks': 56, 'comments': 36, 'file_path': 'requests/auth.py'}
+tests/test_requests.py
+	37bde4b63869ad4635cbb9953a7d0c229f30daa1 {'ccn': 250, 'avg_ccn': 1.1737089201877935, 'avg_loc': 7.004694835680751, 'avg_tokens': 54.47417840375587, 'num_funs': 213, 'loc': 1648, 'tokens': 12739, 'ext': 'py', 'blanks': 383, 'comments': 111, 'file_path': 'tests/test_requests.py'}
+	bf3e960e159ad19af557b26abdf633b7b8117cad {'ccn': 250, 'avg_ccn': 1.1737089201877935, 'avg_loc': 7.004694835680751, 'avg_tokens': 54.47417840375587, 'num_funs': 213, 'loc': 1648, 'tokens': 12741, 'ext': 'py', 'blanks': 383, 'comments': 111, 'file_path': 'tests/test_requests.py'}
+	7c4821231fcd8af8ef1cd835713933ef3ae58032 {'ccn': 250, 'avg_ccn': 1.1737089201877935, 'avg_loc': 7.018779342723005, 'avg_tokens': 54.586854460093896, 'num_funs': 213, 'loc': 1651, 'tokens': 12769, 'ext': 'py', 'blanks': 385, 'comments': 111, 'file_path': 'tests/test_requests.py'}
+	4f0efdb77e33b340ae9e478c456634ef628e665a {'ccn': 250, 'avg_ccn': 1.1737089201877935, 'avg_loc': 7.018779342723005, 'avg_tokens': 54.63849765258216, 'num_funs': 213, 'loc': 1656, 'tokens': 12816, 'ext': 'py', 'blanks': 385, 'comments': 111, 'file_path': 'tests/test_requests.py'}
+	55dea233ce52457ff35654b9a01f188e0e695304 {'ccn': 250, 'avg_ccn': 1.1737089201877935, 'avg_loc': 7.018779342723005, 'avg_tokens': 54.647887323943664, 'num_funs': 213, 'loc': 1656, 'tokens': 12818, 'ext': 'py', 'blanks': 385, 'comments': 111, 'file_path': 'tests/test_requests.py'}
+	e15280e49d9ee15bd7b5f3a00862d5f0a720b8e1 {'ccn': 252, 'avg_ccn': 1.1830985915492958, 'avg_loc': 7.056338028169014, 'avg_tokens': 54.863849765258216, 'num_funs': 213, 'loc': 1664, 'tokens': 12866, 'ext': 'py', 'blanks': 388, 'comments': 111, 'file_path': 'tests/test_requests.py'}
+	3b84be3c99edf49c4770882b83726b98751ec1c3 {'ccn': 250, 'avg_ccn': 1.1737089201877935, 'avg_loc': 6.981220657276995, 'avg_tokens': 54.375586854460096, 'num_funs': 213, 'loc': 1648, 'tokens': 12760, 'ext': 'py', 'blanks': 382, 'comments': 111, 'file_path': 'tests/test_requests.py'}
+	005f93fd0f2ead34af4c42d245b0c2ed2f91ba09 {'ccn': 251, 'avg_ccn': 1.1728971962616823, 'avg_loc': 7.0, 'avg_tokens': 54.504672897196265, 'num_funs': 214, 'loc': 1659, 'tokens': 12843, 'ext': 'py', 'blanks': 386, 'comments': 111, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3697
+requests/models.py
+	248d3e9f0f8ea1657d9329f8b188a81ca2a65ecc {'ccn': 185, 'avg_ccn': 4.625, 'avg_loc': 11.0, 'avg_tokens': 77.025, 'num_funs': 40, 'loc': 542, 'tokens': 3408, 'ext': 'py', 'blanks': 176, 'comments': 229, 'file_path': 'requests/models.py'}
+	0d7de50dbd7eacb0242506454363c71925d7241a {'ccn': 185, 'avg_ccn': 4.625, 'avg_loc': 11.0, 'avg_tokens': 77.025, 'num_funs': 40, 'loc': 542, 'tokens': 3408, 'ext': 'py', 'blanks': 176, 'comments': 229, 'file_path': 'requests/models.py'}
+tests/test_requests.py
+	248d3e9f0f8ea1657d9329f8b188a81ca2a65ecc {'ccn': 251, 'avg_ccn': 1.1728971962616823, 'avg_loc': 6.985981308411215, 'avg_tokens': 54.33644859813084, 'num_funs': 214, 'loc': 1646, 'tokens': 12731, 'ext': 'py', 'blanks': 384, 'comments': 112, 'file_path': 'tests/test_requests.py'}
+	0d7de50dbd7eacb0242506454363c71925d7241a {'ccn': 251, 'avg_ccn': 1.1728971962616823, 'avg_loc': 6.985981308411215, 'avg_tokens': 54.33644859813084, 'num_funs': 214, 'loc': 1646, 'tokens': 12731, 'ext': 'py', 'blanks': 384, 'comments': 112, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3757
+requests/sessions.py
+	084fb05d52c9e244b395fc3f41888b1b1f00be65 {'ccn': 87, 'avg_ccn': 3.3461538461538463, 'avg_loc': 9.192307692307692, 'avg_tokens': 70.1923076923077, 'num_funs': 26, 'loc': 366, 'tokens': 2475, 'ext': 'py', 'blanks': 166, 'comments': 253, 'file_path': 'requests/sessions.py'}
+	eff932627c23dfda474e1027b441d9cd3e1ae18b {'ccn': 87, 'avg_ccn': 3.3461538461538463, 'avg_loc': 9.23076923076923, 'avg_tokens': 70.42307692307692, 'num_funs': 26, 'loc': 365, 'tokens': 2473, 'ext': 'py', 'blanks': 167, 'comments': 255, 'file_path': 'requests/sessions.py'}
+tests/test_requests.py
+	084fb05d52c9e244b395fc3f41888b1b1f00be65 {'ccn': 281, 'avg_ccn': 1.1856540084388185, 'avg_loc': 7.084388185654008, 'avg_tokens': 56.232067510548525, 'num_funs': 237, 'loc': 1951, 'tokens': 14933, 'ext': 'py', 'blanks': 436, 'comments': 206, 'file_path': 'tests/test_requests.py'}
+	354ac7ecaddc3158e8594ab8d8dc6991ff275c47 {'ccn': 274, 'avg_ccn': 1.191304347826087, 'avg_loc': 7.1, 'avg_tokens': 56.10434782608696, 'num_funs': 230, 'loc': 1905, 'tokens': 14503, 'ext': 'py', 'blanks': 429, 'comments': 206, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3853
+requests/status_codes.py
+	593734b77092439b533e8e0599be6d204867b751 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 78, 'tokens': 617, 'ext': 'py', 'blanks': 8, 'comments': 5, 'file_path': 'requests/status_codes.py'}
+	b00d8bf474cf5e2850ba83a11b7e372dad4bf119 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 78, 'tokens': 615, 'ext': 'py', 'blanks': 8, 'comments': 5, 'file_path': 'requests/status_codes.py'}
+	571d2c2cd7495e6fb81f656abdd2b3d3f593f1f0 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 78, 'tokens': 613, 'ext': 'py', 'blanks': 8, 'comments': 5, 'file_path': 'requests/status_codes.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3897
+requests/exceptions.py
+	a52fe6586c0bcadb1610b93d39c454e0ff83cd0f {'ccn': 4, 'avg_ccn': 4.0, 'avg_loc': 8.0, 'avg_tokens': 83.0, 'num_funs': 1, 'loc': 75, 'tokens': 286, 'ext': 'py', 'blanks': 54, 'comments': 40, 'file_path': 'requests/exceptions.py'}
+	5a65a0dab1310fe5410c74bfca2f0c1d9262084d {'ccn': 4, 'avg_ccn': 4.0, 'avg_loc': 8.0, 'avg_tokens': 83.0, 'num_funs': 1, 'loc': 73, 'tokens': 279, 'ext': 'py', 'blanks': 52, 'comments': 39, 'file_path': 'requests/exceptions.py'}
+requests/models.py
+	a52fe6586c0bcadb1610b93d39c454e0ff83cd0f {'ccn': 194, 'avg_ccn': 4.85, 'avg_loc': 11.475, 'avg_tokens': 79.45, 'num_funs': 40, 'loc': 567, 'tokens': 3513, 'ext': 'py', 'blanks': 181, 'comments': 240, 'file_path': 'requests/models.py'}
+	5a65a0dab1310fe5410c74bfca2f0c1d9262084d {'ccn': 194, 'avg_ccn': 4.85, 'avg_loc': 11.5, 'avg_tokens': 79.475, 'num_funs': 40, 'loc': 568, 'tokens': 3516, 'ext': 'py', 'blanks': 181, 'comments': 242, 'file_path': 'requests/models.py'}
+tests/test_requests.py
+	a52fe6586c0bcadb1610b93d39c454e0ff83cd0f {'ccn': 285, 'avg_ccn': 1.2076271186440677, 'avg_loc': 7.122881355932203, 'avg_tokens': 56.30508474576271, 'num_funs': 236, 'loc': 1952, 'tokens': 14891, 'ext': 'py', 'blanks': 437, 'comments': 223, 'file_path': 'tests/test_requests.py'}
+	5a65a0dab1310fe5410c74bfca2f0c1d9262084d {'ccn': 285, 'avg_ccn': 1.2076271186440677, 'avg_loc': 7.122881355932203, 'avg_tokens': 56.30508474576271, 'num_funs': 236, 'loc': 1952, 'tokens': 14889, 'ext': 'py', 'blanks': 437, 'comments': 223, 'file_path': 'tests/test_requests.py'}
+	64b66b6409928605236cf989678643f65daa0014 {'ccn': 287, 'avg_ccn': 1.2058823529411764, 'avg_loc': 7.121848739495798, 'avg_tokens': 56.2563025210084, 'num_funs': 238, 'loc': 1973, 'tokens': 15056, 'ext': 'py', 'blanks': 441, 'comments': 228, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3927
+requests/adapters.py
+	7d8b87c37f3a5fb993fd83eda6888ac217cd108e {'ccn': 62, 'avg_ccn': 3.6470588235294117, 'avg_loc': 12.764705882352942, 'avg_tokens': 87.6470588235294, 'num_funs': 17, 'loc': 299, 'tokens': 1853, 'ext': 'py', 'blanks': 97, 'comments': 147, 'file_path': 'requests/adapters.py'}
+	42ec8b08f2446d0d69cb0c71816f6105dddc814d {'ccn': 62, 'avg_ccn': 3.6470588235294117, 'avg_loc': 12.823529411764707, 'avg_tokens': 88.11764705882354, 'num_funs': 17, 'loc': 300, 'tokens': 1861, 'ext': 'py', 'blanks': 97, 'comments': 147, 'file_path': 'requests/adapters.py'}
+	4207867aaf917ed8d223064cc5c163dfe027dc00 {'ccn': 62, 'avg_ccn': 3.6470588235294117, 'avg_loc': 12.823529411764707, 'avg_tokens': 88.11764705882354, 'num_funs': 17, 'loc': 300, 'tokens': 1861, 'ext': 'py', 'blanks': 97, 'comments': 152, 'file_path': 'requests/adapters.py'}
+tests/test_requests.py
+	7d8b87c37f3a5fb993fd83eda6888ac217cd108e {'ccn': 267, 'avg_ccn': 1.1814159292035398, 'avg_loc': 6.995575221238938, 'avg_tokens': 54.66814159292036, 'num_funs': 226, 'loc': 1807, 'tokens': 13715, 'ext': 'py', 'blanks': 404, 'comments': 181, 'file_path': 'tests/test_requests.py'}
+	4207867aaf917ed8d223064cc5c163dfe027dc00 {'ccn': 267, 'avg_ccn': 1.1814159292035398, 'avg_loc': 6.995575221238938, 'avg_tokens': 54.71238938053097, 'num_funs': 226, 'loc': 1807, 'tokens': 13725, 'ext': 'py', 'blanks': 404, 'comments': 181, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3943
+requests/adapters.py
+	a180db963f08ab1a3b1fd036b3cd5f6bae791a5a {'ccn': 65, 'avg_ccn': 3.823529411764706, 'avg_loc': 13.117647058823529, 'avg_tokens': 89.76470588235294, 'num_funs': 17, 'loc': 305, 'tokens': 1889, 'ext': 'py', 'blanks': 98, 'comments': 152, 'file_path': 'requests/adapters.py'}
+	fe58c6fdd6c476657a2f390d24a6ca9fb7fa4c9b {'ccn': 65, 'avg_ccn': 3.823529411764706, 'avg_loc': 13.117647058823529, 'avg_tokens': 89.76470588235294, 'num_funs': 17, 'loc': 305, 'tokens': 1889, 'ext': 'py', 'blanks': 98, 'comments': 152, 'file_path': 'requests/adapters.py'}
+	1e7ae063ce1b2368023baacd90dcb718611bd37d {'ccn': 65, 'avg_ccn': 3.823529411764706, 'avg_loc': 13.117647058823529, 'avg_tokens': 89.76470588235294, 'num_funs': 17, 'loc': 305, 'tokens': 1889, 'ext': 'py', 'blanks': 97, 'comments': 152, 'file_path': 'requests/adapters.py'}
+	4c13678587f1fa7b23ad5c765ddf3ea056d18eb1 {'ccn': 63, 'avg_ccn': 3.7058823529411766, 'avg_loc': 12.941176470588236, 'avg_tokens': 88.6470588235294, 'num_funs': 17, 'loc': 302, 'tokens': 1870, 'ext': 'py', 'blanks': 97, 'comments': 152, 'file_path': 'requests/adapters.py'}
+tests/test_requests.py
+	93cb1ca763a6b1627e216a1f749fe1131f42a377 {'ccn': 274, 'avg_ccn': 1.191304347826087, 'avg_loc': 7.004347826086956, 'avg_tokens': 54.69130434782609, 'num_funs': 230, 'loc': 1837, 'tokens': 13943, 'ext': 'py', 'blanks': 409, 'comments': 188, 'file_path': 'tests/test_requests.py'}
+	28768b945c9caaf021e95c3bd82ffc8ea15d1fde {'ccn': 267, 'avg_ccn': 1.1814159292035398, 'avg_loc': 6.995575221238938, 'avg_tokens': 54.65929203539823, 'num_funs': 226, 'loc': 1828, 'tokens': 13847, 'ext': 'py', 'blanks': 404, 'comments': 181, 'file_path': 'tests/test_requests.py'}
+	1be6a17edc0580ca9a21bd820d391a5a7b28a96f {'ccn': 267, 'avg_ccn': 1.1814159292035398, 'avg_loc': 6.995575221238938, 'avg_tokens': 54.65929203539823, 'num_funs': 226, 'loc': 1828, 'tokens': 13849, 'ext': 'py', 'blanks': 404, 'comments': 181, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3979
+requests/utils.py
+	724fd44b975c5a078a186e79417656772a3f8ecc {'ccn': 151, 'avg_ccn': 4.314285714285714, 'avg_loc': 11.285714285714286, 'avg_tokens': 70.08571428571429, 'num_funs': 35, 'loc': 434, 'tokens': 2641, 'ext': 'py', 'blanks': 195, 'comments': 240, 'file_path': 'requests/utils.py'}
+	1c38e1f5f64c5da8a39a890d9205dd49297a9914 {'ccn': 162, 'avg_ccn': 4.378378378378378, 'avg_loc': 11.54054054054054, 'avg_tokens': 70.91891891891892, 'num_funs': 37, 'loc': 469, 'tokens': 2831, 'ext': 'py', 'blanks': 201, 'comments': 249, 'file_path': 'requests/utils.py'}
+tests/test_utils.py
+	4f34446b363d3dec84eedb410df79e5e3773cde9 {'ccn': 67, 'avg_ccn': 1.1355932203389831, 'avg_loc': 3.169491525423729, 'avg_tokens': 21.35593220338983, 'num_funs': 59, 'loc': 511, 'tokens': 2867, 'ext': 'py', 'blanks': 105, 'comments': 40, 'file_path': 'tests/test_utils.py'}
+	1c38e1f5f64c5da8a39a890d9205dd49297a9914 {'ccn': 66, 'avg_ccn': 1.11864406779661, 'avg_loc': 2.8983050847457625, 'avg_tokens': 19.71186440677966, 'num_funs': 59, 'loc': 516, 'tokens': 2909, 'ext': 'py', 'blanks': 105, 'comments': 40, 'file_path': 'tests/test_utils.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 4059
+requests/__version__.py
+	3e32356716572e59c9f10c6c2622bedf5f48b07e {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 7, 'tokens': 22, 'ext': 'py', 'blanks': 2, 'comments': 4, 'file_path': 'requests/__version__.py'}
+	9fbfd22f6b6bf0075619e2181e66d557511b14d8 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 10, 'tokens': 31, 'ext': 'py', 'blanks': 2, 'comments': 4, 'file_path': 'requests/__version__.py'}
+setup.py
+	3e32356716572e59c9f10c6c2622bedf5f48b07e {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 3.6666666666666665, 'avg_tokens': 20.666666666666668, 'num_funs': 3, 'loc': 85, 'tokens': 414, 'ext': 'py', 'blanks': 16, 'comments': 1, 'file_path': 'setup.py'}
+	e634ab73b27f111a1e280f6553a63620293340fa {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 3.6666666666666665, 'avg_tokens': 20.666666666666668, 'num_funs': 3, 'loc': 85, 'tokens': 414, 'ext': 'py', 'blanks': 16, 'comments': 1, 'file_path': 'setup.py'}
+	7abfd92aeaeba82e1c527460b539667844fbb557 {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 3.6666666666666665, 'avg_tokens': 20.666666666666668, 'num_funs': 3, 'loc': 85, 'tokens': 432, 'ext': 'py', 'blanks': 16, 'comments': 1, 'file_path': 'setup.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 4066
+requests/models.py
+	ce64cce14ef5914216fe52a40496f47b4631d13c {'ccn': 194, 'avg_ccn': 4.511627906976744, 'avg_loc': 10.813953488372093, 'avg_tokens': 74.0, 'num_funs': 43, 'loc': 568, 'tokens': 3509, 'ext': 'py', 'blanks': 182, 'comments': 250, 'file_path': 'requests/models.py'}
+	dfd667df96f9d8102100fdf85292e6dbf4b4e22e {'ccn': 194, 'avg_ccn': 4.511627906976744, 'avg_loc': 10.813953488372093, 'avg_tokens': 74.02325581395348, 'num_funs': 43, 'loc': 568, 'tokens': 3510, 'ext': 'py', 'blanks': 183, 'comments': 251, 'file_path': 'requests/models.py'}
+	c3367d1854208c37855622659ae0a621d9352af2 {'ccn': 192, 'avg_ccn': 4.571428571428571, 'avg_loc': 11.0, 'avg_tokens': 75.30952380952381, 'num_funs': 42, 'loc': 566, 'tokens': 3491, 'ext': 'py', 'blanks': 182, 'comments': 250, 'file_path': 'requests/models.py'}
+requests/sessions.py
+	ce64cce14ef5914216fe52a40496f47b4631d13c {'ccn': 92, 'avg_ccn': 3.4074074074074074, 'avg_loc': 11.074074074074074, 'avg_tokens': 72.66666666666667, 'num_funs': 27, 'loc': 426, 'tokens': 2606, 'ext': 'py', 'blanks': 164, 'comments': 238, 'file_path': 'requests/sessions.py'}
+	f41560c5d46e8cbb8d8f741b2f7d2da29a9d6b94 {'ccn': 93, 'avg_ccn': 3.4444444444444446, 'avg_loc': 11.185185185185185, 'avg_tokens': 72.88888888888889, 'num_funs': 27, 'loc': 429, 'tokens': 2612, 'ext': 'py', 'blanks': 164, 'comments': 238, 'file_path': 'requests/sessions.py'}
+	dfd667df96f9d8102100fdf85292e6dbf4b4e22e {'ccn': 93, 'avg_ccn': 3.4444444444444446, 'avg_loc': 11.185185185185185, 'avg_tokens': 72.88888888888889, 'num_funs': 27, 'loc': 429, 'tokens': 2612, 'ext': 'py', 'blanks': 164, 'comments': 237, 'file_path': 'requests/sessions.py'}
+	a7239aab84b59534fb5e6eb7b83a97dcf913f8de {'ccn': 93, 'avg_ccn': 3.4444444444444446, 'avg_loc': 11.185185185185185, 'avg_tokens': 72.88888888888889, 'num_funs': 27, 'loc': 429, 'tokens': 2611, 'ext': 'py', 'blanks': 164, 'comments': 237, 'file_path': 'requests/sessions.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 4067
+setup.py
+	1ea27b35649571abb796f7cffbab83938d882a8d {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 3.6666666666666665, 'avg_tokens': 20.666666666666668, 'num_funs': 3, 'loc': 77, 'tokens': 420, 'ext': 'py', 'blanks': 17, 'comments': 1, 'file_path': 'setup.py'}
+	628633143d5b8590b1dbdf5371fe81fb8250dffd {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 3.6666666666666665, 'avg_tokens': 20.666666666666668, 'num_funs': 3, 'loc': 78, 'tokens': 422, 'ext': 'py', 'blanks': 17, 'comments': 1, 'file_path': 'setup.py'}
+tests/test_requests.py
+	0bb200515c0fa9d5e12d21ea563ed5e134912bec {'ccn': 268, 'avg_ccn': 1.1806167400881058, 'avg_loc': 6.977973568281938, 'avg_tokens': 54.5374449339207, 'num_funs': 227, 'loc': 1831, 'tokens': 13873, 'ext': 'py', 'blanks': 405, 'comments': 181, 'file_path': 'tests/test_requests.py'}
+	af52bf795e6d26a3819480938ffdeac466d754e8 {'ccn': 267, 'avg_ccn': 1.1814159292035398, 'avg_loc': 6.982300884955753, 'avg_tokens': 54.60176991150443, 'num_funs': 226, 'loc': 1825, 'tokens': 13832, 'ext': 'py', 'blanks': 402, 'comments': 181, 'file_path': 'tests/test_requests.py'}
+tests/__init__.py
+	818daff12a8e2bfdabe620b08e0b252bd93d2c6a {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 5, 'tokens': 21, 'ext': 'py', 'blanks': 4, 'comments': 5, 'file_path': 'tests/__init__.py'}
+	47f170bb3502e1c48774d803cbff4add6a177dd7 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 5, 'tokens': 19, 'ext': 'py', 'blanks': 4, 'comments': 5, 'file_path': 'tests/__init__.py'}
+requests/models.py
+	6c41633cfd5634be42c9026f4c206fc8c2bf5d84 {'ccn': 192, 'avg_ccn': 4.571428571428571, 'avg_loc': 11.0, 'avg_tokens': 75.30952380952381, 'num_funs': 42, 'loc': 566, 'tokens': 3479, 'ext': 'py', 'blanks': 183, 'comments': 250, 'file_path': 'requests/models.py'}
+	6d3d5e59c9e1a37244ddce0e3d8b30a14d2a9974 {'ccn': 191, 'avg_ccn': 4.5476190476190474, 'avg_loc': 10.904761904761905, 'avg_tokens': 74.88095238095238, 'num_funs': 42, 'loc': 562, 'tokens': 3461, 'ext': 'py', 'blanks': 183, 'comments': 248, 'file_path': 'requests/models.py'}
+requests/adapters.py
+	168109f13c135d719a0be21ce220534e4b657aed {'ccn': 63, 'avg_ccn': 3.7058823529411766, 'avg_loc': 13.0, 'avg_tokens': 88.94117647058823, 'num_funs': 17, 'loc': 303, 'tokens': 1831, 'ext': 'py', 'blanks': 98, 'comments': 152, 'file_path': 'requests/adapters.py'}
+	c49ce5ae0b859a0a7702da490608e72c73f338e0 {'ccn': 63, 'avg_ccn': 3.7058823529411766, 'avg_loc': 13.0, 'avg_tokens': 88.94117647058823, 'num_funs': 17, 'loc': 303, 'tokens': 1828, 'ext': 'py', 'blanks': 98, 'comments': 152, 'file_path': 'requests/adapters.py'}
+requests/__init__.py
+	47f170bb3502e1c48774d803cbff4add6a177dd7 {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 8.0, 'num_funs': 1, 'loc': 64, 'tokens': 183, 'ext': 'py', 'blanks': 16, 'comments': 37, 'file_path': 'requests/__init__.py'}
+	2b34880e2fa3fe6006bf64517e036f5ed74478d6 {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 8.0, 'num_funs': 1, 'loc': 82, 'tokens': 307, 'ext': 'py', 'blanks': 19, 'comments': 41, 'file_path': 'requests/__init__.py'}
+requests/certs.py
+	0d7de6430eef0cf09f9662746daf0c28d83f144e {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 15, 'tokens': 20, 'ext': 'py', 'blanks': 5, 'comments': 10, 'file_path': 'requests/certs.py'}
+	1f6de03baf534b21746b632a4d33889118fb73bb {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 14, 'tokens': 16, 'ext': 'py', 'blanks': 4, 'comments': 10, 'file_path': 'requests/certs.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 4173
+tests/test_requests.py
+	bacd043256a271c27d6f0d8d01a8b81c95631680 {'ccn': 308, 'avg_ccn': 1.2419354838709677, 'avg_loc': 7.19758064516129, 'avg_tokens': 57.20564516129032, 'num_funs': 248, 'loc': 2279, 'tokens': 16930, 'ext': 'py', 'blanks': 465, 'comments': 266, 'file_path': 'tests/test_requests.py'}
+	66f5aebd3521810cfa1fa96d8d894dafc065f247 {'ccn': 308, 'avg_ccn': 1.2419354838709677, 'avg_loc': 7.205645161290323, 'avg_tokens': 57.225806451612904, 'num_funs': 248, 'loc': 2281, 'tokens': 16935, 'ext': 'py', 'blanks': 465, 'comments': 266, 'file_path': 'tests/test_requests.py'}
+requests/adapters.py
+	14a0bf291200e29d4f57a4571a746073d8275940 {'ccn': 63, 'avg_ccn': 3.7058823529411766, 'avg_loc': 13.705882352941176, 'avg_tokens': 91.88235294117646, 'num_funs': 17, 'loc': 316, 'tokens': 1880, 'ext': 'py', 'blanks': 98, 'comments': 155, 'file_path': 'requests/adapters.py'}
+	f58d473d4e5b2b5463b34b9c2254a7ebf6a49007 {'ccn': 63, 'avg_ccn': 3.7058823529411766, 'avg_loc': 13.705882352941176, 'avg_tokens': 91.76470588235294, 'num_funs': 17, 'loc': 315, 'tokens': 1876, 'ext': 'py', 'blanks': 99, 'comments': 153, 'file_path': 'requests/adapters.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 4240
+requests/utils.py
+	cee8fae65efc1d4557d1b2291963a729444a5f42 {'ccn': 162, 'avg_ccn': 4.378378378378378, 'avg_loc': 11.54054054054054, 'avg_tokens': 71.02702702702703, 'num_funs': 37, 'loc': 468, 'tokens': 2836, 'ext': 'py', 'blanks': 203, 'comments': 249, 'file_path': 'requests/utils.py'}
+	ba21d149768909ffb63a5d5f9bd35f1f85a3371a {'ccn': 162, 'avg_ccn': 4.378378378378378, 'avg_loc': 11.54054054054054, 'avg_tokens': 71.02702702702703, 'num_funs': 37, 'loc': 468, 'tokens': 2836, 'ext': 'py', 'blanks': 203, 'comments': 249, 'file_path': 'requests/utils.py'}
+	308343508b9b2e88e720477f0a31e752d246f3dd {'ccn': 162, 'avg_ccn': 4.378378378378378, 'avg_loc': 11.54054054054054, 'avg_tokens': 71.02702702702703, 'num_funs': 37, 'loc': 468, 'tokens': 2836, 'ext': 'py', 'blanks': 203, 'comments': 249, 'file_path': 'requests/utils.py'}
+	e36083b89cf729a7dc12a3f505106141f4e58e02 {'ccn': 162, 'avg_ccn': 4.378378378378378, 'avg_loc': 11.54054054054054, 'avg_tokens': 71.02702702702703, 'num_funs': 37, 'loc': 468, 'tokens': 2836, 'ext': 'py', 'blanks': 203, 'comments': 249, 'file_path': 'requests/utils.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 4349
+requests/sessions.py
+	d3f14af44d9460a17c79de19ebdb65b3eec2e534 {'ccn': 86, 'avg_ccn': 3.185185185185185, 'avg_loc': 9.37037037037037, 'avg_tokens': 64.70370370370371, 'num_funs': 27, 'loc': 400, 'tokens': 2472, 'ext': 'py', 'blanks': 160, 'comments': 240, 'file_path': 'requests/sessions.py'}
+	2afc1cb37bb6c34e054db69757234d68a58b5cae {'ccn': 86, 'avg_ccn': 3.185185185185185, 'avg_loc': 9.37037037037037, 'avg_tokens': 64.70370370370371, 'num_funs': 27, 'loc': 400, 'tokens': 2470, 'ext': 'py', 'blanks': 160, 'comments': 240, 'file_path': 'requests/sessions.py'}
+tests/test_requests.py
+	af88af64e6c5bc026247f18e2e6de20605f51e7f {'ccn': 270, 'avg_ccn': 1.1790393013100438, 'avg_loc': 6.978165938864628, 'avg_tokens': 54.60698689956332, 'num_funs': 229, 'loc': 1845, 'tokens': 14002, 'ext': 'py', 'blanks': 408, 'comments': 187, 'file_path': 'tests/test_requests.py'}
+	e11989e8ec5885ea36b9be25641fbd4ce9f0c4dd {'ccn': 271, 'avg_ccn': 1.1782608695652175, 'avg_loc': 7.008695652173913, 'avg_tokens': 54.77391304347826, 'num_funs': 230, 'loc': 1859, 'tokens': 14096, 'ext': 'py', 'blanks': 412, 'comments': 187, 'file_path': 'tests/test_requests.py'}
+	d165b18b6e0c1aaabd8f652f88308008769f6625 {'ccn': 272, 'avg_ccn': 1.1774891774891776, 'avg_loc': 7.0, 'avg_tokens': 54.666666666666664, 'num_funs': 231, 'loc': 1864, 'tokens': 14127, 'ext': 'py', 'blanks': 415, 'comments': 187, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 4377
+requests/utils.py
+	b2fb521fdd4f02988c115904bbf9140f8d057232 {'ccn': 170, 'avg_ccn': 4.473684210526316, 'avg_loc': 11.763157894736842, 'avg_tokens': 73.57894736842105, 'num_funs': 38, 'loc': 490, 'tokens': 3007, 'ext': 'py', 'blanks': 211, 'comments': 258, 'file_path': 'requests/utils.py'}
+	d3ab04d4acb5a17d4cd9389050284cdc8f68fd3c {'ccn': 170, 'avg_ccn': 4.473684210526316, 'avg_loc': 11.763157894736842, 'avg_tokens': 73.5, 'num_funs': 38, 'loc': 490, 'tokens': 3004, 'ext': 'py', 'blanks': 211, 'comments': 259, 'file_path': 'requests/utils.py'}
+tests/test_utils.py
+	d3ab04d4acb5a17d4cd9389050284cdc8f68fd3c {'ccn': 74, 'avg_ccn': 1.15625, 'avg_loc': 3.109375, 'avg_tokens': 21.59375, 'num_funs': 64, 'loc': 565, 'tokens': 3200, 'ext': 'py', 'blanks': 118, 'comments': 43, 'file_path': 'tests/test_utils.py'}
+	39cbda0c4c322bd5f082d93c33eb62996d8b6c94 {'ccn': 70, 'avg_ccn': 1.1111111111111112, 'avg_loc': 3.0793650793650795, 'avg_tokens': 21.58730158730159, 'num_funs': 63, 'loc': 563, 'tokens': 3198, 'ext': 'py', 'blanks': 117, 'comments': 44, 'file_path': 'tests/test_utils.py'}
+	82f1dbb9ad8161b74bf538ff3cea3c3da74502df {'ccn': 70, 'avg_ccn': 1.1111111111111112, 'avg_loc': 3.0793650793650795, 'avg_tokens': 21.58730158730159, 'num_funs': 63, 'loc': 563, 'tokens': 3200, 'ext': 'py', 'blanks': 117, 'comments': 44, 'file_path': 'tests/test_utils.py'}
+requests/adapters.py
+	4d6a91b0f13c5d45f2c2f16e1b5fdebadb2efe2c {'ccn': 65, 'avg_ccn': 3.823529411764706, 'avg_loc': 13.352941176470589, 'avg_tokens': 91.29411764705883, 'num_funs': 17, 'loc': 310, 'tokens': 1878, 'ext': 'py', 'blanks': 99, 'comments': 154, 'file_path': 'requests/adapters.py'}
+	3ae8ab8bed447c66c913e10f8c380521e43cd4ed {'ccn': 65, 'avg_ccn': 3.823529411764706, 'avg_loc': 13.352941176470589, 'avg_tokens': 91.29411764705883, 'num_funs': 17, 'loc': 310, 'tokens': 1878, 'ext': 'py', 'blanks': 99, 'comments': 154, 'file_path': 'requests/adapters.py'}
+requests/exceptions.py
+	4d6a91b0f13c5d45f2c2f16e1b5fdebadb2efe2c {'ccn': 4, 'avg_ccn': 4.0, 'avg_loc': 8.0, 'avg_tokens': 83.0, 'num_funs': 1, 'loc': 74, 'tokens': 273, 'ext': 'py', 'blanks': 52, 'comments': 39, 'file_path': 'requests/exceptions.py'}
+	3ae8ab8bed447c66c913e10f8c380521e43cd4ed {'ccn': 4, 'avg_ccn': 4.0, 'avg_loc': 8.0, 'avg_tokens': 83.0, 'num_funs': 1, 'loc': 74, 'tokens': 273, 'ext': 'py', 'blanks': 52, 'comments': 39, 'file_path': 'requests/exceptions.py'}
+tests/test_requests.py
+	4d6a91b0f13c5d45f2c2f16e1b5fdebadb2efe2c {'ccn': 273, 'avg_ccn': 1.1767241379310345, 'avg_loc': 7.008620689655173, 'avg_tokens': 54.883620689655174, 'num_funs': 232, 'loc': 1873, 'tokens': 14235, 'ext': 'py', 'blanks': 419, 'comments': 187, 'file_path': 'tests/test_requests.py'}
+	3ae8ab8bed447c66c913e10f8c380521e43cd4ed {'ccn': 273, 'avg_ccn': 1.1767241379310345, 'avg_loc': 7.008620689655173, 'avg_tokens': 54.883620689655174, 'num_funs': 232, 'loc': 1873, 'tokens': 14235, 'ext': 'py', 'blanks': 419, 'comments': 187, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 4442
+requests/utils.py
+	cef08304197b8b8747015d94a1700716202355ee {'ccn': 173, 'avg_ccn': 4.435897435897436, 'avg_loc': 11.820512820512821, 'avg_tokens': 73.33333333333333, 'num_funs': 39, 'loc': 502, 'tokens': 3068, 'ext': 'py', 'blanks': 214, 'comments': 261, 'file_path': 'requests/utils.py'}
+	1988d9cf72c3a3a6da87968e04ad57fb32df01cb {'ccn': 178, 'avg_ccn': 4.564102564102564, 'avg_loc': 12.025641025641026, 'avg_tokens': 75.2051282051282, 'num_funs': 39, 'loc': 511, 'tokens': 3143, 'ext': 'py', 'blanks': 216, 'comments': 266, 'file_path': 'requests/utils.py'}
+	071796d83f1bfb79793170945fdb4f623a1f344a {'ccn': 177, 'avg_ccn': 4.538461538461538, 'avg_loc': 11.871794871794872, 'avg_tokens': 74.66666666666667, 'num_funs': 39, 'loc': 505, 'tokens': 3122, 'ext': 'py', 'blanks': 217, 'comments': 264, 'file_path': 'requests/utils.py'}
+	80a790443e693d982296db93ceebc9135b6efb9c {'ccn': 177, 'avg_ccn': 4.538461538461538, 'avg_loc': 11.871794871794872, 'avg_tokens': 74.66666666666667, 'num_funs': 39, 'loc': 505, 'tokens': 3122, 'ext': 'py', 'blanks': 217, 'comments': 264, 'file_path': 'requests/utils.py'}
+	cb0914407b6bb8153c8be5d52bc497e1d10b04ac {'ccn': 175, 'avg_ccn': 4.487179487179487, 'avg_loc': 11.974358974358974, 'avg_tokens': 75.02564102564102, 'num_funs': 39, 'loc': 509, 'tokens': 3136, 'ext': 'py', 'blanks': 217, 'comments': 264, 'file_path': 'requests/utils.py'}
+	7deee699ada6e5ec0d41c7561d9b5fa4cd80e535 {'ccn': 175, 'avg_ccn': 4.487179487179487, 'avg_loc': 11.923076923076923, 'avg_tokens': 74.58974358974359, 'num_funs': 39, 'loc': 507, 'tokens': 3119, 'ext': 'py', 'blanks': 217, 'comments': 264, 'file_path': 'requests/utils.py'}
+tests/test_utils.py
+	1988d9cf72c3a3a6da87968e04ad57fb32df01cb {'ccn': 71, 'avg_ccn': 1.109375, 'avg_loc': 3.0625, 'avg_tokens': 21.46875, 'num_funs': 64, 'loc': 596, 'tokens': 3312, 'ext': 'py', 'blanks': 119, 'comments': 44, 'file_path': 'tests/test_utils.py'}
+	071796d83f1bfb79793170945fdb4f623a1f344a {'ccn': 71, 'avg_ccn': 1.109375, 'avg_loc': 3.0625, 'avg_tokens': 21.46875, 'num_funs': 64, 'loc': 588, 'tokens': 3300, 'ext': 'py', 'blanks': 119, 'comments': 44, 'file_path': 'tests/test_utils.py'}
+	cb0914407b6bb8153c8be5d52bc497e1d10b04ac {'ccn': 71, 'avg_ccn': 1.109375, 'avg_loc': 3.0625, 'avg_tokens': 21.46875, 'num_funs': 64, 'loc': 592, 'tokens': 3319, 'ext': 'py', 'blanks': 119, 'comments': 44, 'file_path': 'tests/test_utils.py'}
+	e0ab287317fcde8fa4631bc7bee5aa1749bc4ac5 {'ccn': 71, 'avg_ccn': 1.109375, 'avg_loc': 3.0625, 'avg_tokens': 21.46875, 'num_funs': 64, 'loc': 600, 'tokens': 3363, 'ext': 'py', 'blanks': 119, 'comments': 44, 'file_path': 'tests/test_utils.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 4631
+setup.py
+	5f306dbe990454fc8dbc12f766fc46590c4a3cfd {'ccn': 4, 'avg_ccn': 1.3333333333333333, 'avg_loc': 5.0, 'avg_tokens': 32.0, 'num_funs': 3, 'loc': 84, 'tokens': 472, 'ext': 'py', 'blanks': 16, 'comments': 2, 'file_path': 'setup.py'}
+	048c926b46a9216f0fbafffc96e0e3ff926776d3 {'ccn': 4, 'avg_ccn': 1.3333333333333333, 'avg_loc': 5.0, 'avg_tokens': 32.0, 'num_funs': 3, 'loc': 84, 'tokens': 472, 'ext': 'py', 'blanks': 16, 'comments': 2, 'file_path': 'setup.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 4835
+requests/__init__.py
+	7fd9267b3bab1d45f5e4ac0953629c5531ecbc55 {'ccn': 5, 'avg_ccn': 2.5, 'avg_loc': 11.5, 'avg_tokens': 88.0, 'num_funs': 2, 'loc': 94, 'tokens': 401, 'ext': 'py', 'blanks': 26, 'comments': 45, 'file_path': 'requests/__init__.py'}
+	bd840450c0d1e9db3bf62382c15d96378cc3a056 {'ccn': 5, 'avg_ccn': 2.5, 'avg_loc': 11.5, 'avg_tokens': 88.0, 'num_funs': 2, 'loc': 94, 'tokens': 401, 'ext': 'py', 'blanks': 26, 'comments': 45, 'file_path': 'requests/__init__.py'}
+setup.py
+	7fd9267b3bab1d45f5e4ac0953629c5531ecbc55 {'ccn': 4, 'avg_ccn': 1.3333333333333333, 'avg_loc': 5.0, 'avg_tokens': 32.0, 'num_funs': 3, 'loc': 91, 'tokens': 468, 'ext': 'py', 'blanks': 15, 'comments': 2, 'file_path': 'setup.py'}
+	bd840450c0d1e9db3bf62382c15d96378cc3a056 {'ccn': 4, 'avg_ccn': 1.3333333333333333, 'avg_loc': 5.0, 'avg_tokens': 32.0, 'num_funs': 3, 'loc': 91, 'tokens': 468, 'ext': 'py', 'blanks': 15, 'comments': 2, 'file_path': 'setup.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 4987
+requests/__init__.py
+	fd926e74c3879776bcba42ac6f204302417aa1e8 {'ccn': 5, 'avg_ccn': 2.5, 'avg_loc': 11.5, 'avg_tokens': 88.0, 'num_funs': 2, 'loc': 87, 'tokens': 401, 'ext': 'py', 'blanks': 26, 'comments': 32, 'file_path': 'requests/__init__.py'}
+	8b773a4fed7fa58be984d55511f8e9247cfa4202 {'ccn': 5, 'avg_ccn': 2.5, 'avg_loc': 11.5, 'avg_tokens': 88.0, 'num_funs': 2, 'loc': 87, 'tokens': 401, 'ext': 'py', 'blanks': 26, 'comments': 32, 'file_path': 'requests/__init__.py'}
+	67a0e90b6b5f5a4bec5fdd744a0a662892e92830 {'ccn': 5, 'avg_ccn': 2.5, 'avg_loc': 11.5, 'avg_tokens': 88.0, 'num_funs': 2, 'loc': 96, 'tokens': 401, 'ext': 'py', 'blanks': 26, 'comments': 47, 'file_path': 'requests/__init__.py'}
+	2e633471f162b2867d2a6868bc8b0fa8cd0dacf6 {'ccn': 5, 'avg_ccn': 2.5, 'avg_loc': 11.5, 'avg_tokens': 88.0, 'num_funs': 2, 'loc': 96, 'tokens': 401, 'ext': 'py', 'blanks': 26, 'comments': 47, 'file_path': 'requests/__init__.py'}
+	4a59cd095071c52200158e164c4ef067bed876ce {'ccn': 5, 'avg_ccn': 2.5, 'avg_loc': 11.5, 'avg_tokens': 88.0, 'num_funs': 2, 'loc': 87, 'tokens': 401, 'ext': 'py', 'blanks': 26, 'comments': 32, 'file_path': 'requests/__init__.py'}
+	6d2a5072ca0851e37f7c529f27d13edfddc8c1dd {'ccn': 5, 'avg_ccn': 2.5, 'avg_loc': 11.5, 'avg_tokens': 88.0, 'num_funs': 2, 'loc': 94, 'tokens': 401, 'ext': 'py', 'blanks': 26, 'comments': 45, 'file_path': 'requests/__init__.py'}
+requests/api.py
+	177f4dd2a497e3db0e9d62ed0958183f4e9609c9 {'ccn': 8, 'avg_ccn': 1.0, 'avg_loc': 10.0, 'avg_tokens': 30.0, 'num_funs': 8, 'loc': 90, 'tokens': 253, 'ext': 'py', 'blanks': 38, 'comments': 93, 'file_path': 'requests/api.py'}
+	a0d58026e0f57dc1c490c0476e3c367e9055123a {'ccn': 8, 'avg_ccn': 1.0, 'avg_loc': 10.25, 'avg_tokens': 30.0, 'num_funs': 8, 'loc': 92, 'tokens': 253, 'ext': 'py', 'blanks': 38, 'comments': 95, 'file_path': 'requests/api.py'}
+	df918c066fa275abc2bb0c960647dc064d136a01 {'ccn': 8, 'avg_ccn': 1.0, 'avg_loc': 10.25, 'avg_tokens': 30.0, 'num_funs': 8, 'loc': 92, 'tokens': 253, 'ext': 'py', 'blanks': 38, 'comments': 95, 'file_path': 'requests/api.py'}
+requests/models.py
+	177f4dd2a497e3db0e9d62ed0958183f4e9609c9 {'ccn': 189, 'avg_ccn': 4.295454545454546, 'avg_loc': 10.0, 'avg_tokens': 67.72727272727273, 'num_funs': 44, 'loc': 573, 'tokens': 3481, 'ext': 'py', 'blanks': 184, 'comments': 253, 'file_path': 'requests/models.py'}
+	df918c066fa275abc2bb0c960647dc064d136a01 {'ccn': 192, 'avg_ccn': 4.363636363636363, 'avg_loc': 10.136363636363637, 'avg_tokens': 68.56818181818181, 'num_funs': 44, 'loc': 579, 'tokens': 3518, 'ext': 'py', 'blanks': 191, 'comments': 257, 'file_path': 'requests/models.py'}
+requests/sessions.py
+	177f4dd2a497e3db0e9d62ed0958183f4e9609c9 {'ccn': 96, 'avg_ccn': 3.4285714285714284, 'avg_loc': 9.571428571428571, 'avg_tokens': 66.35714285714286, 'num_funs': 28, 'loc': 419, 'tokens': 2621, 'ext': 'py', 'blanks': 163, 'comments': 254, 'file_path': 'requests/sessions.py'}
+	df918c066fa275abc2bb0c960647dc064d136a01 {'ccn': 98, 'avg_ccn': 3.3793103448275863, 'avg_loc': 9.344827586206897, 'avg_tokens': 65.13793103448276, 'num_funs': 29, 'loc': 420, 'tokens': 2658, 'ext': 'py', 'blanks': 165, 'comments': 255, 'file_path': 'requests/sessions.py'}
+requests/utils.py
+	177f4dd2a497e3db0e9d62ed0958183f4e9609c9 {'ccn': 177, 'avg_ccn': 4.538461538461538, 'avg_loc': 12.025641025641026, 'avg_tokens': 75.1025641025641, 'num_funs': 39, 'loc': 511, 'tokens': 3150, 'ext': 'py', 'blanks': 220, 'comments': 266, 'file_path': 'requests/utils.py'}
+	df918c066fa275abc2bb0c960647dc064d136a01 {'ccn': 177, 'avg_ccn': 4.538461538461538, 'avg_loc': 12.025641025641026, 'avg_tokens': 75.1025641025641, 'num_funs': 39, 'loc': 512, 'tokens': 3152, 'ext': 'py', 'blanks': 220, 'comments': 266, 'file_path': 'requests/utils.py'}
+requests/__version__.py
+	2e633471f162b2867d2a6868bc8b0fa8cd0dacf6 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 10, 'tokens': 31, 'ext': 'py', 'blanks': 1, 'comments': 3, 'file_path': 'requests/__version__.py'}
+	4a59cd095071c52200158e164c4ef067bed876ce {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 10, 'tokens': 31, 'ext': 'py', 'blanks': 1, 'comments': 3, 'file_path': 'requests/__version__.py'}
+setup.py
+	2e633471f162b2867d2a6868bc8b0fa8cd0dacf6 {'ccn': 4, 'avg_ccn': 1.3333333333333333, 'avg_loc': 5.0, 'avg_tokens': 32.0, 'num_funs': 3, 'loc': 90, 'tokens': 466, 'ext': 'py', 'blanks': 15, 'comments': 2, 'file_path': 'setup.py'}
+	4a59cd095071c52200158e164c4ef067bed876ce {'ccn': 4, 'avg_ccn': 1.3333333333333333, 'avg_loc': 5.0, 'avg_tokens': 32.0, 'num_funs': 3, 'loc': 90, 'tokens': 466, 'ext': 'py', 'blanks': 15, 'comments': 2, 'file_path': 'setup.py'}
+	df918c066fa275abc2bb0c960647dc064d136a01 {'ccn': 4, 'avg_ccn': 1.3333333333333333, 'avg_loc': 5.0, 'avg_tokens': 32.0, 'num_funs': 3, 'loc': 94, 'tokens': 479, 'ext': 'py', 'blanks': 15, 'comments': 2, 'file_path': 'setup.py'}
+requests/auth.py
+	d889b98eaee2c8dc46357bcc8788a73aaacd84dd {'ccn': 53, 'avg_ccn': 2.789473684210526, 'avg_loc': 9.842105263157896, 'avg_tokens': 70.05263157894737, 'num_funs': 19, 'loc': 210, 'tokens': 1417, 'ext': 'py', 'blanks': 59, 'comments': 46, 'file_path': 'requests/auth.py'}
+	df918c066fa275abc2bb0c960647dc064d136a01 {'ccn': 53, 'avg_ccn': 2.789473684210526, 'avg_loc': 9.842105263157896, 'avg_tokens': 70.05263157894737, 'num_funs': 19, 'loc': 210, 'tokens': 1417, 'ext': 'py', 'blanks': 59, 'comments': 46, 'file_path': 'requests/auth.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 5092
+setup.py
+	68e581f1b5b4425a0ee950a2433fc3c92e671d0f {'ccn': 4, 'avg_ccn': 1.3333333333333333, 'avg_loc': 5.0, 'avg_tokens': 32.0, 'num_funs': 3, 'loc': 90, 'tokens': 466, 'ext': 'py', 'blanks': 15, 'comments': 2, 'file_path': 'setup.py'}
+	aeda65bbe57ac5edbcc2d80db85d010befb7d419 {'ccn': 4, 'avg_ccn': 1.3333333333333333, 'avg_loc': 5.0, 'avg_tokens': 32.0, 'num_funs': 3, 'loc': 90, 'tokens': 466, 'ext': 'py', 'blanks': 15, 'comments': 2, 'file_path': 'setup.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 5336
+requests/__version__.py
+	3c3e91d9ed9d5f7bc55c33f9f513805bf341a926 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 10, 'tokens': 31, 'ext': 'py', 'blanks': 1, 'comments': 3, 'file_path': 'requests/__version__.py'}
+	9547e96d436dde2366d7ca726e1904bd0be8eb36 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 10, 'tokens': 31, 'ext': 'py', 'blanks': 1, 'comments': 3, 'file_path': 'requests/__version__.py'}
+requests/models.py
+	3c3e91d9ed9d5f7bc55c33f9f513805bf341a926 {'ccn': 193, 'avg_ccn': 4.386363636363637, 'avg_loc': 10.181818181818182, 'avg_tokens': 68.88636363636364, 'num_funs': 44, 'loc': 581, 'tokens': 3532, 'ext': 'py', 'blanks': 191, 'comments': 258, 'file_path': 'requests/models.py'}
+	46b08b0727cbab18c2c6dcbfc893f1984d4021ed {'ccn': 190, 'avg_ccn': 4.318181818181818, 'avg_loc': 10.045454545454545, 'avg_tokens': 68.04545454545455, 'num_funs': 44, 'loc': 575, 'tokens': 3495, 'ext': 'py', 'blanks': 184, 'comments': 254, 'file_path': 'requests/models.py'}
+	d3fac9e19ed17d149c4ac649699d8c4623c6796d {'ccn': 189, 'avg_ccn': 4.295454545454546, 'avg_loc': 10.0, 'avg_tokens': 67.72727272727273, 'num_funs': 44, 'loc': 573, 'tokens': 3481, 'ext': 'py', 'blanks': 184, 'comments': 253, 'file_path': 'requests/models.py'}
+requests/sessions.py
+	3c3e91d9ed9d5f7bc55c33f9f513805bf341a926 {'ccn': 96, 'avg_ccn': 3.4285714285714284, 'avg_loc': 9.535714285714286, 'avg_tokens': 66.42857142857143, 'num_funs': 28, 'loc': 416, 'tokens': 2628, 'ext': 'py', 'blanks': 163, 'comments': 254, 'file_path': 'requests/sessions.py'}
+	0e7b51ed7ca48fc14221ecb5b30e41cf77488871 {'ccn': 96, 'avg_ccn': 3.4285714285714284, 'avg_loc': 9.535714285714286, 'avg_tokens': 66.42857142857143, 'num_funs': 28, 'loc': 416, 'tokens': 2626, 'ext': 'py', 'blanks': 163, 'comments': 254, 'file_path': 'requests/sessions.py'}
+setup.py
+	3c3e91d9ed9d5f7bc55c33f9f513805bf341a926 {'ccn': 4, 'avg_ccn': 1.3333333333333333, 'avg_loc': 5.0, 'avg_tokens': 32.0, 'num_funs': 3, 'loc': 95, 'tokens': 481, 'ext': 'py', 'blanks': 15, 'comments': 2, 'file_path': 'setup.py'}
+	368270dea186d005c7762fc7b8756453df8c857a {'ccn': 4, 'avg_ccn': 1.3333333333333333, 'avg_loc': 5.0, 'avg_tokens': 32.0, 'num_funs': 3, 'loc': 95, 'tokens': 479, 'ext': 'py', 'blanks': 15, 'comments': 2, 'file_path': 'setup.py'}
+tests/test_testserver.py
+	3c3e91d9ed9d5f7bc55c33f9f513805bf341a926 {'ccn': 15, 'avg_ccn': 1.0714285714285714, 'avg_loc': 9.0, 'avg_tokens': 61.07142857142857, 'num_funs': 14, 'loc': 133, 'tokens': 899, 'ext': 'py', 'blanks': 43, 'comments': 20, 'file_path': 'tests/test_testserver.py'}
+	d3fac9e19ed17d149c4ac649699d8c4623c6796d {'ccn': 13, 'avg_ccn': 1.0833333333333333, 'avg_loc': 8.666666666666666, 'avg_tokens': 60.0, 'num_funs': 12, 'loc': 111, 'tokens': 762, 'ext': 'py', 'blanks': 37, 'comments': 18, 'file_path': 'tests/test_testserver.py'}
+tests/test_utils.py
+	3c3e91d9ed9d5f7bc55c33f9f513805bf341a926 {'ccn': 72, 'avg_ccn': 1.1076923076923078, 'avg_loc': 3.076923076923077, 'avg_tokens': 21.584615384615386, 'num_funs': 65, 'loc': 623, 'tokens': 3489, 'ext': 'py', 'blanks': 121, 'comments': 47, 'file_path': 'tests/test_utils.py'}
+	d3fac9e19ed17d149c4ac649699d8c4623c6796d {'ccn': 72, 'avg_ccn': 1.1076923076923078, 'avg_loc': 3.076923076923077, 'avg_tokens': 21.584615384615386, 'num_funs': 65, 'loc': 622, 'tokens': 3483, 'ext': 'py', 'blanks': 121, 'comments': 47, 'file_path': 'tests/test_utils.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 5437
+requests/sessions.py
+	b947d18bc78e5f100365e4978f115966610049a0 {'ccn': 96, 'avg_ccn': 3.4285714285714284, 'avg_loc': 9.535714285714286, 'avg_tokens': 66.42857142857143, 'num_funs': 28, 'loc': 416, 'tokens': 2626, 'ext': 'py', 'blanks': 163, 'comments': 266, 'file_path': 'requests/sessions.py'}
+	7aefd5bed9b0c33cdeb662cd5f7ac754c606d00c {'ccn': 96, 'avg_ccn': 3.4285714285714284, 'avg_loc': 9.535714285714286, 'avg_tokens': 66.42857142857143, 'num_funs': 28, 'loc': 416, 'tokens': 2626, 'ext': 'py', 'blanks': 163, 'comments': 266, 'file_path': 'requests/sessions.py'}
+	c7ed9fd425bec36c6737bd78b95fdcca23e55334 {'ccn': 96, 'avg_ccn': 3.4285714285714284, 'avg_loc': 9.642857142857142, 'avg_tokens': 66.57142857142857, 'num_funs': 28, 'loc': 419, 'tokens': 2630, 'ext': 'py', 'blanks': 162, 'comments': 266, 'file_path': 'requests/sessions.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 5670
+requests/sessions.py
+	4b66260cb7c88a41a971d2458d75efd556f2e00e {'ccn': 97, 'avg_ccn': 3.3448275862068964, 'avg_loc': 9.724137931034482, 'avg_tokens': 65.82758620689656, 'num_funs': 29, 'loc': 461, 'tokens': 2862, 'ext': 'py', 'blanks': 169, 'comments': 302, 'file_path': 'requests/sessions.py'}
+	d1ca591c0fc0cfac634c74ed8b283c47ecffa9f8 {'ccn': 96, 'avg_ccn': 3.4285714285714284, 'avg_loc': 9.642857142857142, 'avg_tokens': 66.57142857142857, 'num_funs': 28, 'loc': 419, 'tokens': 2630, 'ext': 'py', 'blanks': 162, 'comments': 266, 'file_path': 'requests/sessions.py'}
+tests/test_requests.py
+	4b66260cb7c88a41a971d2458d75efd556f2e00e {'ccn': 292, 'avg_ccn': 1.1967213114754098, 'avg_loc': 6.971311475409836, 'avg_tokens': 55.06967213114754, 'num_funs': 244, 'loc': 1962, 'tokens': 15006, 'ext': 'py', 'blanks': 444, 'comments': 206, 'file_path': 'tests/test_requests.py'}
+	d1ca591c0fc0cfac634c74ed8b283c47ecffa9f8 {'ccn': 291, 'avg_ccn': 1.1975308641975309, 'avg_loc': 6.91358024691358, 'avg_tokens': 54.43621399176955, 'num_funs': 243, 'loc': 1941, 'tokens': 14796, 'ext': 'py', 'blanks': 437, 'comments': 199, 'file_path': 'tests/test_requests.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 5711
+setup.py
+	9484e13c7da927119fe82794bb5571cec144b6d7 {'ccn': 4, 'avg_ccn': 1.3333333333333333, 'avg_loc': 5.0, 'avg_tokens': 32.0, 'num_funs': 3, 'loc': 94, 'tokens': 456, 'ext': 'py', 'blanks': 15, 'comments': 2, 'file_path': 'setup.py'}
+	d3e00a4958af046879f24de365d5589d861ea6ef {'ccn': 4, 'avg_ccn': 1.3333333333333333, 'avg_loc': 5.0, 'avg_tokens': 32.0, 'num_funs': 3, 'loc': 95, 'tokens': 458, 'ext': 'py', 'blanks': 15, 'comments': 2, 'file_path': 'setup.py'}
+	d1942c003b8fd94ba927ba019ec1c4662b3d1a82 {'ccn': 4, 'avg_ccn': 1.3333333333333333, 'avg_loc': 5.0, 'avg_tokens': 32.0, 'num_funs': 3, 'loc': 96, 'tokens': 463, 'ext': 'py', 'blanks': 15, 'comments': 2, 'file_path': 'setup.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 5810
+requests/models.py
+	491b4889183674ac981ac41d89b183f71341950c {'ccn': 189, 'avg_ccn': 4.295454545454546, 'avg_loc': 10.113636363636363, 'avg_tokens': 67.81818181818181, 'num_funs': 44, 'loc': 580, 'tokens': 3485, 'ext': 'py', 'blanks': 184, 'comments': 260, 'file_path': 'requests/models.py'}
+	20ae6dc5dc033236e981f082c521a5f4d26df60d {'ccn': 190, 'avg_ccn': 4.318181818181818, 'avg_loc': 10.181818181818182, 'avg_tokens': 68.18181818181819, 'num_funs': 44, 'loc': 583, 'tokens': 3503, 'ext': 'py', 'blanks': 186, 'comments': 260, 'file_path': 'requests/models.py'}
+tests/test_requests.py
+	3099b4b02bf4f49120de56a609afad056ba55b2a {'ccn': 297, 'avg_ccn': 1.1927710843373494, 'avg_loc': 6.891566265060241, 'avg_tokens': 54.333333333333336, 'num_funs': 249, 'loc': 1978, 'tokens': 15106, 'ext': 'py', 'blanks': 444, 'comments': 200, 'file_path': 'tests/test_requests.py'}
+	8d69d7ec05f9a23db772cff5d1592d43018b2985 {'ccn': 297, 'avg_ccn': 1.1927710843373494, 'avg_loc': 6.887550200803213, 'avg_tokens': 54.30522088353413, 'num_funs': 249, 'loc': 1977, 'tokens': 15101, 'ext': 'py', 'blanks': 444, 'comments': 200, 'file_path': 'tests/test_requests.py'}
