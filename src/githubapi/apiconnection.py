@@ -69,12 +69,12 @@ def extract_open_source_repo_urls(repo_urls, query):
 
 def retrieve_pull_requests_with_details(repository_url):
     pull_request_details = {}
-    repo_owner = help.extract_owner_repo_name_from_url(repository_url)
-    query = 'query { repository(name: "%s", owner: "%s") { pullRequests(first: 100, states: MERGED) { ' \
+    repo_owner = help.extract_owner_repo_name_from_url(repository_url) #, after: "Y3Vyc29yOnYyOpHOBE7RSw=="
+    query = 'query { repository(name: "%s", owner: "%s") { pullRequests(first: 100, states: MERGED, after: "Y3Vyc29yOnYyOpHOD6PxLg==") { ' \
             'pageInfo { hasNextPage endCursor } nodes { number id participants { totalCount }' \
             'comments { totalCount } reviews { totalCount } reviewDecision ' \
             ' commits (first: 100) { totalCount nodes { commit { oid committedDate authoredDate} } } ' \
-            ' headRepository { url } createdAt} } } }'% \
+            ' headRepository { url } createdAt files(first: 100) { nodes { path } } } } } }'% \
             (repo_owner['repo'], repo_owner['owner'])
     retrieve_pull_request_iteratively(query, repo_owner, pull_request_details)
     return pull_request_details
@@ -95,6 +95,10 @@ def retrieve_pull_request_iteratively(query, repo_owner, pull_request_details):
                             print('pull request ' + str(node['number']) + ' pr created on ' + node['createdAt'])
                             pr_created = datetime.datetime.strptime(node['createdAt'], "%Y-%m-%dT%H:%M:%SZ")
                             commit_before_pr = None
+                            file_paths = []
+                            if node['files'] is not None and len(node['files']['nodes']) >0:
+                                for file_name in node['files']['nodes']:
+                                    file_paths.append(file_name['path'])
                             for commit_node in node['commits']['nodes']:
                                 print('commit hash ' + commit_node['commit']['oid'] + ' commit date ' +
                                       commit_node['commit']['committedDate'] + ' authored date ' +
@@ -111,17 +115,18 @@ def retrieve_pull_request_iteratively(query, repo_owner, pull_request_details):
 
                             pull_request_details[node['number']] = {'number': node['number'], 'headRepository':
                                 node['headRepository']['url'], 'commits': commits, 'participants':
-                                node['participants']['totalCount'], 'prCreated':  node['createdAt'], 'commitBeforePR': commit_before_pr}
+                                node['participants']['totalCount'], 'prCreated':  node['createdAt'], 'commitBeforePR': commit_before_pr, 'filePaths': file_paths}
 
 
 
         if search_result['pageInfo']['hasNextPage']:
             end_cursor = search_result['pageInfo']['endCursor']
+            print('end cursor ' + end_cursor)
             query = 'query { repository(name: "%s", owner: "%s") { pullRequests(first: 100, states: MERGED, after: "%s") { ' \
                     'pageInfo { hasNextPage endCursor } nodes { number id participants { totalCount }' \
                     'comments { totalCount } reviews { totalCount } reviewDecision ' \
                     ' commits (first: 100) { totalCount nodes { commit { oid committedDate authoredDate} } } ' \
-                    ' headRepository { url } createdAt} } } }' % \
+                    ' headRepository { url } createdAt files(first: 100) { nodes { path } } } } } }' % \
                     (repo_owner['repo'], repo_owner['owner'], end_cursor)
             retrieve_pull_request_iteratively(query, repo_owner, pull_request_details)
 
