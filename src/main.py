@@ -11,17 +11,13 @@ file_path = 'data/prs/flask-prs.csv'
 
 def retreive_pr_details():
     # repo_urls = apiconnection.get_open_source_repos()
-
     #repo_urls = ['https://github.com/httpie/httpie']
-
     #repo_urls = ['https://github.com/pallets/flask']
-    repo_urls = ['https://github.com/tornadoweb/tornado']
-    #repo_urls = ['https://github.com/pallets/flask']
-
+    #repo_urls = ['https://github.com/tornadoweb/tornado']
     #repo_urls = ['https://github.com/keras-team/keras']
-    # repo_urls = ['https://github.com/ansible/ansible']
     #repo_urls = ['https://github.com/psf/requests']
     #repo_urls = ['https://github.com/scrapy/scrapy']
+    repo_urls = ['https://github.com/scikit-learn/scikit-learn']
 
     for url in repo_urls:
         pull_request_details = apiconnection.retrieve_pull_requests_with_details(url)
@@ -62,6 +58,7 @@ def get_most_used_module_name(file_paths):
             most_used_time = number
     return most_used_module
 
+
 def run_quality_analysis():
     already_processed = []
     if os.path.exists('/mnt/d/hackathon/test.csv'):
@@ -73,17 +70,17 @@ def run_quality_analysis():
         next(csv_reader)
         # show the data
         for line in csv_reader:
-            if line['Run_Analysis'] == 'true':
-            #if int(line['PullRequest']):
+            if line['Run_Analysis'] == 'true' and int(line['PullRequest']) not in already_processed:
                 print(f"Processing PR {line['PullRequest']} in  {line['Fork']} ")
                 module_name = get_most_used_module_name(line['File_Paths'])
-                commit_analysis = coqua_analysis.run_quality_analysis(line['Fork'], line['Start_date'],
-                                                                       line['End_date'],
-                                                                       line['Commits'], module_name)
-                if commit_analysis is not None and len(commit_analysis) > 0:
-                    for commit, analysis in commit_analysis.items():
-                        append_to_file('/mnt/d/hackathon/kerasquality.csv', line['Repo'], line['PullRequest'],
-                                       line['Participants'], commit, analysis)
+                if module_name is not None:
+                    commit_analysis = coqua_analysis.run_quality_analysis(line['Fork'], line['Start_date'],
+                                                                           line['End_date'],
+                                                                           line['Commits'], module_name)
+                    if commit_analysis is not None and len(commit_analysis) > 0:
+                        for commit, analysis in commit_analysis.items():
+                            append_to_file('/mnt/d/hackathon/kerasquality.csv', line['Repo'], line['PullRequest'],
+                                           line['Participants'], commit, analysis)
 
 
 def run_complexity_analysis():
@@ -98,7 +95,7 @@ def run_complexity_analysis():
         # show the data
         for line in csv_reader:
             #scrapy stopped at 1887
-            if int(line['PullRequest']) > 1886:
+            if int(line['PullRequest']) > 4039:
                 print(f"Processing PR {line['PullRequest']} in  {line['Fork']} ")
                 commit_analysis = cocom_analysis.run_graal_analysis(line['Fork'], line['Start_date'], line['End_date'],
                                                                     line['Commits'])
@@ -109,8 +106,8 @@ def run_complexity_analysis():
 
 
 def add_pr_details_to_csv(repo, pr_no, fork, start_date, end_date, commits, pr_created, commit_before_pr, participants, file_paths):
-    file_exist = os.path.exists('/mnt/d/hackathon/tornado-prs.csv')
-    with open('/mnt/d/hackathon/tornado-prs.csv', 'a', newline='') as csv_file:
+    file_exist = os.path.exists('/mnt/d/hackathon/scikitlearn-prs.csv')
+    with open('/mnt/d/hackathon/scikitlearn-prs.csv', 'a', newline='') as csv_file:
         writer = csv.writer(csv_file)
         if not file_exist:
             writer.writerow(
@@ -129,6 +126,6 @@ def append_to_file(file, url, pr_number, participants, commit_hash, analysis):
 
 
 if __name__ == "__main__":
-    #retreive_pr_details()
+    retreive_pr_details()
     #run_complexity_analysis()
-    run_quality_analysis()
+    #run_quality_analysis()

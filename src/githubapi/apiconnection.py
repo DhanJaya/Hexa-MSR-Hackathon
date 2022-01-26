@@ -69,8 +69,8 @@ def extract_open_source_repo_urls(repo_urls, query):
 
 def retrieve_pull_requests_with_details(repository_url):
     pull_request_details = {}
-    repo_owner = help.extract_owner_repo_name_from_url(repository_url) #, after: "Y3Vyc29yOnYyOpHOBE7RSw=="
-    query = 'query { repository(name: "%s", owner: "%s") { pullRequests(first: 100, states: MERGED, after: "Y3Vyc29yOnYyOpHOD6PxLg==") { ' \
+    repo_owner = help.extract_owner_repo_name_from_url(repository_url) #, after: "Y3Vyc29yOnYyOpHOAAOnNQ=="
+    query = 'query { repository(name: "%s", owner: "%s") { pullRequests(first: 100, states: MERGED) { ' \
             'pageInfo { hasNextPage endCursor } nodes { number id participants { totalCount }' \
             'comments { totalCount } reviews { totalCount } reviewDecision ' \
             ' commits (first: 100) { totalCount nodes { commit { oid committedDate authoredDate} } } ' \
