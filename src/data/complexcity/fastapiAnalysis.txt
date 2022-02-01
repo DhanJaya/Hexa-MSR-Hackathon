@@ -1,0 +1,782 @@
+------------------------------------------------------------------------------------------------------
+Pull Request 97
+fastapi/applications.py
+	84a300ef842bc41b4955973a280366952097fd32 {'ccn': 24, 'avg_ccn': 1.5, 'avg_loc': 15.4375, 'avg_tokens': 89.8125, 'num_funs': 16, 'loc': 435, 'tokens': 2327, 'ext': 'py', 'blanks': 23, 'comments': 0, 'file_path': 'fastapi/applications.py'}
+	65568065e0488756c37b4a52c0644b005a09773a {'ccn': 24, 'avg_ccn': 1.5, 'avg_loc': 15.4375, 'avg_tokens': 89.8125, 'num_funs': 16, 'loc': 435, 'tokens': 2325, 'ext': 'py', 'blanks': 23, 'comments': 0, 'file_path': 'fastapi/applications.py'}
+	2bd775988f77df397aee3a1caf4de90146b7f363 {'ccn': 25, 'avg_ccn': 1.5625, 'avg_loc': 15.4375, 'avg_tokens': 97.5625, 'num_funs': 16, 'loc': 434, 'tokens': 2473, 'ext': 'py', 'blanks': 23, 'comments': 0, 'file_path': 'fastapi/applications.py'}
+fastapi/openapi/models.py
+	84a300ef842bc41b4955973a280366952097fd32 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 269, 'tokens': 2261, 'ext': 'py', 'blanks': 99, 'comments': 9, 'file_path': 'fastapi/openapi/models.py'}
+	95679ca5e66a115f088cf87383510f9596ecdfe0 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 269, 'tokens': 2261, 'ext': 'py', 'blanks': 99, 'comments': 9, 'file_path': 'fastapi/openapi/models.py'}
+	65568065e0488756c37b4a52c0644b005a09773a {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 269, 'tokens': 2255, 'ext': 'py', 'blanks': 99, 'comments': 9, 'file_path': 'fastapi/openapi/models.py'}
+	2bd775988f77df397aee3a1caf4de90146b7f363 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 256, 'tokens': 2166, 'ext': 'py', 'blanks': 92, 'comments': 6, 'file_path': 'fastapi/openapi/models.py'}
+fastapi/openapi/utils.py
+	84a300ef842bc41b4955973a280366952097fd32 {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.444444444444445, 'avg_tokens': 46.22222222222222, 'num_funs': 9, 'loc': 246, 'tokens': 1566, 'ext': 'py', 'blanks': 21, 'comments': 1, 'file_path': 'fastapi/openapi/utils.py'}
+	95679ca5e66a115f088cf87383510f9596ecdfe0 {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.444444444444445, 'avg_tokens': 46.22222222222222, 'num_funs': 9, 'loc': 246, 'tokens': 1573, 'ext': 'py', 'blanks': 21, 'comments': 1, 'file_path': 'fastapi/openapi/utils.py'}
+	2bd775988f77df397aee3a1caf4de90146b7f363 {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.444444444444445, 'avg_tokens': 46.22222222222222, 'num_funs': 9, 'loc': 246, 'tokens': 1601, 'ext': 'py', 'blanks': 21, 'comments': 1, 'file_path': 'fastapi/openapi/utils.py'}
+fastapi/routing.py
+	84a300ef842bc41b4955973a280366952097fd32 {'ccn': 30, 'avg_ccn': 1.875, 'avg_loc': 16.6875, 'avg_tokens': 95.75, 'num_funs': 16, 'loc': 631, 'tokens': 3322, 'ext': 'py', 'blanks': 23, 'comments': 1, 'file_path': 'fastapi/routing.py'}
+	95679ca5e66a115f088cf87383510f9596ecdfe0 {'ccn': 30, 'avg_ccn': 1.875, 'avg_loc': 16.6875, 'avg_tokens': 95.75, 'num_funs': 16, 'loc': 582, 'tokens': 3110, 'ext': 'py', 'blanks': 23, 'comments': 0, 'file_path': 'fastapi/routing.py'}
+	65568065e0488756c37b4a52c0644b005a09773a {'ccn': 30, 'avg_ccn': 1.875, 'avg_loc': 16.6875, 'avg_tokens': 95.75, 'num_funs': 16, 'loc': 578, 'tokens': 3082, 'ext': 'py', 'blanks': 23, 'comments': 0, 'file_path': 'fastapi/routing.py'}
+	7514ac6fb0233e7f165cf5e7e65c05d5a690cf1b {'ccn': 30, 'avg_ccn': 1.875, 'avg_loc': 16.6875, 'avg_tokens': 95.75, 'num_funs': 16, 'loc': 561, 'tokens': 3035, 'ext': 'py', 'blanks': 23, 'comments': 0, 'file_path': 'fastapi/routing.py'}
+	eda9b28338c79bfd28f008507fe92599ec2ea815 {'ccn': 30, 'avg_ccn': 1.875, 'avg_loc': 16.6875, 'avg_tokens': 95.75, 'num_funs': 16, 'loc': 563, 'tokens': 3037, 'ext': 'py', 'blanks': 23, 'comments': 0, 'file_path': 'fastapi/routing.py'}
+	2bd775988f77df397aee3a1caf4de90146b7f363 {'ccn': 31, 'avg_ccn': 1.9375, 'avg_loc': 16.6875, 'avg_tokens': 104.1875, 'num_funs': 16, 'loc': 560, 'tokens': 3175, 'ext': 'py', 'blanks': 23, 'comments': 0, 'file_path': 'fastapi/routing.py'}
+fastapi/utils.py
+	84a300ef842bc41b4955973a280366952097fd32 {'ccn': 4, 'avg_ccn': 1.3333333333333333, 'avg_loc': 2.0, 'avg_tokens': 22.666666666666668, 'num_funs': 3, 'loc': 49, 'tokens': 331, 'ext': 'py', 'blanks': 9, 'comments': 0, 'file_path': 'fastapi/utils.py'}
+	2bd775988f77df397aee3a1caf4de90146b7f363 {'ccn': 4, 'avg_ccn': 1.3333333333333333, 'avg_loc': 2.0, 'avg_tokens': 22.666666666666668, 'num_funs': 3, 'loc': 47, 'tokens': 314, 'ext': 'py', 'blanks': 9, 'comments': 0, 'file_path': 'fastapi/utils.py'}
+tests/test_additional_responses.py
+	84a300ef842bc41b4955973a280366952097fd32 {'ccn': 15, 'avg_ccn': 1.0, 'avg_loc': 3.066666666666667, 'avg_tokens': 25.8, 'num_funs': 15, 'loc': 413, 'tokens': 1771, 'ext': 'py', 'blanks': 44, 'comments': 1, 'file_path': 'tests/test_additional_responses.py'}
+	25fb4239cc2751b9608e7e92e3b9b42be31a9337 {'ccn': 16, 'avg_ccn': 1.0, 'avg_loc': 3.4375, 'avg_tokens': 27.5, 'num_funs': 16, 'loc': 423, 'tokens': 1827, 'ext': 'py', 'blanks': 48, 'comments': 1, 'file_path': 'tests/test_additional_responses.py'}
+	7514ac6fb0233e7f165cf5e7e65c05d5a690cf1b {'ccn': 16, 'avg_ccn': 1.0, 'avg_loc': 3.4375, 'avg_tokens': 27.5, 'num_funs': 16, 'loc': 424, 'tokens': 1833, 'ext': 'py', 'blanks': 48, 'comments': 1, 'file_path': 'tests/test_additional_responses.py'}
+	eda9b28338c79bfd28f008507fe92599ec2ea815 {'ccn': 16, 'avg_ccn': 1.0, 'avg_loc': 3.4375, 'avg_tokens': 27.5, 'num_funs': 16, 'loc': 423, 'tokens': 1827, 'ext': 'py', 'blanks': 48, 'comments': 1, 'file_path': 'tests/test_additional_responses.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 198
+fastapi/applications.py
+	b6d70eb01b4523e37af80cb5ac221d18bad9c2ea {'ccn': 25, 'avg_ccn': 1.5625, 'avg_loc': 15.8125, 'avg_tokens': 98.875, 'num_funs': 16, 'loc': 444, 'tokens': 2499, 'ext': 'py', 'blanks': 23, 'comments': 0, 'file_path': 'fastapi/applications.py'}
+	88e0cd89fef2eb699f83ba5c5b4b2b8fc94edd51 {'ccn': 31, 'avg_ccn': 1.55, 'avg_loc': 13.35, 'avg_tokens': 87.2, 'num_funs': 20, 'loc': 469, 'tokens': 2738, 'ext': 'py', 'blanks': 32, 'comments': 0, 'file_path': 'fastapi/applications.py'}
+fastapi/openapi/docs.py
+	b6d70eb01b4523e37af80cb5ac221d18bad9c2ea {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 36.666666666666664, 'avg_tokens': 19.0, 'num_funs': 3, 'loc': 155, 'tokens': 101, 'ext': 'py', 'blanks': 15, 'comments': 122, 'file_path': 'fastapi/openapi/docs.py'}
+	88e0cd89fef2eb699f83ba5c5b4b2b8fc94edd51 {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 28.333333333333332, 'avg_tokens': 26.333333333333332, 'num_funs': 3, 'loc': 148, 'tokens': 128, 'ext': 'py', 'blanks': 16, 'comments': 114, 'file_path': 'fastapi/openapi/docs.py'}
+tests/test_application.py
+	b6d70eb01b4523e37af80cb5ac221d18bad9c2ea {'ccn': 4, 'avg_ccn': 1.0, 'avg_loc': 5.75, 'avg_tokens': 36.25, 'num_funs': 4, 'loc': 1140, 'tokens': 3824, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'tests/test_application.py'}
+	88e0cd89fef2eb699f83ba5c5b4b2b8fc94edd51 {'ccn': 4, 'avg_ccn': 1.0, 'avg_loc': 5.75, 'avg_tokens': 34.75, 'num_funs': 4, 'loc': 1140, 'tokens': 3818, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'tests/test_application.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 400
+fastapi/dependencies/utils.py
+	c2f58f50130888f556cd36cc4b5c12ec74fb98a2 {'ccn': 47, 'avg_ccn': 2.764705882352941, 'avg_loc': 9.176470588235293, 'avg_tokens': 66.23529411764706, 'num_funs': 17, 'loc': 531, 'tokens': 3384, 'ext': 'py', 'blanks': 37, 'comments': 0, 'file_path': 'fastapi/dependencies/utils.py'}
+	00e2bf232ab3714c07b7bb2b5ebeed6dbbaab519 {'ccn': 47, 'avg_ccn': 2.9375, 'avg_loc': 9.625, 'avg_tokens': 69.25, 'num_funs': 16, 'loc': 530, 'tokens': 3367, 'ext': 'py', 'blanks': 36, 'comments': 0, 'file_path': 'fastapi/dependencies/utils.py'}
+tests/test_union_body.py
+	c2f58f50130888f556cd36cc4b5c12ec74fb98a2 {'ccn': 4, 'avg_ccn': 1.0, 'avg_loc': 3.5, 'avg_tokens': 34.0, 'num_funs': 4, 'loc': 110, 'tokens': 534, 'ext': 'py', 'blanks': 18, 'comments': 0, 'file_path': 'tests/test_union_body.py'}
+	1889967385aef7118682cd116cc971053f3a4ba5 {'ccn': 4, 'avg_ccn': 1.0, 'avg_loc': 3.5, 'avg_tokens': 32.0, 'num_funs': 4, 'loc': 107, 'tokens': 513, 'ext': 'py', 'blanks': 17, 'comments': 0, 'file_path': 'tests/test_union_body.py'}
+	00e2bf232ab3714c07b7bb2b5ebeed6dbbaab519 {'ccn': 4, 'avg_ccn': 1.0, 'avg_loc': 3.5, 'avg_tokens': 32.0, 'num_funs': 4, 'loc': 107, 'tokens': 513, 'ext': 'py', 'blanks': 17, 'comments': 0, 'file_path': 'tests/test_union_body.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 422
+fastapi/routing.py
+	70cdee5ef24c6de330f872370a236d93ad96e3d1 {'ccn': 35, 'avg_ccn': 1.5217391304347827, 'avg_loc': 16.26086956521739, 'avg_tokens': 105.47826086956522, 'num_funs': 23, 'loc': 809, 'tokens': 4717, 'ext': 'py', 'blanks': 33, 'comments': 7, 'file_path': 'fastapi/routing.py'}
+	0843c6b526b57f719f6f2df83c80c545c9e71a76 {'ccn': 35, 'avg_ccn': 1.5217391304347827, 'avg_loc': 16.26086956521739, 'avg_tokens': 105.47826086956522, 'num_funs': 23, 'loc': 809, 'tokens': 4715, 'ext': 'py', 'blanks': 33, 'comments': 7, 'file_path': 'fastapi/routing.py'}
+tests/test_skip_defaults.py
+	70cdee5ef24c6de330f872370a236d93ad96e3d1 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 6.0, 'avg_tokens': 36.5, 'num_funs': 2, 'loc': 15, 'tokens': 91, 'ext': 'py', 'blanks': 6, 'comments': 0, 'file_path': 'tests/test_skip_defaults.py'}
+	c39a5c80d984c63d3387b669bddf16306b66c1cb {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 5.5, 'avg_tokens': 34.5, 'num_funs': 2, 'loc': 14, 'tokens': 87, 'ext': 'py', 'blanks': 6, 'comments': 0, 'file_path': 'tests/test_skip_defaults.py'}
+	0843c6b526b57f719f6f2df83c80c545c9e71a76 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 2.5, 'avg_tokens': 19.5, 'num_funs': 2, 'loc': 17, 'tokens': 114, 'ext': 'py', 'blanks': 12, 'comments': 0, 'file_path': 'tests/test_skip_defaults.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 451
+fastapi/dependencies/utils.py
+	6ded699df478750e8069463601d6dbef5e26fba5 {'ccn': 53, 'avg_ccn': 2.9444444444444446, 'avg_loc': 9.11111111111111, 'avg_tokens': 65.05555555555556, 'num_funs': 18, 'loc': 568, 'tokens': 3641, 'ext': 'py', 'blanks': 45, 'comments': 0, 'file_path': 'fastapi/dependencies/utils.py'}
+	a8fa9818ed695ed194b89abfa67ad4e83fb9cf34 {'ccn': 53, 'avg_ccn': 2.9444444444444446, 'avg_loc': 9.11111111111111, 'avg_tokens': 65.05555555555556, 'num_funs': 18, 'loc': 572, 'tokens': 3642, 'ext': 'py', 'blanks': 45, 'comments': 0, 'file_path': 'fastapi/dependencies/utils.py'}
+	a902d6be1ad76d7324a93e197bcbdbfc4aef1510 {'ccn': 53, 'avg_ccn': 2.9444444444444446, 'avg_loc': 9.11111111111111, 'avg_tokens': 65.05555555555556, 'num_funs': 18, 'loc': 572, 'tokens': 3642, 'ext': 'py', 'blanks': 45, 'comments': 0, 'file_path': 'fastapi/dependencies/utils.py'}
+tests/test_security_oauth2.py
+	6ded699df478750e8069463601d6dbef5e26fba5 {'ccn': 8, 'avg_ccn': 1.0, 'avg_loc': 3.375, 'avg_tokens': 27.0, 'num_funs': 8, 'loc': 220, 'tokens': 993, 'ext': 'py', 'blanks': 27, 'comments': 0, 'file_path': 'tests/test_security_oauth2.py'}
+	a8fa9818ed695ed194b89abfa67ad4e83fb9cf34 {'ccn': 8, 'avg_ccn': 1.0, 'avg_loc': 3.375, 'avg_tokens': 27.0, 'num_funs': 8, 'loc': 220, 'tokens': 993, 'ext': 'py', 'blanks': 27, 'comments': 3, 'file_path': 'tests/test_security_oauth2.py'}
+fastapi/utils.py
+	a8fa9818ed695ed194b89abfa67ad4e83fb9cf34 {'ccn': 19, 'avg_ccn': 3.8, 'avg_loc': 14.8, 'avg_tokens': 104.8, 'num_funs': 5, 'loc': 94, 'tokens': 662, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'fastapi/utils.py'}
+	a902d6be1ad76d7324a93e197bcbdbfc4aef1510 {'ccn': 19, 'avg_ccn': 3.8, 'avg_loc': 14.8, 'avg_tokens': 104.8, 'num_funs': 5, 'loc': 94, 'tokens': 662, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'fastapi/utils.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 463
+fastapi/routing.py
+	b28d055b316d3c634f059ca1c3365fa460a893c1 {'ccn': 35, 'avg_ccn': 1.5217391304347827, 'avg_loc': 16.26086956521739, 'avg_tokens': 107.73913043478261, 'num_funs': 23, 'loc': 816, 'tokens': 4808, 'ext': 'py', 'blanks': 33, 'comments': 7, 'file_path': 'fastapi/routing.py'}
+	5d83004a8c9fd314e563a1d68ed80b73d41a5a4a {'ccn': 35, 'avg_ccn': 1.5217391304347827, 'avg_loc': 16.304347826086957, 'avg_tokens': 108.1304347826087, 'num_funs': 23, 'loc': 818, 'tokens': 4824, 'ext': 'py', 'blanks': 33, 'comments': 7, 'file_path': 'fastapi/routing.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 464
+tests/test_infer_param_optionality.py
+	b6873cd4d99c75bf2a94987367a68aa937f403a0 {'ccn': 16, 'avg_ccn': 1.1428571428571428, 'avg_loc': 5.214285714285714, 'avg_tokens': 41.57142857142857, 'num_funs': 14, 'loc': 86, 'tokens': 687, 'ext': 'py', 'blanks': 50, 'comments': 20, 'file_path': 'tests/test_infer_param_optionality.py'}
+	8144d61f2c54d5ec5d23bbfc60ce41067208428c {'ccn': 16, 'avg_ccn': 1.1428571428571428, 'avg_loc': 5.214285714285714, 'avg_tokens': 41.57142857142857, 'num_funs': 14, 'loc': 86, 'tokens': 687, 'ext': 'py', 'blanks': 50, 'comments': 20, 'file_path': 'tests/test_infer_param_optionality.py'}
+	b1dc0fb11befc83d10fe05cb2e976898429b2179 {'ccn': 16, 'avg_ccn': 1.1428571428571428, 'avg_loc': 5.214285714285714, 'avg_tokens': 41.57142857142857, 'num_funs': 14, 'loc': 86, 'tokens': 687, 'ext': 'py', 'blanks': 50, 'comments': 20, 'file_path': 'tests/test_infer_param_optionality.py'}
+	d65f623a01d2acf89474a4b7bffd44b6c2b67c4b {'ccn': 16, 'avg_ccn': 1.1428571428571428, 'avg_loc': 5.214285714285714, 'avg_tokens': 41.57142857142857, 'num_funs': 14, 'loc': 86, 'tokens': 687, 'ext': 'py', 'blanks': 50, 'comments': 20, 'file_path': 'tests/test_infer_param_optionality.py'}
+	4763b451c0f66d051b33c584b016507ec9b2ffe0 {'ccn': 16, 'avg_ccn': 1.1428571428571428, 'avg_loc': 5.214285714285714, 'avg_tokens': 41.57142857142857, 'num_funs': 14, 'loc': 86, 'tokens': 687, 'ext': 'py', 'blanks': 50, 'comments': 20, 'file_path': 'tests/test_infer_param_optionality.py'}
+	568b63f985cc5f800ef60cda5c6318497ec0c106 {'ccn': 7, 'avg_ccn': 1.4, 'avg_loc': 22.8, 'avg_tokens': 57.4, 'num_funs': 5, 'loc': 127, 'tokens': 383, 'ext': 'py', 'blanks': 50, 'comments': 57, 'file_path': 'tests/test_infer_param_optionality.py'}
+	4d0f12786e2285b657abbbd69661a185e7551363 {'ccn': 7, 'avg_ccn': 1.4, 'avg_loc': 22.8, 'avg_tokens': 57.4, 'num_funs': 5, 'loc': 127, 'tokens': 383, 'ext': 'py', 'blanks': 49, 'comments': 57, 'file_path': 'tests/test_infer_param_optionality.py'}
+	21c11f39ff6d6d14ea39c578a5b4cbb7fd511e5b {'ccn': 8, 'avg_ccn': 1.3333333333333333, 'avg_loc': 17.5, 'avg_tokens': 65.0, 'num_funs': 6, 'loc': 118, 'tokens': 487, 'ext': 'py', 'blanks': 49, 'comments': 46, 'file_path': 'tests/test_infer_param_optionality.py'}
+	2900d40202c30f30421ef5ba24fdb592bd952f4a {'ccn': 8, 'avg_ccn': 1.3333333333333333, 'avg_loc': 18.0, 'avg_tokens': 60.0, 'num_funs': 6, 'loc': 121, 'tokens': 457, 'ext': 'py', 'blanks': 49, 'comments': 45, 'file_path': 'tests/test_infer_param_optionality.py'}
+	c6016d3d2b928e30536c5eccd3b837fdbf574a3a {'ccn': 8, 'avg_ccn': 1.3333333333333333, 'avg_loc': 18.0, 'avg_tokens': 60.0, 'num_funs': 6, 'loc': 121, 'tokens': 457, 'ext': 'py', 'blanks': 48, 'comments': 45, 'file_path': 'tests/test_infer_param_optionality.py'}
+	c0b368b25adcb76321a0fed7d5be361af4640c7a {'ccn': 8, 'avg_ccn': 1.3333333333333333, 'avg_loc': 17.5, 'avg_tokens': 65.0, 'num_funs': 6, 'loc': 118, 'tokens': 487, 'ext': 'py', 'blanks': 48, 'comments': 45, 'file_path': 'tests/test_infer_param_optionality.py'}
+	98430d9283683c51024368142d3c34c27b8d8684 {'ccn': 8, 'avg_ccn': 1.3333333333333333, 'avg_loc': 17.5, 'avg_tokens': 65.0, 'num_funs': 6, 'loc': 118, 'tokens': 487, 'ext': 'py', 'blanks': 47, 'comments': 45, 'file_path': 'tests/test_infer_param_optionality.py'}
+	d49bd8b1fdeffa412bbf4e46c78f5d473e0e88e8 {'ccn': 15, 'avg_ccn': 1.1538461538461537, 'avg_loc': 4.846153846153846, 'avg_tokens': 36.76923076923077, 'num_funs': 13, 'loc': 76, 'tokens': 582, 'ext': 'py', 'blanks': 47, 'comments': 28, 'file_path': 'tests/test_infer_param_optionality.py'}
+	91661d9a7b3a719ea69b2a064a7d95478fca5297 {'ccn': 9, 'avg_ccn': 1.2857142857142858, 'avg_loc': 14.428571428571429, 'avg_tokens': 59.57142857142857, 'num_funs': 7, 'loc': 114, 'tokens': 515, 'ext': 'py', 'blanks': 47, 'comments': 41, 'file_path': 'tests/test_infer_param_optionality.py'}
+	7f34a88a78ffd12fb8c6889158729c3b30a75c54 {'ccn': 9, 'avg_ccn': 1.2857142857142858, 'avg_loc': 14.428571428571429, 'avg_tokens': 59.57142857142857, 'num_funs': 7, 'loc': 114, 'tokens': 515, 'ext': 'py', 'blanks': 46, 'comments': 41, 'file_path': 'tests/test_infer_param_optionality.py'}
+	9c862582a473d8c40f269cbea7370cf4aa63821e {'ccn': 15, 'avg_ccn': 1.1538461538461537, 'avg_loc': 4.846153846153846, 'avg_tokens': 36.76923076923077, 'num_funs': 13, 'loc': 76, 'tokens': 582, 'ext': 'py', 'blanks': 46, 'comments': 27, 'file_path': 'tests/test_infer_param_optionality.py'}
+	864c6ae64120d34bcfd85f0983d81cab206b1ca9 {'ccn': 16, 'avg_ccn': 1.1428571428571428, 'avg_loc': 5.214285714285714, 'avg_tokens': 41.57142857142857, 'num_funs': 14, 'loc': 86, 'tokens': 687, 'ext': 'py', 'blanks': 40, 'comments': 10, 'file_path': 'tests/test_infer_param_optionality.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 467
+fastapi/applications.py
+	1b754464cc85c36bb1504b97b2330fe04a4af83b {'ccn': 31, 'avg_ccn': 1.4090909090909092, 'avg_loc': 14.318181818181818, 'avg_tokens': 96.77272727272727, 'num_funs': 22, 'loc': 565, 'tokens': 3309, 'ext': 'py', 'blanks': 33, 'comments': 0, 'file_path': 'fastapi/applications.py'}
+	a26d91ba861bee9e8f231d4eeb84f2cfd62f9556 {'ccn': 32, 'avg_ccn': 1.4545454545454546, 'avg_loc': 14.363636363636363, 'avg_tokens': 97.5, 'num_funs': 22, 'loc': 566, 'tokens': 3362, 'ext': 'py', 'blanks': 33, 'comments': 0, 'file_path': 'fastapi/applications.py'}
+fastapi/routing.py
+	1b754464cc85c36bb1504b97b2330fe04a4af83b {'ccn': 35, 'avg_ccn': 1.5217391304347827, 'avg_loc': 16.347826086956523, 'avg_tokens': 108.52173913043478, 'num_funs': 23, 'loc': 820, 'tokens': 4838, 'ext': 'py', 'blanks': 32, 'comments': 7, 'file_path': 'fastapi/routing.py'}
+	a26d91ba861bee9e8f231d4eeb84f2cfd62f9556 {'ccn': 35, 'avg_ccn': 1.5217391304347827, 'avg_loc': 16.347826086956523, 'avg_tokens': 108.78260869565217, 'num_funs': 23, 'loc': 816, 'tokens': 4834, 'ext': 'py', 'blanks': 32, 'comments': 7, 'file_path': 'fastapi/routing.py'}
+fastapi/openapi/utils.py
+	a26d91ba861bee9e8f231d4eeb84f2cfd62f9556 {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.111111111111111, 'avg_tokens': 43.111111111111114, 'num_funs': 9, 'loc': 266, 'tokens': 1670, 'ext': 'py', 'blanks': 23, 'comments': 0, 'file_path': 'fastapi/openapi/utils.py'}
+	68cf43e809db5cae16eac516410f477fcdef08c7 {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.111111111111111, 'avg_tokens': 43.111111111111114, 'num_funs': 9, 'loc': 267, 'tokens': 1681, 'ext': 'py', 'blanks': 23, 'comments': 0, 'file_path': 'fastapi/openapi/utils.py'}
+	e6cc70d5188aa7b0b31308e54b6c3226f8db4daf {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.111111111111111, 'avg_tokens': 43.111111111111114, 'num_funs': 9, 'loc': 267, 'tokens': 1677, 'ext': 'py', 'blanks': 23, 'comments': 0, 'file_path': 'fastapi/openapi/utils.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 589
+fastapi/routing.py
+	694714f9164bad36dc90dd842f8f66efbfcdb8f3 {'ccn': 37, 'avg_ccn': 1.5416666666666667, 'avg_loc': 16.25, 'avg_tokens': 107.79166666666667, 'num_funs': 24, 'loc': 820, 'tokens': 4887, 'ext': 'py', 'blanks': 33, 'comments': 9, 'file_path': 'fastapi/routing.py'}
+	fd152bd0f93e8ed2d2b1f7f24e380fd8d813e947 {'ccn': 37, 'avg_ccn': 1.5416666666666667, 'avg_loc': 16.25, 'avg_tokens': 107.79166666666667, 'num_funs': 24, 'loc': 820, 'tokens': 4887, 'ext': 'py', 'blanks': 33, 'comments': 9, 'file_path': 'fastapi/routing.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 637
+fastapi/utils.py
+	375d39d30e499ecdb603f077e7e08ddc732c0c99 {'ccn': 20, 'avg_ccn': 4.0, 'avg_loc': 15.0, 'avg_tokens': 107.8, 'num_funs': 5, 'loc': 95, 'tokens': 677, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'fastapi/utils.py'}
+	25540edd4dba23a5ee1ed2d34c2b52a38fd281f8 {'ccn': 19, 'avg_ccn': 3.8, 'avg_loc': 14.6, 'avg_tokens': 104.8, 'num_funs': 5, 'loc': 93, 'tokens': 662, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'fastapi/utils.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 642
+docs/src/path_operation_advanced_configuration/tutorial004.py
+	cd64b119057b6529c2d29d79f4fe5cab4397219b {'ccn': 4, 'avg_ccn': 2.0, 'avg_loc': 6.0, 'avg_tokens': 22.0, 'num_funs': 2, 'loc': 17, 'tokens': 73, 'ext': 'py', 'blanks': 8, 'comments': 5, 'file_path': 'docs/src/path_operation_advanced_configuration/tutorial004.py'}
+	7e8b7c0a0a0e96171e9d03e476d5e323cc463db5 {'ccn': 4, 'avg_ccn': 2.0, 'avg_loc': 6.0, 'avg_tokens': 22.0, 'num_funs': 2, 'loc': 17, 'tokens': 73, 'ext': 'py', 'blanks': 8, 'comments': 5, 'file_path': 'docs/src/path_operation_advanced_configuration/tutorial004.py'}
+	929ae2a6d1af044eccc525220ec3b1703b79ce66 {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 12.0, 'num_funs': 1, 'loc': 13, 'tokens': 77, 'ext': 'py', 'blanks': 7, 'comments': 10, 'file_path': 'docs/src/path_operation_advanced_configuration/tutorial004.py'}
+tests/test_tutorial/test_path_operation_advanced_configurations/test_tutorial004.py
+	dcfce8d52ba063b8d98d1c5e4f245f31c554e360 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 29.0, 'num_funs': 2, 'loc': 29, 'tokens': 145, 'ext': 'py', 'blanks': 7, 'comments': 0, 'file_path': 'tests/test_tutorial/test_path_operation_advanced_configurations/test_tutorial004.py'}
+	929ae2a6d1af044eccc525220ec3b1703b79ce66 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 7.0, 'avg_tokens': 43.0, 'num_funs': 2, 'loc': 105, 'tokens': 455, 'ext': 'py', 'blanks': 7, 'comments': 0, 'file_path': 'tests/test_tutorial/test_path_operation_advanced_configurations/test_tutorial004.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 646
+fastapi/applications.py
+	3edd070d4021bded1c542b4a5d21acddfc3b9e96 {'ccn': 34, 'avg_ccn': 1.4782608695652173, 'avg_loc': 14.130434782608695, 'avg_tokens': 96.69565217391305, 'num_funs': 23, 'loc': 580, 'tokens': 3477, 'ext': 'py', 'blanks': 34, 'comments': 0, 'file_path': 'fastapi/applications.py'}
+	9c88c73c538dc32c1ec15935d36945929384bfec {'ccn': 35, 'avg_ccn': 1.5217391304347827, 'avg_loc': 14.652173913043478, 'avg_tokens': 99.52173913043478, 'num_funs': 23, 'loc': 631, 'tokens': 3683, 'ext': 'py', 'blanks': 35, 'comments': 0, 'file_path': 'fastapi/applications.py'}
+fastapi/concurrency.py
+	3edd070d4021bded1c542b4a5d21acddfc3b9e96 {'ccn': 5, 'avg_ccn': 1.6666666666666667, 'avg_loc': 4.666666666666667, 'avg_tokens': 32.0, 'num_funs': 3, 'loc': 36, 'tokens': 163, 'ext': 'py', 'blanks': 10, 'comments': 4, 'file_path': 'fastapi/concurrency.py'}
+	261e847ac95c98d46fe967b4ab343f8e6139135f {'ccn': 5, 'avg_ccn': 1.6666666666666667, 'avg_loc': 4.666666666666667, 'avg_tokens': 32.0, 'num_funs': 3, 'loc': 35, 'tokens': 157, 'ext': 'py', 'blanks': 10, 'comments': 4, 'file_path': 'fastapi/concurrency.py'}
+	df71d57450e4df0fa271f966dc0007419ee51569 {'ccn': 5, 'avg_ccn': 1.6666666666666667, 'avg_loc': 4.666666666666667, 'avg_tokens': 32.0, 'num_funs': 3, 'loc': 36, 'tokens': 163, 'ext': 'py', 'blanks': 10, 'comments': 4, 'file_path': 'fastapi/concurrency.py'}
+fastapi/dependencies/models.py
+	3edd070d4021bded1c542b4a5d21acddfc3b9e96 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 11.5, 'avg_tokens': 80.0, 'num_funs': 2, 'loc': 48, 'tokens': 336, 'ext': 'py', 'blanks': 6, 'comments': 2, 'file_path': 'fastapi/dependencies/models.py'}
+	9c88c73c538dc32c1ec15935d36945929384bfec {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 11.5, 'avg_tokens': 80.0, 'num_funs': 2, 'loc': 51, 'tokens': 349, 'ext': 'py', 'blanks': 7, 'comments': 3, 'file_path': 'fastapi/dependencies/models.py'}
+fastapi/dependencies/utils.py
+	3edd070d4021bded1c542b4a5d21acddfc3b9e96 {'ccn': 57, 'avg_ccn': 2.85, 'avg_loc': 8.55, 'avg_tokens': 60.45, 'num_funs': 20, 'loc': 627, 'tokens': 3833, 'ext': 'py', 'blanks': 51, 'comments': 4, 'file_path': 'fastapi/dependencies/utils.py'}
+	9c88c73c538dc32c1ec15935d36945929384bfec {'ccn': 60, 'avg_ccn': 2.857142857142857, 'avg_loc': 9.666666666666666, 'avg_tokens': 63.714285714285715, 'num_funs': 21, 'loc': 716, 'tokens': 4189, 'ext': 'py', 'blanks': 56, 'comments': 5, 'file_path': 'fastapi/dependencies/utils.py'}
+	2ebc0049bfe42a82fa70bf2fdf27b56c58c135c6 {'ccn': 60, 'avg_ccn': 2.857142857142857, 'avg_loc': 9.666666666666666, 'avg_tokens': 63.714285714285715, 'num_funs': 21, 'loc': 718, 'tokens': 4199, 'ext': 'py', 'blanks': 56, 'comments': 6, 'file_path': 'fastapi/dependencies/utils.py'}
+	2ef1af806d4050980ab683cb8a77bcb6d076f714 {'ccn': 60, 'avg_ccn': 2.857142857142857, 'avg_loc': 9.666666666666666, 'avg_tokens': 63.714285714285715, 'num_funs': 21, 'loc': 718, 'tokens': 4199, 'ext': 'py', 'blanks': 56, 'comments': 6, 'file_path': 'fastapi/dependencies/utils.py'}
+fastapi/encoders.py
+	3edd070d4021bded1c542b4a5d21acddfc3b9e96 {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 9.0, 'avg_tokens': 61.0, 'num_funs': 1, 'loc': 110, 'tokens': 581, 'ext': 'py', 'blanks': 4, 'comments': 0, 'file_path': 'fastapi/encoders.py'}
+	9c88c73c538dc32c1ec15935d36945929384bfec {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 10.0, 'avg_tokens': 67.0, 'num_funs': 1, 'loc': 127, 'tokens': 648, 'ext': 'py', 'blanks': 4, 'comments': 0, 'file_path': 'fastapi/encoders.py'}
+fastapi/exceptions.py
+	3edd070d4021bded1c542b4a5d21acddfc3b9e96 {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 22.333333333333332, 'num_funs': 3, 'loc': 18, 'tokens': 149, 'ext': 'py', 'blanks': 9, 'comments': 0, 'file_path': 'fastapi/exceptions.py'}
+	9c88c73c538dc32c1ec15935d36945929384bfec {'ccn': 5, 'avg_ccn': 1.6666666666666667, 'avg_loc': 4.0, 'avg_tokens': 32.333333333333336, 'num_funs': 3, 'loc': 27, 'tokens': 197, 'ext': 'py', 'blanks': 9, 'comments': 0, 'file_path': 'fastapi/exceptions.py'}
+fastapi/openapi/models.py
+	3edd070d4021bded1c542b4a5d21acddfc3b9e96 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 254, 'tokens': 2154, 'ext': 'py', 'blanks': 91, 'comments': 6, 'file_path': 'fastapi/openapi/models.py'}
+	ac972f00876f62cb2771fdbeef4c4ccc83226529 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 254, 'tokens': 2159, 'ext': 'py', 'blanks': 91, 'comments': 6, 'file_path': 'fastapi/openapi/models.py'}
+	4d82c6af03f0732d23b36ece53ed964a49f4b583 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 250, 'tokens': 2159, 'ext': 'py', 'blanks': 91, 'comments': 6, 'file_path': 'fastapi/openapi/models.py'}
+	9c88c73c538dc32c1ec15935d36945929384bfec {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 257, 'tokens': 2185, 'ext': 'py', 'blanks': 91, 'comments': 8, 'file_path': 'fastapi/openapi/models.py'}
+fastapi/openapi/utils.py
+	3edd070d4021bded1c542b4a5d21acddfc3b9e96 {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.111111111111111, 'avg_tokens': 43.44444444444444, 'num_funs': 9, 'loc': 268, 'tokens': 1686, 'ext': 'py', 'blanks': 23, 'comments': 0, 'file_path': 'fastapi/openapi/utils.py'}
+	9c88c73c538dc32c1ec15935d36945929384bfec {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.111111111111111, 'avg_tokens': 43.55555555555556, 'num_funs': 9, 'loc': 272, 'tokens': 1704, 'ext': 'py', 'blanks': 24, 'comments': 1, 'file_path': 'fastapi/openapi/utils.py'}
+	b31e79b81462201220419cb52c4b3943e29387ca {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.111111111111111, 'avg_tokens': 43.55555555555556, 'num_funs': 9, 'loc': 278, 'tokens': 1718, 'ext': 'py', 'blanks': 24, 'comments': 1, 'file_path': 'fastapi/openapi/utils.py'}
+fastapi/params.py
+	3edd070d4021bded1c542b4a5d21acddfc3b9e96 {'ccn': 10, 'avg_ccn': 1.0, 'avg_loc': 13.9, 'avg_tokens': 71.6, 'num_funs': 10, 'loc': 297, 'tokens': 1353, 'ext': 'py', 'blanks': 28, 'comments': 0, 'file_path': 'fastapi/params.py'}
+	9c88c73c538dc32c1ec15935d36945929384bfec {'ccn': 10, 'avg_ccn': 1.0, 'avg_loc': 13.9, 'avg_tokens': 71.6, 'num_funs': 10, 'loc': 300, 'tokens': 1364, 'ext': 'py', 'blanks': 28, 'comments': 1, 'file_path': 'fastapi/params.py'}
+fastapi/routing.py
+	3edd070d4021bded1c542b4a5d21acddfc3b9e96 {'ccn': 37, 'avg_ccn': 1.5416666666666667, 'avg_loc': 16.25, 'avg_tokens': 107.79166666666667, 'num_funs': 24, 'loc': 820, 'tokens': 4887, 'ext': 'py', 'blanks': 33, 'comments': 9, 'file_path': 'fastapi/routing.py'}
+	9c88c73c538dc32c1ec15935d36945929384bfec {'ccn': 38, 'avg_ccn': 1.5833333333333333, 'avg_loc': 16.75, 'avg_tokens': 110.5, 'num_funs': 24, 'loc': 905, 'tokens': 5223, 'ext': 'py', 'blanks': 35, 'comments': 10, 'file_path': 'fastapi/routing.py'}
+	b31e79b81462201220419cb52c4b3943e29387ca {'ccn': 38, 'avg_ccn': 1.5833333333333333, 'avg_loc': 16.75, 'avg_tokens': 110.5, 'num_funs': 24, 'loc': 912, 'tokens': 5251, 'ext': 'py', 'blanks': 35, 'comments': 10, 'file_path': 'fastapi/routing.py'}
+fastapi/utils.py
+	3edd070d4021bded1c542b4a5d21acddfc3b9e96 {'ccn': 19, 'avg_ccn': 3.8, 'avg_loc': 14.8, 'avg_tokens': 104.8, 'num_funs': 5, 'loc': 94, 'tokens': 662, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'fastapi/utils.py'}
+	9c88c73c538dc32c1ec15935d36945929384bfec {'ccn': 25, 'avg_ccn': 3.5714285714285716, 'avg_loc': 14.714285714285714, 'avg_tokens': 90.42857142857143, 'num_funs': 7, 'loc': 135, 'tokens': 814, 'ext': 'py', 'blanks': 19, 'comments': 3, 'file_path': 'fastapi/utils.py'}
+	b31e79b81462201220419cb52c4b3943e29387ca {'ccn': 25, 'avg_ccn': 3.5714285714285716, 'avg_loc': 14.571428571428571, 'avg_tokens': 90.42857142857143, 'num_funs': 7, 'loc': 134, 'tokens': 814, 'ext': 'py', 'blanks': 19, 'comments': 3, 'file_path': 'fastapi/utils.py'}
+	1446ec6292c2f7e1edff739e72fea59293ede268 {'ccn': 26, 'avg_ccn': 3.7142857142857144, 'avg_loc': 15.0, 'avg_tokens': 91.85714285714286, 'num_funs': 7, 'loc': 137, 'tokens': 824, 'ext': 'py', 'blanks': 19, 'comments': 4, 'file_path': 'fastapi/utils.py'}
+tests/test_jsonable_encoder.py
+	3edd070d4021bded1c542b4a5d21acddfc3b9e96 {'ccn': 15, 'avg_ccn': 1.1538461538461537, 'avg_loc': 2.8461538461538463, 'avg_tokens': 24.0, 'num_funs': 13, 'loc': 65, 'tokens': 460, 'ext': 'py', 'blanks': 36, 'comments': 0, 'file_path': 'tests/test_jsonable_encoder.py'}
+	d836487e9108ce58df6369f873b7a8c9f9fe1950 {'ccn': 15, 'avg_ccn': 1.1538461538461537, 'avg_loc': 2.8461538461538463, 'avg_tokens': 24.0, 'num_funs': 13, 'loc': 69, 'tokens': 473, 'ext': 'py', 'blanks': 37, 'comments': 1, 'file_path': 'tests/test_jsonable_encoder.py'}
+tests/test_tutorial/test_body_schema/test_tutorial001.py
+	3edd070d4021bded1c542b4a5d21acddfc3b9e96 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 31.5, 'num_funs': 2, 'loc': 159, 'tokens': 665, 'ext': 'py', 'blanks': 10, 'comments': 0, 'file_path': 'tests/test_tutorial/test_body_schema/test_tutorial001.py'}
+	d836487e9108ce58df6369f873b7a8c9f9fe1950 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 31.5, 'num_funs': 2, 'loc': 164, 'tokens': 683, 'ext': 'py', 'blanks': 12, 'comments': 1, 'file_path': 'tests/test_tutorial/test_body_schema/test_tutorial001.py'}
+	d20092c2985a301c8be8490c008778c46b3bd013 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 31.5, 'num_funs': 2, 'loc': 164, 'tokens': 683, 'ext': 'py', 'blanks': 13, 'comments': 1, 'file_path': 'tests/test_tutorial/test_body_schema/test_tutorial001.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 722
+fastapi/applications.py
+	f95551b6e40bdcb7019907e8b848b160e258c7f0 {'ccn': 35, 'avg_ccn': 1.5217391304347827, 'avg_loc': 14.695652173913043, 'avg_tokens': 99.91304347826087, 'num_funs': 23, 'loc': 633, 'tokens': 3696, 'ext': 'py', 'blanks': 35, 'comments': 0, 'file_path': 'fastapi/applications.py'}
+	6ed671201d6b191d766686029fc60ac2a2af4566 {'ccn': 35, 'avg_ccn': 1.5217391304347827, 'avg_loc': 15.0, 'avg_tokens': 102.65217391304348, 'num_funs': 23, 'loc': 647, 'tokens': 3787, 'ext': 'py', 'blanks': 35, 'comments': 0, 'file_path': 'fastapi/applications.py'}
+	38796795b5d2cd262d3ee2ae4861ddf29f97a6ce {'ccn': 35, 'avg_ccn': 1.5217391304347827, 'avg_loc': 15.0, 'avg_tokens': 103.34782608695652, 'num_funs': 23, 'loc': 647, 'tokens': 3803, 'ext': 'py', 'blanks': 35, 'comments': 0, 'file_path': 'fastapi/applications.py'}
+fastapi/openapi/utils.py
+	f95551b6e40bdcb7019907e8b848b160e258c7f0 {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.111111111111111, 'avg_tokens': 43.55555555555556, 'num_funs': 9, 'loc': 287, 'tokens': 1785, 'ext': 'py', 'blanks': 26, 'comments': 4, 'file_path': 'fastapi/openapi/utils.py'}
+	e116831c568c37be0375603568d3418067ba8e10 {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.111111111111111, 'avg_tokens': 43.55555555555556, 'num_funs': 9, 'loc': 289, 'tokens': 1785, 'ext': 'py', 'blanks': 25, 'comments': 4, 'file_path': 'fastapi/openapi/utils.py'}
+	6d0bb2d0cc8b53b89ee468c194cdc20a9b231919 {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.111111111111111, 'avg_tokens': 43.55555555555556, 'num_funs': 9, 'loc': 286, 'tokens': 1771, 'ext': 'py', 'blanks': 24, 'comments': 1, 'file_path': 'fastapi/openapi/utils.py'}
+fastapi/routing.py
+	f95551b6e40bdcb7019907e8b848b160e258c7f0 {'ccn': 38, 'avg_ccn': 1.5833333333333333, 'avg_loc': 16.958333333333332, 'avg_tokens': 112.375, 'num_funs': 24, 'loc': 920, 'tokens': 5313, 'ext': 'py', 'blanks': 35, 'comments': 10, 'file_path': 'fastapi/routing.py'}
+	e116831c568c37be0375603568d3418067ba8e10 {'ccn': 38, 'avg_ccn': 1.5833333333333333, 'avg_loc': 16.958333333333332, 'avg_tokens': 112.29166666666667, 'num_funs': 24, 'loc': 920, 'tokens': 5311, 'ext': 'py', 'blanks': 35, 'comments': 10, 'file_path': 'fastapi/routing.py'}
+	15c18c221ac02184e775f7c8a5bc3fb14b7bf390 {'ccn': 38, 'avg_ccn': 1.5833333333333333, 'avg_loc': 17.083333333333332, 'avg_tokens': 113.41666666666667, 'num_funs': 24, 'loc': 926, 'tokens': 5350, 'ext': 'py', 'blanks': 35, 'comments': 10, 'file_path': 'fastapi/routing.py'}
+	6ed671201d6b191d766686029fc60ac2a2af4566 {'ccn': 38, 'avg_ccn': 1.5833333333333333, 'avg_loc': 17.25, 'avg_tokens': 114.91666666666667, 'num_funs': 24, 'loc': 934, 'tokens': 5402, 'ext': 'py', 'blanks': 35, 'comments': 10, 'file_path': 'fastapi/routing.py'}
+	e6415b4b151ef00dec54d1ccc0c9354e6f5fdf1e {'ccn': 39, 'avg_ccn': 1.625, 'avg_loc': 17.291666666666668, 'avg_tokens': 115.45833333333333, 'num_funs': 24, 'loc': 936, 'tokens': 5456, 'ext': 'py', 'blanks': 35, 'comments': 10, 'file_path': 'fastapi/routing.py'}
+fastapi/utils.py
+	f95551b6e40bdcb7019907e8b848b160e258c7f0 {'ccn': 27, 'avg_ccn': 3.857142857142857, 'avg_loc': 15.428571428571429, 'avg_tokens': 96.14285714285714, 'num_funs': 7, 'loc': 139, 'tokens': 851, 'ext': 'py', 'blanks': 18, 'comments': 4, 'file_path': 'fastapi/utils.py'}
+	a00b9ccfd47e27f63be2048e8d1ca63b9136348b {'ccn': 27, 'avg_ccn': 3.857142857142857, 'avg_loc': 15.428571428571429, 'avg_tokens': 94.42857142857143, 'num_funs': 7, 'loc': 139, 'tokens': 839, 'ext': 'py', 'blanks': 18, 'comments': 4, 'file_path': 'fastapi/utils.py'}
+tests/test_callbacks.py
+	5591de21a0e0a4820b21358086f18a8c02a05438 {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 2.6666666666666665, 'avg_tokens': 15.0, 'num_funs': 3, 'loc': 211, 'tokens': 184, 'ext': 'py', 'blanks': 18, 'comments': 182, 'file_path': 'tests/test_callbacks.py'}
+	a48229194d9b16205b76e4eab7eb11bda7bc9bae {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 2.6666666666666665, 'avg_tokens': 15.0, 'num_funs': 3, 'loc': 218, 'tokens': 185, 'ext': 'py', 'blanks': 22, 'comments': 182, 'file_path': 'tests/test_callbacks.py'}
+	8b5bb4558366dc9a776cc655fab4ccf5cf5d3e47 {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 2.6666666666666665, 'avg_tokens': 15.0, 'num_funs': 3, 'loc': 218, 'tokens': 185, 'ext': 'py', 'blanks': 22, 'comments': 182, 'file_path': 'tests/test_callbacks.py'}
+docs/src/openapi_callbacks/tutorial001.py
+	fb030af602e513fd8c14d38d37c7554413383b7c {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 11.0, 'num_funs': 2, 'loc': 26, 'tokens': 136, 'ext': 'py', 'blanks': 16, 'comments': 1, 'file_path': 'docs/src/openapi_callbacks/tutorial001.py'}
+	533d159aa5ac51eb31d7f6ea9e9e77b093f43784 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 14.0, 'num_funs': 2, 'loc': 24, 'tokens': 127, 'ext': 'py', 'blanks': 16, 'comments': 13, 'file_path': 'docs/src/openapi_callbacks/tutorial001.py'}
+	699832ec9530bd661a6fe72da7e9cd239abac2e3 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 14.0, 'num_funs': 2, 'loc': 24, 'tokens': 127, 'ext': 'py', 'blanks': 16, 'comments': 13, 'file_path': 'docs/src/openapi_callbacks/tutorial001.py'}
+tests/test_tutorial/test_extra_models/test_tutorial005.py
+	1e5588a98903cdabe07d65d0e02c9f4728a78136 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 32.0, 'num_funs': 2, 'loc': 37, 'tokens': 167, 'ext': 'py', 'blanks': 7, 'comments': 0, 'file_path': 'tests/test_tutorial/test_extra_models/test_tutorial005.py'}
+	8db66979252d2a2ed4339bdd1ce9f82cc4b200e4 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 32.0, 'num_funs': 2, 'loc': 37, 'tokens': 167, 'ext': 'py', 'blanks': 7, 'comments': 0, 'file_path': 'tests/test_tutorial/test_extra_models/test_tutorial005.py'}
+tests/test_tutorial/test_openapi_callbacks/test_tutorial001.py
+	da4a17250242c2f1269ba5d81b07a6318115bc6b {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 26.666666666666668, 'num_funs': 3, 'loc': 148, 'tokens': 607, 'ext': 'py', 'blanks': 10, 'comments': 1, 'file_path': 'tests/test_tutorial/test_openapi_callbacks/test_tutorial001.py'}
+	8db66979252d2a2ed4339bdd1ce9f82cc4b200e4 {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 26.666666666666668, 'num_funs': 3, 'loc': 163, 'tokens': 655, 'ext': 'py', 'blanks': 10, 'comments': 1, 'file_path': 'tests/test_tutorial/test_openapi_callbacks/test_tutorial001.py'}
+	a4f96d2d4e36dd087763c9f40ea9569382cd0467 {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 26.666666666666668, 'num_funs': 3, 'loc': 163, 'tokens': 655, 'ext': 'py', 'blanks': 10, 'comments': 1, 'file_path': 'tests/test_tutorial/test_openapi_callbacks/test_tutorial001.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 756
+fastapi/encoders.py
+	fec532f4b0440adf9387a151be10b476ef5872f6 {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 10.0, 'avg_tokens': 67.0, 'num_funs': 1, 'loc': 132, 'tokens': 689, 'ext': 'py', 'blanks': 4, 'comments': 0, 'file_path': 'fastapi/encoders.py'}
+	11327c39ff132d658f3f17c17b728464e46214aa {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 10.0, 'avg_tokens': 67.0, 'num_funs': 1, 'loc': 127, 'tokens': 658, 'ext': 'py', 'blanks': 4, 'comments': 0, 'file_path': 'fastapi/encoders.py'}
+	67e0239f1c14b6e63ebbc6d098197ca926a781c0 {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 10.0, 'avg_tokens': 67.0, 'num_funs': 1, 'loc': 133, 'tokens': 701, 'ext': 'py', 'blanks': 7, 'comments': 0, 'file_path': 'fastapi/encoders.py'}
+	ce045243fa5e54cdf6773df2f9e918f7734a3005 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 6.0, 'avg_tokens': 38.5, 'num_funs': 2, 'loc': 144, 'tokens': 800, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'fastapi/encoders.py'}
+tests/test_inherited_custom_class.py
+	11327c39ff132d658f3f17c17b728464e46214aa {'ccn': 6, 'avg_ccn': 1.0, 'avg_loc': 3.1666666666666665, 'avg_tokens': 19.333333333333332, 'num_funs': 6, 'loc': 29, 'tokens': 161, 'ext': 'py', 'blanks': 15, 'comments': 6, 'file_path': 'tests/test_inherited_custom_class.py'}
+	67e0239f1c14b6e63ebbc6d098197ca926a781c0 {'ccn': 7, 'avg_ccn': 1.0, 'avg_loc': 3.857142857142857, 'avg_tokens': 21.428571428571427, 'num_funs': 7, 'loc': 44, 'tokens': 231, 'ext': 'py', 'blanks': 22, 'comments': 7, 'file_path': 'tests/test_inherited_custom_class.py'}
+	d866c7dea0ea37fd8e6655c781bb1de5c2ebb492 {'ccn': 7, 'avg_ccn': 1.0, 'avg_loc': 3.857142857142857, 'avg_tokens': 21.428571428571427, 'num_funs': 7, 'loc': 44, 'tokens': 231, 'ext': 'py', 'blanks': 22, 'comments': 7, 'file_path': 'tests/test_inherited_custom_class.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 797
+fastapi/security/oauth2.py
+	28d50d3dbbfe00ce604f869e417dd401c1bdb62d {'ccn': 18, 'avg_ccn': 2.0, 'avg_loc': 8.444444444444445, 'avg_tokens': 51.888888888888886, 'num_funs': 9, 'loc': 190, 'tokens': 767, 'ext': 'py', 'blanks': 26, 'comments': 54, 'file_path': 'fastapi/security/oauth2.py'}
+	b426c43ea3420fcbe09eb2cadc815abb0d36d6e5 {'ccn': 18, 'avg_ccn': 2.0, 'avg_loc': 8.333333333333334, 'avg_tokens': 51.44444444444444, 'num_funs': 9, 'loc': 189, 'tokens': 763, 'ext': 'py', 'blanks': 26, 'comments': 54, 'file_path': 'fastapi/security/oauth2.py'}
+	04a0fdd14d64553c077b037db9f68fab8a487e33 {'ccn': 18, 'avg_ccn': 2.0, 'avg_loc': 8.333333333333334, 'avg_tokens': 51.44444444444444, 'num_funs': 9, 'loc': 189, 'tokens': 763, 'ext': 'py', 'blanks': 26, 'comments': 54, 'file_path': 'fastapi/security/oauth2.py'}
+	1ddf49a1109a4867583c284ea9532f54f915707d {'ccn': 18, 'avg_ccn': 2.0, 'avg_loc': 8.333333333333334, 'avg_tokens': 51.44444444444444, 'num_funs': 9, 'loc': 189, 'tokens': 763, 'ext': 'py', 'blanks': 26, 'comments': 54, 'file_path': 'fastapi/security/oauth2.py'}
+	865f0cfe18fd16234d53702d13153b1f143dbedd {'ccn': 18, 'avg_ccn': 2.0, 'avg_loc': 8.333333333333334, 'avg_tokens': 51.44444444444444, 'num_funs': 9, 'loc': 188, 'tokens': 763, 'ext': 'py', 'blanks': 26, 'comments': 54, 'file_path': 'fastapi/security/oauth2.py'}
+	d5b80b128b09cd0eb77f64add54e273f6de3d6d3 {'ccn': 18, 'avg_ccn': 2.0, 'avg_loc': 8.333333333333334, 'avg_tokens': 51.44444444444444, 'num_funs': 9, 'loc': 188, 'tokens': 763, 'ext': 'py', 'blanks': 26, 'comments': 54, 'file_path': 'fastapi/security/oauth2.py'}
+fastapi/security/__init__.py
+	d472f7a2629c1afca8963fc0f29c4615e3f31fcc {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 16, 'tokens': 46, 'ext': 'py', 'blanks': 0, 'comments': 0, 'file_path': 'fastapi/security/__init__.py'}
+	4118c03877891225cdbe3d47240816a2dac5e9ef {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 16, 'tokens': 46, 'ext': 'py', 'blanks': 0, 'comments': 0, 'file_path': 'fastapi/security/__init__.py'}
+tests/test_security_oauth2_authorization_code_bearer_optional.py
+	8b0b4db75f196cdceec81d3220e866b4bd3e48cc {'ccn': 6, 'avg_ccn': 1.2, 'avg_loc': 4.0, 'avg_tokens': 32.8, 'num_funs': 5, 'loc': 65, 'tokens': 343, 'ext': 'py', 'blanks': 16, 'comments': 0, 'file_path': 'tests/test_security_oauth2_authorization_code_bearer_optional.py'}
+	865f0cfe18fd16234d53702d13153b1f143dbedd {'ccn': 6, 'avg_ccn': 1.2, 'avg_loc': 4.0, 'avg_tokens': 32.8, 'num_funs': 5, 'loc': 63, 'tokens': 343, 'ext': 'py', 'blanks': 16, 'comments': 0, 'file_path': 'tests/test_security_oauth2_authorization_code_bearer_optional.py'}
+	480f79eb8779a30d1312de1e93f17ff625c90e44 {'ccn': 6, 'avg_ccn': 1.2, 'avg_loc': 4.0, 'avg_tokens': 32.8, 'num_funs': 5, 'loc': 63, 'tokens': 343, 'ext': 'py', 'blanks': 16, 'comments': 0, 'file_path': 'tests/test_security_oauth2_authorization_code_bearer_optional.py'}
+	fc1f5f456106cb0eab928c27d3bfb0eee670e67c {'ccn': 6, 'avg_ccn': 1.2, 'avg_loc': 4.0, 'avg_tokens': 32.8, 'num_funs': 5, 'loc': 63, 'tokens': 343, 'ext': 'py', 'blanks': 16, 'comments': 0, 'file_path': 'tests/test_security_oauth2_authorization_code_bearer_optional.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 853
+fastapi/exceptions.py
+	20d9946187a056967cc7538acb7e8821ea695457 {'ccn': 5, 'avg_ccn': 1.6666666666666667, 'avg_loc': 4.333333333333333, 'avg_tokens': 35.333333333333336, 'num_funs': 3, 'loc': 28, 'tokens': 206, 'ext': 'py', 'blanks': 9, 'comments': 0, 'file_path': 'fastapi/exceptions.py'}
+	26978595824c110b35c65b6fad99526099315e7e {'ccn': 5, 'avg_ccn': 1.6666666666666667, 'avg_loc': 4.333333333333333, 'avg_tokens': 36.666666666666664, 'num_funs': 3, 'loc': 28, 'tokens': 210, 'ext': 'py', 'blanks': 9, 'comments': 0, 'file_path': 'fastapi/exceptions.py'}
+fastapi/routing.py
+	20d9946187a056967cc7538acb7e8821ea695457 {'ccn': 39, 'avg_ccn': 1.625, 'avg_loc': 17.291666666666668, 'avg_tokens': 115.54166666666667, 'num_funs': 24, 'loc': 937, 'tokens': 5464, 'ext': 'py', 'blanks': 35, 'comments': 10, 'file_path': 'fastapi/routing.py'}
+	26978595824c110b35c65b6fad99526099315e7e {'ccn': 39, 'avg_ccn': 1.625, 'avg_loc': 17.291666666666668, 'avg_tokens': 115.625, 'num_funs': 24, 'loc': 937, 'tokens': 5466, 'ext': 'py', 'blanks': 35, 'comments': 10, 'file_path': 'fastapi/routing.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 899
+fastapi/utils.py
+	ad5177c9367d795a842a8bab33f7d4c046ef7cef {'ccn': 27, 'avg_ccn': 3.857142857142857, 'avg_loc': 15.142857142857142, 'avg_tokens': 94.57142857142857, 'num_funs': 7, 'loc': 137, 'tokens': 840, 'ext': 'py', 'blanks': 18, 'comments': 4, 'file_path': 'fastapi/utils.py'}
+	ece03c64b2530fb0e01d47792a03cac54509b38d {'ccn': 27, 'avg_ccn': 3.857142857142857, 'avg_loc': 15.0, 'avg_tokens': 93.57142857142857, 'num_funs': 7, 'loc': 136, 'tokens': 833, 'ext': 'py', 'blanks': 18, 'comments': 4, 'file_path': 'fastapi/utils.py'}
+tests/test_filter_pydantic_sub_model.py
+	ad5177c9367d795a842a8bab33f7d4c046ef7cef {'ccn': 5, 'avg_ccn': 1.0, 'avg_loc': 3.8, 'avg_tokens': 25.6, 'num_funs': 5, 'loc': 76, 'tokens': 387, 'ext': 'py', 'blanks': 20, 'comments': 0, 'file_path': 'tests/test_filter_pydantic_sub_model.py'}
+	ece03c64b2530fb0e01d47792a03cac54509b38d {'ccn': 7, 'avg_ccn': 1.0, 'avg_loc': 3.5714285714285716, 'avg_tokens': 23.571428571428573, 'num_funs': 7, 'loc': 84, 'tokens': 436, 'ext': 'py', 'blanks': 22, 'comments': 0, 'file_path': 'tests/test_filter_pydantic_sub_model.py'}
+	c802d3b9b18fb2d900c9e9fbdb1a833ebf07e41d {'ccn': 7, 'avg_ccn': 1.1666666666666667, 'avg_loc': 5.0, 'avg_tokens': 31.666666666666668, 'num_funs': 6, 'loc': 131, 'tokens': 622, 'ext': 'py', 'blanks': 22, 'comments': 0, 'file_path': 'tests/test_filter_pydantic_sub_model.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 994
+fastapi/openapi/utils.py
+	2a96253997584bce61b5ed203ddd3061f84a2d3f {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.111111111111111, 'avg_tokens': 43.55555555555556, 'num_funs': 9, 'loc': 286, 'tokens': 1789, 'ext': 'py', 'blanks': 24, 'comments': 1, 'file_path': 'fastapi/openapi/utils.py'}
+	5b80a7a660ad76a7f58579dd9f0c886beb5a4900 {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.111111111111111, 'avg_tokens': 43.55555555555556, 'num_funs': 9, 'loc': 288, 'tokens': 1789, 'ext': 'py', 'blanks': 24, 'comments': 1, 'file_path': 'fastapi/openapi/utils.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1079
+fastapi/dependencies/utils.py
+	c0ac3d95cad1fcfdea9d2abf7a8593cfdaa4b906 {'ccn': 64, 'avg_ccn': 2.909090909090909, 'avg_loc': 8.818181818181818, 'avg_tokens': 60.86363636363637, 'num_funs': 22, 'loc': 692, 'tokens': 4127, 'ext': 'py', 'blanks': 59, 'comments': 6, 'file_path': 'fastapi/dependencies/utils.py'}
+	2f345f84a5b06875c8d8d66d556a43bffaa080b3 {'ccn': 63, 'avg_ccn': 2.8636363636363638, 'avg_loc': 8.454545454545455, 'avg_tokens': 59.54545454545455, 'num_funs': 22, 'loc': 684, 'tokens': 4098, 'ext': 'py', 'blanks': 58, 'comments': 8, 'file_path': 'fastapi/dependencies/utils.py'}
+tests/test_dependency_duplicates.py
+	c0ac3d95cad1fcfdea9d2abf7a8593cfdaa4b906 {'ccn': 6, 'avg_ccn': 1.0, 'avg_loc': 2.6666666666666665, 'avg_tokens': 23.833333333333332, 'num_funs': 6, 'loc': 49, 'tokens': 293, 'ext': 'py', 'blanks': 16, 'comments': 0, 'file_path': 'tests/test_dependency_duplicates.py'}
+	fd7d0b8e757af562cb8cb2f95803212247f3e0a0 {'ccn': 11, 'avg_ccn': 1.0, 'avg_loc': 4.181818181818182, 'avg_tokens': 30.90909090909091, 'num_funs': 11, 'loc': 203, 'tokens': 935, 'ext': 'py', 'blanks': 29, 'comments': 0, 'file_path': 'tests/test_dependency_duplicates.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1199
+fastapi/applications.py
+	edd212d1bf261d912feba9c8e0eeb4f64671abfc {'ccn': 38, 'avg_ccn': 1.5833333333333333, 'avg_loc': 14.958333333333334, 'avg_tokens': 104.29166666666667, 'num_funs': 24, 'loc': 665, 'tokens': 3948, 'ext': 'py', 'blanks': 37, 'comments': 0, 'file_path': 'fastapi/applications.py'}
+	79d056a071567964c869a66482a64df41be9ff6b {'ccn': 39, 'avg_ccn': 1.625, 'avg_loc': 14.958333333333334, 'avg_tokens': 104.58333333333333, 'num_funs': 24, 'loc': 665, 'tokens': 3955, 'ext': 'py', 'blanks': 37, 'comments': 0, 'file_path': 'fastapi/applications.py'}
+	dc4c05c19a570fb7cba104581b94f7d25a83c630 {'ccn': 37, 'avg_ccn': 1.608695652173913, 'avg_loc': 15.608695652173912, 'avg_tokens': 109.1304347826087, 'num_funs': 23, 'loc': 673, 'tokens': 3969, 'ext': 'py', 'blanks': 36, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+docs_src/extending_openapi/tutorial001.py
+	230c0a334f77c9aea2c66d45dccba7034c02c51d {'ccn': 3, 'avg_ccn': 1.5, 'avg_loc': 8.0, 'avg_tokens': 36.5, 'num_funs': 2, 'loc': 21, 'tokens': 105, 'ext': 'py', 'blanks': 7, 'comments': 0, 'file_path': 'docs_src/extending_openapi/tutorial001.py'}
+	8e2f059cce65ab619657440cfcc12098f440aa1b {'ccn': 3, 'avg_ccn': 1.5, 'avg_loc': 8.5, 'avg_tokens': 38.5, 'num_funs': 2, 'loc': 22, 'tokens': 109, 'ext': 'py', 'blanks': 7, 'comments': 0, 'file_path': 'docs_src/extending_openapi/tutorial001.py'}
+tests/test_duplicate_models_openapi.py
+	230c0a334f77c9aea2c66d45dccba7034c02c51d {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 7.5, 'avg_tokens': 35.0, 'num_funs': 2, 'loc': 16, 'tokens': 78, 'ext': 'py', 'blanks': 7, 'comments': 0, 'file_path': 'tests/test_duplicate_models_openapi.py'}
+	cab212fb166f1b8727416cfea9c880bb7505b8c6 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 7.5, 'avg_tokens': 34.5, 'num_funs': 2, 'loc': 16, 'tokens': 77, 'ext': 'py', 'blanks': 7, 'comments': 0, 'file_path': 'tests/test_duplicate_models_openapi.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1267
+docs_src/schema_extra_example/tutorial004.py
+	66e34031a6bc09ac93f4cfaec4c3da10e89171c5 {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 35.0, 'avg_tokens': 121.0, 'num_funs': 1, 'loc': 47, 'tokens': 184, 'ext': 'py', 'blanks': 5, 'comments': 0, 'file_path': 'docs_src/schema_extra_example/tutorial004.py'}
+	42dec8c409da6e244aceceaa1c100a8d30a8e4e8 {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 35.0, 'avg_tokens': 121.0, 'num_funs': 1, 'loc': 47, 'tokens': 182, 'ext': 'py', 'blanks': 5, 'comments': 0, 'file_path': 'docs_src/schema_extra_example/tutorial004.py'}
+	9eb2826efa39bb3fa8a2c921b8574f8c647c74ac {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 33.0, 'avg_tokens': 109.0, 'num_funs': 1, 'loc': 46, 'tokens': 180, 'ext': 'py', 'blanks': 6, 'comments': 0, 'file_path': 'docs_src/schema_extra_example/tutorial004.py'}
+fastapi/openapi/utils.py
+	66e34031a6bc09ac93f4cfaec4c3da10e89171c5 {'ccn': 11, 'avg_ccn': 1.2222222222222223, 'avg_loc': 3.7777777777777777, 'avg_tokens': 30.22222222222222, 'num_funs': 9, 'loc': 357, 'tokens': 2253, 'ext': 'py', 'blanks': 23, 'comments': 0, 'file_path': 'fastapi/openapi/utils.py'}
+	dd54104efdf37e84f2af3ff9bd665b649a32bdb8 {'ccn': 11, 'avg_ccn': 1.2222222222222223, 'avg_loc': 3.7777777777777777, 'avg_tokens': 30.22222222222222, 'num_funs': 9, 'loc': 363, 'tokens': 2310, 'ext': 'py', 'blanks': 23, 'comments': 0, 'file_path': 'fastapi/openapi/utils.py'}
+tests/test_tutorial/test_schema_extra_example/test_tutorial004.py
+	42dec8c409da6e244aceceaa1c100a8d30a8e4e8 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 33.5, 'num_funs': 2, 'loc': 185, 'tokens': 712, 'ext': 'py', 'blanks': 7, 'comments': 1, 'file_path': 'tests/test_tutorial/test_schema_extra_example/test_tutorial004.py'}
+	f9ba2f81efe1a54e25510b5e09a83c7f8c3049c5 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 7.5, 'avg_tokens': 37.0, 'num_funs': 2, 'loc': 130, 'tokens': 546, 'ext': 'py', 'blanks': 7, 'comments': 1, 'file_path': 'tests/test_tutorial/test_schema_extra_example/test_tutorial004.py'}
+	3984eeb672cc63ebacdd7fd7c89560c43dec09d4 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 7.5, 'avg_tokens': 37.0, 'num_funs': 2, 'loc': 126, 'tokens': 530, 'ext': 'py', 'blanks': 7, 'comments': 1, 'file_path': 'tests/test_tutorial/test_schema_extra_example/test_tutorial004.py'}
+fastapi/params.py
+	dd54104efdf37e84f2af3ff9bd665b649a32bdb8 {'ccn': 14, 'avg_ccn': 1.0769230769230769, 'avg_loc': 12.461538461538462, 'avg_tokens': 92.0, 'num_funs': 13, 'loc': 341, 'tokens': 1930, 'ext': 'py', 'blanks': 31, 'comments': 0, 'file_path': 'fastapi/params.py'}
+	1ae18ab81deb9f30b329a46966139f4bf5d4ca5e {'ccn': 14, 'avg_ccn': 1.0769230769230769, 'avg_loc': 12.461538461538462, 'avg_tokens': 92.0, 'num_funs': 13, 'loc': 339, 'tokens': 1922, 'ext': 'py', 'blanks': 31, 'comments': 0, 'file_path': 'fastapi/params.py'}
+tests/test_schema_extra_examples.py
+	bb5af0c237ed0c9f233f823f951d8a14aa076bde {'ccn': 18, 'avg_ccn': 1.0, 'avg_loc': 8.277777777777779, 'avg_tokens': 47.5, 'num_funs': 18, 'loc': 804, 'tokens': 3161, 'ext': 'py', 'blanks': 51, 'comments': 34, 'file_path': 'tests/test_schema_extra_examples.py'}
+	1266d2921e04b30ad6f4b44b071fa4ecba6dad43 {'ccn': 18, 'avg_ccn': 1.0, 'avg_loc': 8.277777777777779, 'avg_tokens': 47.5, 'num_funs': 18, 'loc': 804, 'tokens': 3161, 'ext': 'py', 'blanks': 51, 'comments': 34, 'file_path': 'tests/test_schema_extra_examples.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1348
+docs_src/metadata/tutorial004.py
+	a6763df7d5384fb6b95cb7fe49d486bca35f852d {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 10.0, 'num_funs': 2, 'loc': 19, 'tokens': 100, 'ext': 'py', 'blanks': 6, 'comments': 0, 'file_path': 'docs_src/metadata/tutorial004.py'}
+	fab7c3013d0ac5eede1aaf788116d629eee86b58 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 18.0, 'num_funs': 2, 'loc': 22, 'tokens': 117, 'ext': 'py', 'blanks': 6, 'comments': 0, 'file_path': 'docs_src/metadata/tutorial004.py'}
+fastapi/applications.py
+	a6763df7d5384fb6b95cb7fe49d486bca35f852d {'ccn': 35, 'avg_ccn': 1.5217391304347827, 'avg_loc': 16.304347826086957, 'avg_tokens': 111.73913043478261, 'num_funs': 23, 'loc': 700, 'tokens': 4091, 'ext': 'py', 'blanks': 37, 'comments': 0, 'file_path': 'fastapi/applications.py'}
+	8b78135d6f750c431261fd69fc1bbe1ddf8654c7 {'ccn': 35, 'avg_ccn': 1.5217391304347827, 'avg_loc': 16.217391304347824, 'avg_tokens': 111.73913043478261, 'num_funs': 23, 'loc': 698, 'tokens': 4091, 'ext': 'py', 'blanks': 37, 'comments': 0, 'file_path': 'fastapi/applications.py'}
+	1b7eb4850e4508bb5d17672f8294d0dca2d676e9 {'ccn': 35, 'avg_ccn': 1.5217391304347827, 'avg_loc': 16.217391304347824, 'avg_tokens': 111.73913043478261, 'num_funs': 23, 'loc': 698, 'tokens': 4091, 'ext': 'py', 'blanks': 36, 'comments': 0, 'file_path': 'fastapi/applications.py'}
+	1003b527a99ea148ebf98f608d81ca548eeec0be {'ccn': 37, 'avg_ccn': 1.608695652173913, 'avg_loc': 16.652173913043477, 'avg_tokens': 115.69565217391305, 'num_funs': 23, 'loc': 714, 'tokens': 4182, 'ext': 'py', 'blanks': 35, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+	95750034c6d66c45a05f7ceb1e25acda08beef73 {'ccn': 37, 'avg_ccn': 1.608695652173913, 'avg_loc': 16.652173913043477, 'avg_tokens': 115.69565217391305, 'num_funs': 23, 'loc': 714, 'tokens': 4182, 'ext': 'py', 'blanks': 35, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+fastapi/openapi/utils.py
+	a6763df7d5384fb6b95cb7fe49d486bca35f852d {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.222222222222222, 'avg_tokens': 44.888888888888886, 'num_funs': 9, 'loc': 291, 'tokens': 1812, 'ext': 'py', 'blanks': 24, 'comments': 1, 'file_path': 'fastapi/openapi/utils.py'}
+	8b78135d6f750c431261fd69fc1bbe1ddf8654c7 {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.222222222222222, 'avg_tokens': 45.44444444444444, 'num_funs': 9, 'loc': 291, 'tokens': 1815, 'ext': 'py', 'blanks': 24, 'comments': 1, 'file_path': 'fastapi/openapi/utils.py'}
+	73a19b7b98955f81b0c8459e7f5a089d79a0e37c {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.222222222222222, 'avg_tokens': 45.44444444444444, 'num_funs': 9, 'loc': 291, 'tokens': 1822, 'ext': 'py', 'blanks': 24, 'comments': 1, 'file_path': 'fastapi/openapi/utils.py'}
+	1003b527a99ea148ebf98f608d81ca548eeec0be {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.0, 'avg_tokens': 45.22222222222222, 'num_funs': 9, 'loc': 328, 'tokens': 2049, 'ext': 'py', 'blanks': 25, 'comments': 5, 'file_path': 'fastapi/openapi/utils.py'}
+tests/test_openapi_tags_invalid.py
+	a6763df7d5384fb6b95cb7fe49d486bca35f852d {'ccn': 2, 'avg_ccn': 2.0, 'avg_loc': 10.0, 'avg_tokens': 33.0, 'num_funs': 1, 'loc': 19, 'tokens': 92, 'ext': 'py', 'blanks': 6, 'comments': 0, 'file_path': 'tests/test_openapi_tags_invalid.py'}
+	eb032eedbfafe1f84ac0707829e9bfa59eebb370 {'ccn': 2, 'avg_ccn': 2.0, 'avg_loc': 10.0, 'avg_tokens': 32.0, 'num_funs': 1, 'loc': 19, 'tokens': 91, 'ext': 'py', 'blanks': 7, 'comments': 0, 'file_path': 'tests/test_openapi_tags_invalid.py'}
+fastapi/routing.py
+	1003b527a99ea148ebf98f608d81ca548eeec0be {'ccn': 40, 'avg_ccn': 1.5384615384615385, 'avg_loc': 17.576923076923077, 'avg_tokens': 115.84615384615384, 'num_funs': 26, 'loc': 1023, 'tokens': 5871, 'ext': 'py', 'blanks': 41, 'comments': 12, 'file_path': 'fastapi/routing.py'}
+	95750034c6d66c45a05f7ceb1e25acda08beef73 {'ccn': 40, 'avg_ccn': 1.5384615384615385, 'avg_loc': 17.576923076923077, 'avg_tokens': 115.84615384615384, 'num_funs': 26, 'loc': 1022, 'tokens': 5865, 'ext': 'py', 'blanks': 41, 'comments': 12, 'file_path': 'fastapi/routing.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1354
+fastapi/routing.py
+	1be9154200e679a891f9a6f609134a33e1afb708 {'ccn': 41, 'avg_ccn': 1.5769230769230769, 'avg_loc': 16.26923076923077, 'avg_tokens': 109.73076923076923, 'num_funs': 26, 'loc': 946, 'tokens': 5576, 'ext': 'py', 'blanks': 41, 'comments': 12, 'file_path': 'fastapi/routing.py'}
+	d0409e8c7f9cb1073d1e082af3410c496c07c249 {'ccn': 41, 'avg_ccn': 1.5769230769230769, 'avg_loc': 17.692307692307693, 'avg_tokens': 117.3076923076923, 'num_funs': 26, 'loc': 1027, 'tokens': 5912, 'ext': 'py', 'blanks': 41, 'comments': 12, 'file_path': 'fastapi/routing.py'}
+tests/test_tutorial/test_body/test_tutorial001.py
+	1be9154200e679a891f9a6f609134a33e1afb708 {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 9.0, 'avg_tokens': 50.333333333333336, 'num_funs': 3, 'loc': 181, 'tokens': 850, 'ext': 'py', 'blanks': 14, 'comments': 0, 'file_path': 'tests/test_tutorial/test_body/test_tutorial001.py'}
+	d0409e8c7f9cb1073d1e082af3410c496c07c249 {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 9.0, 'avg_tokens': 53.0, 'num_funs': 3, 'loc': 181, 'tokens': 858, 'ext': 'py', 'blanks': 14, 'comments': 0, 'file_path': 'tests/test_tutorial/test_body/test_tutorial001.py'}
+	abe1cd9dafb8b8d9dbbe0d80e999944c2ff74afa {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 10.333333333333334, 'avg_tokens': 69.0, 'num_funs': 3, 'loc': 186, 'tokens': 912, 'ext': 'py', 'blanks': 15, 'comments': 0, 'file_path': 'tests/test_tutorial/test_body/test_tutorial001.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1386
+fastapi/dependencies/utils.py
+	47e889aa260e5b0f8111fe21af858fe411d5622b {'ccn': 63, 'avg_ccn': 2.8636363636363638, 'avg_loc': 8.454545454545455, 'avg_tokens': 59.54545454545455, 'num_funs': 22, 'loc': 685, 'tokens': 4104, 'ext': 'py', 'blanks': 58, 'comments': 8, 'file_path': 'fastapi/dependencies/utils.py'}
+	3a34ea1fa19c7f4f985224290169ca3cb365971c {'ccn': 63, 'avg_ccn': 2.8636363636363638, 'avg_loc': 8.454545454545455, 'avg_tokens': 59.54545454545455, 'num_funs': 22, 'loc': 680, 'tokens': 4064, 'ext': 'py', 'blanks': 58, 'comments': 8, 'file_path': 'fastapi/dependencies/utils.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1610
+docs_src/security/tutorial004.py
+	498d398fe7b5a183fc43d94df1470f24db86e935 {'ccn': 19, 'avg_ccn': 1.9, 'avg_loc': 6.3, 'avg_tokens': 43.4, 'num_funs': 10, 'loc': 101, 'tokens': 658, 'ext': 'py', 'blanks': 35, 'comments': 2, 'file_path': 'docs_src/security/tutorial004.py'}
+	6e776b6b2d3f2893c830ca868dfa953ff3e35602 {'ccn': 19, 'avg_ccn': 1.9, 'avg_loc': 6.3, 'avg_tokens': 43.4, 'num_funs': 10, 'loc': 100, 'tokens': 654, 'ext': 'py', 'blanks': 36, 'comments': 2, 'file_path': 'docs_src/security/tutorial004.py'}
+	6dd482cf2fd347ef38f9768dfa1912d6ae3c4772 {'ccn': 19, 'avg_ccn': 1.9, 'avg_loc': 6.3, 'avg_tokens': 43.4, 'num_funs': 10, 'loc': 100, 'tokens': 654, 'ext': 'py', 'blanks': 36, 'comments': 2, 'file_path': 'docs_src/security/tutorial004.py'}
+docs_src/security/tutorial005.py
+	6e776b6b2d3f2893c830ca868dfa953ff3e35602 {'ccn': 16, 'avg_ccn': 1.4545454545454546, 'avg_loc': 4.0, 'avg_tokens': 30.363636363636363, 'num_funs': 11, 'loc': 133, 'tokens': 823, 'ext': 'py', 'blanks': 38, 'comments': 2, 'file_path': 'docs_src/security/tutorial005.py'}
+	6dd482cf2fd347ef38f9768dfa1912d6ae3c4772 {'ccn': 16, 'avg_ccn': 1.4545454545454546, 'avg_loc': 4.0, 'avg_tokens': 30.363636363636363, 'num_funs': 11, 'loc': 133, 'tokens': 823, 'ext': 'py', 'blanks': 38, 'comments': 2, 'file_path': 'docs_src/security/tutorial005.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1670
+fastapi/__init__.py
+	f1a4a106ca51c1495be566cc947bf87a926bad29 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 22, 'tokens': 72, 'ext': 'py', 'blanks': 2, 'comments': 1, 'file_path': 'fastapi/__init__.py'}
+	e2e292041135a2c3cc7cad07b97e38fab470e48a {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 22, 'tokens': 72, 'ext': 'py', 'blanks': 3, 'comments': 1, 'file_path': 'fastapi/__init__.py'}
+fastapi/dependencies/utils.py
+	f1a4a106ca51c1495be566cc947bf87a926bad29 {'ccn': 68, 'avg_ccn': 2.72, 'avg_loc': 8.16, 'avg_tokens': 56.76, 'num_funs': 25, 'loc': 707, 'tokens': 4210, 'ext': 'py', 'blanks': 68, 'comments': 14, 'file_path': 'fastapi/dependencies/utils.py'}
+	b60d64b5bfb5f414fc3b80cf706308ebe655e100 {'ccn': 68, 'avg_ccn': 2.72, 'avg_loc': 8.16, 'avg_tokens': 56.76, 'num_funs': 25, 'loc': 706, 'tokens': 4206, 'ext': 'py', 'blanks': 68, 'comments': 14, 'file_path': 'fastapi/dependencies/utils.py'}
+	d77812feabc61d4d80e56672b1c20c762b66984c {'ccn': 68, 'avg_ccn': 2.72, 'avg_loc': 8.16, 'avg_tokens': 56.76, 'num_funs': 25, 'loc': 707, 'tokens': 4210, 'ext': 'py', 'blanks': 68, 'comments': 14, 'file_path': 'fastapi/dependencies/utils.py'}
+fastapi/openapi/models.py
+	f1a4a106ca51c1495be566cc947bf87a926bad29 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 18.5, 'num_funs': 2, 'loc': 261, 'tokens': 2220, 'ext': 'py', 'blanks': 92, 'comments': 8, 'file_path': 'fastapi/openapi/models.py'}
+	d77812feabc61d4d80e56672b1c20c762b66984c {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 18.5, 'num_funs': 2, 'loc': 262, 'tokens': 2222, 'ext': 'py', 'blanks': 92, 'comments': 8, 'file_path': 'fastapi/openapi/models.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1731
+fastapi/applications.py
+	b388b72df43aec1e4ae472c959c997e068c3bde1 {'ccn': 42, 'avg_ccn': 1.826086956521739, 'avg_loc': 17.130434782608695, 'avg_tokens': 136.82608695652175, 'num_funs': 23, 'loc': 727, 'tokens': 4681, 'ext': 'py', 'blanks': 35, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+	1fbdff85060f7d005a5f40e068651cadb6551a81 {'ccn': 42, 'avg_ccn': 1.826086956521739, 'avg_loc': 17.217391304347824, 'avg_tokens': 136.82608695652175, 'num_funs': 23, 'loc': 729, 'tokens': 4681, 'ext': 'py', 'blanks': 35, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+	1386b786e99f1b4c04cf41fa85c0e60e0ef10c92 {'ccn': 42, 'avg_ccn': 1.826086956521739, 'avg_loc': 17.217391304347824, 'avg_tokens': 136.95652173913044, 'num_funs': 23, 'loc': 729, 'tokens': 4684, 'ext': 'py', 'blanks': 35, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+	33597edcf8a8bba4171ea95c9a5a30eadf0ae7c5 {'ccn': 42, 'avg_ccn': 1.826086956521739, 'avg_loc': 17.217391304347824, 'avg_tokens': 137.65217391304347, 'num_funs': 23, 'loc': 729, 'tokens': 4700, 'ext': 'py', 'blanks': 35, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+fastapi/dependencies/utils.py
+	e5adeaeacfc0ccdb41cbf48062f6cf8c6e21c1dd {'ccn': 68, 'avg_ccn': 2.72, 'avg_loc': 8.16, 'avg_tokens': 56.76, 'num_funs': 25, 'loc': 707, 'tokens': 4210, 'ext': 'py', 'blanks': 68, 'comments': 16, 'file_path': 'fastapi/dependencies/utils.py'}
+	1386b786e99f1b4c04cf41fa85c0e60e0ef10c92 {'ccn': 68, 'avg_ccn': 2.72, 'avg_loc': 8.28, 'avg_tokens': 58.12, 'num_funs': 25, 'loc': 710, 'tokens': 4247, 'ext': 'py', 'blanks': 68, 'comments': 16, 'file_path': 'fastapi/dependencies/utils.py'}
+fastapi/routing.py
+	1386b786e99f1b4c04cf41fa85c0e60e0ef10c92 {'ccn': 41, 'avg_ccn': 1.5769230769230769, 'avg_loc': 17.615384615384617, 'avg_tokens': 135.0, 'num_funs': 26, 'loc': 1026, 'tokens': 6379, 'ext': 'py', 'blanks': 41, 'comments': 13, 'file_path': 'fastapi/routing.py'}
+	33597edcf8a8bba4171ea95c9a5a30eadf0ae7c5 {'ccn': 41, 'avg_ccn': 1.5769230769230769, 'avg_loc': 17.615384615384617, 'avg_tokens': 135.5, 'num_funs': 26, 'loc': 1026, 'tokens': 6392, 'ext': 'py', 'blanks': 41, 'comments': 13, 'file_path': 'fastapi/routing.py'}
+tests/test_operations_signatures.py
+	33597edcf8a8bba4171ea95c9a5a30eadf0ae7c5 {'ccn': 3, 'avg_ccn': 3.0, 'avg_loc': 15.0, 'avg_tokens': 125.0, 'num_funs': 1, 'loc': 19, 'tokens': 157, 'ext': 'py', 'blanks': 4, 'comments': 0, 'file_path': 'tests/test_operations_signatures.py'}
+	cc4057ec68d138905940f3131cfdf39acc9bb792 {'ccn': 3, 'avg_ccn': 3.0, 'avg_loc': 15.0, 'avg_tokens': 125.0, 'num_funs': 1, 'loc': 18, 'tokens': 153, 'ext': 'py', 'blanks': 4, 'comments': 0, 'file_path': 'tests/test_operations_signatures.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1757
+fastapi/security/api_key.py
+	2f4496aab0d73354233c6f8549ec794ac3168e42 {'ccn': 15, 'avg_ccn': 2.5, 'avg_loc': 7.0, 'avg_tokens': 62.666666666666664, 'num_funs': 6, 'loc': 53, 'tokens': 450, 'ext': 'py', 'blanks': 12, 'comments': 0, 'file_path': 'fastapi/security/api_key.py'}
+	31717c7e33676700de3cccc34c88d7c6ba6df135 {'ccn': 12, 'avg_ccn': 2.0, 'avg_loc': 8.5, 'avg_tokens': 41.166666666666664, 'num_funs': 6, 'loc': 80, 'tokens': 450, 'ext': 'py', 'blanks': 12, 'comments': 0, 'file_path': 'fastapi/security/api_key.py'}
+	d4b21bed2433258026491eb38e9ae13b8db2d110 {'ccn': 12, 'avg_ccn': 2.0, 'avg_loc': 8.5, 'avg_tokens': 44.166666666666664, 'num_funs': 6, 'loc': 80, 'tokens': 468, 'ext': 'py', 'blanks': 12, 'comments': 0, 'file_path': 'fastapi/security/api_key.py'}
+	7f8722cc20ae93037939bc7c95fa01047e7be72a {'ccn': 12, 'avg_ccn': 2.0, 'avg_loc': 8.5, 'avg_tokens': 44.166666666666664, 'num_funs': 6, 'loc': 80, 'tokens': 468, 'ext': 'py', 'blanks': 12, 'comments': 0, 'file_path': 'fastapi/security/api_key.py'}
+fastapi/__init__.py
+	466ddff9e9ae70930fffecb761a56275c3aced4d {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 22, 'tokens': 74, 'ext': 'py', 'blanks': 3, 'comments': 1, 'file_path': 'fastapi/__init__.py'}
+	874f546b7adff475ab0232c6f840cb1b07e3134f {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 21, 'tokens': 136, 'ext': 'py', 'blanks': 3, 'comments': 1, 'file_path': 'fastapi/__init__.py'}
+fastapi/applications.py
+	466ddff9e9ae70930fffecb761a56275c3aced4d {'ccn': 42, 'avg_ccn': 1.826086956521739, 'avg_loc': 16.565217391304348, 'avg_tokens': 133.65217391304347, 'num_funs': 23, 'loc': 675, 'tokens': 4467, 'ext': 'py', 'blanks': 34, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+	874f546b7adff475ab0232c6f840cb1b07e3134f {'ccn': 39, 'avg_ccn': 1.6956521739130435, 'avg_loc': 16.91304347826087, 'avg_tokens': 139.47826086956522, 'num_funs': 23, 'loc': 704, 'tokens': 4708, 'ext': 'py', 'blanks': 34, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+fastapi/dependencies/models.py
+	466ddff9e9ae70930fffecb761a56275c3aced4d {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 11.5, 'avg_tokens': 104.0, 'num_funs': 2, 'loc': 52, 'tokens': 403, 'ext': 'py', 'blanks': 6, 'comments': 2, 'file_path': 'fastapi/dependencies/models.py'}
+	874f546b7adff475ab0232c6f840cb1b07e3134f {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 11.5, 'avg_tokens': 106.5, 'num_funs': 2, 'loc': 51, 'tokens': 399, 'ext': 'py', 'blanks': 5, 'comments': 2, 'file_path': 'fastapi/dependencies/models.py'}
+fastapi/dependencies/utils.py
+	466ddff9e9ae70930fffecb761a56275c3aced4d {'ccn': 69, 'avg_ccn': 2.76, 'avg_loc': 8.6, 'avg_tokens': 59.4, 'num_funs': 25, 'loc': 703, 'tokens': 4164, 'ext': 'py', 'blanks': 69, 'comments': 17, 'file_path': 'fastapi/dependencies/utils.py'}
+	874f546b7adff475ab0232c6f840cb1b07e3134f {'ccn': 70, 'avg_ccn': 2.8, 'avg_loc': 8.64, 'avg_tokens': 61.6, 'num_funs': 25, 'loc': 705, 'tokens': 4241, 'ext': 'py', 'blanks': 69, 'comments': 15, 'file_path': 'fastapi/dependencies/utils.py'}
+fastapi/encoders.py
+	466ddff9e9ae70930fffecb761a56275c3aced4d {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 5.5, 'avg_tokens': 37.5, 'num_funs': 2, 'loc': 125, 'tokens': 717, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'fastapi/encoders.py'}
+	874f546b7adff475ab0232c6f840cb1b07e3134f {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 6.0, 'avg_tokens': 50.0, 'num_funs': 2, 'loc': 142, 'tokens': 838, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'fastapi/encoders.py'}
+fastapi/exceptions.py
+	466ddff9e9ae70930fffecb761a56275c3aced4d {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 3.3333333333333335, 'avg_tokens': 29.666666666666668, 'num_funs': 3, 'loc': 26, 'tokens': 182, 'ext': 'py', 'blanks': 11, 'comments': 3, 'file_path': 'fastapi/exceptions.py'}
+	874f546b7adff475ab0232c6f840cb1b07e3134f {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 3.3333333333333335, 'avg_tokens': 29.666666666666668, 'num_funs': 3, 'loc': 26, 'tokens': 196, 'ext': 'py', 'blanks': 11, 'comments': 3, 'file_path': 'fastapi/exceptions.py'}
+fastapi/openapi/docs.py
+	466ddff9e9ae70930fffecb761a56275c3aced4d {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 29.0, 'avg_tokens': 31.333333333333332, 'num_funs': 3, 'loc': 165, 'tokens': 171, 'ext': 'py', 'blanks': 18, 'comments': 121, 'file_path': 'fastapi/openapi/docs.py'}
+	874f546b7adff475ab0232c6f840cb1b07e3134f {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 29.0, 'avg_tokens': 33.0, 'num_funs': 3, 'loc': 165, 'tokens': 180, 'ext': 'py', 'blanks': 18, 'comments': 121, 'file_path': 'fastapi/openapi/docs.py'}
+fastapi/openapi/models.py
+	466ddff9e9ae70930fffecb761a56275c3aced4d {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 18.5, 'num_funs': 2, 'loc': 254, 'tokens': 2192, 'ext': 'py', 'blanks': 91, 'comments': 6, 'file_path': 'fastapi/openapi/models.py'}
+	874f546b7adff475ab0232c6f840cb1b07e3134f {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 21.0, 'num_funs': 2, 'loc': 256, 'tokens': 2205, 'ext': 'py', 'blanks': 92, 'comments': 6, 'file_path': 'fastapi/openapi/models.py'}
+fastapi/openapi/utils.py
+	466ddff9e9ae70930fffecb761a56275c3aced4d {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.0, 'avg_tokens': 47.666666666666664, 'num_funs': 9, 'loc': 339, 'tokens': 2124, 'ext': 'py', 'blanks': 23, 'comments': 4, 'file_path': 'fastapi/openapi/utils.py'}
+	874f546b7adff475ab0232c6f840cb1b07e3134f {'ccn': 11, 'avg_ccn': 1.2222222222222223, 'avg_loc': 3.7777777777777777, 'avg_tokens': 30.22222222222222, 'num_funs': 9, 'loc': 371, 'tokens': 2366, 'ext': 'py', 'blanks': 23, 'comments': 5, 'file_path': 'fastapi/openapi/utils.py'}
+fastapi/param_functions.py
+	466ddff9e9ae70930fffecb761a56275c3aced4d {'ccn': 9, 'avg_ccn': 1.0, 'avg_loc': 12.666666666666666, 'avg_tokens': 92.88888888888889, 'num_funs': 9, 'loc': 234, 'tokens': 1320, 'ext': 'py', 'blanks': 19, 'comments': 0, 'file_path': 'fastapi/param_functions.py'}
+	874f546b7adff475ab0232c6f840cb1b07e3134f {'ccn': 9, 'avg_ccn': 1.0, 'avg_loc': 14.222222222222221, 'avg_tokens': 109.55555555555556, 'num_funs': 9, 'loc': 263, 'tokens': 1534, 'ext': 'py', 'blanks': 19, 'comments': 0, 'file_path': 'fastapi/param_functions.py'}
+fastapi/params.py
+	466ddff9e9ae70930fffecb761a56275c3aced4d {'ccn': 14, 'avg_ccn': 1.0769230769230769, 'avg_loc': 11.23076923076923, 'avg_tokens': 78.92307692307692, 'num_funs': 13, 'loc': 307, 'tokens': 1680, 'ext': 'py', 'blanks': 31, 'comments': 0, 'file_path': 'fastapi/params.py'}
+	874f546b7adff475ab0232c6f840cb1b07e3134f {'ccn': 14, 'avg_ccn': 1.0769230769230769, 'avg_loc': 12.461538461538462, 'avg_tokens': 92.0, 'num_funs': 13, 'loc': 339, 'tokens': 1922, 'ext': 'py', 'blanks': 31, 'comments': 0, 'file_path': 'fastapi/params.py'}
+fastapi/routing.py
+	466ddff9e9ae70930fffecb761a56275c3aced4d {'ccn': 40, 'avg_ccn': 1.5384615384615385, 'avg_loc': 17.153846153846153, 'avg_tokens': 132.34615384615384, 'num_funs': 26, 'loc': 964, 'tokens': 6128, 'ext': 'py', 'blanks': 40, 'comments': 12, 'file_path': 'fastapi/routing.py'}
+	874f546b7adff475ab0232c6f840cb1b07e3134f {'ccn': 42, 'avg_ccn': 1.6153846153846154, 'avg_loc': 18.192307692307693, 'avg_tokens': 143.76923076923077, 'num_funs': 26, 'loc': 1066, 'tokens': 6777, 'ext': 'py', 'blanks': 40, 'comments': 14, 'file_path': 'fastapi/routing.py'}
+fastapi/security/http.py
+	466ddff9e9ae70930fffecb761a56275c3aced4d {'ccn': 9, 'avg_ccn': 1.125, 'avg_loc': 3.25, 'avg_tokens': 20.0, 'num_funs': 8, 'loc': 135, 'tokens': 792, 'ext': 'py', 'blanks': 17, 'comments': 0, 'file_path': 'fastapi/security/http.py'}
+	1756e51e5a1d4704e91a777fd98fdb8c80f8b40b {'ccn': 8, 'avg_ccn': 1.0, 'avg_loc': 4.375, 'avg_tokens': 21.25, 'num_funs': 8, 'loc': 148, 'tokens': 846, 'ext': 'py', 'blanks': 17, 'comments': 0, 'file_path': 'fastapi/security/http.py'}
+fastapi/security/oauth2.py
+	466ddff9e9ae70930fffecb761a56275c3aced4d {'ccn': 18, 'avg_ccn': 2.0, 'avg_loc': 8.333333333333334, 'avg_tokens': 54.111111111111114, 'num_funs': 9, 'loc': 189, 'tokens': 793, 'ext': 'py', 'blanks': 26, 'comments': 54, 'file_path': 'fastapi/security/oauth2.py'}
+	874f546b7adff475ab0232c6f840cb1b07e3134f {'ccn': 18, 'avg_ccn': 2.0, 'avg_loc': 8.333333333333334, 'avg_tokens': 56.888888888888886, 'num_funs': 9, 'loc': 189, 'tokens': 824, 'ext': 'py', 'blanks': 26, 'comments': 54, 'file_path': 'fastapi/security/oauth2.py'}
+	1756e51e5a1d4704e91a777fd98fdb8c80f8b40b {'ccn': 18, 'avg_ccn': 2.0, 'avg_loc': 8.666666666666666, 'avg_tokens': 59.888888888888886, 'num_funs': 9, 'loc': 202, 'tokens': 865, 'ext': 'py', 'blanks': 26, 'comments': 54, 'file_path': 'fastapi/security/oauth2.py'}
+fastapi/security/open_id_connect_url.py
+	466ddff9e9ae70930fffecb761a56275c3aced4d {'ccn': 4, 'avg_ccn': 2.0, 'avg_loc': 8.0, 'avg_tokens': 38.0, 'num_funs': 2, 'loc': 27, 'tokens': 153, 'ext': 'py', 'blanks': 4, 'comments': 0, 'file_path': 'fastapi/security/open_id_connect_url.py'}
+	1756e51e5a1d4704e91a777fd98fdb8c80f8b40b {'ccn': 4, 'avg_ccn': 2.0, 'avg_loc': 8.5, 'avg_tokens': 42.5, 'num_funs': 2, 'loc': 30, 'tokens': 166, 'ext': 'py', 'blanks': 4, 'comments': 0, 'file_path': 'fastapi/security/open_id_connect_url.py'}
+fastapi/utils.py
+	466ddff9e9ae70930fffecb761a56275c3aced4d {'ccn': 10, 'avg_ccn': 1.6666666666666667, 'avg_loc': 5.666666666666667, 'avg_tokens': 47.5, 'num_funs': 6, 'loc': 121, 'tokens': 787, 'ext': 'py', 'blanks': 15, 'comments': 5, 'file_path': 'fastapi/utils.py'}
+	874f546b7adff475ab0232c6f840cb1b07e3134f {'ccn': 11, 'avg_ccn': 1.5714285714285714, 'avg_loc': 5.285714285714286, 'avg_tokens': 45.142857142857146, 'num_funs': 7, 'loc': 138, 'tokens': 868, 'ext': 'py', 'blanks': 19, 'comments': 9, 'file_path': 'fastapi/utils.py'}
+tests/test_jsonable_encoder.py
+	466ddff9e9ae70930fffecb761a56275c3aced4d {'ccn': 22, 'avg_ccn': 1.1578947368421053, 'avg_loc': 3.8947368421052633, 'avg_tokens': 31.263157894736842, 'num_funs': 19, 'loc': 116, 'tokens': 824, 'ext': 'py', 'blanks': 58, 'comments': 0, 'file_path': 'tests/test_jsonable_encoder.py'}
+	874f546b7adff475ab0232c6f840cb1b07e3134f {'ccn': 22, 'avg_ccn': 1.1578947368421053, 'avg_loc': 3.8947368421052633, 'avg_tokens': 31.263157894736842, 'num_funs': 19, 'loc': 116, 'tokens': 824, 'ext': 'py', 'blanks': 58, 'comments': 0, 'file_path': 'tests/test_jsonable_encoder.py'}
+tests/test_multipart_installation.py
+	466ddff9e9ae70930fffecb761a56275c3aced4d {'ccn': 20, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 29.8, 'num_funs': 20, 'loc': 76, 'tokens': 621, 'ext': 'py', 'blanks': 30, 'comments': 0, 'file_path': 'tests/test_multipart_installation.py'}
+	874f546b7adff475ab0232c6f840cb1b07e3134f {'ccn': 20, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 29.8, 'num_funs': 20, 'loc': 76, 'tokens': 621, 'ext': 'py', 'blanks': 30, 'comments': 0, 'file_path': 'tests/test_multipart_installation.py'}
+tests/test_serialize_response_dataclass.py
+	466ddff9e9ae70930fffecb761a56275c3aced4d {'ccn': 6, 'avg_ccn': 1.0, 'avg_loc': 4.333333333333333, 'avg_tokens': 38.833333333333336, 'num_funs': 6, 'loc': 40, 'tokens': 335, 'ext': 'py', 'blanks': 18, 'comments': 0, 'file_path': 'tests/test_serialize_response_dataclass.py'}
+	874f546b7adff475ab0232c6f840cb1b07e3134f {'ccn': 14, 'avg_ccn': 1.0, 'avg_loc': 4.714285714285714, 'avg_tokens': 45.214285714285715, 'num_funs': 14, 'loc': 84, 'tokens': 782, 'ext': 'py', 'blanks': 34, 'comments': 0, 'file_path': 'tests/test_serialize_response_dataclass.py'}
+tests/test_tutorial/test_body/test_tutorial001.py
+	466ddff9e9ae70930fffecb761a56275c3aced4d {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 10.333333333333334, 'avg_tokens': 69.0, 'num_funs': 3, 'loc': 182, 'tokens': 903, 'ext': 'py', 'blanks': 15, 'comments': 0, 'file_path': 'tests/test_tutorial/test_body/test_tutorial001.py'}
+	874f546b7adff475ab0232c6f840cb1b07e3134f {'ccn': 9, 'avg_ccn': 1.0, 'avg_loc': 10.777777777777779, 'avg_tokens': 59.111111111111114, 'num_funs': 9, 'loc': 248, 'tokens': 1234, 'ext': 'py', 'blanks': 29, 'comments': 0, 'file_path': 'tests/test_tutorial/test_body/test_tutorial001.py'}
+tests/test_tutorial/test_websockets/test_tutorial003.py
+	466ddff9e9ae70930fffecb761a56275c3aced4d {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 15.0, 'avg_tokens': 81.0, 'num_funs': 1, 'loc': 18, 'tokens': 102, 'ext': 'py', 'blanks': 4, 'comments': 0, 'file_path': 'tests/test_tutorial/test_websockets/test_tutorial003.py'}
+	874f546b7adff475ab0232c6f840cb1b07e3134f {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 9.0, 'avg_tokens': 49.5, 'num_funs': 2, 'loc': 21, 'tokens': 123, 'ext': 'py', 'blanks': 6, 'comments': 0, 'file_path': 'tests/test_tutorial/test_websockets/test_tutorial003.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1774
+tests/test_application.py
+	77aff8ae474e4457b02428862846b6b00a7c26df {'ccn': 5, 'avg_ccn': 1.0, 'avg_loc': 5.4, 'avg_tokens': 36.0, 'num_funs': 5, 'loc': 1156, 'tokens': 3904, 'ext': 'py', 'blanks': 13, 'comments': 0, 'file_path': 'tests/test_application.py'}
+	1001055d436b5504e55079b70c0924d0a9bce2aa {'ccn': 5, 'avg_ccn': 1.0, 'avg_loc': 5.4, 'avg_tokens': 36.0, 'num_funs': 5, 'loc': 1156, 'tokens': 3904, 'ext': 'py', 'blanks': 13, 'comments': 0, 'file_path': 'tests/test_application.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1812
+docs_src/metadata/tutorial001.py
+	bc5df631655e0ec609fbda6ae6d2f3c7b622bc4c {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 12.0, 'num_funs': 1, 'loc': 19, 'tokens': 75, 'ext': 'py', 'blanks': 3, 'comments': 0, 'file_path': 'docs_src/metadata/tutorial001.py'}
+	0f76b5af453cc1c898b4351b94614636f1a32bc0 {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 12.0, 'num_funs': 1, 'loc': 33, 'tokens': 79, 'ext': 'py', 'blanks': 9, 'comments': 8, 'file_path': 'docs_src/metadata/tutorial001.py'}
+fastapi/applications.py
+	bc5df631655e0ec609fbda6ae6d2f3c7b622bc4c {'ccn': 42, 'avg_ccn': 1.826086956521739, 'avg_loc': 17.391304347826086, 'avg_tokens': 122.1304347826087, 'num_funs': 23, 'loc': 736, 'tokens': 4358, 'ext': 'py', 'blanks': 35, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+	da03ce797c75a2405dcd0b48507ddf9728acb055 {'ccn': 42, 'avg_ccn': 1.826086956521739, 'avg_loc': 17.391304347826086, 'avg_tokens': 122.1304347826087, 'num_funs': 23, 'loc': 736, 'tokens': 4358, 'ext': 'py', 'blanks': 35, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+	01144e1b64f03928a62a0449bd5dfaaf512a2ee7 {'ccn': 43, 'avg_ccn': 1.8695652173913044, 'avg_loc': 17.347826086956523, 'avg_tokens': 140.08695652173913, 'num_funs': 23, 'loc': 735, 'tokens': 4771, 'ext': 'py', 'blanks': 35, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+	315016bcde648bc940c0757a298de81023e2a1d4 {'ccn': 43, 'avg_ccn': 1.8695652173913044, 'avg_loc': 17.347826086956523, 'avg_tokens': 140.17391304347825, 'num_funs': 23, 'loc': 735, 'tokens': 4773, 'ext': 'py', 'blanks': 35, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+	3f85875944f74ad6fc0bb97d0082691d495821e4 {'ccn': 39, 'avg_ccn': 1.6956521739130435, 'avg_loc': 17.17391304347826, 'avg_tokens': 142.30434782608697, 'num_funs': 23, 'loc': 713, 'tokens': 4788, 'ext': 'py', 'blanks': 34, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+fastapi/openapi/utils.py
+	bc5df631655e0ec609fbda6ae6d2f3c7b622bc4c {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.333333333333333, 'avg_tokens': 52.0, 'num_funs': 9, 'loc': 352, 'tokens': 2207, 'ext': 'py', 'blanks': 24, 'comments': 5, 'file_path': 'fastapi/openapi/utils.py'}
+	da03ce797c75a2405dcd0b48507ddf9728acb055 {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.333333333333333, 'avg_tokens': 52.0, 'num_funs': 9, 'loc': 352, 'tokens': 2214, 'ext': 'py', 'blanks': 24, 'comments': 5, 'file_path': 'fastapi/openapi/utils.py'}
+	d977bce1daa4b05a6bc17aa0482ceb5465d91974 {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.333333333333333, 'avg_tokens': 52.333333333333336, 'num_funs': 9, 'loc': 352, 'tokens': 2217, 'ext': 'py', 'blanks': 24, 'comments': 5, 'file_path': 'fastapi/openapi/utils.py'}
+	01144e1b64f03928a62a0449bd5dfaaf512a2ee7 {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.333333333333333, 'avg_tokens': 52.666666666666664, 'num_funs': 9, 'loc': 352, 'tokens': 2220, 'ext': 'py', 'blanks': 24, 'comments': 5, 'file_path': 'fastapi/openapi/utils.py'}
+	315016bcde648bc940c0757a298de81023e2a1d4 {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.333333333333333, 'avg_tokens': 52.888888888888886, 'num_funs': 9, 'loc': 352, 'tokens': 2222, 'ext': 'py', 'blanks': 24, 'comments': 5, 'file_path': 'fastapi/openapi/utils.py'}
+	3f85875944f74ad6fc0bb97d0082691d495821e4 {'ccn': 11, 'avg_ccn': 1.2222222222222223, 'avg_loc': 4.111111111111111, 'avg_tokens': 35.44444444444444, 'num_funs': 9, 'loc': 380, 'tokens': 2442, 'ext': 'py', 'blanks': 23, 'comments': 5, 'file_path': 'fastapi/openapi/utils.py'}
+	69e3b4bd32b252f14bca8ba01487426beafb6ddd {'ccn': 11, 'avg_ccn': 1.2222222222222223, 'avg_loc': 4.111111111111111, 'avg_tokens': 35.44444444444444, 'num_funs': 9, 'loc': 380, 'tokens': 2447, 'ext': 'py', 'blanks': 23, 'comments': 5, 'file_path': 'fastapi/openapi/utils.py'}
+tests/test_tutorial/test_metadata/test_tutorial001.py
+	bc5df631655e0ec609fbda6ae6d2f3c7b622bc4c {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 33.0, 'num_funs': 2, 'loc': 43, 'tokens': 192, 'ext': 'py', 'blanks': 7, 'comments': 0, 'file_path': 'tests/test_tutorial/test_metadata/test_tutorial001.py'}
+	e0bf2f22e61443e74cf230389ecd519e77e2173a {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 33.0, 'num_funs': 2, 'loc': 43, 'tokens': 194, 'ext': 'py', 'blanks': 7, 'comments': 0, 'file_path': 'tests/test_tutorial/test_metadata/test_tutorial001.py'}
+	297ef3858ad1daafa2a5c04c21424870e11b0d5f {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 33.0, 'num_funs': 2, 'loc': 43, 'tokens': 194, 'ext': 'py', 'blanks': 7, 'comments': 0, 'file_path': 'tests/test_tutorial/test_metadata/test_tutorial001.py'}
+fastapi/dependencies/models.py
+	01144e1b64f03928a62a0449bd5dfaaf512a2ee7 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 11.0, 'avg_tokens': 99.5, 'num_funs': 2, 'loc': 53, 'tokens': 402, 'ext': 'py', 'blanks': 7, 'comments': 3, 'file_path': 'fastapi/dependencies/models.py'}
+	3f85875944f74ad6fc0bb97d0082691d495821e4 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 11.5, 'avg_tokens': 106.5, 'num_funs': 2, 'loc': 51, 'tokens': 399, 'ext': 'py', 'blanks': 5, 'comments': 2, 'file_path': 'fastapi/dependencies/models.py'}
+fastapi/dependencies/utils.py
+	01144e1b64f03928a62a0449bd5dfaaf512a2ee7 {'ccn': 68, 'avg_ccn': 2.72, 'avg_loc': 8.28, 'avg_tokens': 58.0, 'num_funs': 25, 'loc': 708, 'tokens': 4221, 'ext': 'py', 'blanks': 68, 'comments': 16, 'file_path': 'fastapi/dependencies/utils.py'}
+	3f85875944f74ad6fc0bb97d0082691d495821e4 {'ccn': 70, 'avg_ccn': 2.8, 'avg_loc': 8.64, 'avg_tokens': 61.6, 'num_funs': 25, 'loc': 705, 'tokens': 4241, 'ext': 'py', 'blanks': 69, 'comments': 15, 'file_path': 'fastapi/dependencies/utils.py'}
+fastapi/encoders.py
+	01144e1b64f03928a62a0449bd5dfaaf512a2ee7 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 6.5, 'avg_tokens': 44.5, 'num_funs': 2, 'loc': 156, 'tokens': 847, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'fastapi/encoders.py'}
+	3f85875944f74ad6fc0bb97d0082691d495821e4 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 6.0, 'avg_tokens': 50.0, 'num_funs': 2, 'loc': 142, 'tokens': 838, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'fastapi/encoders.py'}
+fastapi/exceptions.py
+	01144e1b64f03928a62a0449bd5dfaaf512a2ee7 {'ccn': 5, 'avg_ccn': 1.6666666666666667, 'avg_loc': 5.333333333333333, 'avg_tokens': 39.666666666666664, 'num_funs': 3, 'loc': 35, 'tokens': 230, 'ext': 'py', 'blanks': 11, 'comments': 3, 'file_path': 'fastapi/exceptions.py'}
+	3f85875944f74ad6fc0bb97d0082691d495821e4 {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 3.3333333333333335, 'avg_tokens': 29.666666666666668, 'num_funs': 3, 'loc': 26, 'tokens': 196, 'ext': 'py', 'blanks': 11, 'comments': 3, 'file_path': 'fastapi/exceptions.py'}
+fastapi/param_functions.py
+	01144e1b64f03928a62a0449bd5dfaaf512a2ee7 {'ccn': 9, 'avg_ccn': 1.0, 'avg_loc': 12.666666666666666, 'avg_tokens': 92.88888888888889, 'num_funs': 9, 'loc': 234, 'tokens': 1320, 'ext': 'py', 'blanks': 19, 'comments': 0, 'file_path': 'fastapi/param_functions.py'}
+	3f85875944f74ad6fc0bb97d0082691d495821e4 {'ccn': 9, 'avg_ccn': 1.0, 'avg_loc': 14.222222222222221, 'avg_tokens': 109.55555555555556, 'num_funs': 9, 'loc': 263, 'tokens': 1534, 'ext': 'py', 'blanks': 19, 'comments': 0, 'file_path': 'fastapi/param_functions.py'}
+fastapi/params.py
+	01144e1b64f03928a62a0449bd5dfaaf512a2ee7 {'ccn': 14, 'avg_ccn': 1.0769230769230769, 'avg_loc': 11.23076923076923, 'avg_tokens': 78.92307692307692, 'num_funs': 13, 'loc': 310, 'tokens': 1691, 'ext': 'py', 'blanks': 31, 'comments': 1, 'file_path': 'fastapi/params.py'}
+	3f85875944f74ad6fc0bb97d0082691d495821e4 {'ccn': 14, 'avg_ccn': 1.0769230769230769, 'avg_loc': 12.461538461538462, 'avg_tokens': 92.0, 'num_funs': 13, 'loc': 339, 'tokens': 1922, 'ext': 'py', 'blanks': 31, 'comments': 0, 'file_path': 'fastapi/params.py'}
+fastapi/routing.py
+	01144e1b64f03928a62a0449bd5dfaaf512a2ee7 {'ccn': 41, 'avg_ccn': 1.5769230769230769, 'avg_loc': 17.615384615384617, 'avg_tokens': 135.5, 'num_funs': 26, 'loc': 1026, 'tokens': 6392, 'ext': 'py', 'blanks': 41, 'comments': 13, 'file_path': 'fastapi/routing.py'}
+	3f85875944f74ad6fc0bb97d0082691d495821e4 {'ccn': 42, 'avg_ccn': 1.6153846153846154, 'avg_loc': 18.192307692307693, 'avg_tokens': 143.76923076923077, 'num_funs': 26, 'loc': 1066, 'tokens': 6777, 'ext': 'py', 'blanks': 40, 'comments': 14, 'file_path': 'fastapi/routing.py'}
+fastapi/security/api_key.py
+	01144e1b64f03928a62a0449bd5dfaaf512a2ee7 {'ccn': 12, 'avg_ccn': 2.0, 'avg_loc': 6.0, 'avg_tokens': 39.666666666666664, 'num_funs': 6, 'loc': 59, 'tokens': 429, 'ext': 'py', 'blanks': 12, 'comments': 0, 'file_path': 'fastapi/security/api_key.py'}
+	3f85875944f74ad6fc0bb97d0082691d495821e4 {'ccn': 12, 'avg_ccn': 2.0, 'avg_loc': 8.5, 'avg_tokens': 44.166666666666664, 'num_funs': 6, 'loc': 80, 'tokens': 468, 'ext': 'py', 'blanks': 12, 'comments': 0, 'file_path': 'fastapi/security/api_key.py'}
+fastapi/security/http.py
+	01144e1b64f03928a62a0449bd5dfaaf512a2ee7 {'ccn': 9, 'avg_ccn': 1.125, 'avg_loc': 3.25, 'avg_tokens': 20.0, 'num_funs': 8, 'loc': 135, 'tokens': 792, 'ext': 'py', 'blanks': 17, 'comments': 0, 'file_path': 'fastapi/security/http.py'}
+	3f85875944f74ad6fc0bb97d0082691d495821e4 {'ccn': 8, 'avg_ccn': 1.0, 'avg_loc': 4.375, 'avg_tokens': 21.25, 'num_funs': 8, 'loc': 148, 'tokens': 846, 'ext': 'py', 'blanks': 17, 'comments': 0, 'file_path': 'fastapi/security/http.py'}
+fastapi/security/oauth2.py
+	01144e1b64f03928a62a0449bd5dfaaf512a2ee7 {'ccn': 18, 'avg_ccn': 2.0, 'avg_loc': 8.333333333333334, 'avg_tokens': 54.111111111111114, 'num_funs': 9, 'loc': 189, 'tokens': 793, 'ext': 'py', 'blanks': 26, 'comments': 54, 'file_path': 'fastapi/security/oauth2.py'}
+	3f85875944f74ad6fc0bb97d0082691d495821e4 {'ccn': 18, 'avg_ccn': 2.0, 'avg_loc': 8.666666666666666, 'avg_tokens': 59.888888888888886, 'num_funs': 9, 'loc': 202, 'tokens': 865, 'ext': 'py', 'blanks': 26, 'comments': 54, 'file_path': 'fastapi/security/oauth2.py'}
+fastapi/security/open_id_connect_url.py
+	01144e1b64f03928a62a0449bd5dfaaf512a2ee7 {'ccn': 4, 'avg_ccn': 2.0, 'avg_loc': 8.0, 'avg_tokens': 38.0, 'num_funs': 2, 'loc': 27, 'tokens': 153, 'ext': 'py', 'blanks': 4, 'comments': 0, 'file_path': 'fastapi/security/open_id_connect_url.py'}
+	3f85875944f74ad6fc0bb97d0082691d495821e4 {'ccn': 4, 'avg_ccn': 2.0, 'avg_loc': 8.5, 'avg_tokens': 42.5, 'num_funs': 2, 'loc': 30, 'tokens': 166, 'ext': 'py', 'blanks': 4, 'comments': 0, 'file_path': 'fastapi/security/open_id_connect_url.py'}
+fastapi/utils.py
+	01144e1b64f03928a62a0449bd5dfaaf512a2ee7 {'ccn': 14, 'avg_ccn': 1.5555555555555556, 'avg_loc': 5.222222222222222, 'avg_tokens': 36.666666666666664, 'num_funs': 9, 'loc': 159, 'tokens': 929, 'ext': 'py', 'blanks': 23, 'comments': 9, 'file_path': 'fastapi/utils.py'}
+	3f85875944f74ad6fc0bb97d0082691d495821e4 {'ccn': 11, 'avg_ccn': 1.5714285714285714, 'avg_loc': 5.285714285714286, 'avg_tokens': 45.142857142857146, 'num_funs': 7, 'loc': 138, 'tokens': 868, 'ext': 'py', 'blanks': 19, 'comments': 9, 'file_path': 'fastapi/utils.py'}
+tests/test_jsonable_encoder.py
+	01144e1b64f03928a62a0449bd5dfaaf512a2ee7 {'ccn': 22, 'avg_ccn': 1.1578947368421053, 'avg_loc': 3.8947368421052633, 'avg_tokens': 31.36842105263158, 'num_funs': 19, 'loc': 120, 'tokens': 839, 'ext': 'py', 'blanks': 59, 'comments': 1, 'file_path': 'tests/test_jsonable_encoder.py'}
+	3f85875944f74ad6fc0bb97d0082691d495821e4 {'ccn': 22, 'avg_ccn': 1.1578947368421053, 'avg_loc': 3.8947368421052633, 'avg_tokens': 31.263157894736842, 'num_funs': 19, 'loc': 116, 'tokens': 824, 'ext': 'py', 'blanks': 58, 'comments': 0, 'file_path': 'tests/test_jsonable_encoder.py'}
+tests/test_serialize_response_dataclass.py
+	01144e1b64f03928a62a0449bd5dfaaf512a2ee7 {'ccn': 6, 'avg_ccn': 1.0, 'avg_loc': 4.333333333333333, 'avg_tokens': 38.833333333333336, 'num_funs': 6, 'loc': 40, 'tokens': 335, 'ext': 'py', 'blanks': 18, 'comments': 0, 'file_path': 'tests/test_serialize_response_dataclass.py'}
+	3f85875944f74ad6fc0bb97d0082691d495821e4 {'ccn': 14, 'avg_ccn': 1.0, 'avg_loc': 4.714285714285714, 'avg_tokens': 45.214285714285715, 'num_funs': 14, 'loc': 84, 'tokens': 782, 'ext': 'py', 'blanks': 34, 'comments': 0, 'file_path': 'tests/test_serialize_response_dataclass.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1827
+fastapi/dependencies/models.py
+	33743c66ee9cd269c37888f39fa7b686018a7585 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 12.0, 'avg_tokens': 83.0, 'num_funs': 2, 'loc': 53, 'tokens': 360, 'ext': 'py', 'blanks': 7, 'comments': 3, 'file_path': 'fastapi/dependencies/models.py'}
+	465324383aa1c1ce0d277e0e5dcd96de1ffae855 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 11.5, 'avg_tokens': 104.0, 'num_funs': 2, 'loc': 55, 'tokens': 416, 'ext': 'py', 'blanks': 7, 'comments': 3, 'file_path': 'fastapi/dependencies/models.py'}
+fastapi/dependencies/utils.py
+	33743c66ee9cd269c37888f39fa7b686018a7585 {'ccn': 68, 'avg_ccn': 2.72, 'avg_loc': 8.16, 'avg_tokens': 56.76, 'num_funs': 25, 'loc': 712, 'tokens': 4244, 'ext': 'py', 'blanks': 68, 'comments': 16, 'file_path': 'fastapi/dependencies/utils.py'}
+	465324383aa1c1ce0d277e0e5dcd96de1ffae855 {'ccn': 68, 'avg_ccn': 2.72, 'avg_loc': 8.28, 'avg_tokens': 58.0, 'num_funs': 25, 'loc': 713, 'tokens': 4255, 'ext': 'py', 'blanks': 68, 'comments': 16, 'file_path': 'fastapi/dependencies/utils.py'}
+tests/test_http_connection_injection.py
+	33743c66ee9cd269c37888f39fa7b686018a7585 {'ccn': 5, 'avg_ccn': 1.0, 'avg_loc': 2.6, 'avg_tokens': 18.2, 'num_funs': 5, 'loc': 26, 'tokens': 176, 'ext': 'py', 'blanks': 13, 'comments': 0, 'file_path': 'tests/test_http_connection_injection.py'}
+	02fe46d229e93fbcf2a0b4456d3159243d4aa4da {'ccn': 5, 'avg_ccn': 1.0, 'avg_loc': 2.6, 'avg_tokens': 18.2, 'num_funs': 5, 'loc': 26, 'tokens': 176, 'ext': 'py', 'blanks': 13, 'comments': 0, 'file_path': 'tests/test_http_connection_injection.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1872
+fastapi/requests.py
+	f5e665f4241432787e186aab9401de3743739c97 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 9, 'tokens': 58, 'ext': 'py', 'blanks': 0, 'comments': 0, 'file_path': 'fastapi/requests.py'}
+	bf8e8165572c0ed00d400e3f5aa5826a976a0a31 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 3, 'tokens': 22, 'ext': 'py', 'blanks': 0, 'comments': 0, 'file_path': 'fastapi/requests.py'}
+	2202dc63203f58d455e46d4319e6be8323ce0b06 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 2, 'tokens': 16, 'ext': 'py', 'blanks': 0, 'comments': 0, 'file_path': 'fastapi/requests.py'}
+fastapi/__init__.py
+	bf8e8165572c0ed00d400e3f5aa5826a976a0a31 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 22, 'tokens': 74, 'ext': 'py', 'blanks': 2, 'comments': 1, 'file_path': 'fastapi/__init__.py'}
+	3866e3df3e4e99f1cecd7272db2a947d86dfea5f {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 21, 'tokens': 136, 'ext': 'py', 'blanks': 3, 'comments': 1, 'file_path': 'fastapi/__init__.py'}
+fastapi/datastructures.py
+	bf8e8165572c0ed00d400e3f5aa5826a976a0a31 {'ccn': 3, 'avg_ccn': 1.5, 'avg_loc': 3.0, 'avg_tokens': 26.0, 'num_funs': 2, 'loc': 17, 'tokens': 118, 'ext': 'py', 'blanks': 4, 'comments': 0, 'file_path': 'fastapi/datastructures.py'}
+	5e15af14f7a9cc2d0105d545cb4b54cd6900f95d {'ccn': 3, 'avg_ccn': 1.5, 'avg_loc': 3.0, 'avg_tokens': 26.0, 'num_funs': 2, 'loc': 17, 'tokens': 130, 'ext': 'py', 'blanks': 4, 'comments': 0, 'file_path': 'fastapi/datastructures.py'}
+	3866e3df3e4e99f1cecd7272db2a947d86dfea5f {'ccn': 8, 'avg_ccn': 1.3333333333333333, 'avg_loc': 3.3333333333333335, 'avg_tokens': 21.0, 'num_funs': 6, 'loc': 39, 'tokens': 220, 'ext': 'py', 'blanks': 15, 'comments': 10, 'file_path': 'fastapi/datastructures.py'}
+fastapi/types.py
+	bf8e8165572c0ed00d400e3f5aa5826a976a0a31 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 1, 'tokens': 6, 'ext': 'py', 'blanks': 0, 'comments': 0, 'file_path': 'fastapi/types.py'}
+	3866e3df3e4e99f1cecd7272db2a947d86dfea5f {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 2, 'tokens': 23, 'ext': 'py', 'blanks': 1, 'comments': 0, 'file_path': 'fastapi/types.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1904
+tests/test_tutorial/test_async_tests/test_main.py
+	42e8e73c0099229fc5aaf7625307dd6d1c69ef49 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 1, 'tokens': 8, 'ext': 'py', 'blanks': 0, 'comments': 0, 'file_path': 'tests/test_tutorial/test_async_tests/test_main.py'}
+	0bc237802f8fc5ce2dedd1bd3806198d75e1b9b8 {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 8.0, 'num_funs': 1, 'loc': 5, 'tokens': 26, 'ext': 'py', 'blanks': 3, 'comments': 0, 'file_path': 'tests/test_tutorial/test_async_tests/test_main.py'}
+tests/test_tutorial/test_testing/test_main.py
+	42e8e73c0099229fc5aaf7625307dd6d1c69ef49 {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 30.0, 'num_funs': 1, 'loc': 23, 'tokens': 108, 'ext': 'py', 'blanks': 3, 'comments': 0, 'file_path': 'tests/test_tutorial/test_testing/test_main.py'}
+	0bc237802f8fc5ce2dedd1bd3806198d75e1b9b8 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 3.0, 'avg_tokens': 18.5, 'num_funs': 2, 'loc': 25, 'tokens': 116, 'ext': 'py', 'blanks': 5, 'comments': 0, 'file_path': 'tests/test_tutorial/test_testing/test_main.py'}
+tests/test_tutorial/test_testing/test_main_b.py
+	42e8e73c0099229fc5aaf7625307dd6d1c69ef49 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 6, 'tokens': 48, 'ext': 'py', 'blanks': 0, 'comments': 0, 'file_path': 'tests/test_tutorial/test_testing/test_main_b.py'}
+	5244b0a811b2207a610b782f5fc77e8b6bb5dc7b {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 8, 'tokens': 21, 'ext': 'py', 'blanks': 0, 'comments': 0, 'file_path': 'tests/test_tutorial/test_testing/test_main_b.py'}
+	0bc237802f8fc5ce2dedd1bd3806198d75e1b9b8 {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 7.0, 'avg_tokens': 34.0, 'num_funs': 1, 'loc': 8, 'tokens': 41, 'ext': 'py', 'blanks': 2, 'comments': 0, 'file_path': 'tests/test_tutorial/test_testing/test_main_b.py'}
+docs_src/settings/app02/config.py
+	5244b0a811b2207a610b782f5fc77e8b6bb5dc7b {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 5, 'tokens': 25, 'ext': 'py', 'blanks': 2, 'comments': 0, 'file_path': 'docs_src/settings/app02/config.py'}
+	894e91b2ecffec800714fb31d0c387e7f156fd0a {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 5, 'tokens': 23, 'ext': 'py', 'blanks': 2, 'comments': 0, 'file_path': 'docs_src/settings/app02/config.py'}
+docs_src/settings/app02/test_main.py
+	5244b0a811b2207a610b782f5fc77e8b6bb5dc7b {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 4.5, 'avg_tokens': 22.0, 'num_funs': 2, 'loc': 14, 'tokens': 78, 'ext': 'py', 'blanks': 8, 'comments': 0, 'file_path': 'docs_src/settings/app02/test_main.py'}
+	894e91b2ecffec800714fb31d0c387e7f156fd0a {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 5.0, 'avg_tokens': 23.5, 'num_funs': 2, 'loc': 15, 'tokens': 81, 'ext': 'py', 'blanks': 8, 'comments': 0, 'file_path': 'docs_src/settings/app02/test_main.py'}
+tests/test_tutorial/test_settings/test_app02.py
+	5244b0a811b2207a610b782f5fc77e8b6bb5dc7b {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 5.5, 'avg_tokens': 28.0, 'num_funs': 2, 'loc': 13, 'tokens': 74, 'ext': 'py', 'blanks': 6, 'comments': 0, 'file_path': 'tests/test_tutorial/test_settings/test_app02.py'}
+	b7228b7fed277d024cfd9dacf0a6a4774cffd173 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 3.5, 'avg_tokens': 21.5, 'num_funs': 2, 'loc': 11, 'tokens': 73, 'ext': 'py', 'blanks': 6, 'comments': 0, 'file_path': 'tests/test_tutorial/test_settings/test_app02.py'}
+tests/test_tutorial/test_testing/test_tutorial002.py
+	5244b0a811b2207a610b782f5fc77e8b6bb5dc7b {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 4, 'tokens': 13, 'ext': 'py', 'blanks': 0, 'comments': 0, 'file_path': 'tests/test_tutorial/test_testing/test_tutorial002.py'}
+	0bc237802f8fc5ce2dedd1bd3806198d75e1b9b8 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 7.0, 'num_funs': 2, 'loc': 5, 'tokens': 26, 'ext': 'py', 'blanks': 4, 'comments': 0, 'file_path': 'tests/test_tutorial/test_testing/test_tutorial002.py'}
+tests/test_tutorial/test_testing/test_tutorial003.py
+	5244b0a811b2207a610b782f5fc77e8b6bb5dc7b {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 1, 'tokens': 8, 'ext': 'py', 'blanks': 0, 'comments': 0, 'file_path': 'tests/test_tutorial/test_testing/test_tutorial003.py'}
+	0bc237802f8fc5ce2dedd1bd3806198d75e1b9b8 {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 7.0, 'num_funs': 1, 'loc': 3, 'tokens': 16, 'ext': 'py', 'blanks': 2, 'comments': 0, 'file_path': 'tests/test_tutorial/test_testing/test_tutorial003.py'}
+.github/actions/comment-docs-preview-in-pr/app/main.py
+	25518dd1597c54e04e824c698458936b2e625ceb {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 58, 'tokens': 294, 'ext': 'py', 'blanks': 12, 'comments': 0, 'file_path': '.github/actions/comment-docs-preview-in-pr/app/main.py'}
+	eafd26b3341c47fb23de418adfb20d02c2e39456 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 58, 'tokens': 294, 'ext': 'py', 'blanks': 12, 'comments': 0, 'file_path': '.github/actions/comment-docs-preview-in-pr/app/main.py'}
+.github/actions/people/app/main.py
+	25518dd1597c54e04e824c698458936b2e625ceb {'ccn': 34, 'avg_ccn': 4.25, 'avg_loc': 12.5, 'avg_tokens': 100.0, 'num_funs': 8, 'loc': 427, 'tokens': 1958, 'ext': 'py', 'blanks': 91, 'comments': 105, 'file_path': '.github/actions/people/app/main.py'}
+	1fd3e4394f6773eace3e9fb72bba6175bf14b13f {'ccn': 33, 'avg_ccn': 4.125, 'avg_loc': 12.5, 'avg_tokens': 99.75, 'num_funs': 8, 'loc': 438, 'tokens': 2036, 'ext': 'py', 'blanks': 91, 'comments': 105, 'file_path': '.github/actions/people/app/main.py'}
+	eafd26b3341c47fb23de418adfb20d02c2e39456 {'ccn': 33, 'avg_ccn': 4.125, 'avg_loc': 12.25, 'avg_tokens': 98.0, 'num_funs': 8, 'loc': 425, 'tokens': 1942, 'ext': 'py', 'blanks': 91, 'comments': 105, 'file_path': '.github/actions/people/app/main.py'}
+	20df532ba4d5e2a3b17aa0bce39a2d6123aaa904 {'ccn': 34, 'avg_ccn': 4.25, 'avg_loc': 12.5, 'avg_tokens': 100.0, 'num_funs': 8, 'loc': 427, 'tokens': 1958, 'ext': 'py', 'blanks': 91, 'comments': 105, 'file_path': '.github/actions/people/app/main.py'}
+docs_src/body_nested_models/tutorial005.py
+	25518dd1597c54e04e824c698458936b2e625ceb {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 3.0, 'avg_tokens': 24.0, 'num_funs': 1, 'loc': 18, 'tokens': 112, 'ext': 'py', 'blanks': 8, 'comments': 0, 'file_path': 'docs_src/body_nested_models/tutorial005.py'}
+	20df532ba4d5e2a3b17aa0bce39a2d6123aaa904 {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 3.0, 'avg_tokens': 24.0, 'num_funs': 1, 'loc': 18, 'tokens': 112, 'ext': 'py', 'blanks': 8, 'comments': 0, 'file_path': 'docs_src/body_nested_models/tutorial005.py'}
+docs_src/body_nested_models/tutorial006.py
+	25518dd1597c54e04e824c698458936b2e625ceb {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 3.0, 'avg_tokens': 24.0, 'num_funs': 1, 'loc': 18, 'tokens': 117, 'ext': 'py', 'blanks': 8, 'comments': 0, 'file_path': 'docs_src/body_nested_models/tutorial006.py'}
+	20df532ba4d5e2a3b17aa0bce39a2d6123aaa904 {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 3.0, 'avg_tokens': 24.0, 'num_funs': 1, 'loc': 18, 'tokens': 117, 'ext': 'py', 'blanks': 8, 'comments': 0, 'file_path': 'docs_src/body_nested_models/tutorial006.py'}
+docs_src/body_nested_models/tutorial007.py
+	25518dd1597c54e04e824c698458936b2e625ceb {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 9.0, 'num_funs': 1, 'loc': 22, 'tokens': 128, 'ext': 'py', 'blanks': 10, 'comments': 0, 'file_path': 'docs_src/body_nested_models/tutorial007.py'}
+	20df532ba4d5e2a3b17aa0bce39a2d6123aaa904 {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 9.0, 'num_funs': 1, 'loc': 22, 'tokens': 128, 'ext': 'py', 'blanks': 10, 'comments': 0, 'file_path': 'docs_src/body_nested_models/tutorial007.py'}
+docs_src/path_params/tutorial005.py
+	25518dd1597c54e04e824c698458936b2e625ceb {'ccn': 3, 'avg_ccn': 3.0, 'avg_loc': 6.0, 'avg_tokens': 51.0, 'num_funs': 1, 'loc': 14, 'tokens': 90, 'ext': 'py', 'blanks': 9, 'comments': 0, 'file_path': 'docs_src/path_params/tutorial005.py'}
+	20df532ba4d5e2a3b17aa0bce39a2d6123aaa904 {'ccn': 3, 'avg_ccn': 3.0, 'avg_loc': 6.0, 'avg_tokens': 51.0, 'num_funs': 1, 'loc': 14, 'tokens': 90, 'ext': 'py', 'blanks': 9, 'comments': 0, 'file_path': 'docs_src/path_params/tutorial005.py'}
+fastapi/__init__.py
+	25518dd1597c54e04e824c698458936b2e625ceb {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 22, 'tokens': 74, 'ext': 'py', 'blanks': 3, 'comments': 1, 'file_path': 'fastapi/__init__.py'}
+	1fd3e4394f6773eace3e9fb72bba6175bf14b13f {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 21, 'tokens': 136, 'ext': 'py', 'blanks': 3, 'comments': 1, 'file_path': 'fastapi/__init__.py'}
+	eafd26b3341c47fb23de418adfb20d02c2e39456 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 22, 'tokens': 74, 'ext': 'py', 'blanks': 3, 'comments': 1, 'file_path': 'fastapi/__init__.py'}
+	20df532ba4d5e2a3b17aa0bce39a2d6123aaa904 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 22, 'tokens': 74, 'ext': 'py', 'blanks': 3, 'comments': 1, 'file_path': 'fastapi/__init__.py'}
+fastapi/applications.py
+	25518dd1597c54e04e824c698458936b2e625ceb {'ccn': 42, 'avg_ccn': 1.826086956521739, 'avg_loc': 16.391304347826086, 'avg_tokens': 132.95652173913044, 'num_funs': 23, 'loc': 675, 'tokens': 4471, 'ext': 'py', 'blanks': 34, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+	1fd3e4394f6773eace3e9fb72bba6175bf14b13f {'ccn': 39, 'avg_ccn': 1.6956521739130435, 'avg_loc': 16.91304347826087, 'avg_tokens': 138.17391304347825, 'num_funs': 23, 'loc': 704, 'tokens': 4678, 'ext': 'py', 'blanks': 34, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+	20df532ba4d5e2a3b17aa0bce39a2d6123aaa904 {'ccn': 42, 'avg_ccn': 1.826086956521739, 'avg_loc': 16.391304347826086, 'avg_tokens': 132.95652173913044, 'num_funs': 23, 'loc': 675, 'tokens': 4471, 'ext': 'py', 'blanks': 34, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+fastapi/dependencies/models.py
+	25518dd1597c54e04e824c698458936b2e625ceb {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 11.5, 'avg_tokens': 104.0, 'num_funs': 2, 'loc': 51, 'tokens': 392, 'ext': 'py', 'blanks': 5, 'comments': 2, 'file_path': 'fastapi/dependencies/models.py'}
+	1fd3e4394f6773eace3e9fb72bba6175bf14b13f {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 11.5, 'avg_tokens': 106.5, 'num_funs': 2, 'loc': 51, 'tokens': 399, 'ext': 'py', 'blanks': 5, 'comments': 2, 'file_path': 'fastapi/dependencies/models.py'}
+	20df532ba4d5e2a3b17aa0bce39a2d6123aaa904 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 11.5, 'avg_tokens': 104.0, 'num_funs': 2, 'loc': 51, 'tokens': 392, 'ext': 'py', 'blanks': 5, 'comments': 2, 'file_path': 'fastapi/dependencies/models.py'}
+fastapi/dependencies/utils.py
+	25518dd1597c54e04e824c698458936b2e625ceb {'ccn': 69, 'avg_ccn': 2.76, 'avg_loc': 8.6, 'avg_tokens': 59.4, 'num_funs': 25, 'loc': 703, 'tokens': 4164, 'ext': 'py', 'blanks': 69, 'comments': 17, 'file_path': 'fastapi/dependencies/utils.py'}
+	1fd3e4394f6773eace3e9fb72bba6175bf14b13f {'ccn': 69, 'avg_ccn': 2.76, 'avg_loc': 8.6, 'avg_tokens': 61.2, 'num_funs': 25, 'loc': 703, 'tokens': 4229, 'ext': 'py', 'blanks': 69, 'comments': 15, 'file_path': 'fastapi/dependencies/utils.py'}
+	20df532ba4d5e2a3b17aa0bce39a2d6123aaa904 {'ccn': 69, 'avg_ccn': 2.76, 'avg_loc': 8.6, 'avg_tokens': 59.4, 'num_funs': 25, 'loc': 703, 'tokens': 4164, 'ext': 'py', 'blanks': 69, 'comments': 17, 'file_path': 'fastapi/dependencies/utils.py'}
+fastapi/encoders.py
+	25518dd1597c54e04e824c698458936b2e625ceb {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 6.0, 'avg_tokens': 40.5, 'num_funs': 2, 'loc': 137, 'tokens': 770, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'fastapi/encoders.py'}
+	1fd3e4394f6773eace3e9fb72bba6175bf14b13f {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 6.0, 'avg_tokens': 50.0, 'num_funs': 2, 'loc': 139, 'tokens': 813, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'fastapi/encoders.py'}
+	eafd26b3341c47fb23de418adfb20d02c2e39456 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 6.0, 'avg_tokens': 40.5, 'num_funs': 2, 'loc': 137, 'tokens': 770, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'fastapi/encoders.py'}
+fastapi/openapi/docs.py
+	25518dd1597c54e04e824c698458936b2e625ceb {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 29.0, 'avg_tokens': 31.333333333333332, 'num_funs': 3, 'loc': 165, 'tokens': 171, 'ext': 'py', 'blanks': 18, 'comments': 121, 'file_path': 'fastapi/openapi/docs.py'}
+	1fd3e4394f6773eace3e9fb72bba6175bf14b13f {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 29.0, 'avg_tokens': 33.0, 'num_funs': 3, 'loc': 165, 'tokens': 180, 'ext': 'py', 'blanks': 18, 'comments': 121, 'file_path': 'fastapi/openapi/docs.py'}
+	20df532ba4d5e2a3b17aa0bce39a2d6123aaa904 {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 29.0, 'avg_tokens': 31.333333333333332, 'num_funs': 3, 'loc': 165, 'tokens': 171, 'ext': 'py', 'blanks': 18, 'comments': 121, 'file_path': 'fastapi/openapi/docs.py'}
+scripts/docs.py
+	25518dd1597c54e04e824c698458936b2e625ceb {'ccn': 50, 'avg_ccn': 2.5, 'avg_loc': 10.0, 'avg_tokens': 70.65, 'num_funs': 20, 'loc': 355, 'tokens': 2255, 'ext': 'py', 'blanks': 57, 'comments': 44, 'file_path': 'scripts/docs.py'}
+	1fd3e4394f6773eace3e9fb72bba6175bf14b13f {'ccn': 53, 'avg_ccn': 2.65, 'avg_loc': 10.6, 'avg_tokens': 77.15, 'num_funs': 20, 'loc': 373, 'tokens': 2429, 'ext': 'py', 'blanks': 57, 'comments': 44, 'file_path': 'scripts/docs.py'}
+	eafd26b3341c47fb23de418adfb20d02c2e39456 {'ccn': 44, 'avg_ccn': 2.588235294117647, 'avg_loc': 10.058823529411764, 'avg_tokens': 71.6470588235294, 'num_funs': 17, 'loc': 315, 'tokens': 2036, 'ext': 'py', 'blanks': 50, 'comments': 32, 'file_path': 'scripts/docs.py'}
+	20df532ba4d5e2a3b17aa0bce39a2d6123aaa904 {'ccn': 50, 'avg_ccn': 2.5, 'avg_loc': 10.0, 'avg_tokens': 70.65, 'num_funs': 20, 'loc': 355, 'tokens': 2255, 'ext': 'py', 'blanks': 57, 'comments': 44, 'file_path': 'scripts/docs.py'}
+tests/test_exception_handlers.py
+	25518dd1597c54e04e824c698458936b2e625ceb {'ccn': 6, 'avg_ccn': 1.0, 'avg_loc': 2.6666666666666665, 'avg_tokens': 18.5, 'num_funs': 6, 'loc': 29, 'tokens': 178, 'ext': 'py', 'blanks': 15, 'comments': 0, 'file_path': 'tests/test_exception_handlers.py'}
+	20df532ba4d5e2a3b17aa0bce39a2d6123aaa904 {'ccn': 6, 'avg_ccn': 1.0, 'avg_loc': 2.6666666666666665, 'avg_tokens': 18.5, 'num_funs': 6, 'loc': 29, 'tokens': 178, 'ext': 'py', 'blanks': 15, 'comments': 0, 'file_path': 'tests/test_exception_handlers.py'}
+tests/test_multipart_installation.py
+	25518dd1597c54e04e824c698458936b2e625ceb {'ccn': 20, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 29.8, 'num_funs': 20, 'loc': 76, 'tokens': 621, 'ext': 'py', 'blanks': 30, 'comments': 0, 'file_path': 'tests/test_multipart_installation.py'}
+	20df532ba4d5e2a3b17aa0bce39a2d6123aaa904 {'ccn': 20, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 29.8, 'num_funs': 20, 'loc': 76, 'tokens': 621, 'ext': 'py', 'blanks': 30, 'comments': 0, 'file_path': 'tests/test_multipart_installation.py'}
+tests/test_tutorial/test_path_params/test_tutorial005.py
+	25518dd1597c54e04e824c698458936b2e625ceb {'ccn': 3, 'avg_ccn': 1.5, 'avg_loc': 4.5, 'avg_tokens': 34.0, 'num_funs': 2, 'loc': 187, 'tokens': 724, 'ext': 'py', 'blanks': 9, 'comments': 0, 'file_path': 'tests/test_tutorial/test_path_params/test_tutorial005.py'}
+	20df532ba4d5e2a3b17aa0bce39a2d6123aaa904 {'ccn': 3, 'avg_ccn': 1.5, 'avg_loc': 4.5, 'avg_tokens': 34.0, 'num_funs': 2, 'loc': 187, 'tokens': 724, 'ext': 'py', 'blanks': 9, 'comments': 0, 'file_path': 'tests/test_tutorial/test_path_params/test_tutorial005.py'}
+tests/test_tutorial/test_bigger_applications/test_main.py
+	1fd3e4394f6773eace3e9fb72bba6175bf14b13f {'ccn': 7, 'avg_ccn': 1.0, 'avg_loc': 6.714285714285714, 'avg_tokens': 46.285714285714285, 'num_funs': 7, 'loc': 460, 'tokens': 1929, 'ext': 'py', 'blanks': 19, 'comments': 0, 'file_path': 'tests/test_tutorial/test_bigger_applications/test_main.py'}
+	66e9c7ff88ac21fbba7c43ce208d933bf7c4e025 {'ccn': 7, 'avg_ccn': 1.0, 'avg_loc': 6.714285714285714, 'avg_tokens': 46.285714285714285, 'num_funs': 7, 'loc': 472, 'tokens': 1964, 'ext': 'py', 'blanks': 19, 'comments': 0, 'file_path': 'tests/test_tutorial/test_bigger_applications/test_main.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 1922
+docs_src/path_operation_advanced_configuration/tutorial005.py
+	ef11de8c537493fab7e712f47b2997e8e2a739cf {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 12.0, 'num_funs': 1, 'loc': 5, 'tokens': 37, 'ext': 'py', 'blanks': 3, 'comments': 0, 'file_path': 'docs_src/path_operation_advanced_configuration/tutorial005.py'}
+	536c48d49de740c37adcb2633bd6bf138050a16e {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 12.0, 'num_funs': 1, 'loc': 5, 'tokens': 38, 'ext': 'py', 'blanks': 3, 'comments': 0, 'file_path': 'docs_src/path_operation_advanced_configuration/tutorial005.py'}
+fastapi/applications.py
+	ef11de8c537493fab7e712f47b2997e8e2a739cf {'ccn': 42, 'avg_ccn': 1.826086956521739, 'avg_loc': 17.043478260869566, 'avg_tokens': 135.95652173913044, 'num_funs': 23, 'loc': 695, 'tokens': 4547, 'ext': 'py', 'blanks': 34, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+	226f6ecdff48d512902028e1d998cf5abeba57ca {'ccn': 42, 'avg_ccn': 1.826086956521739, 'avg_loc': 16.565217391304348, 'avg_tokens': 133.65217391304347, 'num_funs': 23, 'loc': 675, 'tokens': 4467, 'ext': 'py', 'blanks': 34, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+	d20dcc6f981bc7a5650de1b3710059c2a59a0e4d {'ccn': 39, 'avg_ccn': 1.6956521739130435, 'avg_loc': 17.17391304347826, 'avg_tokens': 142.30434782608697, 'num_funs': 23, 'loc': 713, 'tokens': 4788, 'ext': 'py', 'blanks': 34, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+	e70bbc2484692a08ad1bda18a61592ad6804ab4b {'ccn': 39, 'avg_ccn': 1.6956521739130435, 'avg_loc': 17.652173913043477, 'avg_tokens': 148.56521739130434, 'num_funs': 23, 'loc': 733, 'tokens': 4968, 'ext': 'py', 'blanks': 34, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+fastapi/openapi/models.py
+	ef11de8c537493fab7e712f47b2997e8e2a739cf {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 18.5, 'num_funs': 2, 'loc': 256, 'tokens': 2198, 'ext': 'py', 'blanks': 92, 'comments': 6, 'file_path': 'fastapi/openapi/models.py'}
+	d20dcc6f981bc7a5650de1b3710059c2a59a0e4d {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 21.0, 'num_funs': 2, 'loc': 258, 'tokens': 2211, 'ext': 'py', 'blanks': 93, 'comments': 6, 'file_path': 'fastapi/openapi/models.py'}
+fastapi/openapi/utils.py
+	ef11de8c537493fab7e712f47b2997e8e2a739cf {'ccn': 16, 'avg_ccn': 1.7777777777777777, 'avg_loc': 6.222222222222222, 'avg_tokens': 49.111111111111114, 'num_funs': 9, 'loc': 341, 'tokens': 2137, 'ext': 'py', 'blanks': 23, 'comments': 4, 'file_path': 'fastapi/openapi/utils.py'}
+	226f6ecdff48d512902028e1d998cf5abeba57ca {'ccn': 16, 'avg_ccn': 1.7777777777777777, 'avg_loc': 6.222222222222222, 'avg_tokens': 49.111111111111114, 'num_funs': 9, 'loc': 341, 'tokens': 2137, 'ext': 'py', 'blanks': 23, 'comments': 4, 'file_path': 'fastapi/openapi/utils.py'}
+	d20dcc6f981bc7a5650de1b3710059c2a59a0e4d {'ccn': 11, 'avg_ccn': 1.2222222222222223, 'avg_loc': 4.111111111111111, 'avg_tokens': 35.44444444444444, 'num_funs': 9, 'loc': 382, 'tokens': 2460, 'ext': 'py', 'blanks': 23, 'comments': 5, 'file_path': 'fastapi/openapi/utils.py'}
+	9f82b2fdb2fed657be63c612183e426f72cf4c78 {'ccn': 11, 'avg_ccn': 1.2222222222222223, 'avg_loc': 4.111111111111111, 'avg_tokens': 35.44444444444444, 'num_funs': 9, 'loc': 382, 'tokens': 2460, 'ext': 'py', 'blanks': 23, 'comments': 5, 'file_path': 'fastapi/openapi/utils.py'}
+fastapi/routing.py
+	ef11de8c537493fab7e712f47b2997e8e2a739cf {'ccn': 40, 'avg_ccn': 1.5384615384615385, 'avg_loc': 17.615384615384617, 'avg_tokens': 134.57692307692307, 'num_funs': 26, 'loc': 986, 'tokens': 6218, 'ext': 'py', 'blanks': 40, 'comments': 12, 'file_path': 'fastapi/routing.py'}
+	226f6ecdff48d512902028e1d998cf5abeba57ca {'ccn': 40, 'avg_ccn': 1.5384615384615385, 'avg_loc': 17.192307692307693, 'avg_tokens': 132.8846153846154, 'num_funs': 26, 'loc': 966, 'tokens': 6147, 'ext': 'py', 'blanks': 40, 'comments': 12, 'file_path': 'fastapi/routing.py'}
+	d20dcc6f981bc7a5650de1b3710059c2a59a0e4d {'ccn': 42, 'avg_ccn': 1.6153846153846154, 'avg_loc': 18.23076923076923, 'avg_tokens': 144.30769230769232, 'num_funs': 26, 'loc': 1068, 'tokens': 6796, 'ext': 'py', 'blanks': 40, 'comments': 14, 'file_path': 'fastapi/routing.py'}
+	e70bbc2484692a08ad1bda18a61592ad6804ab4b {'ccn': 42, 'avg_ccn': 1.6153846153846154, 'avg_loc': 18.653846153846153, 'avg_tokens': 149.84615384615384, 'num_funs': 26, 'loc': 1089, 'tokens': 6982, 'ext': 'py', 'blanks': 40, 'comments': 14, 'file_path': 'fastapi/routing.py'}
+tests/test_openapi_route_extensions.py
+	ef11de8c537493fab7e712f47b2997e8e2a739cf {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 3.0, 'avg_tokens': 18.5, 'num_funs': 2, 'loc': 30, 'tokens': 147, 'ext': 'py', 'blanks': 9, 'comments': 0, 'file_path': 'tests/test_openapi_route_extensions.py'}
+	b73f7af9e34acc5558efe71d535c3131f9f56f47 {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 3.3333333333333335, 'avg_tokens': 22.666666666666668, 'num_funs': 3, 'loc': 34, 'tokens': 179, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'tests/test_openapi_route_extensions.py'}
+	867fcdd999a857a5496a99ad40a842af615cbe0d {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 3.3333333333333335, 'avg_tokens': 22.666666666666668, 'num_funs': 3, 'loc': 34, 'tokens': 180, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'tests/test_openapi_route_extensions.py'}
+tests/test_tutorial/test_path_operation_advanced_configurations/test_tutorial005.py
+	ef11de8c537493fab7e712f47b2997e8e2a739cf {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 30.0, 'num_funs': 1, 'loc': 26, 'tokens': 122, 'ext': 'py', 'blanks': 5, 'comments': 0, 'file_path': 'tests/test_tutorial/test_path_operation_advanced_configurations/test_tutorial005.py'}
+	0e3d84b9ddad42967bd00338396aa4625dae5fb2 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 3.5, 'avg_tokens': 26.0, 'num_funs': 2, 'loc': 29, 'tokens': 145, 'ext': 'py', 'blanks': 7, 'comments': 0, 'file_path': 'tests/test_tutorial/test_path_operation_advanced_configurations/test_tutorial005.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2016
+fastapi/encoders.py
+	3cba7ff12377f106b8512f474fef9a7121f41cb0 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 6.0, 'avg_tokens': 40.5, 'num_funs': 2, 'loc': 137, 'tokens': 778, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'fastapi/encoders.py'}
+	990f0052b51a6fd78cf9fef7f63f6b1557e4b09d {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 6.0, 'avg_tokens': 40.5, 'num_funs': 2, 'loc': 137, 'tokens': 778, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'fastapi/encoders.py'}
+	94e8ea565f8a832385391244fd8ef279cd335271 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 6.0, 'avg_tokens': 50.0, 'num_funs': 2, 'loc': 139, 'tokens': 821, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'fastapi/encoders.py'}
+tests/test_response_model_include_dict.py
+	3cba7ff12377f106b8512f474fef9a7121f41cb0 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 5.0, 'avg_tokens': 64.5, 'num_funs': 2, 'loc': 28, 'tokens': 224, 'ext': 'py', 'blanks': 16, 'comments': 0, 'file_path': 'tests/test_response_model_include_dict.py'}
+	990f0052b51a6fd78cf9fef7f63f6b1557e4b09d {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 5.0, 'avg_tokens': 64.5, 'num_funs': 2, 'loc': 27, 'tokens': 215, 'ext': 'py', 'blanks': 15, 'comments': 0, 'file_path': 'tests/test_response_model_include_dict.py'}
+	5d08e5e4ce33ea909e5d42eb0696fca7db4d845f {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 6.0, 'avg_tokens': 64.5, 'num_funs': 2, 'loc': 29, 'tokens': 216, 'ext': 'py', 'blanks': 15, 'comments': 0, 'file_path': 'tests/test_response_model_include_dict.py'}
+.github/actions/people/app/main.py
+	0d1ef0025538065a65213a06da2281d8e49123a7 {'ccn': 34, 'avg_ccn': 4.25, 'avg_loc': 12.5, 'avg_tokens': 100.0, 'num_funs': 8, 'loc': 427, 'tokens': 1958, 'ext': 'py', 'blanks': 91, 'comments': 105, 'file_path': '.github/actions/people/app/main.py'}
+	94e8ea565f8a832385391244fd8ef279cd335271 {'ccn': 33, 'avg_ccn': 4.125, 'avg_loc': 12.5, 'avg_tokens': 99.75, 'num_funs': 8, 'loc': 438, 'tokens': 2036, 'ext': 'py', 'blanks': 91, 'comments': 105, 'file_path': '.github/actions/people/app/main.py'}
+docs_src/openapi_callbacks/tutorial001.py
+	0d1ef0025538065a65213a06da2281d8e49123a7 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 15.5, 'num_funs': 2, 'loc': 23, 'tokens': 128, 'ext': 'py', 'blanks': 17, 'comments': 13, 'file_path': 'docs_src/openapi_callbacks/tutorial001.py'}
+	94e8ea565f8a832385391244fd8ef279cd335271 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 15.5, 'num_funs': 2, 'loc': 23, 'tokens': 127, 'ext': 'py', 'blanks': 17, 'comments': 13, 'file_path': 'docs_src/openapi_callbacks/tutorial001.py'}
+fastapi/__init__.py
+	0d1ef0025538065a65213a06da2281d8e49123a7 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 22, 'tokens': 74, 'ext': 'py', 'blanks': 3, 'comments': 1, 'file_path': 'fastapi/__init__.py'}
+	94e8ea565f8a832385391244fd8ef279cd335271 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 21, 'tokens': 136, 'ext': 'py', 'blanks': 3, 'comments': 1, 'file_path': 'fastapi/__init__.py'}
+fastapi/applications.py
+	0d1ef0025538065a65213a06da2281d8e49123a7 {'ccn': 39, 'avg_ccn': 1.6956521739130435, 'avg_loc': 16.82608695652174, 'avg_tokens': 136.69565217391303, 'num_funs': 23, 'loc': 693, 'tokens': 4501, 'ext': 'py', 'blanks': 34, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+	94e8ea565f8a832385391244fd8ef279cd335271 {'ccn': 39, 'avg_ccn': 1.6956521739130435, 'avg_loc': 16.91304347826087, 'avg_tokens': 139.47826086956522, 'num_funs': 23, 'loc': 704, 'tokens': 4708, 'ext': 'py', 'blanks': 34, 'comments': 1, 'file_path': 'fastapi/applications.py'}
+fastapi/datastructures.py
+	0d1ef0025538065a65213a06da2281d8e49123a7 {'ccn': 8, 'avg_ccn': 1.3333333333333333, 'avg_loc': 3.3333333333333335, 'avg_tokens': 20.166666666666668, 'num_funs': 6, 'loc': 33, 'tokens': 167, 'ext': 'py', 'blanks': 15, 'comments': 10, 'file_path': 'fastapi/datastructures.py'}
+	94e8ea565f8a832385391244fd8ef279cd335271 {'ccn': 8, 'avg_ccn': 1.3333333333333333, 'avg_loc': 3.3333333333333335, 'avg_tokens': 21.0, 'num_funs': 6, 'loc': 34, 'tokens': 180, 'ext': 'py', 'blanks': 15, 'comments': 10, 'file_path': 'fastapi/datastructures.py'}
+fastapi/dependencies/models.py
+	0d1ef0025538065a65213a06da2281d8e49123a7 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 11.5, 'avg_tokens': 104.0, 'num_funs': 2, 'loc': 51, 'tokens': 392, 'ext': 'py', 'blanks': 5, 'comments': 2, 'file_path': 'fastapi/dependencies/models.py'}
+	94e8ea565f8a832385391244fd8ef279cd335271 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 11.5, 'avg_tokens': 106.5, 'num_funs': 2, 'loc': 51, 'tokens': 399, 'ext': 'py', 'blanks': 5, 'comments': 2, 'file_path': 'fastapi/dependencies/models.py'}
+fastapi/dependencies/utils.py
+	0d1ef0025538065a65213a06da2281d8e49123a7 {'ccn': 69, 'avg_ccn': 2.76, 'avg_loc': 8.6, 'avg_tokens': 59.4, 'num_funs': 25, 'loc': 703, 'tokens': 4164, 'ext': 'py', 'blanks': 69, 'comments': 17, 'file_path': 'fastapi/dependencies/utils.py'}
+	94e8ea565f8a832385391244fd8ef279cd335271 {'ccn': 69, 'avg_ccn': 2.76, 'avg_loc': 8.6, 'avg_tokens': 61.2, 'num_funs': 25, 'loc': 703, 'tokens': 4229, 'ext': 'py', 'blanks': 69, 'comments': 15, 'file_path': 'fastapi/dependencies/utils.py'}
+fastapi/openapi/docs.py
+	0d1ef0025538065a65213a06da2281d8e49123a7 {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 29.0, 'avg_tokens': 31.333333333333332, 'num_funs': 3, 'loc': 165, 'tokens': 171, 'ext': 'py', 'blanks': 18, 'comments': 121, 'file_path': 'fastapi/openapi/docs.py'}
+	94e8ea565f8a832385391244fd8ef279cd335271 {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 29.0, 'avg_tokens': 33.0, 'num_funs': 3, 'loc': 165, 'tokens': 180, 'ext': 'py', 'blanks': 18, 'comments': 121, 'file_path': 'fastapi/openapi/docs.py'}
+fastapi/openapi/utils.py
+	0d1ef0025538065a65213a06da2281d8e49123a7 {'ccn': 15, 'avg_ccn': 1.6666666666666667, 'avg_loc': 6.0, 'avg_tokens': 47.666666666666664, 'num_funs': 9, 'loc': 344, 'tokens': 2155, 'ext': 'py', 'blanks': 23, 'comments': 4, 'file_path': 'fastapi/openapi/utils.py'}
+	94e8ea565f8a832385391244fd8ef279cd335271 {'ccn': 11, 'avg_ccn': 1.2222222222222223, 'avg_loc': 3.7777777777777777, 'avg_tokens': 30.22222222222222, 'num_funs': 9, 'loc': 371, 'tokens': 2366, 'ext': 'py', 'blanks': 23, 'comments': 5, 'file_path': 'fastapi/openapi/utils.py'}
+fastapi/routing.py
+	0d1ef0025538065a65213a06da2281d8e49123a7 {'ccn': 36, 'avg_ccn': 1.3846153846153846, 'avg_loc': 17.73076923076923, 'avg_tokens': 136.65384615384616, 'num_funs': 26, 'loc': 1033, 'tokens': 6436, 'ext': 'py', 'blanks': 40, 'comments': 12, 'file_path': 'fastapi/routing.py'}
+	94e8ea565f8a832385391244fd8ef279cd335271 {'ccn': 42, 'avg_ccn': 1.6153846153846154, 'avg_loc': 18.192307692307693, 'avg_tokens': 143.76923076923077, 'num_funs': 26, 'loc': 1063, 'tokens': 6760, 'ext': 'py', 'blanks': 40, 'comments': 14, 'file_path': 'fastapi/routing.py'}
+fastapi/utils.py
+	0d1ef0025538065a65213a06da2281d8e49123a7 {'ccn': 11, 'avg_ccn': 1.5714285714285714, 'avg_loc': 5.285714285714286, 'avg_tokens': 43.714285714285715, 'num_funs': 7, 'loc': 138, 'tokens': 853, 'ext': 'py', 'blanks': 19, 'comments': 10, 'file_path': 'fastapi/utils.py'}
+	94e8ea565f8a832385391244fd8ef279cd335271 {'ccn': 11, 'avg_ccn': 1.5714285714285714, 'avg_loc': 5.285714285714286, 'avg_tokens': 45.142857142857146, 'num_funs': 7, 'loc': 138, 'tokens': 868, 'ext': 'py', 'blanks': 19, 'comments': 9, 'file_path': 'fastapi/utils.py'}
+scripts/docs.py
+	0d1ef0025538065a65213a06da2281d8e49123a7 {'ccn': 50, 'avg_ccn': 2.5, 'avg_loc': 10.0, 'avg_tokens': 70.65, 'num_funs': 20, 'loc': 355, 'tokens': 2255, 'ext': 'py', 'blanks': 57, 'comments': 44, 'file_path': 'scripts/docs.py'}
+	94e8ea565f8a832385391244fd8ef279cd335271 {'ccn': 53, 'avg_ccn': 2.65, 'avg_loc': 10.75, 'avg_tokens': 78.5, 'num_funs': 20, 'loc': 379, 'tokens': 2456, 'ext': 'py', 'blanks': 57, 'comments': 47, 'file_path': 'scripts/docs.py'}
+tests/test_include_router_defaults_overrides.py
+	0d1ef0025538065a65213a06da2281d8e49123a7 {'ccn': 43, 'avg_ccn': 1.5925925925925926, 'avg_loc': 4.592592592592593, 'avg_tokens': 24.25925925925926, 'num_funs': 27, 'loc': 6515, 'tokens': 23322, 'ext': 'py', 'blanks': 98, 'comments': 0, 'file_path': 'tests/test_include_router_defaults_overrides.py'}
+	94e8ea565f8a832385391244fd8ef279cd335271 {'ccn': 43, 'avg_ccn': 1.5925925925925926, 'avg_loc': 4.592592592592593, 'avg_tokens': 24.25925925925926, 'num_funs': 27, 'loc': 6519, 'tokens': 23321, 'ext': 'py', 'blanks': 98, 'comments': 0, 'file_path': 'tests/test_include_router_defaults_overrides.py'}
+tests/test_sub_callbacks.py
+	0d1ef0025538065a65213a06da2281d8e49123a7 {'ccn': 5, 'avg_ccn': 1.0, 'avg_loc': 3.2, 'avg_tokens': 22.8, 'num_funs': 5, 'loc': 235, 'tokens': 968, 'ext': 'py', 'blanks': 34, 'comments': 13, 'file_path': 'tests/test_sub_callbacks.py'}
+	94e8ea565f8a832385391244fd8ef279cd335271 {'ccn': 5, 'avg_ccn': 1.0, 'avg_loc': 3.2, 'avg_tokens': 22.8, 'num_funs': 5, 'loc': 235, 'tokens': 967, 'ext': 'py', 'blanks': 34, 'comments': 13, 'file_path': 'tests/test_sub_callbacks.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2061
+fastapi/encoders.py
+	fffd897c99662e5c59ac762d52611fdeae42252a {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 6.0, 'avg_tokens': 51.0, 'num_funs': 2, 'loc': 140, 'tokens': 821, 'ext': 'py', 'blanks': 10, 'comments': 0, 'file_path': 'fastapi/encoders.py'}
+	a7efa6a117b28e7fd2ab1067c942e79f4058642d {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 6.0, 'avg_tokens': 51.0, 'num_funs': 2, 'loc': 143, 'tokens': 846, 'ext': 'py', 'blanks': 10, 'comments': 0, 'file_path': 'fastapi/encoders.py'}
+tests/test_jsonable_encoder.py
+	fffd897c99662e5c59ac762d52611fdeae42252a {'ccn': 24, 'avg_ccn': 1.1428571428571428, 'avg_loc': 4.0476190476190474, 'avg_tokens': 30.857142857142858, 'num_funs': 21, 'loc': 126, 'tokens': 878, 'ext': 'py', 'blanks': 63, 'comments': 0, 'file_path': 'tests/test_jsonable_encoder.py'}
+	a195ed4be9734152bf917a6c5ab1b3fea99df609 {'ccn': 24, 'avg_ccn': 1.1428571428571428, 'avg_loc': 4.0476190476190474, 'avg_tokens': 30.952380952380953, 'num_funs': 21, 'loc': 126, 'tokens': 880, 'ext': 'py', 'blanks': 63, 'comments': 0, 'file_path': 'tests/test_jsonable_encoder.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2118
+fastapi/routing.py
+	e46bce35363f860ce3676adfd97658564248ee52 {'ccn': 37, 'avg_ccn': 1.4230769230769231, 'avg_loc': 17.923076923076923, 'avg_tokens': 139.23076923076923, 'num_funs': 26, 'loc': 1055, 'tokens': 6636, 'ext': 'py', 'blanks': 40, 'comments': 12, 'file_path': 'fastapi/routing.py'}
+	df4fdf0c7e092550d1e5b1633f10f41d713bbd66 {'ccn': 36, 'avg_ccn': 1.3846153846153846, 'avg_loc': 17.846153846153847, 'avg_tokens': 138.03846153846155, 'num_funs': 26, 'loc': 1052, 'tokens': 6603, 'ext': 'py', 'blanks': 40, 'comments': 12, 'file_path': 'fastapi/routing.py'}
+	c7191f50e5908afa49b9d92fe0a9401d8e689e0a {'ccn': 36, 'avg_ccn': 1.3846153846153846, 'avg_loc': 17.923076923076923, 'avg_tokens': 138.03846153846155, 'num_funs': 26, 'loc': 1054, 'tokens': 6603, 'ext': 'py', 'blanks': 40, 'comments': 12, 'file_path': 'fastapi/routing.py'}
+	d644c3060befbd211994d047a3b6b3ee0f6ba8e9 {'ccn': 36, 'avg_ccn': 1.3846153846153846, 'avg_loc': 17.807692307692307, 'avg_tokens': 138.07692307692307, 'num_funs': 26, 'loc': 1051, 'tokens': 6604, 'ext': 'py', 'blanks': 40, 'comments': 12, 'file_path': 'fastapi/routing.py'}
+	6ecfba9a2b3a1cdcbc04179f452c5e03d5c394f2 {'ccn': 36, 'avg_ccn': 1.3846153846153846, 'avg_loc': 17.96153846153846, 'avg_tokens': 138.46153846153845, 'num_funs': 26, 'loc': 1055, 'tokens': 6614, 'ext': 'py', 'blanks': 40, 'comments': 12, 'file_path': 'fastapi/routing.py'}
+	344ae3f84364979681962033fc9192202c1bf242 {'ccn': 41, 'avg_ccn': 1.5769230769230769, 'avg_loc': 18.153846153846153, 'avg_tokens': 141.26923076923077, 'num_funs': 26, 'loc': 1062, 'tokens': 6695, 'ext': 'py', 'blanks': 40, 'comments': 12, 'file_path': 'fastapi/routing.py'}
+tests/test_tutorial/test_body/test_tutorial001.py
+	4e8605e5bf2c32082c7292be92838532d734d29b {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 8.0, 'avg_tokens': 60.0, 'num_funs': 3, 'loc': 175, 'tokens': 876, 'ext': 'py', 'blanks': 15, 'comments': 0, 'file_path': 'tests/test_tutorial/test_body/test_tutorial001.py'}
+	d752efdff426d779919ccabd7bfa85b8019ec255 {'ccn': 4, 'avg_ccn': 1.0, 'avg_loc': 13.0, 'avg_tokens': 87.5, 'num_funs': 4, 'loc': 203, 'tokens': 1047, 'ext': 'py', 'blanks': 21, 'comments': 0, 'file_path': 'tests/test_tutorial/test_body/test_tutorial001.py'}
+	f80305de0b03ebc2547736e5f41ac26c0ca961e3 {'ccn': 7, 'avg_ccn': 1.0, 'avg_loc': 11.571428571428571, 'avg_tokens': 62.57142857142857, 'num_funs': 7, 'loc': 231, 'tokens': 1132, 'ext': 'py', 'blanks': 24, 'comments': 0, 'file_path': 'tests/test_tutorial/test_body/test_tutorial001.py'}
+	5729e8a1671a19c23f472c10e620d1d3a568e9e0 {'ccn': 8, 'avg_ccn': 1.0, 'avg_loc': 10.625, 'avg_tokens': 59.75, 'num_funs': 8, 'loc': 236, 'tokens': 1179, 'ext': 'py', 'blanks': 27, 'comments': 0, 'file_path': 'tests/test_tutorial/test_body/test_tutorial001.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2298
+tests/test_typing_python39.py
+	7f329e20dbfefecbd1ac1eb1989c9fafd2994b71 {'ccn': 2, 'avg_ccn': 1.0, 'avg_loc': 4.5, 'avg_tokens': 28.0, 'num_funs': 2, 'loc': 22, 'tokens': 167, 'ext': 'py', 'blanks': 5, 'comments': 0, 'file_path': 'tests/test_typing_python39.py'}
+	cbdd4b9f77d260f2ca2e71ebc25874de22a117c1 {'ccn': 3, 'avg_ccn': 1.5, 'avg_loc': 8.0, 'avg_tokens': 77.0, 'num_funs': 2, 'loc': 19, 'tokens': 171, 'ext': 'py', 'blanks': 5, 'comments': 0, 'file_path': 'tests/test_typing_python39.py'}
+	e14d00a033daf01af412bbe769dd2e84a762bdbc {'ccn': 3, 'avg_ccn': 1.5, 'avg_loc': 8.0, 'avg_tokens': 77.0, 'num_funs': 2, 'loc': 19, 'tokens': 171, 'ext': 'py', 'blanks': 5, 'comments': 0, 'file_path': 'tests/test_typing_python39.py'}
+tests/utils.py
+	7f329e20dbfefecbd1ac1eb1989c9fafd2994b71 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 4, 'tokens': 48, 'ext': 'py', 'blanks': 2, 'comments': 0, 'file_path': 'tests/utils.py'}
+	cbdd4b9f77d260f2ca2e71ebc25874de22a117c1 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 4, 'tokens': 48, 'ext': 'py', 'blanks': 2, 'comments': 0, 'file_path': 'tests/utils.py'}
+	e14d00a033daf01af412bbe769dd2e84a762bdbc {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 4, 'tokens': 48, 'ext': 'py', 'blanks': 2, 'comments': 0, 'file_path': 'tests/utils.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 2568
+fastapi/openapi/docs.py
+	fb507cd713e82819301ada39162aa7d090ba0d80 {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 29.333333333333332, 'avg_tokens': 37.666666666666664, 'num_funs': 3, 'loc': 174, 'tokens': 227, 'ext': 'py', 'blanks': 19, 'comments': 121, 'file_path': 'fastapi/openapi/docs.py'}
+	4641c9b472d887d836f99314da614b0b2f6782f1 {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 29.333333333333332, 'avg_tokens': 37.666666666666664, 'num_funs': 3, 'loc': 173, 'tokens': 249, 'ext': 'py', 'blanks': 20, 'comments': 116, 'file_path': 'fastapi/openapi/docs.py'}
+tests/test_swagger_ui_parameters.py
+	fb507cd713e82819301ada39162aa7d090ba0d80 {'ccn': 7, 'avg_ccn': 1.0, 'avg_loc': 5.142857142857143, 'avg_tokens': 25.0, 'num_funs': 7, 'loc': 39, 'tokens': 208, 'ext': 'py', 'blanks': 16, 'comments': 1, 'file_path': 'tests/test_swagger_ui_parameters.py'}
+	c3791ffb6224e22cb98e4cbcbc86941f689b5dbe {'ccn': 7, 'avg_ccn': 1.0, 'avg_loc': 5.428571428571429, 'avg_tokens': 28.142857142857142, 'num_funs': 7, 'loc': 41, 'tokens': 230, 'ext': 'py', 'blanks': 16, 'comments': 1, 'file_path': 'tests/test_swagger_ui_parameters.py'}
+	d5a98537bfd1c3da067921e2302fe39eb6540d19 {'ccn': 7, 'avg_ccn': 1.0, 'avg_loc': 5.428571428571429, 'avg_tokens': 28.142857142857142, 'num_funs': 7, 'loc': 41, 'tokens': 230, 'ext': 'py', 'blanks': 16, 'comments': 1, 'file_path': 'tests/test_swagger_ui_parameters.py'}
+------------------------------------------------------------------------------------------------------
+Pull Request 3144
+fastapi/openapi/utils.py
+	4e3a271eb1975be566f5fd0bc7c6f308b95e5953 {'ccn': 11, 'avg_ccn': 1.2222222222222223, 'avg_loc': 3.7777777777777777, 'avg_tokens': 30.22222222222222, 'num_funs': 9, 'loc': 355, 'tokens': 2235, 'ext': 'py', 'blanks': 23, 'comments': 0, 'file_path': 'fastapi/openapi/utils.py'}
+	cf8b080cf9392babefd905c166c1b7aa8145f1b9 {'ccn': 11, 'avg_ccn': 1.2222222222222223, 'avg_loc': 3.7777777777777777, 'avg_tokens': 30.22222222222222, 'num_funs': 9, 'loc': 364, 'tokens': 2315, 'ext': 'py', 'blanks': 23, 'comments': 0, 'file_path': 'fastapi/openapi/utils.py'}
+	c46ae1720b001e759d224100332e8de99ed6d627 {'ccn': 11, 'avg_ccn': 1.2222222222222223, 'avg_loc': 3.7777777777777777, 'avg_tokens': 30.22222222222222, 'num_funs': 9, 'loc': 365, 'tokens': 2317, 'ext': 'py', 'blanks': 23, 'comments': 0, 'file_path': 'fastapi/openapi/utils.py'}
+	c97393863905d6d0d39f4835af1faf66dd3af39d {'ccn': 11, 'avg_ccn': 1.2222222222222223, 'avg_loc': 4.111111111111111, 'avg_tokens': 35.44444444444444, 'num_funs': 9, 'loc': 384, 'tokens': 2467, 'ext': 'py', 'blanks': 23, 'comments': 5, 'file_path': 'fastapi/openapi/utils.py'}
+fastapi/param_functions.py
+	4e3a271eb1975be566f5fd0bc7c6f308b95e5953 {'ccn': 9, 'avg_ccn': 1.0, 'avg_loc': 13.11111111111111, 'avg_tokens': 96.66666666666667, 'num_funs': 9, 'loc': 242, 'tokens': 1370, 'ext': 'py', 'blanks': 19, 'comments': 0, 'file_path': 'fastapi/param_functions.py'}
+	cf8b080cf9392babefd905c166c1b7aa8145f1b9 {'ccn': 9, 'avg_ccn': 1.0, 'avg_loc': 14.666666666666666, 'avg_tokens': 112.22222222222223, 'num_funs': 9, 'loc': 271, 'tokens': 1574, 'ext': 'py', 'blanks': 19, 'comments': 0, 'file_path': 'fastapi/param_functions.py'}
+fastapi/params.py
+	4e3a271eb1975be566f5fd0bc7c6f308b95e5953 {'ccn': 14, 'avg_ccn': 1.0769230769230769, 'avg_loc': 11.615384615384615, 'avg_tokens': 82.0, 'num_funs': 13, 'loc': 317, 'tokens': 1741, 'ext': 'py', 'blanks': 31, 'comments': 0, 'file_path': 'fastapi/params.py'}
+	cf8b080cf9392babefd905c166c1b7aa8145f1b9 {'ccn': 14, 'avg_ccn': 1.0769230769230769, 'avg_loc': 12.846153846153847, 'avg_tokens': 94.3076923076923, 'num_funs': 13, 'loc': 349, 'tokens': 1973, 'ext': 'py', 'blanks': 31, 'comments': 0, 'file_path': 'fastapi/params.py'}
+docs_src/query_params_str_validations/tutorial014.py
+	4e3a271eb1975be566f5fd0bc7c6f308b95e5953 {'ccn': 2, 'avg_ccn': 2.0, 'avg_loc': 5.0, 'avg_tokens': 33.0, 'num_funs': 1, 'loc': 8, 'tokens': 53, 'ext': 'py', 'blanks': 3, 'comments': 0, 'file_path': 'docs_src/query_params_str_validations/tutorial014.py'}
+	78e743939d68f1f80b30ad711a957870531a0d93 {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 2.0, 'avg_tokens': 17.0, 'num_funs': 1, 'loc': 11, 'tokens': 60, 'ext': 'py', 'blanks': 4, 'comments': 0, 'file_path': 'docs_src/query_params_str_validations/tutorial014.py'}
+tests/test_tutorial/test_query_params_str_validations/test_tutorial014.py
+	4e3a271eb1975be566f5fd0bc7c6f308b95e5953 {'ccn': 1, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 31.0, 'num_funs': 1, 'loc': 81, 'tokens': 314, 'ext': 'py', 'blanks': 6, 'comments': 0, 'file_path': 'tests/test_tutorial/test_query_params_str_validations/test_tutorial014.py'}
+	ca5b4d5171b397ad80b760bab0c85061f084ba2d {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 32.666666666666664, 'num_funs': 3, 'loc': 72, 'tokens': 334, 'ext': 'py', 'blanks': 10, 'comments': 0, 'file_path': 'tests/test_tutorial/test_query_params_str_validations/test_tutorial014.py'}
+tests/test_param_include_in_schema.py
+	685532c6b4693fe588f591c275f8173413bee26a {'ccn': 10, 'avg_ccn': 1.1111111111111112, 'avg_loc': 5.111111111111111, 'avg_tokens': 37.55555555555556, 'num_funs': 9, 'loc': 107, 'tokens': 559, 'ext': 'py', 'blanks': 22, 'comments': 0, 'file_path': 'tests/test_param_include_in_schema.py'}
+	8b605724487d5671067124bec0097af4dc32f360 {'ccn': 9, 'avg_ccn': 1.0, 'avg_loc': 3.111111111111111, 'avg_tokens': 26.0, 'num_funs': 9, 'loc': 216, 'tokens': 890, 'ext': 'py', 'blanks': 23, 'comments': 0, 'file_path': 'tests/test_param_include_in_schema.py'}
+fastapi/__init__.py
+	cf8b080cf9392babefd905c166c1b7aa8145f1b9 {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 21, 'tokens': 136, 'ext': 'py', 'blanks': 3, 'comments': 1, 'file_path': 'fastapi/__init__.py'}
+	c97393863905d6d0d39f4835af1faf66dd3af39d {'ccn': 0, 'avg_ccn': 0, 'avg_loc': 0, 'avg_tokens': 0, 'num_funs': 0, 'loc': 21, 'tokens': 136, 'ext': 'py', 'blanks': 3, 'comments': 1, 'file_path': 'fastapi/__init__.py'}
+tests/test_tutorial/test_query_params_str_validations/test_tutorial014_py310.py
+	4e696898fbf9abd3d7b17fc9a527ccf69ef197cd {'ccn': 3, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 32.666666666666664, 'num_funs': 3, 'loc': 76, 'tokens': 345, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'tests/test_tutorial/test_query_params_str_validations/test_tutorial014_py310.py'}
+	fcf3c1cda4625fb42e2f2a360057f663a4429ffa {'ccn': 4, 'avg_ccn': 1.0, 'avg_loc': 4.0, 'avg_tokens': 31.75, 'num_funs': 4, 'loc': 80, 'tokens': 372, 'ext': 'py', 'blanks': 11, 'comments': 0, 'file_path': 'tests/test_tutorial/test_query_params_str_validations/test_tutorial014_py310.py'}
