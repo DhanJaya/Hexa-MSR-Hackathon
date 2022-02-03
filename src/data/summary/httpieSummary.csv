@@ -1,0 +1,17 @@
+URL,PullNo,Participants,CCN,Quality,Num_Vulns
+https://github.com/httpie/httpie,45,2,0.0,0.1799999999999997,0.0
+https://github.com/httpie/httpie,171,2,-0.0384615384615383,0.0099999999999997,0.0
+https://github.com/httpie/httpie,568,5,0.0,0.04,0.0
+https://github.com/httpie/httpie,739,3,0.0191788856304984,0.0499999999999998,0.0
+https://github.com/httpie/httpie,927,2,0.0,0.0,0.0
+https://github.com/httpie/httpie,929,3,-0.0668803418803418,-0.0099999999999997,0.0
+https://github.com/httpie/httpie,932,3,0.0173470535312639,-0.0099999999999997,0.0
+https://github.com/httpie/httpie,1029,3,0.0,0.0,0.0
+https://github.com/httpie/httpie,1094,4,0.0350705194358444,0.0199999999999995,0.0
+https://github.com/httpie/httpie,1175,5,0.0,0.0,0.0
+https://github.com/httpie/httpie,1226,4,0.015625,0.0399999999999991,0.0
+https://github.com/httpie/httpie,1238,3,-2.0454545454545454,0.0,0.0
+https://github.com/httpie/httpie,1241,3,0.3055555555555558,0.0300000000000011,0.0
+https://github.com/httpie/httpie,1244,3,0.0,0.0,0.0
+https://github.com/httpie/httpie,1256,5,-0.0414102564102564,0.0,0.0
+https://github.com/httpie/httpie,1260,3,0.0162037037037037,0.0099999999999997,0.0

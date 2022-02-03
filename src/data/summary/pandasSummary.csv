@@ -1,0 +1,10 @@
+URL,PullNo,Participants,CCN,Quality,Num_Vulns
+https://github.com/pandas-dev/pandas,1084,2,0.0358892177679651,-0.0099999999999997,0.0
+https://github.com/pandas-dev/pandas,1621,2,-0.0450725420589595,-0.0300000000000002,0.0
+https://github.com/pandas-dev/pandas,1735,2,-0.0012387435754272,0.0,0.0
+https://github.com/pandas-dev/pandas,1748,3,0.0,0.0,0.0
+https://github.com/pandas-dev/pandas,2032,3,0.0197530864197532,0.0,0.0
+https://github.com/pandas-dev/pandas,2370,5,-0.0932267575135015,-0.0099999999999997,0.0
+https://github.com/pandas-dev/pandas,2230,3,0.0028521818668051,0.0,0.0
+https://github.com/pandas-dev/pandas,2371,2,-0.0069419659438905,0.0499999999999998,-2.0
+https://github.com/pandas-dev/pandas,2407,2,0.0044589565339512,-0.0299999999999993,-1.0
